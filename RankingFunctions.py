@@ -546,6 +546,51 @@ Example: WriteCSVRankings(['Melee', 'Sm4sh'], 'MeleeSm4shRankings', TitleMin = 2
                 i += 1
     f.close()
 
+
+def ShowTabSepRankings(Title, TitleMin = DefaultTitleMin, SortedBy = DefaultSort, SortedByTie = DefaultSortTie, TopAmount = 1000000):
+    """Shows the rankings for Title for the top TopAmount players in tab-separated format for copying to a spreadsheet.
+    Title: a string in Titles; the Title whose rankings are to be shown.
+    TitleMin: the number of titles if the Title is 'Overall'.
+    SortedBy: a string in Sortings; the primary method of sorting.
+    SortedByTie: a string in Sortings; the method of sorting in the event of a tie.
+    TopAmount: the maximum number of players to be shown.
+    Example: ShowRankings('Melee', TitleMin = 2, SortedBy = 'Low', SortedByTie = 'Middle', TopAmount = 25)"""
+    #print(Title + '\t\t\t\t\t\t\t       Estimate')
+    Rankings = RankingList(Title, TitleMin, SortedBy, SortedByTie)
+    TooHighVariance = []
+    Dict = TitleDict(Title)
+    print('Place\tBottom\tLow\tMiddle\tGames')
+    TitleTotal = 0
+    for i in range(len(Rankings)):
+        if i < TopAmount:
+            Person = Rankings[i]
+            if int(Person[3]) - int(Person[2]) > VarianceCutoff:
+                TopAmount += 1
+                TooHighVariance.append(Person)
+            else:
+                print(Person[4] + '\t' +
+                      str(format(Person[1], Rounding)) + '\t' +
+                      str(format(Person[2], Rounding)) + '\t' +
+                      str(format(Person[3], Rounding)) + '\t' +
+                      str(Person[6]))
+                TitleTotal += Rankings[i][6]
+    total = 0
+    people = 0
+    for i in range(len(Rankings)):
+        Person = Rankings[i]
+        total += int(Person[6])
+        people += 1
+    print("Players with high scores but also high variance:")
+    print('Tag\tRating\tGames\tVariance')
+    for Person in TooHighVariance:
+        print(Person[4] + '\t' +
+              str(format(Person[2], Rounding)) + '\t' +
+              str(Person[6]) + '\t' +
+              str(format(int(Person[3])-int(Person[2]), Rounding)))
+    print("Total games in database: " + str(int(total/2)))
+    print("Total players in database: " + str(people))
+
+
 def ShowAllRankings(SortedBy = DefaultSort, SortedByTie = DefaultSortTie, TitleMin = DefaultTitleMin, LinesBetween = DefaultLines, TopAmount = 1000000):
     """Runs ShowRankings for each Title in Titles, with LinesBetween lines between each.
 Example: ShowAllRankings(SortedBy = 'Low', SortedByTie = 'Middle', TitleMin = 2, LinesBetween = 2, TopAmount = 25)"""
