@@ -6,6 +6,7 @@ from os import path
 from inspect import signature, getdoc
 from re import compile, split
 import csv
+import ScrapingFunctions as SF
 
 from hmc_urllib import getHTML
 from RankingSettings import *       # Imports the dictionary of tags with names as well as global settings
@@ -115,16 +116,11 @@ Dict: one of the Title dictionaries (recommended to use the TitleDict function).
     if 'ResultsFolder' in globals():
         TxtFile = ResultsFolder + TxtFile
     MatchResults = []
-    f = open(TxtFile)
-    File = f.read()
-    f.close()
-    for NumFix in NumFixes:
-        File = File.replace(NumFix[0], NumFix[1])
-    FileResults = File.splitlines()
-    FileResults = [split(r'(\d+)', s)[0:-1] for s in FileResults]
-    for i in range(len(FileResults)):
-        FileResults[i][0] = FileResults[i][0][0:-1]
-        FileResults[i][2] = FileResults[i][2][1:-1]
+    with open(TxtFile, encoding="ISO-8859-1") as File:
+        for NumFix in NumFixes:
+            File = File.replace(NumFix[0], NumFix[1])
+        FileResults = File.readlines()
+    FileResults = [split(",", s)[:] for s in FileResults]
     for i in range(len(FileResults)):
         FileResults[i][0] = Replacements(FileResults[i][0])
         FileResults[i][1] = int(FileResults[i][1])
@@ -150,57 +146,33 @@ Challonge: a string; the URL for a Challonge.
 TxtFile: a string; the name of the file to be written.
 Example: WriteTxtFromChallonge('http://apex2015melee.challonge.com/singles', 'Apex 2015')"""
     TxtFile = Addtxt(TxtFile)
-    f = open(TxtFile, 'w')
-    TheString = [item.replace('\n', '').replace('EditReopenMatch DetailsMark as In ProgressUnmark as In Progress', 'Match Details') \
-                 for item in getHTML(Challonge) if type(item) == str][0]
-    for NumFix in NumFixes:
-        TheString = TheString.replace(NumFix[0], NumFix[1])
-    for number in numbers:
-        TheString = TheString.replace('Round ' + number + 'Best of 1', '')
-    for i in range(len(TheString)):
-        if TheString[i:i + 13] == 'Match Details':
-            StartP1 = i + 13
-            while TheString[StartP1] in numbers + ['-']:
-                StartP1 += 1
-            NextNum = StartP1
-            while TheString[NextNum] not in numbers:
-                NextNum += 1
-            EndP1 = NextNum - 1
-            StartP2 = EndP1 + 1
-            while TheString[StartP2] in numbers + ['-']:
-                StartP2 += 1
-            End = i + 1
-            while TheString[End:End + 13] != 'Match Details' \
-                  and TheString[End:End + 9] != 'Challonge' \
-                  and TheString[End:End + 14] != 'Losers Round 1' \
-                  and TheString[End:End + 6] != 'Group ' \
-                  and TheString[End:End + 20] != 'RankParticipantMatch':
-                End += 1
-            if TheString[i + 13:End][-14:] == 'Bronze Match3P':
-                EndCut = 15
-            else:
-                EndCut = 0
-                while TheString[End - EndCut] in letters:
-                    EndCut += 1
-            if TheString[End - EndCut - 1:End - EndCut + 1] == '-1':
-                P2wins = -1
-            else:
-                P2wins = TheString[End - EndCut]
-            if TheString[End - EndCut - len(str(P2wins)) - 1:End - EndCut + 1 - len(str(P2wins))] == '-1':
-                P1wins = -1
-            else:
-                P1wins = TheString[End - EndCut - len(str(P2wins))]
-            if '(DQ)' not in TheString[i + 13:End - EndCut + 1]:
-                if TheString[End - 2] in numbers + ['-'] or TheString[End - 3] in numbers + ['-']:
-                    if (int(P1wins) != 0 or int(P2wins) != 0) and (int(P1wins) != -1 and int(P2wins) != -1):
-                        f.write(Replacements(TheString[StartP1:EndP1 + 1]).replace(' (invitation pending)', '') + ' ' + \
-                            P1wins + ' ' + \
-                            Replacements(TheString[StartP2:End - EndCut - (len(str(P1wins)) + len(str(P2wins))) + 1]).replace(' (invitation pending)', '') + ' ' + \
-                            P2wins)
-                        if TheString[End:End + 9] != 'Challonge':
-                            f.write('\n')
-    f = open(TxtFile, 'r+')
-    f.close()
+    TheString = getHTML(Challonge)[0].replace('Mark as In Progress\n\n\nUnmark as In Progress\n\n\n\n', '') \
+        .replace('\n\n\n\n\n\nEdit\n\n\nReopen', '').split('\n\n\n\nMatch Details\n\n\n\n\n\n\n')[1:]
+
+    parsed_matches = ""
+
+    for item in TheString:
+        item = item.splitlines()
+        if item[2] == "" or item[7] == "":
+            continue
+        try:
+            if int(item[24]) < 0:
+                continue
+        except:
+            pass
+        try:
+            if int(item[27]) < 0:
+                continue
+        except:
+            pass
+
+        line = item[2] + "," + item[24] + "," + item[7] + "," + item[27]
+        line = SF.strip_match(line)
+        if line is not None and SF.parse_match(line) != "":
+            parsed_matches += SF.parse_match(line) + "\n"
+
+    with open(TxtFile, 'a') as file:
+        file.write(parsed_matches)
 
 def GetGameData(TxtFile, Dict):
     """Opens TxtFile, does all the additions to Dict from GetData and returns a dictionary whose keys are the players
