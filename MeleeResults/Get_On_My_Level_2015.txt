@@ -1,0 +1,30 @@
+Hungrybox,2,Toph,0
+N0Ne,2,Unknown522,0
+Macd,2,Kjh,0
+Duck,2,Dj Nintendo,0
+Hax,2,Kalamazhu,0
+Weon-X,2,Vwins,0
+Kirbykaze,2,Sauc3,0
+Raynex,2,Saus,0
+Hungrybox,2,N0Ne,0
+Macd,2,Duck,0
+Hax,2,Weon-X,0
+Kirbykaze,2,Raynex,0
+Hungrybox,3,Macd,0
+Hax,3,Kirbykaze,2
+Toph,0,Unknown522,2
+Kjh,0,Dj Nintendo,2
+Kalamazhu,0,Vwins,2
+Sauc3,2,Saus,1
+Raynex,1,Unknown522,2
+Weon-X,0,Dj Nintendo,2
+Duck,2,Vwins,0
+N0Ne,0,Sauc3,2
+Unknown522,2,Dj Nintendo,3
+Duck,3,Sauc3,0
+Macd,3,Dj Nintendo,1
+Kirbykaze,3,Duck,1
+Hungrybox,3,Hax,0
+Macd,1,Kirbykaze,3
+Hax,3,Kirbykaze,1
+Hungrybox,3,Hax,2

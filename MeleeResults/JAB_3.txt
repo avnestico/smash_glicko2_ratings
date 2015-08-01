@@ -1,0 +1,126 @@
+Sfat,2,Roboat,0
+Moy,1,Winnie,2
+Corkus,1,Bigc,2
+Juggleguy,2,Salt,0
+Little England,2,Scythe,0
+Ginger,2,Yoshido,0
+Drephen,2,Rik,0
+Reeve,2,Buddy Guysman,0
+Dart!,2,Captain Pron,0
+Sago,2,Gracen,0
+Prince Abu,2,Kradi,0
+Sveet,2,Thementaculus,0
+Frootloop,2,Xiivi,0
+Voorhese,2,Photonic,0
+Shinobi,2,Souroush,0
+Tm,2,Bigr,0
+Kels,2,Eggy,0
+Jmanj,2,Ten,0
+Tink,2,Kyari,0
+Cookiemonsta,0,Xeroxen,2
+Trail,2,Noremac,0
+Fear,2,Ac,0
+Kjh,2,Sneakytako,0
+Jiano,2,Yogi,0
+Duck,2,Suess,0
+Skigh,0,Hindawg,2
+Vro,2,Lemon,0
+Viperboy,0,Luigigoshard,2
+Darkatma,2,Peanut,0
+Mundungu,1,Beach,2
+Deku,2,Amida,0
+Captain Faceroll,2,Thenumberjay,0
+Sfat,2,Winnie,0
+Bigc,0,Juggleguy,2
+Little England,2,Ginger,0
+Drephen,2,Reeve,0
+Dart!,2,Sago,0
+Prince Abu,2,Sveet,0
+Frootloop,2,Voorhese,0
+Shinobi,1,Tm,2
+Kels,2,Jmanj,0
+Tink,2,Xeroxen,0
+Trail,2,Fear,0
+Kjh,2,Jiano,0
+Duck,2,Hindawg,0
+Vro,2,Luigigoshard,1
+Darkatma,2,Beach,1
+Deku,0,Captain Faceroll,2
+Sfat,2,Juggleguy,0
+Little England,0,Drephen,2
+Dart!,0,Prince Abu,2
+Frootloop,2,Tm,0
+Kels,2,Tink,0
+Trail,2,Kjh,0
+Duck,2,Vro,1
+Darkatma,2,Captain Faceroll,1
+Sfat,2,Drephen,1
+Prince Abu,2,Frootloop,1
+Kels,2,Trail,0
+Duck,2,Darkatma,1
+Sfat,3,Prince Abu,0
+Kels,1,Duck,3
+Roboat,0,Moy,2
+Corkus,0,Salt,2
+Scythe,2,Yoshido,0
+Rik,2,Buddy Guysman,0
+Captain Pron,2,Gracen,0
+Kradi,2,Thementaculus,1
+Xiivi,2,Photonic,0
+Souroush,2,Bigr,0
+Eggy,2,Ten,0
+Kyari,0,Cookiemonsta,2
+Noremac,2,Ac,0
+Sneakytako,0,Yogi,2
+Suess,0,Skigh,2
+Lemon,0,Viperboy,2
+Peanut,0,Mundungu,2
+Amida,2,Thenumberjay,0
+Deku,2,Moy,0
+Beach,0,Salt,2
+Luigigoshard,0,Scythe,2
+Hindawg,2,Rik,0
+Jiano,2,Captain Pron,0
+Fear,0,Kradi,2
+Xeroxen,2,Xiivi,0
+Jmanj,0,Souroush,2
+Shinobi,2,Eggy,0
+Voorhese,2,Cookiemonsta,0
+Sveet,2,Noremac,1
+Sago,2,Yogi,0
+Reeve,2,Skigh,1
+Ginger,2,Viperboy,0
+Bigc,0,Mundungu,2
+Winnie,2,Amida,1
+Deku,2,Salt,1
+Scythe,2,Hindawg,1
+Jiano,2,Kradi,0
+Xeroxen,2,Souroush,0
+Shinobi,2,Voorhese,1
+Sveet,2,Sago,0
+Reeve,1,Ginger,2
+Mundungu,1,Winnie,2
+Tm,0,Deku,2
+Dart!,2,Scythe,0
+Little England,0,Jiano,2
+Juggleguy,2,Xeroxen,0
+Captain Faceroll,1,Shinobi,2
+Vro,2,Sveet,0
+Kjh,2,Ginger,0
+Tink,2,Winnie,0
+Deku,0,Dart!,2
+Jiano,0,Juggleguy,2
+Shinobi,2,Vro,1
+Kjh,2,Tink,0
+Trail,0,Dart!,2
+Darkatma,2,Juggleguy,0
+Drephen,2,Shinobi,0
+Frootloop,2,Kjh,0
+Dart!,2,Darkatma,1
+Drephen,0,Frootloop,2
+Prince Abu,1,Dart!,3
+Kels,1,Frootloop,3
+Sfat,3,Duck,0
+Dart!,1,Frootloop,3
+Duck,3,Frootloop,1
+Sfat,3,Duck,2

@@ -1,0 +1,220 @@
+Smile,0,Cmac,2
+*Neg Theprophecy,2,D,0
+Clem,2,Jun,0
+Mining Elf,0,Robrowe,2
+Gcs,2,Mycaruba,0
+Raph,0,Taurine Python,2
+Sprankles,2,Cmac,0
+*Neg Theprophecy,1,Clem,2
+Yung Seth,2,Robrowe,0
+Gcs,2,Taurine Python,0
+Sprankles,2,Clem,1
+Yung Seth,1,Gcs,2
+Sprankles,2,Gcs,0
+D,1,Jun,2
+Mycaruba,0,Raph,2
+Taurine Python,2,Smile,1
+Robrowe,2,Jun,0
+*Neg Theprophecy,2,Mining Elf,0
+Cmac,0,Raph,2
+Taurine Python,1,Robrowe,2
+*Neg Theprophecy,0,Raph,2
+Clem,0,Robrowe,2
+Yung Seth,2,Raph,0
+Robrowe,0,Yung Seth,2
+Gcs,2,Yung Seth,0
+Mr Magik,2,Fraud,0
+Yang,2,Marcr,1
+Dembo,2,Zent,1
+Libner,2,Lemondrop,0
+Pants,2,Niq,0
+Tonybeers,2,Radiator,0
+Purple,2,Mr Magik,0
+Yang,0,Dembo,2
+Emb,0,Libner,2
+Pants,2,Tonybeers,0
+Purple,2,Dembo,0
+Libner,2,Pants,0
+Purple,2,Libner,1
+Marcr,0,Zent,2
+Niq,2,Radiator,0
+Tonybeers,2,Fraud,0
+Emb,2,Zent,0
+Yang,0,Lemondrop,2
+Mr Magik,0,Niq,2
+Tonybeers,0,Emb,2
+Lemondrop,0,Niq,2
+Dembo,2,Emb,0
+Pants,2,Niq,0
+Dembo,2,Pants,1
+Libner,2,Dembo,1
+Cloud,2,Rt Gramps,0
+Thewhiteglovespecial,0,Dahv,2
+Blmb,2,Ksi,0
+Killer,0,Zepherz,2
+Karma,2,W8 4It,0
+Jazzii,2,Lord Narwhol,0
+Toms,2,Cloud,0
+Dahv,0,Blmb,2
+Moonpanda,2,Zepherz,0
+Karma,2,Jazzii,1
+Toms,2,Blmb,0
+Moonpanda,2,Karma,0
+Toms,1,Moonpanda,2
+Thewhiteglovespecial,1,Ksi,2
+W8 4It,0,Lord Narwhol,2
+Jazzii,2,Rt Gramps,0
+Zepherz,1,Ksi,2
+Dahv,2,Killer,0
+Cloud,2,Lord Narwhol,0
+Jazzii,2,Ksi,0
+Dahv,0,Cloud,2
+Blmb,2,Jazzii,0
+Karma,2,Cloud,0
+Blmb,2,Karma,1
+Toms,2,Blmb,0
+Shaman,0,Halfcutskeleton,2
+Vzakat,2,Why,0
+Pickledor,2,Kino,0
+Sheep,2,Roma,0
+Jager,2,Curstyl,0
+Quasar,2,Threetooth,0
+Slipnslide,2,Halfcutskeleton,1
+Vzakat,1,Pickledor,2
+Ocean,2,Sheep,0
+Jager,2,Quasar,0
+Slipnslide,0,Pickledor,2
+Ocean,0,Jager,2
+Pickledor,1,Jager,2
+Why,2,Kino,1
+Curstyl,2,Threetooth,0
+Quasar,2,Shaman,0
+Sheep,2,Why,0
+Vzakat,2,Roma,0
+Halfcutskeleton,0,Curstyl,2
+Quasar,0,Sheep,2
+Vzakat,2,Curstyl,0
+Slipnslide,2,Sheep,0
+Ocean,2,Vzakat,1
+Slipnslide,2,Ocean,0
+Pickledor,0,Slipnslide,2
+Nicholarb,2,Bronco,0
+V4Extreme,0,Switch,2
+Afroprisoner,2,Peakay,0
+Hiv-,2,Uncle Tito,0
+Nannose,2,Hooplah,0
+Travis,2,Tyde,0
+Sman,2,Nicholarb,0
+Switch,1,Afroprisoner,2
+Locke Robster,0,Hiv-,2
+Nannose,2,Travis,0
+Sman,0,Afroprisoner,2
+Hiv-,0,Nannose,2
+Afroprisoner,0,Nannose,2
+V4Extreme,2,Peakay,0
+Hooplah,2,Tyde,0
+Travis,2,Bronco,0
+Locke Robster,0,V4Extreme,2
+Switch,2,Uncle Tito,0
+Nicholarb,0,Hooplah,2
+Travis,2,V4Extreme,0
+Switch,2,Hooplah,0
+Sman,2,Travis,0
+Hiv-,0,Switch,2
+Sman,2,Switch,0
+Erisi,0,Jiango,2
+T5,2,Zantor,0
+Y-Old,2,Tizzlefix,0
+Fresh Heir,0,Seldom,2
+Sway (In The Morning),2,Zen,0
+Tm33,1,Master Spork,2
+Weilin,2,Jiango,0
+T5,1,Y-Old,2
+Gato,2,Seldom,0
+Sway (In The Morning),2,Master Spork,0
+Weilin,2,Y-Old,0
+Gato,1,Sway (In The Morning),2
+Weilin,2,Sway (In The Morning),0
+Zantor,0,Tizzlefix,2
+Zen,1,Tm33,2
+Master Spork,2,Erisi,0
+Seldom,0,Tizzlefix,2
+T5,2,Fresh Heir,0
+Jiango,0,Tm33,2
+Master Spork,0,Tizzlefix,2
+T5,2,Tm33,0
+Y-Old,2,Tizzlefix,1
+Gato,2,T5,0
+Y-Old,0,Gato,2
+Sway (In The Morning),1,Gato,2
+Joshua Ship,0,Aust,2
+Flamingo,2,Castaway,1
+Captain Planet,1,David W,2
+Napkin,0,Evh,2
+Brett3,2,Zalezus,0
+Rt Jukes,2,Fivez,1
+Neg Capt. Benready,2,Aust,0
+Flamingo,2,David W,0
+Fishsause,2,Evh,0
+Brett3,2,Rt Jukes,0
+Neg Capt. Benready,2,Flamingo,1
+Fishsause,1,Brett3,2
+Neg Capt. Benready,2,Brett3,0
+Castaway,2,Captain Planet,1
+Zalezus,1,Fivez,2
+Rt Jukes,2,Joshua Ship,0
+Evh,0,Castaway,2
+David W,2,Napkin,0
+Aust,0,Fivez,2
+Rt Jukes,0,Castaway,2
+David W,0,Fivez,2
+Flamingo,1,Castaway,2
+Fishsause,0,Fivez,2
+Castaway,0,Fivez,2
+Brett3,2,Fivez,1
+Zotr,2,Noble,0
+Jelly,2,Shieldz,0
+Roy!!!,2,Vanguard,1
+Goten,0,Duk,2
+Poppasquat,2,Kit,0
+Cloudsquall,2,Zotr,0
+Jelly,2,Roy!!!,0
+Yeroc,2,Duk,0
+Dash,2,Poppasquat,1
+Cloudsquall,2,Jelly,0
+Yeroc,1,Dash,2
+Cloudsquall,1,Dash,2
+Shieldz,2,Vanguard,0
+Poppasquat,2,Noble,0
+Duk,0,Shieldz,2
+Roy!!!,2,Goten,0
+Zotr,0,Kit,2
+Poppasquat,0,Shieldz,2
+Roy!!!,2,Kit,0
+Jelly,2,Shieldz,1
+Yeroc,2,Roy!!!,1
+Jelly,1,Yeroc,2
+Cloudsquall,2,Yeroc,1
+Sprankles,2,Nannose,1
+Jager,2,Neg Capt. Benready,1
+Weilin,1,Moonpanda,2
+Purple,2,Dash,1
+Sprankles,2,Jager,0
+Moonpanda,2,Purple,1
+Sprankles,2,Moonpanda,3
+Moonpanda,0,Weilin,3
+Weilin,3,Moonpanda,2
+Brett3,0,Slipnslide,2
+Sman,2,Libner,0
+Cloudsquall,0,Toms,2
+Gato,1,Gcs,2
+Dash,0,Slipnslide,2
+Weilin,2,Sman,1
+Neg Capt. Benready,2,Toms,1
+Nannose,0,Gcs,2
+Slipnslide,0,Weilin,2
+Neg Capt. Benready,1,Gcs,2
+Jager,0,Weilin,2
+Purple,2,Gcs,0
+Weilin,3,Purple,1
+Sprankles,0,Weilin,3

@@ -1,0 +1,310 @@
+Axe,2,Home,0
+Chez,0,Vro,2
+Trail,2,Yoshido,0
+Oro,2,Stdx Jeezus,0
+Shroomed,2,Gus!,0
+Kels,2,5-1,0
+Lanceinthepants,2,Knubs,0
+Westballz,2,Hore,0
+Amida,2,Mundungu,1
+Darkatma,2,Grasshoppa,0
+Goose,2,Bearsfan092,0
+Plup,2,Webs,0
+Iceman,0,Arty,2
+Frootloop,2,Tenrye,0
+Scythe,2,Pseudoturtle,0
+Axe,2,Vro,0
+Trail,2,Oro,0
+Shroomed,2,Sago,0
+Kels,2,Lanceinthepants,0
+Westballz,2,Amida,0
+Darkatma,2,Goose,0
+Plup,2,Arty,0
+Frootloop,2,Scythe,0
+Axe,2,Trail,0
+Shroomed,2,Kels,0
+Westballz,2,Darkatma,0
+Plup,2,Frootloop,0
+Axe,3,Shroomed,2
+Westballz,3,Plup,2
+Axe,3,Westballz,1
+Axe,1,Westballz,3
+Westballz,3,Axe,2
+Home,0,Chez,2
+Yoshido,2,Stdx Jeezus,0
+5-1,0,Knubs,2
+Hore,0,Mundungu,2
+Grasshoppa,0,Bearsfan092,2
+Webs,1,Iceman,2
+Tenrye,0,Pseudoturtle,2
+Scythe,2,Chez,0
+Arty,2,Yoshido,0
+Amida,2,Knubs,1
+Lanceinthepants,0,Mundungu,2
+Sago,2,Bearsfan092,0
+Oro,2,Iceman,0
+Vro,2,Pseudoturtle,0
+Scythe,2,Arty,0
+Goose,2,Amida,1
+Mundungu,2,Sago,1
+Oro,0,Vro,2
+Kels,0,Scythe,2
+Trail,0,Goose,2
+Frootloop,2,Mundungu,0
+Darkatma,2,Vro,0
+Scythe,2,Goose,1
+Frootloop,2,Darkatma,0
+Plup,3,Scythe,0
+Shroomed,3,Frootloop,1
+Plup,1,Shroomed,3
+Westballz,3,Shroomed,2
+Dinosaur29,2,Rynob,0
+Zuul,2,Johndew,0
+Axe,2,Dinosaur29,0
+Landry,2,Ultros,0
+Lil D,2,Mittenz,0
+Lanceinthepants,2,Zuul,0
+Onikasian,0,Toad,2
+Yoshido,2,Magaroni,0
+Flion,2,Dadiyonki,0
+Landry,0,Lil D,2
+Lanceinthepants,2,Toad,0
+Yoshido,2,Flion,0
+Axe,2,Lil D,0
+Lanceinthepants,2,Yoshido,0
+Axe,3,Lanceinthepants,0
+Dadiyonki,2,Rynob,0
+Mittenz,2,Johndew,1
+Dadiyonki,2,Magaroni,0
+Onikasian,0,Zuul,2
+Mittenz,0,Ultros,2
+Tofu,0,Dinosaur29,2
+Landry,2,Dadiyonki,0
+Flion,2,Ultros,0
+Toad,2,Dinosaur29,0
+Landry,2,Zuul,0
+Flion,2,Toad,0
+Yoshido,2,Landry,0
+Lil D,2,Flion,0
+Yoshido,0,Lil D,2
+Mo,2,Dahvii,0
+Russ,2,Eskap3,0
+Westballz,2,Mo,0
+Pseudo,0,Spunkers,2
+5-1,2,Peeko,0
+Scythe,2,Russ,0
+Ghost,0,Danil,2
+Knubs.,2,Herm,0
+Westballz,2,Spunkers,0
+5-1,2,Demo,0
+Scythe,2,Danil,0
+Knubs.,2,Axmay,0
+Westballz,2,5-1,0
+Scythe,2,Knubs.,0
+Westballz,3,Scythe,1
+Dahvii,0,Herm,2
+Ghost,0,Russ,2
+Eskap3,0,Peeko,2
+Pseudo,0,Mo,2
+Demo,0,Herm,2
+Spunkers,0,Russ,2
+Axmay,0,Peeko,2
+Danil,0,Mo,2
+Herm,2,Russ,1
+Peeko,0,Mo,2
+Knubs.,2,Herm,0
+5-1,2,Mo,0
+Knubs.,2,5-1,0
+Metalface,2,Squellz,0
+Hypnos,0,Cho,2
+Shroomed,2,Metalface,0
+Coach Yyap,2,Tabletman,0
+Will Pickles,2,Thesoupguy,0
+Gus!,2,He-Man,0
+Mundungu,2,Cho,0
+Tpwn,2,Maverick,0
+Sago,2,Eagleye893,0
+Mindy,2,Ayyydan,0
+Shroomed,2,Coach Yyap,0
+Will Pickles,0,Gus!,2
+Mundungu,2,Tpwn,0
+Sago,2,Mindy,0
+Shroomed,2,Gus!,0
+Mundungu,0,Sago,2
+Shroomed,3,Sago,0
+Ayyydan,2,Squellz,1
+He-Man,0,Hypnos,2
+Ayyydan,2,Eagleye893,0
+Maverick,0,Cho,2
+Hypnos,2,Thesoupguy,0
+Tabletman,0,Metalface,2
+Will Pickles,2,Ayyydan,0
+Coach Yyap,0,Cho,2
+Mindy,2,Hypnos,0
+Tpwn,2,Metalface,0
+Will Pickles,2,Cho,0
+Mindy,2,Tpwn,0
+Mundungu,2,Will Pickles,0
+Gus!,2,Mindy,1
+Mundungu,2,Gus!,1
+Bicycleman,2,Monster,0
+Truski,0,Rynshiro,2
+Plup,2,Bicycleman,0
+Captain Crunch,2,Vandire,0
+Yoshq,2,Phrigid,0
+Hore,2,Ham,0
+Oro,2,Rynshiro,0
+Lewdenburg,2,Bojambles,0
+Pseudoturtle,2,Hypeman,0
+C#,2,Gwyn,0
+Plup,2,Captain Crunch,0
+Yoshq,0,Hore,2
+Oro,2,Lewdenburg,0
+Pseudoturtle,2,C#,0
+Plup,2,Hore,0
+Oro,2,Pseudoturtle,0
+Plup,3,Oro,0
+Gwyn,2,Monster,0
+Ham,0,Truski,2
+Gwyn,2,Hypeman,0
+Bojambles,0,Rynshiro,2
+Truski,2,Phrigid,0
+Vandire,0,Bicycleman,2
+Yoshq,2,Gwyn,0
+Captain Crunch,0,Rynshiro,2
+C#,2,Truski,0
+Lewdenburg,0,Bicycleman,2
+Yoshq,2,Rynshiro,0
+C#,2,Bicycleman,0
+Pseudoturtle,2,Yoshq,0
+Hore,2,C#,0
+Pseudoturtle,2,Hore,0
+J,2,Australianeagle,0
+Jeke,0,Kappa,2
+Frootloop,2,J,0
+Home,2,Giogio,0
+Jackzilla,2,Ric3,0
+Level 9 Chao,2,Choiboi,0
+Goose,2,Kappa,0
+Spicy,2,Formuoli,0
+@Teh_Blazerer,2,Newbhope,0
+Bearsfan092,2,Trapqueen,0
+Frootloop,2,Home,0
+Jackzilla,0,Level 9 Chao,2
+Goose,2,Spicy,0
+@Teh_Blazerer,2,Bearsfan092,0
+Frootloop,2,Level 9 Chao,0
+Goose,2,@Teh_Blazerer,0
+Frootloop,3,Goose,0
+Trapqueen,0,Australianeagle,2
+Choiboi,2,Jeke,0
+Australianeagle,0,Newbhope,2
+Formuoli,0,Kappa,2
+Choiboi,2,Ric3,0
+Giogio,0,J,2
+Jackzilla,2,Newbhope,0
+Home,2,Kappa,0
+Bearsfan092,2,Choiboi,0
+Spicy,2,J,1
+Jackzilla,1,Home,2
+Bearsfan092,2,Spicy,0
+@Teh_Blazerer,0,Home,2
+Level 9 Chao,0,Bearsfan092,2
+Home,1,Bearsfan092,2
+Stringer,2,Zeppli,0
+Marmar,2,Desertvulpine,0
+Suplex City,0,Bantler,2
+Ikey,1,Drama,2
+Kels,2,Stringer,0
+Scal4Prez,0,Readbarren,2
+Tenrye,2,Yui,0
+Rngesus,2,Marmar,0
+Vro,2,Bantler,0
+Koschka,2,Generic,0
+Iceman,2,Drama,0
+Volk,2,Efx,0
+Kels,2,Readbarren,0
+Tenrye,2,Rngesus,0
+Vro,2,Koschka,0
+Iceman,2,Volk,0
+Kels,2,Tenrye,1
+Vro,1,Iceman,2
+Kels,2,Iceman,0
+Efx,0,Zeppli,2
+Bantler,2,Desertvulpine,0
+Marmar,2,Suplex City,0
+Scal4Prez,0,Ikey,2
+Zeppli,2,Drama,0
+Generic,0,Bantler,2
+Marmar,0,Yui,2
+Ikey,0,Stringer,2
+Rngesus,0,Zeppli,2
+Readbarren,1,Bantler,2
+Volk,2,Yui,0
+Koschka,0,Stringer,2
+Zeppli,0,Bantler,2
+Volk,2,Stringer,0
+Vro,2,Bantler,0
+Tenrye,2,Volk,0
+Vro,2,Tenrye,0
+Doughboy,0,Gury,2
+Jz,2,Rez,0
+Darkatma,2,Gury,0
+Stealthypanda,2,Gameplan,0
+Webs,2,Triforce Of Love,0
+Shenanigans,0,The1Stson,2
+Arty,0,Jz,2
+Trouble,1,Chez,2
+Cookiemonsta,0,Slyfincleton,2
+Yamham,2,Mikef,0
+Darkatma,2,Stealthypanda,0
+Webs,2,The1Stson,0
+Jz,0,Chez,2
+Slyfincleton,0,Yamham,2
+Darkatma,2,Webs,0
+Chez,2,Yamham,0
+Darkatma,3,Chez,1
+Mikef,2,Doughboy,0
+Mikef,2,Cookiemonsta,0
+Trouble,0,Arty,2
+Shenanigans,2,Triforce Of Love,0
+Gameplan,0,Gury,2
+The1Stson,0,Mikef,2
+Stealthypanda,0,Arty,2
+Slyfincleton,2,Shenanigans,0
+Jz,0,Gury,2
+Mikef,0,Arty,2
+Slyfincleton,0,Gury,2
+Yamham,0,Arty,2
+Webs,2,Gury,0
+Arty,2,Webs,0
+Dirt,0,Vagna,2
+Creature,2,Turnipforwhat,0
+Trail.,2,Vagna,0
+Stdx Jeezus.,2,Fujiko,0
+Zorlock.,0,Ogie,2
+Amida.,2,Creature,0
+Frumpis.,2,Royeric,1
+Grasshoppa.,2,Frost,0
+Dmx.,0,Allpr0,2
+Trail.,2,Ssc,0
+Stdx Jeezus.,2,Ogie,0
+Amida.,2,Frumpis.,0
+Grasshoppa.,2,Allpr0,0
+Trail.,2,Stdx Jeezus.,0
+Amida.,2,Grasshoppa.,0
+Trail.,3,Amida.,0
+Dmx.,0,Dirt,2
+Zorlock.,0,Turnipforwhat,2
+Dirt,0,Frost,2
+Royeric,2,Creature,0
+Turnipforwhat,2,Fujiko,0
+Ogie,2,Frost,1
+Ssc,0,Royeric,2
+Allpr0,2,Turnipforwhat,0
+Frumpis.,0,Vagna,2
+Ogie,2,Royeric,0
+Allpr0,2,Vagna,0
+Grasshoppa.,2,Ogie,1
+Stdx Jeezus.,2,Allpr0,0
+Grasshoppa.,0,Stdx Jeezus.,2

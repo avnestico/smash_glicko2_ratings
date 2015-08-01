@@ -1,0 +1,126 @@
+Armada,2,Nurk,0
+Harald,0,Cxv,2
+V-Dogg,2,Break,0
+P-Chips,2,Dragmire Jr.,0
+Zoler,2,Wingleborg,0
+Zaf,1,Madlobster,2
+Rocky,2,Dahl,0
+Jam,2,King Robin,0
+Fuzzyness,2,Maximus,0
+Yabasta,2,Bike,0
+Charon,2,Japf,0
+Bæra,2,Lars,0
+Thomas,2,Mr. Greeb,0
+S. Vinje,2,Issi^,0
+Brtarolg,2,Plufball,0
+Taka,2,Gabytime,0
+Leffen,2,Pappa,0
+Zorc,0,Gardex,2
+Flikkflakk,2,Drasil,0
+Luigo,2,Glaz,0
+Hack,2,Aquachu,0
+Hellmaker,1,Nefe,2
+Smasher89,2,Howie,0
+Bose,2,Gale,0
+Android,2,Petteh,0
+Zalvador,2,Kami,0
+Imperfect,2,Krisspear,0
+Mistrrlove,2,Erki,0
+Beat,2,Kiwigivi,0
+Spitzy,2,Momo,0
+Kriz,2,Alchemist,0
+Big Dick Bandit,2,Endeby,0
+Armada,2,Cxv,0
+V-Dogg,2,P-Chips,0
+Zoler,2,Madlobster,0
+Rocky,2,Jam,0
+Fuzzyness,2,Yabasta,0
+Charon,2,Bæra,0
+Thomas,2,S. Vinje,0
+Brtarolg,2,Taka,1
+Leffen,2,Gardex,0
+Flikkflakk,2,Luigo,0
+Hack,2,Nefe,0
+Smasher89,2,Bose,0
+Android,2,Zalvador,0
+Imperfect,0,Mistrrlove,2
+Beat,2,Spitzy,0
+Kriz,2,Big Dick Bandit,0
+Armada,3,V-Dogg,0
+Zoler,1,Rocky,3
+Fuzzyness,3,Charon,0
+Thomas,3,Brtarolg,0
+Leffen,3,Flikkflakk,0
+Hack,3,Smasher89,0
+Android,2,Mistrrlove,0
+Beat,3,Kriz,0
+Armada,3,Rocky,0
+Fuzzyness,3,Thomas,2
+Leffen,3,Hack,0
+Android,3,Beat,1
+Armada,3,Fuzzyness,0
+Leffen,3,Android,0
+Nurk,0,Harald,2
+Break,2,Dragmire Jr.,0
+Wingleborg,0,Zaf,2
+Dahl,2,King Robin,1
+Maximus,0,Bike,2
+Japf,0,Lars,2
+Mr. Greeb,1,Issi^,2
+Plufball,2,Gabytime,0
+Pappa,0,Zorc,2
+Drasil,0,Glaz,2
+Aquachu,0,Hellmaker,2
+Howie,1,Gale,2
+Petteh,0,Kami,2
+Krisspear,0,Erki,2
+Kiwigivi,2,Momo,1
+Alchemist,2,Endeby,0
+Big Dick Bandit,2,Harald,1
+Spitzy,1,Break,2
+Imperfect,2,Zaf,0
+Zalvador,2,Dahl,0
+Bose,2,Bike,0
+Nefe,2,Lars,0
+Luigo,2,Issi^,0
+Gardex,2,Plufball,0
+Taka,0,Zorc,2
+S. Vinje,2,Glaz,1
+Bæra,2,Hellmaker,0
+Yabasta,0,Gale,2
+Jam,2,Kami,1
+Madlobster,2,Erki,0
+P-Chips,2,Kiwigivi,0
+Cxv,2,Alchemist,1
+Big Dick Bandit,2,Break,1
+Imperfect,2,Zalvador,0
+Bose,2,Nefe,0
+Luigo,2,Gardex,1
+Zorc,1,S. Vinje,2
+Bæra,2,Gale,0
+Jam,2,Madlobster,0
+P-Chips,2,Cxv,0
+Brtarolg,3,Big Dick Bandit,0
+Charon,0,Imperfect,2
+Zoler,3,Bose,0
+V-Dogg,3,Luigo,1
+Kriz,3,S. Vinje,1
+Mistrrlove,2,Bæra,0
+Smasher89,3,Jam,0
+Flikkflakk,0,P-Chips,3
+Brtarolg,1,Imperfect,3
+Zoler,1,V-Dogg,3
+Kriz,3,Mistrrlove,2
+Smasher89,3,P-Chips,1
+Hack,3,Imperfect,0
+Beat,2,V-Dogg,3
+Rocky,3,Kriz,0
+Thomas,3,Smasher89,2
+Hack,3,V-Dogg,0
+Rocky,1,Thomas,3
+Fuzzyness,3,Hack,2
+Android,3,Thomas,0
+Armada,3,Leffen,1
+Fuzzyness,3,Android,2
+Leffen,3,Fuzzyness,0
+Armada,3,Leffen,0

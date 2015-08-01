@@ -1,0 +1,944 @@
+Kirbylover69,2,Clipstream Casshern,0
+Theressomethingaboutmaddy,2,Bt,0
+Apollo,2,Ch Breadsticks,0
+Vudujin,2,Kradi,0
+Skaterbaj,2,Bgsatchel,0
+Moltov,2,Doom,0
+Kip,2,Spidi,0
+Muse,2,Self Destruct King,1
+Morbellix,2,Eh Sly Dawg,0
+Mantwin,2,Jam,1
+Bizzarro Flame,2,Whispy,0
+Gelp,1,Moses,2
+Renshai,2,Shoshonee,1
+Red10911,0,Bb Boasting Toast,2
+Armada,2,Kirbylover69,0
+Theressomethingaboutmaddy,0,Apollo,2
+Vudujin,2,Skaterbaj,0
+Moltov,2,Kip,0
+Gahtzu,2,Muse,0
+Morbellix,0,Mantwin,2
+Bizzarro Flame,2,Moses,0
+Renshai,2,Bb Boasting Toast,0
+Armada,2,Apollo,0
+Vudujin,2,Moltov,0
+Gahtzu,2,Mantwin,0
+Bizzarro Flame,2,Renshai,0
+Armada,2,Vudujin,0
+Gahtzu,2,Bizzarro Flame,1
+Bt,1,Ch Breadsticks,2
+Kradi,0,Bgsatchel,2
+Doom,1,Spidi,2
+Eh Sly Dawg,0,Jam,2
+Whispy,0,Gelp,2
+Shoshonee,2,Red10911,0
+Bb Boasting Toast,2,Clipstream Casshern,0
+Moses,2,Ch Breadsticks,0
+Morbellix,2,Bgsatchel,0
+Muse,2,Spidi,0
+Kip,2,Self Destruct King,0
+Skaterbaj,0,Jam,2
+Theressomethingaboutmaddy,2,Gelp,1
+Kirbylover69,1,Shoshonee,2
+Bb Boasting Toast,0,Moses,2
+Morbellix,2,Muse,0
+Kip,1,Jam,2
+Theressomethingaboutmaddy,0,Shoshonee,2
+Moltov,2,Moses,0
+Apollo,2,Morbellix,0
+Renshai,0,Jam,2
+Mantwin,2,Shoshonee,0
+Moltov,0,Apollo,2
+Jam,2,Mantwin,1
+Bizzarro Flame,2,Apollo,0
+Vudujin,2,Jam,0
+Armada,2,Gahtzu,0
+Bizzarro Flame,2,Vudujin,0
+Gahtzu,2,Bizzarro Flame,1
+Sipdatlean,0,Yamaneko,2
+Jazz,0,Tgl Shamunt,2
+Eikelmannrus,2,Rojo,0
+Nopo Xeno,2,Osmosis,1
+Bakido,2,Mysticjoshua11,0
+Panda Jaws,2,Rentoraa,0
+Mouse Shampoo,0,Booty Thrill,2
+Syix,0,Nameless Joe,2
+10K Dr. Acula,2,Rstevoa,0
+Kpan,2,Bhoogs,0
+Raisin,2,Professor Poonanny,0
+Wal,1,Silenceghost,2
+Abate,2,Yamaneko,0
+Osvg Spicy Waruibui,0,Tgl Shamunt,2
+Eikelmannrus,2,Nopo Xeno,0
+Twitch,2,Bootythrill,0
+Nameless Joe,0,Dr. Acula,2
+Kpan,2,Raisin,0
+Silenceghost,2,Scud,0
+Abate,2,Tgl Shamunt,0
+Eikelmannrus,2,Panda Jaws,0
+Twitch,2,Dr. Acula,0
+Kpan,2,Silenceghost,0
+Abate,2,Eikelmannrus,1
+Twitch,2,Kpan,0
+Rojo,2,Osmosis,0
+Mysticjoshua11,2,Rentoraa,0
+Sylx,1,Nameless Joe,2
+Bhoogs,2,Professor Poonanny,0
+Scud,0,Sipdatlean,2
+Raisin,1,Jazz,2
+Nameless Joe,2,Rojo,1
+Bootythrill,0,Mysticjoshua11,2
+Bakido,0,Mouse Shampoo,2
+Nopo Xeno,2,Rstevoa,1
+Osvg Spicy Waruibui,0,Bhoogs,2
+Yamaneko,2,Wal,0
+Sipdatlean,0,Jazz,2
+Nameless Joe,0,Bootythrill,2
+Mouse Shampoo,2,Nopo Xeno,0
+Bhoogs,0,Yamaneko,2
+Panda Jaws,0,Jazz,2
+Tgl Shamunt,0,Bootythrill,2
+Silenceghost,0,Mouse Shampoo,2
+Yamaneko,2,Dr. Acula,0
+Jazz,0,Tgl Shamunt,2
+Mouse Shampoo,0,Yamaneko,2
+Kpan,2,Tgl Shamunt,0
+Eikelmannrus,2,Yamaneko,0
+Abate,2,Twitch,1
+Kpan,0,Eikelmannrus,2
+Chuchaka,0,Gutterskulk,2
+A1-Ex,2,Sampai,0
+Mf_Dom,0,Smoof,2
+Dark Sonic,2,Blackmagic754,0
+Cortex,0,Pt Killua,2
+Rockcrock,2,Laz,0
+4Pg Housewife,0,Karma,2
+Seibrik,2,Crazed Rice,0
+Pt Silver,0,Blue Collar Working Man,2
+Ee Crusfix,2,Mmg Lyric,1
+Tafokints,2,Rai,0
+Atma,2,Bolder,0
+Lsb Brof,1,Flirtysouth Hack,2
+Zack Nadrich,0,Gt Tier3 Wolf,2
+Shroomed,2,Gutter,0
+A1-Ex,0,Smoof,2
+Dark Sonic,2,Pt Killua,0
+Rockcrock,2,Karma,0
+Darkrain,2,Seibrik,0
+Blue Collar Working Man,2,Ee Crusfix,0
+Tafokints,2,Atma,0
+Flirtysouth Hack,0,Gt Tier3 Wolf,2
+Shroomed,2,Smoof,0
+Dark Sonic,0,Rockcrock,2
+Darkrain,2,Blue Collar Working Man,0
+Tafokints,2,Gt Tier3 Wolf,0
+Shroomed,2,Rockcrock,0
+Darkrain,0,Tafokints,2
+Sampai,2,Mf_Dom,1
+Blackmagic754,2,Cortex,0
+Laz,0,4Pg Housewife,2
+Pt Silver,2,Mmg Lyric,0
+Rai,2,Bolder,0
+Zack,2,Brof,0
+Flirtysouth Hack,2,Chuchaka,0
+Sampai,0,Atma,2
+Blackmagic754,2,Ee Crusfix,0
+4Pg Housewife,2,Seibrik,1
+Karma,2,Crazed Rice,0
+Pt Killua,0,Pt Silver,2
+A1-Ex,2,Rai,0
+Gutter,2,Zack,1
+Hack,0,Atma,2
+Blackmagic754,0,4Pg Housewife,2
+Karma,2,Pt Silver,0
+A1-Ex,0,Glitter,2
+Dark Sonic,2,Atma,0
+Smoof,2,4Pg Housewife,0
+Gt Tier3 Wolf,0,Karma,2
+Blue Collar Working Man,0,Gutter,2
+Dark Sonic,2,Smoof,0
+Karma,0,Blue Collar Working Man,2
+Dark Sonic,0,Darkrain,2
+Rockcrock,2,Blue Collar Working Man,0
+Shroomed,2,Tafokints,0
+Darkrain,2,Rockcrock,0
+Tafokints,2,Darkrain,0
+Pootthebox,2,Geez,0
+Kyball,1,Just Dicks,2
+Eric,2,Ghoti,0
+Ady Gawes,2,Melee Hell Herbmaster%,0
+Barles Charkley,1,Germo,2
+Jojo_Star,0,Flaf,2
+Tai,2,Monkey,0
+Gunslinger,0,Jet,2
+Flimwad,1,Harpo,2
+Colbol,2,Pootthebox,0
+Azianraven,2,Just Dicks,0
+Ktsu,0,Eric,2
+Ady Gawes,2,Germo,0
+The Moon,2,Furta,0
+Bbqpenguin,0,Flaf,2
+Tai,2,Jet,0
+Flimwad,1,Bake,2
+Colbol,2,Azianraven,0
+Eric,0,Gawes,2
+The Moon,2,Flaf,0
+Tai,2,Bake,0
+Colbol,2,Gawes,0
+The Moon,2,Tai,1
+Lee Martin,0,Ghoti,2
+Melee Hell Herbmaster%,0,Barles Charkley,2
+Monkey,1,Gunslinger,2
+Flimwad,0,Geez,2
+Jet,0,Kyball,2
+Bbqpenguin,2,Ghoti,0
+Furta,0,Barles Charkley,2
+Ktsu,2,Jojo_Star,0
+Just Dicks,2,Gunslinger,0
+Pootthebox,2,Harpo,0
+Geez,2,Jet,0
+Bbq Penguin,0,Furta,2
+Germo,2,Ktsu,0
+Gunslinger,0,Pootthebox,2
+Eric,1,Geez,2
+Azianraven,0,Furta,2
+Bake,1,Germo,2
+Flaf,0,Pootthebox,2
+Geez,0,Azianraven,2
+Bake,0,Pootthebox,2
+Tai,2,Azianraven,0
+Gawes,2,Poot,1
+Colbol,1,The Moon,2
+Tai,2,Gawes,1
+Colbol,2,Tai,1
+Leffen,2,Jebailey,0
+Braev,2,Nevermind,0
+Droob,2,Tolkientoker,1
+Nf Verddabird,0,Moonshine,2
+Juggleguy,2,Mizu,0
+-1Up,2,Yort (Schiebel),1
+Fearless,2,Saltdonyx,0
+Tgpopples,0,Tarchwood,2
+Elliot Heath,2,Taerk,0
+Bill,2,Traumist,0
+Fro Fo Sho,2,Bigz,0
+Rula,2,Kimosabae,0
+Swampy,0,Jon Supreme,2
+Castguard,0,Bravo,2
+Zeb,0,Tgl Faker,2
+Leffen,2,Braev,0
+Droob,0,Moonshine,2
+Juggleguy,2,-1Up,0
+Fearless,2,Tarchwood,0
+Larry Lurr,2,Elliot Heath,0
+Bill,2,Fro Fo Sho,0
+Rula,2,Jon Supreme,0
+Bravo,2,Tgl Faker,0
+Leffen,2,Moonshine,0
+Juggleguy,2,Fearless,1
+Larry Lurr,2,Bill,0
+Rula,2,Bravo,0
+Leffen,2,Juggleguy,0
+Larry Lurr,0,Rula,2
+Jebailey,0,Nevermind,2
+Tolkientoker,0,Nf Verddabird,2
+Mizu,2,Yort (Schiebel),0
+Saltdonyx,0,Tgpopples,2
+Traumist,2,Bigz,0
+Kimosabae,2,Swampy,0
+Castguard,0,Zeb,2
+Tgl Faker,2,Nevermind,0
+Jon Supreme,2,Nf Verddabird,1
+Fro Fo Sho,0,Mizu,2
+Elliot Heath,2,Tgpopples,0
+Tarchwood,2,Taerk,1
+-1Up,2,Traumist,0
+Droob,0,Kimosabae,2
+Braev,2,Zeb,0
+Tgl Faker,2,Jon Supreme,0
+Mizu,2,Elliot Heath,0
+Tarchwood,2,-1Up,0
+Kimosabae,0,Braev,2
+Fearless,2,Tgl Faker,0
+Moonshine,0,Mizu,2
+Bravo,2,Tarchwood,1
+Bill,0,Braev,2
+Fearless,2,Mizu,0
+Bravo,2,Braev,0
+Larry Lurr,0,Fearless,2
+Juggleguy,2,Bravo,0
+Leffen,2,Rula,1
+Fearless,0,Juggleguy,2
+Rula,2,Juggleguy,0
+Dr. Cucumber,2,Smash_Holes_Hype_Squad,0
+Anders,0,Unv Rolf,2
+Muaythaigood4U,0,Ortzac,2
+Hayato,2,Frames,0
+Vs Shoop,0,Gol 482 Jsalt,2
+G0D,2,Shockage,0
+Kebin,0,Dbag,2
+Infamous,0,Fastestrock,2
+Teamgamer25,0,Brokenyew,2
+Risu,0,Vgr Fil,2
+S0Ft,2,Sleezy Capeezy,0
+Empr Tswagg,0,Down Right Fierce,2
+Jackdc,2,Westbreezy,1
+Neogc,0,E (Ponze),2
+Wizzrobe,2,Dr. Cucumber,0
+Unv Rolf,2,Ortzac,0
+Hayato,0,Gol 482 Jsalt,2
+G0D,2,Dbag,0
+Cactuar,2,Fastestrock,0
+Brokenyew,2,Vgr Fil,0
+S0Ft,2,Down Right Fierce,0
+Jackdc,2,E (Ponze),0
+Wizzrobe,2,Unv Rolf,0
+Gol 482 Jsalt,1,G0D,2
+Cactuar,2,Brokenyew,0
+S0Ft,2,Jackdc,0
+Wizzrobe,2,G0D,0
+Cactuar,0,S0Ft,2
+Anders,2,Muaythaigood4U,0
+Frames,0,Vs Shoop,2
+Shockage,2,Kebin,0
+Teamgamer25,0,Risu,2
+Sleezy Capeezy,2,Empr Tswagg,0
+Westbreezy,2,Neogc,0
+E (Ponze),0,Smash_Holes_Hype_Squad,2
+Down Right Fierce,0,Anders,2
+Vgr Fil,0,Vs Shoop,2
+Fastestrock,2,Shockage,0
+Dbag,2,Infamous,0
+Hayato,2,Risu,0
+Ortzac,1,Sleezy Capeezy,2
+Dr. Cucumber,2,Westbreezy,0
+Smash_Holes_Hype_Squad,0,Anders,2
+Vs Shoop,1,Fastestrock,2
+Dbag,1,Hayato,2
+Sleezy Capeezy,0,Dr. Cucumber,2
+Gol 482 Jsalt,2,Anders,0
+Unv Rolf,0,Fastestrock,2
+Jackdc,1,Hayato,2
+Brokenyew,2,Dr. Cucumber,0
+Gol 482 Jsalt,2,Fastestrock,0
+Hayato,1,Brokenyew,2
+Cactuar,2,Gol 482 Jsalt,0
+G0D,0,Brokenyew,2
+Wizzrobe,2,S0Ft,0
+Cactuar,2,Brokenyew,0
+S0Ft,2,Cactuar,0
+Gxfire,0,Nopo Shrub Treks,2
+Ajred,2,Techking,0
+Ohnose,2,Hurricane,0
+Nando,2,Gthree,0
+J$727,0,Goon,2
+Jrad,2,Mijo!,0
+Sinbad,2,Ad,0
+Chillindude,2,Stockholm Syndrome,0
+Thenerkinator,0,Jist,2
+Zain,2,Chaoslink,0
+Allpain,2,Fill,0
+Harriet,2,Nope,0
+Binxxx,2,Flanagandalf,0
+Young,1,Holden,2
+Secreas,2,Oc Idk,1
+Westballz,2,Nopo Shrub Treks,0
+Ajred,2,Ohnose,0
+Nando,2,Goon,0
+Jrad,2,Sinbad,0
+Chillindude,2,Jist,0
+Zain,2,Allpain,1
+Harriet,2,Binxxx,0
+Holden,0,Secreas,2
+Westballz,2,Ajred,1
+Nando,2,Jrad,0
+Chillindude,2,Zain,0
+Harriet,2,Secreas,0
+Westballz,2,Nando,0
+Chillindude,0,Harriet,2
+Techking,2,Hurricane,0
+Gthree,0,J$727,2
+Mijo!,2,Ad,0
+Stockholm Syndrome,2,Thenerkinator,0
+Chaoslink,2,Fill,0
+Nope,2,Flanagandalf,0
+Young,0,Oc Idk,2
+Holden,2,Gxfire,0
+Binxxx,2,Techking,0
+Allpain,1,J$727,2
+Jist,2,Mijo!,0
+Sinbad,0,Stockholm Syndrome,2
+Goon,2,Chaoslink,0
+Ohnose,0,Nope,2
+Nopo Shrub Treks,0,Oc Idk,2
+Holden,0,Binxxx,2
+J$727,2,Jist,0
+Stockholm Syndrome,2,Goon,0
+Nope,0,Oc Idk,2
+Jrad,1,Binxxx,2
+Ajred,2,J$727,1
+Secreas,1,Stockholm Syndrome,2
+Zain,2,Oc Idk,1
+Binxxx,0,Ajred,2
+Stockholm Syndrome,2,Zain,0
+Chillindude,2,Ajred,0
+Nando,2,Stockholm Syndrome,1
+Westballz,2,Harriet,0
+Chillindude,2,Nando,1
+Harriet,1,Chillindude,2
+Wreck,2,Exg Sgt Lysozy,0
+Nolove,0,Robo-Ky,2
+Action B.,2,Fax,0
+Thecrimsonblur,2,Spelunky,0
+Sartron,2,Love Handles,0
+Emp Fresh Die Nasty,2,Adroid,0
+Shinchan92,1,Walmart Shoes,2
+Manboy,2,Aya,0
+Eh Voldash,2,Yeff,0
+Sworddancer,2,Lilo & Stitchface,1
+Stingers,0,Chu Dat,2
+Ducky (Daly),0,Legion,2
+Datman,2,Leaf,1
+Jagz,2,Aura,0
+Plup,2,Wreck,0
+Robo-Ky,2,Action B.,0
+Thecrimsonblur,1,Sartron,2
+Emp Fresh Die Nasty,2,Walmart Shoes,0
+Laudandus,2,Manboy,0
+Eh Voldash,0,Sworddancer,2
+Chu Dat,2,Legion,0
+Datman,2,Jagz,1
+Plup,2,Robo-Ky,0
+Sartron,2,Emp Fresh Die Nasty,1
+Laudandus,2,Sworddancer,0
+Chu Dat,2,Datman,0
+Plup,2,Sartron,0
+Laudandus,0,Chu Dat,2
+Nolove,0,Fax,2
+Spelunky,2,Love Handles,0
+Adroid,0,Shinchan92,2
+Yeff,0,Lilo & Stitchface,2
+Stingers,2,Ducky (Daly),0
+Leaf,2,Aura,0
+Jagz,2,Exg Sgt Lysozy,1
+Legion,2,Fax,1
+Eh Voldash,0,Spelunky,2
+Manboy,2,Shinchan92,0
+Walmart Shoes,2,Aya,0
+Thecrimsonblur,2,Lilo & Stitchface,1
+Action B.,0,Stingers,2
+Wreck,0,Leaf,2
+Jagz,2,Legion,0
+Spelunky,0,Manboy,2
+Walmart Shoes,2,Thecrimsonblur,0
+Stingers,2,Leaf,0
+Emp Fresh Die Nasty,2,Jagz,0
+Robo-Ky,0,Manboy,2
+Datman,0,Walmart Shoes,2
+Sworddancer,0,Stingers,2
+Emp Fresh Die Nasty,2,Manboy,0
+Walmart Shoes,0,Stingers,2
+Laudandus,2,Emp Fresh Die Nasty,0
+Sartron,0,Stingers,2
+Plup,2,Chu Dat,0
+Laudandus,2,Stingers,0
+Chu Dat,2,Laudandus,0
+Coals,2,Dak,0
+Kiro,2,Jigolo,0
+Kenpachi,2,I Am Lunk,0
+Drunk Sloth,2,Blazing,0
+Professor Cedar,2,Sd,0
+Paz,2,Haus,0
+Lad,2,Skate,0
+Candyman,0,Foodmanchew,2
+Vyrem,0,Robot Owl,2
+Captain Zack,2,The Rock,1
+Arc,2,Nicaboy,0
+Omnesync,0,Srd Javi,2
+Lex,0,Thad,2
+Gary,2,Baberuthless,0
+Macd,2,Coals,0
+Kiro,0,Kenpachi,2
+Drunk Sloth,2,Professor Cedar,0
+Paz,0,Lad,2
+Dj Nintendo,2,Foodmanchew,0
+Robot Owl,2,Captain Zack,1
+Arc,2,Srd Javi,0
+Thad,2,Gary,0
+Macd,2,Kenpachi,0
+Drunk Sloth,2,Lad,0
+Dj Nintendo,2,Robot Owl,0
+Arc,2,Thad,0
+Macd,2,Drunk Sloth,0
+Dj Nintendo,2,Arc,0
+Jigolo,0,I Am Lunk,2
+Blazing,2,Sd,0
+Haus,0,Skate,2
+Vyrem,0,The Rock,2
+Nicaboy,2,Omnesync,0
+Lex,2,Baberuthless,0
+Gary,2,Dak,1
+Srd Javi,0,I Am Lunk,2
+Captain Zack,0,Blazing,2
+Foodmanchew,2,Skate,0
+Paz,2,Candyman,0
+Professor Cedar,2,The Rock,0
+Kiro,0,Nicaboy,2
+Coals,0,Lex,2
+Gary,1,I Am Lunk,2
+Blazing,2,Foodmanchew,0
+Paz,2,Professor Cedar,0
+Nicaboy,2,Lex,0
+Lad,2,I Am Lunk,0
+Kenpachi,0,Blazing,2
+Thad,0,Paz,2
+Robot Owl,0,Nicaboy,2
+Lad,1,Blazing,2
+Paz,0,Nicaboy,2
+Arc,2,Blazing,1
+Drunk Sloth,1,Nicaboy,2
+Macd,2,Dj Nintendo,0
+Arc,2,Nicaboy,0
+Dj Nintendo,2,Arc,0
+C40,0,Memo,2
+Future,2,Dog,0
+Theblackhombre,2,Arcana7,0
+Keepspeedn,0,Valar Morghulis,2
+Brochill,0,Fizzi,2
+Oc Zack,2,Phire,0
+Browningtons,0,Milkmuffinman,2
+Drew,0,119 Fabio,2
+Frardvark,0,Locke Robster,2
+Ocs Sync,2,Dark Mark,0
+Azen,2,Pi,1
+Ruse,2,Churr0S,0
+Simba,1,Jediokami,2
+Esperanto,2,Bloodzure,0
+Sfat,2,Memo,0
+Future,2,Theblackhombre,0
+Valar Morghulis,2,Fizzi,0
+Oc Zack,2,Milkmuffinman,0
+Porkchops,2,119 Fabio,0
+Locke Robster,0,Ocs Sync,2
+Azen,2,Ruse,0
+Jediokami,0,Esperanto,2
+Sfat,2,Future,0
+Valar Morghulis,2,Oc Zack,0
+Porkchops,2,Ocs Sync,0
+Azen,2,Esperanto,0
+Sfat,2,Valar Morghulis,0
+Porkchops,2,Azen,0
+Dog,2,Arcana7,0
+Keepspeedn,2,Brochill,0
+Phire,2,Browningtons,1
+Frardvark,2,Dark Mark,1
+Pi,2,Churr0S,0
+Simba,0,Bloodzure,2
+Jediokami,0,C40,2
+Ruse,0,Dog,2
+Locke Robster,0,Keepspeedn,2
+119 Fabio,2,Phire,0
+Milkmuffinman,1,Drew,2
+Fizzi,2,Frardvark,0
+Theblackhombre,0,Pi,2
+Memo,2,Bloodzure,0
+C40,0,Dog,2
+Keepspeedn,2,119 Fabio,0
+Drew,0,Fizzi,2
+Pi,2,Memo,0
+Oczack,2,Dog,0
+Future,0,Keepspeedn,2
+Esperanto,0,Fizzi,2
+Pi,2,Ocs Sync,0
+Oczack,0,Keepspeedn,2
+Fizzi,0,Pi,2
+Azen,1,Keepspeedn,2
+Valar Morghulis,2,Pi,0
+Sfat,2,Porkchops,0
+Keepspeedn,0,Valar Morghulis,2
+Porkchops,2,Valar Morghulis,0
+Jelly,2,Corp,0
+Super Galaxy Man Sam,2,Wolfheim,0
+Quasarwolf,0,Mattjh,2
+Captain Crunch,2,Jntabeast,0
+Regi,0,Jag,2
+Pb&J,2,Flippers360 Kamikaze,0
+Eet,2,Doc13,0
+Theceo,0,Ocs Prime,2
+Flying Pikachu,2,Tofu,0
+Barraca,2,Tgl Sinister,0
+Milkman,2,Zephyr,0
+Kalahari,1,Gingerjesus,2
+Anjel,2,Halfrican,0
+Fridge Inspector,0,Ranch,2
+S2J,2,Jelly,0
+Super Galaxy Man Sam,2,Mattjh,0
+Captain Crunch,2,Jag,0
+Pb&J,2,Eet,1
+Druggedfox,2,Ocs Prime,0
+Flying Pikachu,2,Barraca,0
+Milkman,2,Gingerjesus,0
+Anjel,1,Ranch,2
+S2J,2,Super Galaxy Man Sam,0
+Captain Crunch,2,Pb&J,0
+Druggedfox,2,Flying Pikachu,0
+Milkman,2,Ranch,0
+S2J,2,Captain Crunch,0
+Druggedfox,2,Milkman,0
+Wolfheim,2,Quasarwolf,1
+Jntabeast,0,Regi,2
+Flippers360 Kamikaze,0,Doc13,2
+Tofu,2,Tgl Sinister,0
+Zephyr,2,Kalahari,1
+Halfrican,0,Fridge Inspector,2
+Anjel,2,Corp,0
+Gingerjesus,2,Wolfheim,0
+Barraca,2,Regi,0
+Ocs Prime,0,Doc13,2
+Eet,2,Theceo,0
+Jag,0,Tofu,2
+Mattjh,0,Zephyr,2
+Jelly,1,Fridge Inspector,2
+Anjel,2,Gingerjesus,0
+Barraca,1,Doc13,2
+Eet,2,Tofu,0
+Zephyr,0,Fridge Inspector,2
+Pb&J,2,Anjel,0
+Super Galaxy Man Sam,2,Doc13,0
+Ranch,2,Eet,0
+Flying Pikachu,2,Fridge Inspector,0
+Pb&J,2,Super Galaxy Man Sam,0
+Ranch,1,Flying Pikachu,2
+Milkman,2,Pb&J,0
+Captain Crunch,2,Flying Pikachu,0
+S2J,2,Druggedfox,0
+Milkman,2,Captain Crunch,1
+Druggedfox,2,Milkman,0
+Moody,0,Pleb,2
+Fresh Prince,2,Tilt,0
+Eliott Vuelta,2,M'Eleedy Andrew Vallejo,0
+Owl,0,Kittensoup,2
+Prof,2,Shammerbaun,0
+Wiil,0,Jnew,2
+$Mike,2,Solidsnaker3D,0
+Fancy Dan,0,Sly Anubis,2
+Hou Whispy,0,Whack,2
+Arakune,0,Vgr Bray,2
+Darrell,2,Rhyzn0266,0
+Jinzo,2,Pure,0
+Alteras,0,C_Rez,2
+D Double Keebs,2,Remotessh,0
+Hungrybox,2,Tfs Parker,0
+Pleb,2,Fresh Prince,0
+Eliott Vuelta,2,Kittensoup,0
+Prof,1,Jnew,2
+$Mike,2,Sly Anubis,0
+Whack,0,Vgr Bray,2
+Darrell,2,Jinzo,0
+C_Rez,2,D Double Keebs,0
+Hungrybox,2,Pleb,0
+Eliott Vuelta,2,Jnew,1
+$Mike,1,Vgr Bray,2
+Darrell,2,C_Rez,0
+Hungrybox,2,Eliott Vuelta,0
+Vgr Bray,0,Darrell,2
+Moody,0,Tilt,2
+M'Eleedy Andrew Vallejo,2,Owl,0
+Shammerbaun,0,Will,2
+Solidsnaker3D,0,Fancy Dian,2
+Hou Whispy,0,Arakune,2
+Rhyzn0266,0,Pure,2
+Aiteras,2,Remotessh,0
+D Double Keebs,0,Miggs,2
+Jinzo,0,Tilt,2
+M'Eleedy Andrew Vallejo,0,Whack,2
+Sly Anubis,2,Will,0
+Prof,2,Fancy Dian,0
+Kitten Soup,0,Arakune,2
+Fresh Prince,2,Pure,0
+Tfs Parker,2,Aiteras,0
+D Double Keebs,2,Jinzo,0
+Whack,2,Sly Anubis,0
+Prof,2,Arakune,1
+Fresh Prince,1,Tfs Parker,2
+Jnew,2,D Double Keebs,0
+Pleb,2,Whack,1
+C_Rez,0,Prof,2
+$Mike,2,Tfs Parker,0
+Jnew,2,Pleb,0
+Prof,0,$Mike,2
+Vgr Bray,0,Jnew,2
+Eliott Vuelta,0,$Mike,2
+Hungrybox,2,Darrell,0
+Vgr Bray,0,$Mike,2
+Darrell,2,$Mike,1
+Zydin,2,Babycakes,0
+Big Homie House,0,Regent,2
+Th3F3Tt,0,Deep,2
+Awstintacious,2,Style,0
+Brother,2,King Kolo,0
+Uuaa,2,Thewizkidrob,0
+Da Supa,0,Dewdadash,2
+Frootloop,2,Chezz,0
+Harrisondorf,1,M'Eleedy Parker Makatura,2
+Mh It'S A Wonderful World,2,Rando,0
+Radar,2,Superultradx,1
+Eval,2,Mike Lee The Franchise,0
+Yort (Hancock),2,Seve7N,0
+Dualx,0,Kowboye,2
+Itrez,0,Steele,2
+Hugs,2,Zydin,0
+Regent,0,Deep,2
+Awstintacious,2,Brother,0
+Uuaa,2,Dewdadash,0
+Frootloop,2,M'Eleedy Parker Makatura,0
+Mh It'S A Wonderful World,2,Radar,0
+Eval,2,Yort (Hancock),0
+Kowboye,0,Steele,2
+Hugs,2,Deep,0
+Awstintacious,2,Uuaa,0
+Frootloop,2,Mh It'S A Wonderful World,0
+Eval,2,Steele,0
+Hugs,2,Awstintacious,0
+Frootloop,1,Eval,2
+Big Homie House,2,Th3F3Tt,0
+Style,1,King Kolo,2
+Thewizkidrob,2,Da Supa,0
+Chezz,0,Harrisondorf,2
+Rando,0,Superultradx,2
+Mike Lee The Franchise,2,Seve7N,0
+Dualx,2,Itrez,0
+Kowboye,1,Babycakes,2
+Yort (Hancock),2,Big Homie House,0
+Radar,2,King Kolo,0
+M'Eleedy Parker Makatura,0,Thewizkidrob,2
+Dewdadash,2,Harrisondorf,0
+Brother,2,Superultradx,1
+Regent,0,Mike Lee The Franchise,2
+Zydin,2,Dualx,1
+Babycakes,0,Yort (Hancock),2
+Radar,2,Thewizkidrob,1
+Dewdadash,2,Brother,0
+Mike Lee The Franchise,2,Zydin,0
+Uuaa,2,Yort (Hancock),0
+Deep,2,Radar,0
+Steele,0,Dewdadash,2
+Mh It'S A Wonderful World,0,Mike Lee The Franchise,2
+Uuaa,2,Deep,0
+Dewdadash,0,Mike Lee The Franchise,2
+Frootloop,2,Uuaa,0
+Awstintacious,2,Mike Lee The Franchise,0
+Hugs,2,Eval,0
+Frootloop,2,Awstintacious,0
+Eval,0,Frootloop,2
+Not.Brian,1,Save,2
+Milky,0,-X-,2
+Vs Nickriddle,0,Rupture,2
+Benteezy,2,Kim Jong Un,0
+Jd,2,Swag Daddy,0
+Smashmac,2,Lsb Saint Shaden,0
+Sws Angelo,1,Syphichan,2
+Tubesssbm,2,Mav,0
+Deepweb,0,Darkneo754,2
+Spicy Smashkid,2,Broasty,1
+Ken,2,Good Lettuce,0
+Ridz,2,Enigma,0
+Sc_Factory,1,Phrakture,2
+Geoff,1,Silentwarrior,2
+Pewpewu,2,Save,0
+-X-,2,Rupture,0
+Benteezy,2,Jd,0
+Smashmac,2,Syphichan,0
+Gravy,2,Tubesssbm,0
+Darkneo754,2,Spicy Smashkid,0
+Ken,2,Ridz,0
+Phrakture,0,Silentwarrior,2
+Pewpewu,2,-X-,0
+Benteezy,2,Smashmac,1
+Gravy,2,Darkneo754,1
+Ken,2,Silentwarrior,0
+Pewpewu,2,Benteezy,0
+Gravy,2,Ken,1
+Milky,2,Vs Nickriddle,0
+Kim Jong Un,2,Swag Daddy,0
+Lsb Saint Shaden,2,Sws Angelo,0
+Deepweb,1,Broasty,2
+Good Lettuce,0,Enigma,2
+Sc_Factory,0,Geoff,2
+Phrakture,0,Not.Brian,2
+Ridz,2,Milky,0
+Spicy Smashkid,2,Kim Jong Un,1
+Tubesssbm,2,Lsb Saint Shaden,0
+Syphichan,2,Mav,0
+Jd,2,Broasty,1
+Rupture,0,Enigma,2
+Save,1,Geoff,2
+Not.Brian,1,Ridz,2
+Spicy Smashkid,1,Tubesssbm,2
+Syphichan,2,Jd,0
+Enigma,1,Geoff,2
+Smashmac,2,Ridz,1
+-X-,0,Tubesssbm,2
+Silentwarrior,1,Syphichan,2
+Darkneo754,1,Geoff,2
+Smashmac,2,Tubesssbm,1
+Syphichan,2,Geoff,1
+Ken,2,Smashmac,1
+Benteezy,2,Syphichan,0
+Pewpewu,2,Gravy,1
+Ken,2,Benteezy,1
+Gravy,2,Ken,0
+J_Bomb,2,Blink,0
+Dron,2,Raze,0
+Doc Brown,2,Joey Bag O' Donuts,0
+The Author,2,Kinggallo,0
+Tommyboi,0,Coin,2
+Derdian,2,Creature,0
+Ee Mrlz,2,Citizen,0
+Buck Nasty,0,Swordply,2
+Pengie,2,Chucknasty,0
+Fira N Ice,0,Feedthehead,2
+Locreed,2,Toastyspeeds7Mph,0
+Neuroscience,0,Gwabs,2
+Dron,2,Doc Brown,0
+The Author,2,Coin,0
+Zhu,2,Derdian,0
+Ee Mrlz,2,Swordply,0
+Pengie,2,Feedthehead,0
+Locreed,0,Gwabs,2
+J_Bomb,2,Dron,0
+Reno,2,The Author,0
+Zhu,2,Ee Mrlz,0
+Pengie,2,Gwabs,0
+J_Bomb,0,Reno,2
+Zhu,2,Pengie,0
+Raze,2,Joey Bag O' Donuts,0
+Hero,2,Buffalo Puncher,0
+Kinggallo,2,Tommyboi,1
+Citizen,2,Buck Nasty,0
+Chucknasty,2,Fira N Ice,0
+Toastyspeeds7Mph,1,Neuroscience,2
+Locreed,0,Blink,2
+Feedthehead,2,Raze,0
+Swordply,2,Hero,0
+Derdian,2,Kinggallo,0
+Coin,0,Creature,2
+Kijin,0,Citizen,2
+Doc Brown,2,Chucknasty,1
+Blink,1,Feedthehead,2
+Swordply,0,Derdian,2
+Creature,2,Citizen,0
+Doc Brown,2,Neuroscience,1
+The Author,2,Feedthehead,0
+Dron,0,Derdian,2
+Gwabs,2,Creature,0
+Ee Mrlz,2,Doc Brown,0
+The Author,0,Derdian,2
+Gwabs,0,Ee Mrlz,2
+Pengie,2,Derdian,1
+J_Bomb,0,Ee Mrlz,2
+Reno,0,Zhu,2
+Pengie,2,Ee Mrlz,0
+Reno,2,Pengie,1
+Blitzking109,0,Shotlandcore,2
+Pyro,0,Saucy Tho,2
+Pt_Zaney,2,Reece'S Peaches,0
+Minty,2,Bananadorf,0
+Phat,0,Kef,2
+Envy,2,Kuji,0
+Cuddles,0,Warfstache Articanus,2
+So Frogman,0,Mattyice,2
+Tempo,2,Pants,0
+Boomstick,2,The Best In West Palm Beach,1
+Toph,2,Op,0
+Admj,2,Menotyou135,0
+Air Conditioner,2,Eh Saiblade,0
+Pipes,1,T3Nshi,2
+Mang0,2,Shotlandcore,0
+Saucy Tho,2,Pt_Zaney,0
+Minty,2,Kef,0
+Envy,0,Warfstache Articanus,2
+Blea Gelo,2,Mattyice,0
+Tempo,1,Boomstick,2
+Toph,2,Admj,0
+Air Conditioner,0,T3Nshi,2
+Mang0,2,Saucy Tho,0
+Minty,2,Warfstache Articanus,1
+Blea Gelo,2,Boomstick,0
+Toph,2,T3Nshi,0
+Mang0,2,Minty,0
+Blea Gelo,1,Toph,2
+Pyro,2,Reece'S Peaches,0
+Bananadorf,0,Phat,2
+Kuji,0,Cuddles,2
+Pants,1,The Best In West Palm Beach,2
+Op,2,Menotyou135,0
+Eh Saiblade,0,Pipes,2
+Air Conditioner,2,Blitzking109,0
+Admj,1,Pyro,2
+Tempo,1,Phat,2
+Mattyice,1,Cuddles,2
+Envy,2,So Frogman,0
+Kef,0,The Best In West Palm Beach,2
+Pt_Zaney,0,Op,2
+Shotlandcore,0,Pipes,2
+Air Conditioner,1,Pyro,2
+Phat,2,Cuddles,1
+Envy,2,The Best In West Palm Beach,0
+Op,2,Pipes,0
+Warfstache Articanus,2,Pyro,0
+Saucy Tho,2,Phat,0
+T3Nshi,1,Envy,2
+Boomstick,1,Op,2
+Warfstache Articanus,2,Saucy Tho,0
+Envy,2,Op,0
+Blea Gelo,1,Warfstache Articanus,2
+Minty,2,Envy,1
+Mang0,2,Toph,0
+Warfstache Articanus,0,Minty,2
+Toph,2,Minty,0
+Armada,2,Macd,0
+Sfat,2,S2J,1
+Hungrybox,2,Hugs,0
+Pewpewu,2,Zhu,0
+Mang0,2,Abate,0
+Shroomed,2,The Moon,1
+Leffen,2,Wizzrobe,1
+Westballz,0,Plup,2
+Armada,2,Sfat,0
+Hungrybox,2,Pewpewu,0
+Mang0,0,Shroomed,2
+Leffen,2,Plup,1
+Armada,3,Hungrybox,0
+Shroomed,0,Leffen,3
+Gahtzu,2,Dj Nintendo,1
+Porkchops,0,Druggedfox,2
+Darrell,1,Frootloop,2
+Gravy,2,Reno,1
+Toph,2,Eikelmannrus,0
+Tafokints,0,Colbol,2
+Rula,0,S0Ft,2
+Chillindude,2,Chu Dat,0
+Westballz,2,Gahtzu,1
+Wizzrobe,2,Druggedfox,0
+The Moon,2,Frootloop,0
+Abate,2,Gravy,1
+Zhu,2,Toph,0
+Hugs,2,Colbol,0
+S2J,2,S0Ft,0
+Macd,2,Chillindude,0
+Westballz,2,Wizzrobe,0
+The Moon,2,Abate,1
+Zhu,2,Hugs,1
+S2J,1,Macd,2
+Pewpewu,0,Westballz,2
+Sfat,0,The Moon,2
+Plup,2,Zhu,0
+Mang0,2,Macd,1
+Westballz,3,The Moon,2
+Plup,2,Mang0,3
+Shroomed,2,Westballz,3
+Hungrybox,1,Mang0,3
+Westballz,1,Mang0,3
+Armada,3,Mang0,1
+Leffen,3,Armada,1

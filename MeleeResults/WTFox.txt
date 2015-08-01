@@ -1,0 +1,297 @@
+Leffen,3,J00T,0
+Iori,0,S0Ft,3
+Westballz,3,Shinobi,1
+Awstintacious,0,Mew2King,3
+Mang0,3,Liberate,0
+Ihavespaceballs,0,Wizzrobe,3
+Darkatma,3,Nicaboy,1
+Suess,0,Armada,3
+Leffen,3,S0Ft,0
+Westballz,1,Mew2King,3
+Mang0,3,Wizzrobe,1
+Darkatma,0,Armada,3
+Leffen,3,Mew2King,2
+Mang0,1,Armada,3
+Beguiler,3,Ichigo,2
+Deeps,3,Mew,0
+Myztek,3,Crispus,0
+Tron,3,Kokingpin,1
+Ippo,2,Dairdevil,3
+Chamberlin,3,Cookiemonsta,1
+Arby,3,Rik,2
+Nite,3,Flion,0
+Suess,0,Beguiler,3
+Nicaboy,3,Deeps,0
+Ihavespaceballs,3,Myztek,0
+Liberate,0,Tron,3
+Awstintacious,3,Dairdevil,1
+Shinobi,3,Chamberlin,0
+Iori,3,Arby,0
+J00T,2,Nite,3
+Beguiler,0,Nicaboy,3
+Ihavespaceballs,0,Tron,3
+Awstintacious,0,Shinobi,3
+Iori,3,Nite,1
+Westballz,3,Nicaboy,2
+S0Ft,3,Tron,0
+Darkatma,3,Shinobi,1
+Wizzrobe,3,Iori,0
+Westballz,3,S0Ft,1
+Darkatma,1,Wizzrobe,3
+Mang0,3,Westballz,0
+Mew2King,3,Wizzrobe,2
+Mang0,3,Mew2King,2
+Armada,2,Mang0,3
+Leffen,3,Mang0,0
+Liberate,2,Noslehtreb,0
+M2Rk,1,Cup,2
+Youtwo,0,Yourtoocheep,2
+Dairdevil,0,Liberate,2
+Wezl,1,Blackspiderman,2
+Zantetsu,2,Shadowsnake,0
+Bread,2,Farco,0
+Mang0,2,Cup,0
+Matt2King,2,Jhuge,0
+Ippo,2,Yourtoocheep,0
+Xf Awkward,2,Chrippin,0
+Liberate,2,Blackspiderman,0
+Zantetsu,2,Bread,0
+Mang0,2,Matt2King,0
+Ippo,2,Xf Awkward,0
+Liberate,2,Zantetsu,1
+Mang0,2,Ippo,0
+Chrippin,0,Noslehtreb,2
+Farco,0,M2Rk,2
+Wezl,2,Youtwo,0
+Noslehtreb,2,Yourtoocheep,1
+Jhuge,0,Cup,2
+M2Rk,2,Shadowsnake,0
+Wezl,1,Dairdevil,2
+Bread,2,Noslehtreb,0
+Blackspiderman,0,Cup,2
+Xf Awkward,0,M2Rk,2
+Matt2King,0,Dairdevil,2
+Bread,1,Cup,2
+M2Rk,1,Dairdevil,2
+Ippo,2,Cup,0
+Zantetsu,1,Dairdevil,2
+Wumbo,2,Wierdgeniuses,1
+Soccerdad,2,No/No,0
+Prilosac,2,Lynzi,0
+2Krunkvillain,2,Wumbo,0
+Flion,2,Chino,1
+Saintrage,2,Lilcrits,0
+Suess,2,Tumics,0
+Armada,2,Soccerdad,0
+Ardentrage,1,Telex,2
+Nite,2,Prilosac,0
+Zzz,2,Repiteo,0
+2Krunkvillain,0,Flion,2
+Saintrage,0,Suess,2
+Armada,2,Telex,0
+Nite,2,Zzz,0
+Flion,0,Suess,2
+Armada,2,Nite,0
+Repiteo,2,Wierdgeniuses,0
+Tumics,0,No/No,2
+Chino,2,Lynzi,0
+Repiteo,2,Prilosac,0
+Ardentrage,2,Soccerdad,0
+No/No,2,Lilcrits,0
+Chino,2,Wumbo,0
+Saintrage,2,Repiteo,0
+2Krunkvillain,2,Ardentrage,0
+Zzz,2,No/No,0
+Telex,0,Chino,2
+Saintrage,0,2Krunkvillain,2
+Zzz,0,Chino,2
+Nite,2,2Krunkvillain,0
+Flion,2,Chino,0
+Nzo,0,Chipgroove,2
+N8,0,Northwich Extended,2
+Suezo,0,Magebreaker,2
+Awstintacious,2,Chipgroove,0
+Cote,1,Tieske,2
+Kokingpin,2,Priest,0
+Vynleren,2,Sonic,0
+Mew2King,2,Northwich Extended,0
+Papanooch,2,Wyboth,0
+Tron,2,Magebreaker,0
+Who?,0,Cob,2
+Awstintacious,2,Tieske,0
+Kokingpin,2,Vynleren,0
+Mew2King,2,Papanooch,0
+Tron,2,Cob,0
+Awstintacious,2,Kokingpin,0
+Mew2King,2,Tron,0
+Who?,2,Nzo,0
+Sonic,2,N8,0
+Cote,2,Suezo,0
+Who?,2,Magebreaker,1
+Wyboth,0,Northwich Extended,2
+Sonic,0,Priest,2
+Cote,0,Chipgroove,2
+Vynleren,1,Who?,2
+Tieske,2,Northwich Extended,0
+Cob,2,Priest,0
+Papanooch,2,Chipgroove,0
+Who?,2,Tieske,0
+Cob,2,Papanooch,0
+Tron,2,Who?,0
+Kokingpin,2,Cob,0
+Bruh Senpai,2,Mrr3C0Rdman,0
+Earthboundy,0,Just Dicks,2
+Atm,0,Buddy Guysman,2
+J00T,2,Bruh Senpai,0
+Salami Master,0,Photonic,2
+Beguiler,1,Bees?,2
+Nonsense,2,Tred,0
+Leffen,2,Just Dicks,0
+Dezno,2,Ulcer,0
+Ichigo,2,Buddy Guysman,1
+Zook,1,Dru2,2
+J00T,2,Photonic,0
+Bees?,0,Nonsense,2
+Leffen,2,Dezno,0
+Ichigo,2,Dru2,0
+J00T,2,Nonsense,0
+Leffen,2,Ichigo,0
+Zook,1,Mrr3C0Rdman,2
+Tred,2,Earthboundy,0
+Salami Master,2,Atm,0
+Mrr3C0Rdman,0,Buddy Guysman,2
+Ulcer,1,Just Dicks,2
+Tred,0,Beguiler,2
+Salami Master,2,Bruh Senpai,0
+Bees?,0,Buddy Guysman,2
+Photonic,2,Just Dicks,0
+Dru2,0,Beguiler,2
+Dezno,2,Salami Master,0
+Buddy Guysman,2,Photonic,0
+Beguiler,2,Dezno,0
+Ichigo,2,Buddy Guysman,1
+Nonsense,0,Beguiler,2
+Bumbo,0,Agni Shine,2
+Rogue,2,M3K,0
+Soulster,0,Kyo,2
+Shinobi,2,Agni Shine,0
+Smurf,0,Lief,2
+Crispus,2,Rapid,0
+Oko,2,Bluet,0
+Westballz,2,Rogue,0
+Code_Man_,0,Tempo,2
+Myztek,0,Kyo,2
+Yeros,2,Notlightningrunner,0
+Shinobi,2,Lief,0
+Crispus,2,Oko,0
+Westballz,2,Tempo,0
+Kyo,2,Yeros,0
+Shinobi,2,Crispus,0
+Westballz,2,Kyo,1
+Notlightningrunner,2,Bumbo,0
+Bluet,0,M3K,2
+Smurf,0,Soulster,2
+Notlightningrunner,0,Myztek,2
+Code_Man_,2,Rogue,0
+M3K,2,Rapid,0
+Soulster,0,Agni Shine,2
+Oko,0,Myztek,2
+Lief,0,Code_Man_,2
+Yeros,2,M3K,1
+Tempo,2,Agni Shine,0
+Myztek,2,Code_Man_,0
+Yeros,2,Tempo,1
+Kyo,0,Myztek,2
+Crispus,2,Yeros,0
+Nancy Drew,2,Jcpwn,1
+Pyroblast,2,Hahaee,0
+Wizzrobe,2,Nancy Drew,0
+Face,2,Dbag,0
+Zylin,2,Solidedged,0
+Obi,0,Moomoo,2
+Ihavespaceballs,2,Pyroblast,0
+Sinoevol,0,Chamberlin,2
+Jim Jam Flim Flam,2,The Number 47,0
+Cookiemonsta,2,Chi,1
+Wizzrobe,2,Face,0
+Zylin,0,Moomoo,2
+Ihavespaceballs,2,Chamberlin,1
+Jim Jam Flim Flam,0,Cookiemonsta,2
+Wizzrobe,2,Moomoo,0
+Ihavespaceballs,2,Cookiemonsta,0
+Chi,0,Jcpwn,2
+Obi,2,Hahaee,0
+Jcpwn,2,The Number 47,0
+Sinoevol,2,Pyroblast,0
+Obi,2,Solidedged,0
+Dbag,2,Nancy Drew,0
+Zylin,0,Jcpwn,2
+Face,2,Sinoevol,0
+Jim Jam Flim Flam,2,Obi,0
+Chamberlin,2,Dbag,0
+Jcpwn,0,Face,2
+Jim Jam Flim Flam,0,Chamberlin,2
+Cookiemonsta,2,Face,0
+Moomoo,0,Chamberlin,2
+R7Zero,2,Mibbs,0
+Deeps,2,Erectarachnid,0
+S0Ft,2,R7Zero,0
+Fraggle,0,Crow Shu,2
+Mew,2,Maus,0
+Lichking,2,Irc Zorgo,0
+Wtfox Score Iori,2,Deeps,0
+Rooster,0,Xiivi,2
+Yuji,0,Fresca,2
+Real,0,Professor Pizza,2
+S0Ft,2,Crow Shu,0
+Mew,2,Lichking,0
+Wtfox Score Iori,2,Xiivi,0
+Fresca,2,Professor Pizza,0
+S0Ft,2,Mew,0
+Wtfox Score Iori,2,Fresca,0
+Real,0,Mibbs,2
+Irc Zorgo,2,Erectarachnid,0
+Mibbs,0,Yuji,2
+Rooster,0,Deeps,2
+Irc Zorgo,2,Maus,0
+Fraggle,0,R7Zero,2
+Lichking,2,Yuji,0
+Crow Shu,0,Deeps,2
+Professor Pizza,0,Irc Zorgo,2
+Xiivi,2,R7Zero,1
+Lichking,0,Deeps,2
+Irc Zorgo,0,Xiivi,2
+Fresca,0,Deeps,2
+Mew,2,Xiivi,1
+Clintlet,0,Scraff,2
+Holyham,2,Hadrian,0
+Home,0,Rik,2
+Darkatma,2,Scraff,0
+Lg03,0,Jman3,2
+The_Ricky,2,Jgwentworth,0
+Nars,2,Sonward,0
+Nicaboy,2,Holyham,0
+Forerunner,0,Zivilyn Bane,2
+Wtfox Toast,0,Rik,2
+Arby,2,Cereal,0
+Darkatma,2,Jman3,0
+The_Ricky,2,Nars,0
+Nicaboy,2,Zivilyn Bane,0
+Rik,2,Arby,0
+Darkatma,2,The_Ricky,0
+Nicaboy,2,Rik,0
+Cereal,2,Clintlet,0
+Sonward,2,Hadrian,0
+Lg03,0,Home,2
+Cereal,0,Wtfox Toast,2
+Forerunner,2,Holyham,0
+Sonward,2,Jgwentworth,0
+Home,2,Scraff,0
+Nars,0,Wtfox Toast,2
+Jman3,2,Forerunner,0
+Arby,2,Sonward,0
+Zivilyn Bane,1,Home,2
+Wtfox Toast,2,Jman3,0
+Arby,2,Home,1
+Rik,2,Wtfox Toast,0
+The_Ricky,0,Arby,2

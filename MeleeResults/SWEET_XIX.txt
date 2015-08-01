@@ -1,0 +1,125 @@
+Kage,2,The Brons Kneecap,0
+Mules,2,Dad,0
+Nja,2,Egg,0
+Mb-Smash,2,Jono,0
+Beach,2,I4N,0
+Cam,0,Zinoto,2
+Blake,2,Minorthreat,0
+The Oak,0,Gracen,2
+Kjh,2,Onisser,0
+Yoyo,2,Jacob,1
+Lain,2,Noodle,0
+Identity Crisis,2,Stitchface,1
+Moose,2,Duel,0
+Hellsing,2,Goonsquad,0
+Severest,2,Tilt,0
+Duck,2,Oven,0
+Will,1,Mordicon,2
+Thugz,2,Deep C. Squid,1
+Malo,0,Rasto,2
+Ginger,2,Morsecode762,0
+Paper,2,Ant,0
+Tm,2,Tron,0
+Roki,2,2Shadez,1
+Vwins,2,Flynwalrus,0
+Napkin,2,Sasha,0
+Dre,2,Coupkey,0
+Russell,2,Photonic,0
+Juggleguy,2,Rabidfingers,0
+Punt,0,Fendricklamar,2
+Soul,2,Miles,0
+Skigh,2,Criphood,0
+Kage,2,Mules,0
+Nja,0,Mb-Smash,2
+Beach,2,Zinoto,0
+Blake,2,Gracen,1
+Kjh,2,Yoyo,0
+Lain,2,Identity Crisis,0
+Moose,2,Iron,0
+Hellsing,2,Severest,1
+Duck,2,Mordicon,0
+Thugz,2,Rasto,1
+Ginger,2,Paper,0
+Tm,2,Roki,0
+Vwins,2,Napkin,0
+Dre,2,Russell,0
+Juggleguy,2,Fendricklamar,0
+Soul,1,Skigh,2
+Kage,2,Mb-Smash,1
+Beach,0,Blake,2
+Kjh,2,Lain,0
+Moose,2,Hellsing,1
+Duck,2,Thugz,0
+Ginger,2,Tm,1
+Vwins,2,Dre,0
+Juggleguy,2,Skigh,0
+Kage,2,Blake,0
+Kjh,2,Moose,1
+Duck,2,Ginger,0
+Vwins,2,Juggleguy,1
+Kage,3,Kjh,0
+Duck,3,Vwins,1
+Kage,2,Duck,3
+Duck,3,Vwins,0
+The Brons Kneecap,1,Dad,2
+Egg,0,Jono,2
+I4N,0,Cam,2
+Minorthreat,0,The Oak,2
+Onisser,2,Jacob,0
+Noodle,1,Stitchface,2
+Duel,2,Parzival,1
+Goonsquad,2,Tilt,0
+Oven,0,Will,2
+Deep C. Squid,0,Malo,2
+Morsecode762,2,Ant,0
+Tron,0,2Shadez,2
+Flynwalrus,2,Sasha,1
+Coupkey,0,Photonic,2
+Rabidfingers,2,Punt,0
+Miles,2,Criphood,0
+Soul,2,Dad,0
+Fendricklamar,2,Jono,0
+Russell,2,Cam,1
+Napkin,1,The Oak,2
+Roki,2,Onisser,0
+Paper,2,Stitchface,0
+Rasto,2,Duel,0
+Mordicon,0,Goonsquad,2
+Severest,0,Will,2
+Iron,2,Malo,0
+Identity Crisis,2,Morsecode762,0
+Yoyo,2,2Shadez,1
+Gracen,2,Flynwalrus,0
+Zinoto,2,Photonic,0
+Nja,2,Rabidfingers,0
+Mules,2,Miles,0
+Soul,2,Fendricklamar,0
+Russell,2,The Oak,1
+Roki,2,Paper,0
+Rasto,2,Goonsquad,1
+Will,2,Iron,0
+Identity Crisis,1,Yoyo,2
+Gracen,1,Zinoto,2
+Nja,2,Mules,1
+Hellsing,0,Soul,2
+Lain,2,Russell,0
+Beach,2,Roki,0
+Mb-Smash,2,Rasto,0
+Skigh,2,Will,1
+Dre,1,Yoyo,2
+Tm,2,Zinoto,1
+Thugz,2,Nja,1
+Soul,2,Lain,0
+Beach,1,Mb-Smash,2
+Skigh,2,Yoyo,0
+Tm,2,Thugz,0
+Ginger,2,Soul,0
+Juggleguy,2,Mb-Smash,0
+Blake,2,Skigh,0
+Moose,2,Tm,0
+Ginger,2,Juggleguy,0
+Blake,1,Moose,2
+Kjh,1,Ginger,2
+Vwins,2,Moose,0
+Ginger,0,Vwins,3
+Kage,1,Vwins,3

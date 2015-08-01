@@ -1,0 +1,70 @@
+Green Ranger,2,Hectohertz,0
+Chain-Ace,2,Baka4Moe,0
+Sir Rocko,2,Venti,0
+Rih,2,Kmac,0
+Leffen,2,Green Ranger,0
+T.Webb,0,Pc Kipp,2
+Swiftbass,2,Son2,0
+Reno,2,Yedi,0
+Slox,2,Chain-Ace,0
+Dizzkidboogie,2,Fiya,0
+Dj Nintendo,2,Chuuper,0
+Otg,2,Sol,0
+The Moon,2,Sir Rocko,0
+Jflex,2,Equal,0
+Cactuar,2,Bolt$,0
+Beerman,0,Dudutsai,2
+Zhu,2,Rih,0
+Codi,2,Stricnyn3 (Dq),0
+Zanguzen,2,Warriorknight (Forfeit),0
+G$,2,Ryobeat,0
+Leffen,2,Pc Kipp,0
+Swiftbass,2,Reno,0
+Slox,0,Dizzkidboogie,2
+Dj Nintendo,2,Otg,0
+The Moon,0,Jflex,2
+Cactuar,2,Dudutsai,0
+Zhu,2,Codi,0
+Zanguzen,2,G$,0
+Leffen,2,Swiftbass,0
+Dizzkidboogie,2,Dj Nintendo,0
+Jflex,2,Cactuar,0
+Zhu,2,Zanguzen,0
+Leffen,2,Dizzkidboogie,0
+Jflex,0,Zhu,2
+Leffen,2,Zhu,0
+Leffen,2,The Moon,0
+Ryobeat,2,Hectohertz,0
+Beerman,2,Baka4Moe,0
+Sol,2,Venti,0
+Yedi,2,Kmac,0
+Warriorknight (Forfeit),0,Ryobeat,2
+Stricnyn3 (Dq),0,Rih,2
+Bolt$,0,Beerman,2
+Equal,0,Sir Rocko,2
+Chuuper,0,Sol,2
+Fiya,2,Chain-Ace,0
+Son2,2,Yedi,0
+T.Webb,2,Green Ranger,0
+Otg,0,Ryobeat,2
+Slox,2,Rih,0
+Reno,0,Beerman,2
+Pc Kipp,0,Sir Rocko,2
+G$,2,Sol,0
+Codi,0,Fiya,2
+Dudutsai,0,Son2,2
+The Moon,2,T.Webb,0
+Ryobeat,2,Slox,0
+Beerman,2,Sir Rocko,0
+G$,2,Fiya,0
+Son2,0,The Moon,2
+Cactuar,0,Ryobeat,2
+Zanguzen,2,Beerman,0
+Swiftbass,0,G$,2
+Dj Nintendo,0,The Moon,2
+Ryobeat,2,Zanguzen,0
+G$,0,The Moon,2
+Dizzkidboogie,2,Ryobeat,0
+Jflex,0,The Moon,2
+Dizzkidboogie,0,The Moon,2
+Zhu,0,The Moon,2

@@ -1,0 +1,61 @@
+Mew2King,2,Bluefalcon,0
+Junebug,2,Nando,0
+Velocity,2,Cruzycakes,0
+Emukiller,2,Face,0
+Dj Nintendo,2,Life,0
+Smokey,2,Kite,0
+Vanz,2,Ringworm,0
+Pb&J,2,Gohan,0
+Zhu,2,Switch,0
+Sora,2,Pitzer,0
+Jmoan,0,Copycat,2
+Tian,2,Mask,0
+The Moon,2,Prof Peen,0
+Veeks,0,Sled,2
+Captain Smuckers,2,Jreed,0
+Spawn,2,Jiggles,0
+Mew2King,2,Junebug,0
+Velocity,2,Emukiller,0
+Dj Nintendo,2,Smokey,0
+Vanz,2,Pb&J,0
+Zhu,2,Sora,0
+Copycat,0,Tian,2
+The Moon,2,Sled,0
+Captain Smuckers,2,Spawn,0
+Mew2King,2,Velocity,0
+Dj Nintendo,2,Vanz,0
+Zhu,2,Tian,0
+The Moon,2,Captain Smuckers,0
+Mew2King,2,Dj Nintendo,0
+Zhu,1,The Moon,2
+Bluefalcon,0,Nando,2
+Cruzycakes,1,Face,2
+Lite,0,Kite,2
+Ringworm,2,Gohan,0
+Switch,0,Pitzer,2
+Jmoan,0,Mask,2
+Prof Peen,0,Veeks,2
+Jreed,2,Jiggles,0
+Spawn,0,Nando,2
+Sled,2,Face,0
+Copycat,2,Kite,0
+Sora,2,Ringworm,0
+Pb&J,2,Pitzer,0
+Smokey,1,Mask,2
+Emukiller,2,Veeks,0
+Junebug,2,Jreed,0
+Nando,2,Sled,0
+Copycat,1,Sora,2
+Pb&J,2,Mask,1
+Emukiller,2,Junebug,0
+Vanz,2,Nando,0
+Velocity,2,Sora,0
+Captain Smuckers,2,Pb&J,0
+Vanz,2,Velocity,0
+Captain Smuckers,2,Tian,0
+Zhu,2,Vanz,0
+Dj Nintendo,2,Captain Smuckers,0
+Mew2King,3,The Moon,0
+Zhu,2,Dj Nintendo,0
+The Moon,3,Zhu,1
+Mew2King,3,The Moon,0

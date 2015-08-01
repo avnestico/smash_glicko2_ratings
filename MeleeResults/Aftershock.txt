@@ -1,0 +1,90 @@
+Wobbles,2,Milkman,0
+Redd,2,Hamyojo,0
+Westballz,2,Albert,0
+Dualcats,0,Arc,2
+Axe,2,Gabe,0
+Bluezaft,0,Mojo,2
+Hazygoose,0,Jake13,2
+Gahtzu,2,Thoraxe,0
+Wobbles,2,Redd,1
+Westballz,2,Arc,0
+Axe,2,Mojo,1
+Jake13,0,Gahtzu,2
+Wobbles,3,Westballz,1
+Axe,3,Gahtzu,0
+Milkman,2,Hamyojo,0
+Albert,2,Dualcats,0
+Gabe,0,Bluezaft,2
+Hazygoose,0,Thoraxe,2
+Jake13,0,Milkman,2
+Mojo,2,Albert,1
+Arc,2,Bluezaft,0
+Redd,2,Thoraxe,0
+Milkman,1,Mojo,3
+Arc,0,Redd,3
+Westballz,3,Mojo,0
+Gahtzu,1,Redd,3
+Wobbles,1,Axe,3
+Westballz,2,Redd,3
+Wobbles,3,Redd,2
+Axe,3,Wobbles,0
+Ptjon,2,Dru2,0
+Treetrunks,2,Mijo,0
+Dyl,2,Tikobroje,0
+Quote,0,2Jar,2
+Axe,2,Ptjon,0
+Dmg,2,Pootthebox,0
+Jake13,2,Geoff,0
+Jf,0,Junebug,2
+Gahtzu,2,Treetrunks,0
+Mr. Brandandorf,2,Tuesday,0
+Milkman,2,Dakpo,0
+[Mb] Disafter,2,Erasmorpheous,0
+Westballz,2,Dyl,0
+Jelly,0,Lk,2
+Mojo,2,Dr. Drew,0
+Moophobia,2,Scythed,0
+Redd,2,2Jar,0
+Eikelmannrus,2,Ripple,0
+Arc,2,Denti,0
+Dizzy,2,Jra64,0
+Axe,2,Dmg,0
+Jake13,2,Junebug,0
+Gahtzu,2,Mr. Brandandorf,0
+Milkman,2,[Mb] Disafter,0
+Westballz,2,Lk,0
+Mojo,2,Moophobia,0
+Redd,2,Eikelmannrus,0
+Arc,2,Dizzy,0
+Axe,2,Jake13,0
+Gahtzu,2,Milkman,0
+Westballz,2,Mojo,0
+Redd,2,Arc,0
+Jra64,2,Dru2,0
+Scythed,2,Mijo,0
+Erasmorpheous,2,Tikobroje,0
+Jf,2,Quote,0
+Jra64,0,Denti,2
+Ripple,2,2Jar,0
+Scythed,0,Dr. Drew,2
+Jelly,2,Dyl,0
+Erasmorpheous,0,Dakpo,2
+Tuesday,2,Treetrunks,0
+Jf,2,Geoff,0
+Pootthebox,0,Ptjon,2
+[Mb] Disafter,2,Denti,0
+Mr. Brandandorf,0,Ripple,2
+Junebug,2,Dr. Drew,0
+Dmg,0,Jelly,2
+Dizzy,2,Dakpo,0
+Eikelmannrus,2,Tuesday,0
+Moophobia,2,Jf,0
+Lk,2,Ptjon,0
+[Mb] Disafter,2,Ripple,0
+Junebug,2,Jelly,0
+Dizzy,0,Eikelmannrus,2
+Moophobia,0,Lk,2
+Mojo,2,[Mb] Disafter,0
+Arc,2,Junebug,0
+Jake13,2,Eikelmannrus,0
+Milkman,2,Lk,0

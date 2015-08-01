@@ -1,0 +1,126 @@
+Westballz,2,Mikey B,0
+Deep C Squid,0,Napkin,2
+Ryejew,2,Goonsquad,0
+Roki,2,Nexic,0
+Juggleguy,2,Criphood,0
+Rh1Thmz,2,Cam,0
+Tm,2,Datrooph,0
+Paper,2,Game,0
+Kjh,2,Bandit,0
+Fendricklamar,1,Rawrmonster,2
+Dre,2,Zashi,0
+Ctl,2,Garzal,1
+N0Ne,2,Shadowboxer,0
+Thugz,2,I4N,1
+Hellsing,2,Supermegawalrus,0
+Zinoto,2,Sasha,0
+Duck,2,Envy,0
+Cho,0,Identity Crisis,2
+Toadster,0,Rasto,2
+Ju4N,2,Iron,0
+Ginger,2,Poopkey,0
+Honeybaked,2,Jwinks,1
+4Serial,2,Parvizal,0
+Russell,2,Dad,1
+Unknown522,2,100%,0
+Treetz,1,2Shadez,2
+Lain,2,Morsecode762,0
+The Oak,2,Sheep,0
+Kalamazhu,2,Lange,0
+Will,2,Kuyashi,0
+Beach,2,Nutsack,0
+Tran,1,Duel,2
+Westballz,2,Napkin,0
+Ryejew,2,Roki,0
+Juggleguy,2,Rh1Thmz,0
+Tm,2,Paper,1
+Kjh,2,Rawrmonster,0
+Dre,2,Ctl,0
+N0Ne,2,Thugz,0
+Hellsing,1,Zinoto,2
+Duck,2,Identity Crisis,0
+Rasto,1,Ju4N,2
+Ginger,2,Honeybaked,0
+4Serial,2,Russell,1
+Unknown522,2,2Shadez,0
+Lain,1,The Oak,2
+Kalamazhu,2,Will,0
+Beach,2,Duel,0
+Westballz,2,Ryejew,0
+Juggleguy,2,Tm,1
+Kjh,2,Dre,1
+N0Ne,2,Zinoto,0
+Duck,2,Ju4N,0
+Ginger,2,4Serial,0
+Unknown522,2,The Oak,0
+Kalamazhu,2,Beach,0
+Westballz,2,Juggleguy,0
+Kjh,0,N0Ne,2
+Duck,2,Ginger,0
+Unknown522,2,Kalamazhu,1
+Westballz,3,N0Ne,0
+Duck,3,Unknown522,0
+Mikey B,2,Deep C Squid,1
+Goonsquad,1,Nexic,2
+Criphood,1,Cam,2
+Datrooph,2,Game,0
+Bandit,0,Fendricklamar,2
+Zashi,2,Garzal,0
+Shadowboxer,1,I4N,2
+Supermegawalrus,2,Sasha,0
+Envy,0,Cho,2
+Toadster,1,Iron,2
+Poopkey,2,Jwinks,1
+Parvizal,2,Dad,0
+100%,0,Treetz,2
+Morsecode762,2,Sheep,0
+Lange,2,Kuyashi,0
+Nutsack,0,Tran,2
+Duel,2,Mikey B,0
+Will,2,Nexic,0
+Lain,2,Cam,0
+2Shadez,1,Datrooph,2
+Russell,0,Fendricklamar,2
+Honeybaked,2,Zashi,0
+Rasto,2,I4N,0
+Identity Crisis,2,Supermegawalrus,1
+Hellsing,2,Cho,0
+Thugz,2,Iron,1
+Ctl,2,Poopkey,0
+Rawrmonster,0,Parvizal,2
+Paper,2,Treetz,0
+Rh1Thmz,2,Morsecode762,0
+Roki,1,Lange,2
+Napkin,1,Tran,2
+Duel,1,Will,2
+Lain,2,Datrooph,0
+Fendricklamar,2,Honeybaked,0
+Rasto,0,Identity Crisis,2
+Hellsing,2,Thugz,1
+Ctl,2,Parvizal,0
+Paper,2,Rh1Thmz,0
+Lange,0,Tran,2
+Zinoto,2,Will,0
+Dre,0,Lain,2
+Tm,2,Fendricklamar,1
+Ryejew,2,Identity Crisis,0
+Beach,2,Hellsing,0
+The Oak,2,Ctl,1
+4Serial,0,Paper,2
+Ju4N,2,Tran,0
+Zinoto,1,Lain,2
+Tm,2,Ryejew,0
+Beach,2,The Oak,0
+Paper,1,Ju4N,2
+Ginger,2,Lain,0
+Kalamazhu,2,Tm,0
+Juggleguy,1,Beach,2
+Kjh,2,Ju4N,0
+Ginger,0,Kalamazhu,2
+Beach,0,Kjh,2
+N0Ne,1,Kalamazhu,2
+Unknown522,0,Kjh,2
+Westballz,0,Duck,3
+Kalamazhu,1,Kjh,3
+Westballz,3,Kjh,0
+Duck,4,Westballz,5

@@ -1,0 +1,267 @@
+Fartwizard,2,Hankypanky,0
+Fiction,2,Fartwizard,0
+Wally Moosen,2,Pups,0
+Pinny,0,Andymosity,2
+Mixx,2,Alaca,0
+Peligro,2,Mars,0
+W!Z,0,Ceze,2
+Festizzio,2,Kaygee,0
+Professor X,0,Chrome,2
+Fiction,2,Wally Moosen,0
+Andymosity,0,Mixx,2
+Peligro,2,Ceze,0
+Festizzio,2,Chrome,0
+Fiction,2,Mixx,0
+Peligro,2,Festizzio,0
+Professor X,2,Hankypanky,0
+Kaygee,2,Professor X,0
+W!Z,2,Mars,0
+Alaca,2,Pinny,0
+Pups,0,Fartwizard,2
+Andymosity,2,Kaygee,0
+Wally Moosen,0,W!Z,2
+Chrome,2,Alaca,0
+Ceze,0,Fartwizard,2
+Andymosity,2,W!Z,0
+Chrome,0,Fartwizard,2
+Festizzio,0,Andymosity,2
+Mixx,2,Fartwizard,0
+Jimi,2,Josh,0
+Hugs,2,Jimi,0
+Videowaffles,2,Red,0
+Quasar,2,Adlai,0
+Yl,2,Classy K,0
+Stab,2,Karp,0
+Morven,2,R0Sas,0
+Jace,2,Bruh,0
+Poop,0,Cog,2
+Hugs,2,Videowaffles,0
+Quasar,2,Yl,0
+Stab,2,Morven,0
+Jace,2,Cog,0
+Hugs,2,Quasar,0
+Stab,0,Jace,2
+Poop,2,Josh,0
+Bruh,0,Poop,2
+R0Sas,2,Karp,0
+Classy K,0,Adlai,2
+Red,0,Jimi,2
+Yl,2,Poop,0
+Videowaffles,2,R0Sas,0
+Cog,2,Adlai,0
+Morven,2,Jimi,0
+Yl,0,Videowaffles,2
+Cog,2,Morven,0
+Stab,2,Videowaffles,0
+Quasar,2,Cog,0
+Fire,2,C.C.,0
+Macd,2,Fire,0
+Spae,2,Thepigeon,0
+Kellen,0,Breezy,2
+Recluse*,0,Eloy,2
+Myl,2,#Str Ragingcherry,0
+Pepemd,2,Shazmah,0
+Mevan,2,Goldman,0
+Zed,2,Cookiecutter,0
+Macd,2,Spae,0
+Breezy,0,Eloy,2
+Myl,2,Pepemd,0
+Mevan,2,Zed,0
+Macd,2,Eloy,0
+Myl,2,Mevan,0
+Cookiecutter,0,C.C.,2
+Goldman,0,C.C.,2
+Shazmah,0,#Str Ragingcherry,2
+Recluse*,0,Kellen,2
+Thepigeon,0,Fire,2
+Breezy,2,C.C.,0
+Spae,0,#Str Ragingcherry,2
+Zed,0,Kellen,2
+Pepemd,2,Fire,0
+Breezy,0,#Str Ragingcherry,2
+Kellen,2,Pepemd,0
+Mevan,2,#Str Ragingcherry,0
+Eloy,2,Kellen,0
+Excess Valor,0,Gyran,2
+Westballz,2,Gyran,0
+Toki,0,Rosy,2
+Nanaandpopo,2,Casper,0
+Rob Swireston,0,Bee?,2
+Reno,2,Marksman,0
+Sonido,2,Dandy,0
+Coolhat,2,King Worm,0
+Mordechai,2,Eldone,0
+Westballz,2,Rosy,0
+Nanaandpopo,2,Bee?,0
+Reno,2,Sonido,0
+Coolhat,2,Mordechai,0
+Westballz,2,Nanaandpopo,0
+Reno,2,Coolhat,0
+Eldone,0,Excess Valor,2
+King Worm,2,Excess Valor,0
+Dandy,2,Marksman,0
+Rob Swireston,0,Casper,2
+Toki,0,Gyran,2
+Bee?,0,King Worm,2
+Rosy,2,Dandy,0
+Mordechai,2,Casper,0
+Sonido,0,Gyran,2
+King Worm,0,Rosy,2
+Mordechai,2,Gyran,0
+Coolhat,2,Rosy,0
+Nanaandpopo,2,Mordechai,0
+Exhale,0,Human,2
+Mang0,2,Human,0
+Styast,0,Wilson,2
+Madman,2,Angel,0
+Skidmark,0,Drag0Nfruit,2
+Sung475,2,Juice,0
+Moss,2,Vet,0
+Captain Faceroll,2,Cactus Zack,0
+Yung Buster,0,Davey,2
+Mang0,2,Wilson,0
+Madman,0,Drag0Nfruit,2
+Sung475,2,Moss,0
+Captain Faceroll,2,Davey,0
+Mang0,2,Drag0Nfruit,0
+Sung475,2,Captain Faceroll,0
+Yung Buster,2,Exhale,0
+Cactus Zack,0,Yung Buster,2
+Vet,0,Juice,2
+Skidmark,2,Angel,0
+Styast,0,Human,2
+Madman,2,Yung Buster,0
+Wilson,0,Juice,2
+Davey,2,Skidmark,0
+Moss,2,Human,0
+Madman,0,Juice,2
+Davey,0,Moss,2
+Captain Faceroll,2,Juice,0
+Drag0Nfruit,0,Moss,2
+Gordo,0,Hoffee,2
+Mike Haze,2,Hoffee,0
+Squeeb,0,Thecharlesguy,2
+Psychomidget,2,Bill Clinton,0
+Matticus,2,Argo,0
+Squid,2,Mach,0
+Null,0,Ballsweat Carlson,2
+Nasa,2,Kris With A K,0
+Wolfie,2,Dom,0
+Mike Haze,2,Thecharlesguy,0
+Psychomidget,2,Matticus,0
+Squid,2,Ballsweat Carlson,0
+Nasa,2,Wolfie,0
+Mike Haze,2,Psychomidget,0
+Squid,2,Nasa,0
+Dom,0,Gordo,2
+Kris With A K,2,Gordo,0
+Null,2,Mach,0
+Argo,0,Bill Clinton,2
+Squeeb,2,Hoffee,0
+Matticus,2,Kris With A K,0
+Thecharlesguy,0,Null,2
+Wolfie,0,Bill Clinton,2
+Ballsweat Carlson,2,Squeeb,0
+Matticus,2,Null,0
+Bill Clinton,2,Ballsweat Carlson,0
+Nasa,2,Matticus,0
+Psychomidget,2,Bill Clinton,0
+Connorthekid,2,Large Rabbit,0
+Vessl,0,Smitty Werbenjagermanjensen,2
+Exumer,2,Booty,0
+Mm Dan,2,Cazy,0
+Tafokints,2,Manatee,0
+Takyon,0,Senpapi,2
+Dunk,2,Kramepie,0
+Mr Baninawi,2,Devi,0
+Connorthekid,2,Smitty Werbenjagermanjensen,0
+Exumer,2,Mm Dan,0
+Tafokints,2,Senpapi,0
+Dunk,2,Mr Baninawi,0
+Connorthekid,2,Exumer,0
+Tafokints,2,Dunk,0
+Large Rabbit,0,Vessl,2
+Booty,2,Cazy,0
+Manatee,2,Takyon,0
+Kramepie,2,Devi,0
+Mr Baninawi,2,Vessl,0
+Senpapi,2,Booty,0
+Mm Dan,0,Manatee,2
+Smitty Werbenjagermanjensen,0,Kramepie,2
+Mr Baninawi,2,Senpapi,0
+Manatee,2,Kramepie,0
+Exumer,2,Mr Baninawi,0
+Dunk,0,Manatee,2
+Kira,2,Friend,0
+Vic_Ramen,2,Sc0Ut,0
+Tapez,2,Boruto For Hokage,0
+Ooli,0,Dodger,2
+Hyprid,2,Jsin,0
+Ttkim,2,Screamin,0
+Pogo,2,Erebus,0
+Openzmindz,2,Dirtydan,0
+Kira,2,Vic_Ramen,0
+Tapez,2,Dodger,0
+Hyprid,2,Ttkim,0
+Pogo,2,Openzmindz,0
+Kira,2,Tapez,0
+Hyprid,2,Pogo,0
+Friend,2,Sc0Ut,0
+Boruto For Hokage,2,Ooli,0
+Jsin,0,Screamin,2
+Erebus,2,Dirtydan,0
+Openzmindz,2,Friend,0
+Ttkim,0,Boruto For Hokage,2
+Dodger,2,Screamin,0
+Vic_Ramen,0,Erebus,2
+Openzmindz,2,Boruto For Hokage,0
+Dodger,0,Erebus,2
+Tapez,2,Openzmindz,0
+Pogo,2,Erebus,0
+Mang0,2,Sung475,0
+Connorthekid,2,Tafokints,1
+Fiction,2,Peligro,0
+Hugs,2,Jace,0
+Westballz,2,Reno,0
+Mike Haze,2,Squid,1
+Macd,2,Myl,1
+Kira,2,Hyprid,0
+Mang0,2,Connorthekid,0
+Fiction,2,Hugs,0
+Westballz,2,Mike Haze,0
+Macd,1,Kira,2
+Mang0,2,Fiction,3
+Westballz,3,Kira,0
+Fiction,0,Westballz,3
+Westballz,1,Mang0,3
+Mang0,3,Westballz,2
+Mixx,2,Manatee,1
+Coolhat,2,Pogo,0
+Nanaandpopo,0,Quasar,2
+Psychomidget,2,Andymosity,0
+Tapez,0,Eloy,2
+Moss,0,Captain Faceroll,2
+Exumer,0,Stab,2
+Nasa,0,Mevan,2
+Hyprid,2,Mixx,0
+Myl,1,Coolhat,2
+Squid,2,Quasar,0
+Reno,2,Psychomidget,0
+Jace,2,Eloy,0
+Peligro,1,Captain Faceroll,2
+Tafokints,2,Stab,0
+Sung475,2,Mevan,0
+Hyprid,2,Coolhat,0
+Squid,1,Reno,2
+Jace,1,Captain Faceroll,2
+Tafokints,2,Sung475,0
+Hugs,2,Hyprid,1
+Connorthekid,2,Reno,0
+Macd,2,Captain Faceroll,0
+Mike Haze,2,Tafokints,1
+Hugs,2,Connorthekid,1
+Macd,2,Mike Haze,1
+Kira,0,Hugs,3
+Mang0,3,Macd,1
+Hugs,0,Mang0,3
+Fiction,0,Mang0,3

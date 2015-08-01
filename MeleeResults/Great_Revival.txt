@@ -1,0 +1,225 @@
+Mew2King,1,Kradi,0
+Darkrain,2,Deepak,0
+Dart!,1,Veklor,0
+Kels,2,Goodkenneth,0
+Frootloop,2,Jbm,0
+Chexr,1,Sago,0
+Mew2King,2,Triple R,0
+Kels,2,Scythe,0
+Frootloop,2,Chexr,0
+Mew2King,3,Dart!,1
+Mew2King,1,Frootloop,0
+Mew2King,3,Dart!,1
+Davidcue,1,Potts,0
+Tempest,2,Ellis,1
+Pooch,2,Dla,1
+Ravishingrobdad,1,Jon$,0
+Gerby,1,Bobcatduff,2
+Smeesh,1,Amanze,2
+Jbm,2,Tempest,0
+Orly,1,Pooch,0
+Veklor,0,Ravishingrobdad,2
+Mundungu,0,Amanze,2
+Kradi,2,Sync,1
+Davidcue,2,Jbm,1
+Orly,1,Goodkenneth,0
+Amanze,1,Kradi,0
+Triple R,2,Orly,1
+Chexr,1,Deepak,0
+Scythe,1,Amanze,0
+Davidcue,2,Triple R,1
+Chexr,2,Amanze,1
+Kels,1,Davidcue,0
+Dart!,2,Chexr,1
+Kels,1,Dart!,3
+Frootloop,2,Dart!,0
+Td,2,Tylerd,0
+Zicore,2,Umbr,0
+Nobody Knows,2,Lwd3,0
+Triple R,2,Bug,0
+Der_Hund,0,Davidcue,2
+Ellis,2,Butters,0
+Slogs,0,Grasshoppa,2
+Mew2King,2,Td,0
+Zicore,2,Nobody Knows,0
+Triple R,2,Davidcue,0
+Ellis,2,Grasshoppa,0
+Mew2King,2,Zicore,0
+Triple R,2,Ellis,0
+Umbr,0,Lwd3,2
+Bug,0,Der_Hund,2
+Butters,0,Slogs,2
+Grasshoppa,0,Tylerd,2
+Davidcue,2,Lwd3,0
+Nobody Knows,0,Der_Hund,2
+Td,2,Slogs,0
+Tylerd,0,Davidcue,2
+Der_Hund,0,Td,2
+Zicore,0,Davidcue,2
+Ellis,2,Td,0
+Bauz,2,Blue,0
+Dank?,2,Stax,0
+Spicy,2,Wave,0
+Deepak,2,Saxblizzard,0
+Revpointo,2,Bab,0
+Dla,2,Sunken,0
+Gandalf,2,Qtip,0
+Dart!,2,Bauz,0
+Dank?,0,Spicy,2
+Deepak,2,Revpointo,0
+Dla,2,Gandalf,0
+Dart!,2,Spicy,0
+Deepak,2,Dla,0
+Stax,0,Wave,2
+Saxblizzard,2,Bab,0
+Sunken,0,Qtip,2
+Gandalf,2,Blue,0
+Revpointo,2,Wave,0
+Dank?,2,Saxblizzard,0
+Bauz,2,Qtip,0
+Gandalf,2,Revpointo,0
+Dank?,0,Bauz,2
+Spicy,0,Gandalf,2
+Dla,2,Bauz,0
+Yoshido,2,Toast,0
+Ghost,0,Nmb Ync,2
+Modnar,2,Mrstien,0
+Amanze,2,Spencer,0
+Reign,0,Sk1,2
+Jbm,2,Scrubert,0
+Spencecilence,0,Toru,2
+Chexr,2,Yoshido,0
+Nmb Ync,2,Modnar,0
+Amanze,2,Sk1,0
+Jbm,2,Toru,0
+Chexr,2,Nmb Ync,0
+Amanze,0,Jbm,2
+Ghost,2,Mrstien,0
+Spencer,0,Reign,2
+Scrubert,0,Spencecilence,2
+Toru,2,Toast,0
+Sk1,2,Ghost,0
+Modnar,0,Reign,2
+Yoshido,2,Spencecilence,0
+Toru,2,Sk1,0
+Reign,0,Yoshido,2
+Nmb Ync,2,Toru,0
+Amanze,2,Yoshido,0
+Azuna,2,Datwasstrange,0
+Landry,2,Acorn,0
+Pooch,2,Inferno Jack,0
+Inui,2,Catfood,0
+Future,0,Ergo,2
+Veklor,2,Frozenpizza,0
+@Teh_Blazerer,0,Narbs,2
+Darkrain,2,Azuna,0
+Landry,0,Pooch,2
+Inui,2,Ergo,0
+Veklor,2,Narbs,0
+Darkrain,2,Pooch,0
+Inui,0,Veklor,2
+Acorn,0,Inferno Jack,2
+Catfood,2,Future,0
+Frozenpizza,2,@Teh_Blazerer,0
+Narbs,2,Datwasstrange,0
+Ergo,2,Inferno Jack,0
+Landry,0,Catfood,2
+Azuna,0,Frozenpizza,2
+Narbs,0,Ergo,2
+Catfood,2,Frozenpizza,0
+Pooch,2,Ergo,0
+Inui,2,Catfood,0
+Red Ryu,2,Brik Stone,0
+Rattigan,2,Solo Kahn,0
+Webs,0,Smeesh,2
+Sago,2,Pokemandudeguy,0
+Tales,2,Howcutrupizza,0
+Sync,2,Amae,0
+Yoshq,2,Meerkat,0
+Frootloop,2,Red Ryu,0
+Rattigan,0,Smeesh,2
+Sago,2,Tales,0
+Sync,2,Yoshq,0
+Frootloop,2,Smeesh,0
+Sago,2,Sync,0
+Solo Kahn,2,Webs,0
+Pokemandudeguy,2,Howcutrupizza,0
+Amae,0,Meerkat,2
+Yoshq,2,Brik Stone,0
+Tales,0,Solo Kahn,2
+Rattigan,2,Pokemandudeguy,0
+Red Ryu,2,Meerkat,0
+Yoshq,2,Solo Kahn,0
+Rattigan,2,Red Ryu,0
+Smeesh,2,Yoshq,0
+Sync,2,Rattigan,0
+Down B,0,Darth Shard,2
+Bobcatduff,2,Mittenz,0
+Xarann,2,Just The Tipper,0
+Scythe,2,Shaq,0
+Bayless,2,Ghost,0
+Maxyb,0,Ravishingrobdad,2
+Ryou,2,Doob,0
+Kels,2,Darth Shard,0
+Bobcatduff,2,Xarann,0
+Scythe,2,Bayless,0
+Ravishingrobdad,2,Ryou,0
+Kels,2,Bobcatduff,0
+Scythe,2,Ravishingrobdad,0
+Mittenz,0,Just The Tipper,2
+Shaq,0,Ghost,2
+Maxyb,2,Doob,0
+Ryou,2,Down B,0
+Bayless,2,Just The Tipper,0
+Xarann,2,Ghost,0
+Darth Shard,0,Maxyb,2
+Ryou,2,Bayless,0
+Xarann,0,Maxyb,2
+Bobcatduff,2,Ryou,0
+Ravishingrobdad,2,Maxyb,0
+Okay,2,Sniper,0
+Italian N1Nja,2,Scuddles,0
+Finlev,2,Myko,0
+Goodkenneth,2,Loring,0
+Pulp,2,Jroo,0
+Jon$,2,Udagawa,0
+Gerby,2,Quest77,0
+Orly,2,Okay,0
+Italian N1Nja,0,Finlev,2
+Goodkenneth,2,Pulp,0
+Jon$,2,Gerby,0
+Orly,2,Finlev,0
+Goodkenneth,2,Jon$,0
+Scuddles,0,Myko,2
+Loring,2,Jroo,0
+Udagawa,2,Quest77,0
+Gerby,2,Sniper,0
+Pulp,0,Myko,2
+Italian N1Nja,0,Loring,2
+Okay,0,Udagawa,2
+Gerby,2,Myko,0
+Loring,0,Udagawa,2
+Finlev,0,Gerby,2
+Jon$,2,Udagawa,0
+Moe,0,Wisely,2
+Tempest,2,Cr4Nb3Rry,0
+Potts,2,~J~,0
+Kazami,0,Dmx,2
+Basedkubo,0,Bantler,2
+Tim? The Enchanter,0,Fsink,2
+Mundungu,2,Wisely,0
+Tempest,2,Potts,0
+Kradi,2,Dmx,0
+Bantler,0,Fsink,2
+Mundungu,2,Tempest,0
+Kradi,2,Fsink,0
+Cr4Nb3Rry,0,~J~,2
+Basedkubo,2,Tim? The Enchanter,0
+Bantler,0,Moe,2
+Dmx,0,~J~,2
+Potts,2,Kazami,0
+Wisely,0,Basedkubo,2
+Moe,0,~J~,2
+Potts,2,Basedkubo,0
+Tempest,2,~J~,0
+Fsink,0,Potts,2

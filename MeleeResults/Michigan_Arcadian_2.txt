@@ -1,0 +1,127 @@
+Ju4N,2,Suidt,1
+Shou,0,Thugz,2
+Toast,2,Sasha,0
+Will,2,Goonsquad,0
+Zbet,2,Magicubed,0
+I4N,2,Dirtboy,0
+Tran,2,Mojo,0
+Datrooph,2,Luigi Master Tae,0
+Skigh,2,Village Mascot,1
+Lange,1,Cam,2
+Russell,2,Heartstrings,0
+Honeybaked,2,Garzal,0
+Ctl,2,Taxi,0
+Treetz,2,Stitchface,1
+Roki,2,100%,0
+General Heinz,0,Jono,2
+Paper,2,Mikey B,0
+Team Nick,2,Iron,1
+Vegeta,2,Criphood,1
+Mules,2,Jwinks,1
+The Oak,2,Ready 4 Battle,0
+Parzival,2,Nutsack,0
+Zinoto,2,Ferriswheel,1
+Duel,2,Here For Timofey,1
+Nja,2,Pennysalem,0
+Minorthreat,2,Doanuts,0
+Fendricklamar,0,Cho,2
+Kinglit,0,Deep Fox,2
+Napkin,2,Ambition,0
+Supermegawalrus,2,Nexic,1
+Butch G,2,Ders,0
+Identity Crisis,2,Egg,0
+Ju4N,2,Thugz,0
+Toast,0,Will,2
+Zbet,2,I4N,0
+Tran,1,Datrooph,2
+Skigh,2,Cam,0
+Russell,0,Honeybaked,2
+Ctl,0,Treetz,2
+Roki,0,Jono,2
+Paper,2,Team Nick,1
+Vegeta,1,Mules,2
+The Oak,2,Parzival,0
+Zinoto,2,Duel,1
+Nja,2,Minorthreat,0
+Cho,0,Deep Fox,2
+Napkin,2,Supermegawalrus,0
+Butch G,2,Identity Crisis,1
+Ju4N,2,Will,0
+Zbet,2,Datrooph,0
+Skigh,2,Honeybaked,0
+Treetz,0,Jono,2
+Paper,0,Mules,2
+The Oak,2,Zinoto,0
+Nja,0,Deep Fox,2
+Napkin,1,Butch G,2
+Ju4N,1,Zbet,2
+Skigh,2,Jono,0
+Mules,0,The Oak,2
+Deep Fox,1,Butch G,2
+Zbet,0,Skigh,3
+The Oak,1,Butch G,3
+Skigh,0,Butch G,3
+Butch G,1,Skigh,3
+Skigh,2,Butch G,3
+Suidt,2,Shou,1
+Sasha,2,Goonsquad,1
+Magicubed,2,Dirtboy,0
+Mojo,2,Luigi Master Tae,0
+Village Mascot,2,Lange,0
+Heartstrings,2,Garzal,1
+Taxi,2,Stitchface,1
+100%,0,General Heinz,2
+Mikey B,1,Iron,2
+Criphood,2,Jwinks,0
+Ready 4 Battle,0,Nutsack,2
+Ferriswheel,2,Here For Timofey,1
+Pennysalem,2,Doanuts,0
+Fendricklamar,2,Kinglit,0
+Ambition,2,Nexic,0
+Ders,1,Egg,2
+Identity Crisis,1,Suidt,2
+Supermegawalrus,2,Sasha,0
+Cho,2,Magicubed,0
+Minorthreat,0,Mojo,2
+Duel,1,Village Mascot,2
+Parzival,2,Heartstrings,1
+Vegeta,2,Taxi,0
+Team Nick,1,General Heinz,2
+Roki,0,Iron,2
+Ctl,2,Criphood,0
+Russell,2,Nutsack,0
+Cam,0,Ferriswheel,2
+Tran,2,Pennysalem,0
+I4N,0,Fendricklamar,2
+Toast,0,Ambition,2
+Thugz,2,Egg,0
+Suidt,2,Supermegawalrus,0
+Cho,2,Mojo,0
+Village Mascot,0,Parzival,2
+Vegeta,2,General Heinz,0
+Iron,2,Ctl,1
+Russell,2,Ferriswheel,0
+Tran,1,Fendricklamar,2
+Ambition,2,Thugz,0
+Treetz,2,Suidt,1
+Honeybaked,2,Cho,0
+Datrooph,1,Parzival,2
+Will,0,Vegeta,2
+Napkin,2,Iron,0
+Nja,2,Russell,0
+Zinoto,2,Fendricklamar,0
+Paper,2,Ambition,0
+Treetz,1,Honeybaked,2
+Parzival,2,Vegeta,1
+Napkin,2,Nja,1
+Zinoto,2,Paper,1
+Mules,2,Honeybaked,0
+Deep Fox,1,Parzival,2
+Ju4N,2,Napkin,1
+Jono,0,Zinoto,2
+Mules,2,Parzival,1
+Ju4N,2,Zinoto,1
+Zbet,1,Mules,2
+The Oak,0,Ju4N,2
+Mules,3,Ju4N,0
+Skigh,3,Mules,0

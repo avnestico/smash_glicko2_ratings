@@ -1,0 +1,62 @@
+Mang0,2,Azri,0
+Corpsecreate,2,Caotic,0
+S.D.,2,Jbirds,0
+Zxv,2,Quetzalcoatl,0
+S2J,2,Zorsy,0
+Rainbow,2,Splice,0
+Hugs,2,Aussierob,0
+Qx,2,Sephiroth Nick,0
+Leffen,2,Sebby,0
+Skeletom,2,Karu,0
+Alex19,2,Cunchy,0
+Smopup,2,Depolaroid,0
+Lucky,2,Birdies,0
+Redact,2,Cf Spud,0
+Chillindude,2,Oli,0
+Mojomonkey,2,Atticus,0
+Mang0,3,Corpsecreate,0
+S.D.,3,Zxv,2
+S2J,3,Rainbow,0
+Hugs,3,Qx,0
+Leffen,3,Skeletom,0
+Alex19,3,Smopup,0
+Lucky,3,Redact,0
+Chillindude,3,Mojomonkey,0
+Mang0,3,S.D.,0
+S2J,3,Hugs,1
+Leffen,3,Alex19,0
+Lucky,3,Chillindude,0
+Mang0,3,S2J,0
+Leffen,3,Lucky,2
+Azri,0,Caotic,3
+Jbirds,0,Quetzalcoatl,3
+Zorsy,0,Splice,3
+Aussierob,1,Sephiroth Nick,3
+Sebby,2,Karu,3
+Cunchy,3,Depolaroid,0
+Birdies,0,Cf Spud,3
+Oli,0,Atticus,3
+Mojomonkey,3,Caotic,2
+Redact,3,Quetzalcoatl,1
+Smopup,2,Splice,3
+Skeletom,2,Sephiroth Nick,3
+Qx,1,Karu,3
+Rainbow,3,Cunchy,1
+Zxv,0,Cf Spud,3
+Corpsecreate,0,Atticus,3
+Mojomonkey,3,Redact,1
+Splice,3,Sephiroth Nick,2
+Karu,1,Rainbow,3
+Cf Spud,3,Atticus,0
+Hugs,3,Mojomonkey,0
+S.D.,3,Splice,0
+Chillindude,3,Rainbow,0
+Alex19,2,Cf Spud,3
+Hugs,3,S.D.,0
+Chillindude,3,Cf Spud,0
+Lucky,3,Hugs,2
+S2J,3,Chillindude,0
+Mang0,3,Leffen,2
+Lucky,3,S2J,1
+Leffen,3,Lucky,1
+Mang0,3,Leffen,2

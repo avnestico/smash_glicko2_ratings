@@ -1,0 +1,209 @@
+Icutyou,0,Riley,2
+Lady C,2,Turtle,0
+Garrett Brown,0,Rocky,2
+Thrillagorilla,2,Bad Controla,0
+Thundrio,2,Indigoroger,0
+Fatgoku,2,Riley,0
+Lady C,0,Rocky,2
+Dorowinifred Reads,2,Thrillagorilla,0
+Clam,0,Thundrio,2
+Fatgoku,2,Rocky,0
+Dorowinifred Reads,2,Thundrio,0
+Fatgoku,2,Dorowinifred Reads,0
+Turtle,0,Garrett Brown,2
+Clam,2,Icutyou,1
+Thrillagorilla,2,Garrett Brown,0
+Lady C,0,Bad Controla,2
+Riley,2,Indigoroger,0
+Clam,2,Thrillagorilla,1
+Bad Controla,0,Riley,2
+Rocky,1,Clam,2
+Thundrio,1,Riley,2
+Clam,0,Riley,2
+Dorowinifred Reads,2,Riley,0
+Eggz,2,Salvadoc,0
+Bart,2,Purpletuce,0
+Adam,2,Mayan Ryan,0
+Bird,2,Nikabod,0
+Fatgoku,2,Dorowinifred Reads,0
+Keith,2,Gage,0
+Foosjr,2,Greek God With A Wavebird,0
+Jizzard,2,Ja-Fraud,0
+Eggz,2,Bart,0
+Adam,1,Bird,2
+Fatgoku,2,Keith,0
+Foosjr,2,Jizzard,0
+Eggz,2,Bird,0
+Fatgoku,2,Foosjr,0
+Eggz,3,Fatgoku,0
+Eggz,2,Fatgoku,0
+Salvadoc,2,Purpletuce,0
+Mayan Ryan,0,Nikabod,2
+Dorowinifred Reads,1,Gage,2
+Greek God With A Wavebird,0,Ja-Fraud,2
+Jizzard,2,Salvadoc,1
+Keith,2,Nikabod,1
+Adam,0,Gage,2
+Bart,2,Ja-Fraud,0
+Jizzard,0,Keith,2
+Gage,2,Bart,0
+Bird,2,Keith,1
+Foosjr,2,Gage,1
+Bird,0,Foosjr,2
+Fatgoku,2,Foosjr,0
+Ttocsic,0,Fox,2
+Toller,2,Benish,1
+Nook,2,Madvillain,1
+3Van,0,Wrby,2
+Apathy,2,Jigglybuff,0
+Bird,2,Fox,0
+Toller,2,Nook,0
+Nikabod,2,Wrby,0
+Jazz,0,Apathy,2
+Bird,2,Toller,0
+Nikabod,2,Apathy,0
+Bird,2,Nikabod,1
+Benish,2,Madvillain,1
+Jazz,2,Ttocsic,0
+Wrby,2,Benish,1
+Nook,2,3Van,0
+Fox,2,Jigglybuff,0
+Jazz,0,Wrby,2
+Nook,0,Fox,2
+Toller,2,Wrby,0
+Apathy,0,Fox,2
+Toller,0,Fox,2
+Nikabod,2,Fox,0
+Jokima,2,Broken,0
+Adpextwindong,2,Brandon-Chan,0
+Saucy Pirate,2,(@Sadrunslive),0
+C0Rndog,0,Madhacker,2
+Shatnuh,0,Shakezula,2
+Keith,2,Jokima,0
+Adpextwindong,2,Saucy Pirate,0
+Gage,2,Madhacker,0
+Nox,2,Shakezula,0
+Keith,2,Adpextwindong,0
+Gage,2,Nox,0
+Keith,2,Gage,0
+Brandon-Chan,2,(@Sadrunslive),0
+Shakezula,2,Broken,0
+Madhacker,0,Brandon-Chan,2
+Saucy Pirate,2,C0Rndog,0
+Jokima,0,Shatnuh,2
+Shakezula,0,Brandon-Chan,2
+Saucy Pirate,2,Shatnuh,0
+Adpextwindong,2,Brandon-Chan,0
+Nox,2,Saucy Pirate,0
+Adpextwindong,0,Nox,2
+Gage,2,Nox,0
+Delicious Dave,2,No Worries,0
+Jordova,2,Red,0
+Kony,2,A Bunch Of Dots (..........),0
+War,2,Bell,1
+Purpletuce,2,Delicious Dave,1
+Electroswoosh,0,Jordova,2
+Bart,2,Kony,0
+Crow,2,War,0
+Purpletuce,2,Jordova,0
+Bart,2,Crow,0
+Purpletuce,0,Bart,2
+War,2,No Worries,1
+Kony,2,Red,0
+Electroswoosh,2,A Bunch Of Dots (..........),0
+Delicious Dave,2,Bell,0
+War,0,Kony,2
+Electroswoosh,0,Delicious Dave,2
+Jordova,2,Kony,0
+Crow,0,Delicious Dave,2
+Jordova,2,Delicious Dave,0
+Purpletuce,2,Jordova,0
+Letz,2,Show Me The Car Fax,0
+Lens,2,Masterfisk,0
+Sammy,0,Cheese Wizard,2
+Tspeeds,2,Nips,0
+Rh0Mbus,2,Beefcake,0
+Adam,2,Letz,0
+Lens,2,Cheese Wizard,1
+Mayan Ryan,2,Tspeeds,0
+Glaze,1,Rh0Mbus,2
+Adam,2,Lens,0
+Mayan Ryan,2,Rh0Mbus,0
+Adam,2,Mayan Ryan,0
+Masterfisk,2,Sammy,1
+Glaze,2,Show Me The Car Fax,0
+Tspeeds,2,Masterfisk,1
+Cheese Wizard,2,Nips,0
+Letz,2,Beefcake,0
+Glaze,1,Tspeeds,2
+Cheese Wizard,0,Letz,2
+Lens,0,Tspeeds,2
+Rh0Mbus,0,Letz,2
+Tspeeds,0,Letz,2
+Mayan Ryan,2,Letz,0
+Dirty Wizard,2,Chacka,0
+Braixen,2,Saint,0
+Zhivago,2,Paradox,0
+Robert Jones,2,Pox,0
+Lowkey Fire,2,Walrus420,0
+Foosjr,2,Dirty Wizard,0
+Braixen,1,Zhivago,2
+Greek God With A Wavebird,2,Robert Jones,0
+Leaf,2,Lowkey Fire,0
+Foosjr,2,Zhivago,0
+Greek God With A Wavebird,2,Leaf,0
+Foosjr,2,Greek God With A Wavebird,0
+Saint,0,Paradox,2
+Lowkey Fire,1,Chacka,2
+Braixen,2,Pox,0
+Dirty Wizard,2,Walrus420,0
+Chacka,1,Robert Jones,2
+Braixen,2,Dirty Wizard,0
+Zhivago,2,Robert Jones,0
+Leaf,2,Braixen,1
+Zhivago,1,Leaf,2
+Greek God With A Wavebird,2,Leaf,0
+Like Cake,2,Johnganes,0
+Lucasc,2,Shai,0
+Contra,2,Mort,0
+G~Man The Cosmic Destroyer,0,Wildphp,2
+Jizzard,2,Like Cake,0
+Mrbonkers,2,Lucasc,0
+Ja-Fraud,2,Contra,0
+Will,0,Wildphp,2
+Jizzard,2,Mrbonkers,0
+Ja-Fraud,1,Wildphp,2
+Jizzard,2,Wildphp,0
+Will,2,Johnganes,0
+Contra,2,Shai,0
+Lucasc,2,Mort,1
+Like Cake,2,G~Man The Cosmic Destroyer,0
+Will,0,Contra,2
+Lucasc,2,Like Cake,0
+Mrbonkers,0,Contra,2
+Ja-Fraud,2,Lucasc,0
+Contra,0,Ja-Fraud,2
+Wildphp,0,Ja-Fraud,2
+Weeabub,0,4 Star,2
+Bronte,2,Qamp,0
+Ender,0,Wqqqqwrt,2
+Thesuperiortaste,2,Duckporn,0
+Charey,0,Dsharp,2
+Eggz,2,4 Star,0
+Bronte,0,Wqqqqwrt,2
+Salvadoc,2,Thesuperiortaste,0
+Norfraud,2,Dsharp,0
+Eggz,2,Wqqqqwrt,0
+Salvadoc,2,Norfraud,0
+Eggz,2,Salvadoc,0
+Qamp,2,Ender,1
+Dsharp,2,Weeabub,0
+Thesuperiortaste,2,Qamp,0
+Bronte,2,Duckporn,0
+4 Star,2,Charey,0
+Dsharp,0,Thesuperiortaste,2
+Bronte,2,4 Star,0
+Wqqqqwrt,2,Thesuperiortaste,0
+Norfraud,2,Bronte,0
+Wqqqqwrt,0,Norfraud,2
+Salvadoc,2,Norfraud,0

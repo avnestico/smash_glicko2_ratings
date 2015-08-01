@@ -1,0 +1,103 @@
+Jj,0,Jjff,2
+Max,0,Tag,2
+Twin A,2,Cornholio69,0
+Fortefreak,2,Smurfyexe,0
+Corn,0,Capn Scfifty,2
+Wizard,2,Tinmo,1
+Glitch,2,6669,1
+Toro,2,Chroma,1
+Janet,0,Travist,2
+Turnipslip,0,Eastcoastjeff,2
+Byrd,0,Moneypants,2
+Neon,2,Scrubaroo,1
+Maxxxpower,2,Nerin,1
+Cg Trichael Man,1,Woker,2
+Sanchaz,2,Mexray,0
+Chi,1,Kalimari,2
+Tagless Kyle,2,Cg Zephyr,0
+Far!,2,Oksas,0
+Niav,1,Op Machine,2
+W,2,Blood Hawk,1
+Axe,2,Jjff,0
+Tag,0,Twin A,2
+Kbj,2,Fortefreak,0
+Jackietran.Com,2,Capn Scfifty,0
+Forward,2,Wizard,0
+Glitch,2,Toro,1
+Kira,2,Travist,0
+Vectorman,1,Eastcoastjeff,2
+Wobbles,2,Moneypants,0
+Neon,2,Maxxxpower,0
+Xtr Medz,2,Woker,0
+Squid,2,Sanchaz,1
+Westballz,2,Kalimari,0
+Tagless Kyle,2,Far!,0
+Tai,2,Op Machine,0
+Gg7,2,W,0
+Axe,2,Twin A,1
+Kbj,2,Jackietran.Com,0
+Forward,2,Glitch,0
+Kira,2,Eastcoastjeff,1
+Wobbles,2,Neon,0
+Xtr Medz,1,Squid,2
+Westballz,2,Tagless Kyle,1
+Tai,2,Gg7,0
+Axe,2,Kbj,0
+Forward,0,Kira,2
+Wobbles,2,Squid,1
+Westballz,1,Tai,2
+Axe,3,Kira,0
+Wobbles,3,Tai,1
+Axe,3,Wobbles,2
+Axe,2,Westballz,3
+Westballz,1,Axe,3
+Max,2,Cornholio69,1
+6669,1,Chroma,2
+Scrubaroo,0,Nerin,2
+Cg Zephyr,0,Oksas,2
+W,2,Jj,0
+Op Machine,1,Max,2
+Far!,2,Smurfyexe,0
+Kalimari,2,Corn,0
+Sanchaz,2,Tinmo,0
+Woker,2,Chroma,1
+Maxxxpower,2,Janet,1
+Moneypants,2,Turnipslip,1
+Vectorman,2,Byrd,0
+Travist,1,Nerin,2
+Toro,2,Cg Trichael Man,0
+Wizard,0,Mexray,2
+Capn Scfifty,0,Chi,2
+Fortefreak,2,Oksas,1
+Tag,2,Niav,0
+Jjff,2,Blood Hawk,0
+W,2,Max,0
+Far!,2,Kalimari,0
+Sanchaz,2,Woker,0
+Maxxxpower,2,Moneypants,0
+Vectorman,2,Nerin,0
+Toro,2,Mexray,0
+Chi,0,Fortefreak,2
+Tag,0,Jjff,2
+Eastcoastjeff,2,W,0
+Glitch,1,Far!,2
+Jackietran.Com,2,Sanchaz,0
+Twin A,2,Maxxxpower,1
+Gg7,2,Vectorman,0
+Tagless Kyle,2,Toro,1
+Xtr Medz,2,Fortefreak,1
+Neon,2,Jjff,1
+Eastcoastjeff,2,Far!,0
+Jackietran.Com,2,Twin A,0
+Gg7,2,Tagless Kyle,0
+Xtr Medz,2,Neon,0
+Squid,2,Eastcoastjeff,1
+Westballz,2,Jackietran.Com,0
+Kbj,2,Gg7,0
+Forward,0,Xtr Medz,2
+Squid,1,Westballz,3
+Kbj,3,Xtr Medz,1
+Kira,0,Westballz,3
+Tai,3,Kbj,1
+Westballz,3,Tai,2
+Wobbles,1,Westballz,3

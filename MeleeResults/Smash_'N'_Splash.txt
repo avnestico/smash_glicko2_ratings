@@ -1,0 +1,142 @@
+Plup,2,Zest,0
+Gem,2,Deep Fox,0
+Mundungu,0,John,2
+Rat,2,Xiivi,0
+Vro,2,Ninkendo64,0
+Thexy,0,Landry,2
+Scythe,2,@Teh_Blazerer,0
+Mark0W,2,$Wank,0
+Plup,2,Gem,0
+John,0,Rat,2
+Vro,2,Landry,0
+Scythe,2,Mark0W,0
+Plup,2,Rat,0
+Vro,2,Scythe,0
+Zest,0,Deep Fox,2
+Mundungu,2,Xiivi,0
+Ninkendo64,0,Thexy,2
+@Teh_Blazerer,2,$Wank,0
+Mark0W,2,Deep Fox,0
+Landry,0,Mundungu,2
+John,2,Thexy,0
+Gem,0,@Teh_Blazerer,2
+Mark0W,0,Mundungu,2
+John,0,@Teh_Blazerer,2
+Rat,0,Mundungu,2
+Scythe,2,@Teh_Blazerer,1
+Plup,2,Vro,0
+Mundungu,1,Scythe,2
+Dart!,2,Oven,0
+Jiano,2,Jfro,0
+Junebug,2,Ferris Wheel,0
+Thatguydp,2,Goodin,0
+Wizzrobe,2,Grab2Win,0
+The Good Doctor,2,Mars,0
+Hoefler,2,Eggy,0
+Hanky Panky,2,Massive,0
+Dart!,2,Jiano,0
+Junebug,2,Thatguydp,0
+Wizzrobe,2,The Good Doctor,0
+Hoefler,0,Hanky Panky,2
+Dart!,0,Junebug,2
+Wizzrobe,2,Hanky Panky,0
+Oven,2,Jfro,1
+Ferris Wheel,0,Goodin,2
+Grab2Win,2,Mars,0
+Eggy,0,Massive,2
+Hoefler,2,Oven,0
+The Good Doctor,2,Goodin,0
+Thatguydp,2,Grab2Win,0
+Jiano,2,Massive,0
+Hoefler,0,The Good Doctor,2
+Thatguydp,2,Jiano,0
+Dart!,2,The Good Doctor,0
+Hanky Panky,2,Thatguydp,0
+Junebug,0,Wizzrobe,2
+Dart!,2,Hanky Panky,1
+Mew2King,2,Rndm,0
+Dmac,2,Moy,0
+Orly,2,Crispus,0
+Sago,2,Noodle,0
+Drephen,2,Mf Bawstin,0
+Baka4Moe,2,Nice Climbers,0
+Oro?!,2,Jon$,0
+Metroid,2,Splishnsplash,0
+Mew2King,2,Dmac,0
+Orly,2,Sago,0
+Drephen,2,Baka4Moe,0
+Oro?!,2,Metroid,0
+Mew2King,2,Orly,0
+Drephen,2,Oro?!,0
+Rndm,0,Moy,2
+Crispus,2,Noodle,0
+Mf Bawstin,2,Nice Climbers,0
+Jon$,0,Splishsplash,2
+Metroid,2,Moy,0
+Baka4Moe,2,Crispus,0
+Sago,2,Mf Bawstin,0
+Dmac,2,Splishsplash,0
+Metroid,0,Baka4Moe,2
+Sago,2,Dmac,0
+Orly,0,Baka4Moe,2
+Oro?!,2,Sago,0
+Mew2King,2,Drephen,0
+Baka4Moe,2,Oro?!,0
+Kels,2,Reeve,0
+Cheato,2,Bowzer_Bro,0
+Prz,2,Nox,0
+Andale,2,Webs,0
+Darkrain,2,Parzival,0
+Pooch,0,Rik,2
+Hindawg,2,Dirtboy,0
+Captain Faceroll,2,Tenrye,0
+Kels,2,Cheato,0
+Prz,2,Andale,0
+Darkrain,2,Rik,0
+Hindawg,0,Captain Faceroll,2
+Kels,2,Prz,0
+Darkrain,2,Captain Faceroll,0
+Reeve,2,Bowzer_Bro,0
+Nox,2,Webs,0
+Parzival,0,Pooch,2
+Dirtboy,2,Tenrye,0
+Hindawg,2,Reeve,0
+Rik,2,Nox,0
+Andale,2,Pooch,0
+Cheato,2,Tenrye,0
+Hindawg,0,Rik,2
+Andale,2,Cheato,0
+Prz,0,Rik,2
+Captain Faceroll,2,Andale,0
+Kels,2,Darkrain,0
+Rik,0,Captain Faceroll,2
+Mew2King,2,Rik,0
+Darkrain,2,Baka4Moe,0
+Kels,2,Oro?!,0
+Drephen,2,Captain Faceroll,0
+Plup,2,Hanky Panky,1
+Scythe,1,Junebug,2
+Wizzrobe,2,Mundungu,0
+Vro,0,Dart!,2
+Mew2King,2,Darkrain,0
+Kels,2,Drephen,1
+Plup,2,Junebug,0
+Wizzrobe,0,Dart!,2
+Mew2King,3,Kels,1
+Plup,3,Dart!,1
+Rik,0,Baka4Moe,2
+Oro?!,1,Captain Faceroll,2
+Hanky Panky,2,Scythe,0
+Mundungu,0,Vro,2
+Wizzrobe,2,Baka4Moe,1
+Junebug,2,Captain Faceroll,1
+Drephen,1,Hanky Panky,2
+Darkrain,2,Vro,0
+Wizzrobe,3,Junebug,1
+Hanky Panky,1,Darkrain,3
+Kels,1,Wizzrobe,3
+Dart!,3,Darkrain,0
+Mew2King,3,Plup,0
+Wizzrobe,3,Dart!,2
+Plup,3,Wizzrobe,2
+Mew2King,3,Plup,0

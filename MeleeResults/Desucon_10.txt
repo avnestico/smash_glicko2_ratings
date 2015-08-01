@@ -1,0 +1,197 @@
+Hive,2,Hal,0
+Zprite,2,Hans Fredrik,0
+Fordiboii,2,Finn The Human,0
+Theredsock,2,Gry,0
+Simensomfins,2,Bjørnar Erstad,0
+Droid,2,Shizekato,0
+Torstein Alvern,2,Battlecat0310,0
+Apeduden,2,Deus,0
+20Xxwingleborgxxx,2,Vetle Holt,0
+Mjus,2,Medusa,0
+Jtr,1,Bb,2
+Casep,2,Mister Awesome,0
+Vlanitak,2,Ming Bang,0
+Navntøsen,2,Hans Martin,0
+Martin Rønningsbakk,2,Jeanette,0
+Aquachu,2,Thor,0
+Gulrot,0,Mats Xander Kamphuis,2
+Valentus,1,Shadow Skyer,2
+King Robin,2,Phillicus,0
+Weedl_V,2,Henrik Wright,0
+Gardex,2,Frozt,0
+Mbg,0,Andreas Johannesen,2
+Mr Greeb,2,Kristoffer Flaatstockinger,1
+Kapres,2,Doctor Noob,0
+Folvell,0,Mart,2
+Wiiase,2,Estefano,0
+Sweatypad,2,Den Geiten,0
+Brolaf,2,Vebjørn,0
+Surg,2,Andrine,0
+Petteh,2,Alfheim,0
+Dahean,2,Tom Andre,0
+Faofas,2,Bringer Of Kittens,0
+Hobo,2,The Lawnmower Man,0
+Sak,2,Akel,0
+Seetherabbit,2,Grell,0
+Øyvind Aasum,2,Kristine,0
+Tninja,2,Magnus Vesterøy,0
+Dragmirejr,2,Vemund,0
+Food,2,Karen,0
+Damity,0,Kafi Nikoo,2
+Paf,2,Adrian Storsanden,0
+Gambla,2,Jonas Larsen,1
+Ralfxh,2,Cato,0
+Kenz,2,Heimdaler,0
+Krisoyo,2,Heavy,0
+Flikkflakk,2,Hive,0
+Zprite,2,Fordiboii,1
+Theredsock,2,Simensomfins,0
+Howie,2,Droid,0
+Taka,2,Torstein Alvern,0
+Apeduden,2,Oldiz,1
+Big Dick Bandit,2,Ssjhenrik,0
+20Xxwingleborgxxx,2,Mjus,0
+Askeflink,2,Bb,0
+Casep,2,Vlanitak,0
+Navntøsen,2,Martin Rønningsbakk,0
+Aquachu,0,Mats Xander Kamphuis,2
+Potato Chips,2,Shadow Skyer,0
+King Robin,2,Weedl_V,0
+Gardex,2,Andreas Johannesen,0
+Mr Greeb,2,Kapres,0
+Wiiase,2,Sweatypad,0
+Brolaf,2,Surg,0
+Petteh,2,Kristian Kamphuis,0
+Harald,2,Dahean,0
+Faofas,0,Hobo,2
+Sealmore,2,Sebastian Andersen,0
+Sak,2,Seetherabbit,0
+Widl,2,Øyvind Aasum,0
+Flamo,0,Tninja,2
+Dragmirejr,2,Axz,0
+Drasil,2,Food,0
+Zorc,2,Kafi Nikoo,0
+Paf,2,Gambla,0
+Sverre,2,Ralfxh,0
+Kenz,2,Krisoyo,0
+Flikkflakk,2,Zprite,0
+Theredsock,2,Howie,0
+Taka,2,Apeduden,0
+Big Dick Bandit,2,20Xxwingleborgxxx,0
+Askeflink,2,Casep,0
+Navntøsen,2,Mats Xander Kamphuis,0
+Potato Chips,2,King Robin,0
+Gardex,2,Mr Greeb,1
+Kriz,2,Wiiase,0
+Brolaf,2,Petteh,0
+Harald,2,Hobo,0
+Sealmore,2,Sak,0
+Widl,2,Tninja,0
+Dragmirejr,2,Drasil,1
+Zorc,2,Paf,0
+Sverre,2,Kenz,1
+Flikkflakk,2,Theredsock,0
+Taka,0,Big Dick Bandit,2
+Askeflink,2,Navntøsen,0
+Potato Chips,2,Gardex,0
+Kriz,2,Brolaf,0
+Harald,2,Sealmore,0
+Widl,2,Dragmirejr,0
+Zorc,0,Sverre,2
+Flikkflakk,2,Big Dick Bandit,0
+Askeflink,1,Potato Chips,2
+Kriz,2,Harald,0
+Widl,2,Sverre,0
+Flikkflakk,3,Potato Chips,1
+Kriz,3,Widl,0
+Flikkflakk,2,Kriz,3
+Kriz,1,Flikkflakk,3
+Flikkflakk,1,Kriz,3
+Hans Fredrik,2,Finn The Human,0
+Gry,1,Bjørnar Erstad,2
+Vetle Holt,2,Medusa,0
+Mister Awesome,2,Ming Bang,0
+Hans Martin,1,Jeanette,2
+Frozt,2,Mbg,0
+Kristoffer Flaatstockinger,0,Doctor Noob,2
+Estefano,0,Den Geiten,2
+Vebjørn,2,Andrine,1
+Akel,2,Grell,0
+Adrian Storsanden,0,Jonas Larsen,2
+Krisoyo,2,Hal,0
+Gambla,2,Bjørnar Erstad,0
+Axz,2,Deus,0
+Øyvind Aasum,2,Vetle Holt,0
+Seetherabbit,2,Jtr,0
+Faofas,2,Jeanette,0
+Dahean,1,Gulrot,2
+Sweatypad,2,Frozt,0
+Kapres,0,Folvell,2
+Andreas Johannesen,2,Den Geiten,0
+Weedl_V,2,Vebjørn,0
+Aquachu,2,Tom Andre,0
+Bb,2,Akel,0
+Mjus,2,Kristine,0
+Ssjhenrik,2,Magnus Vesterøy,0
+Oldiz,2,Vemund,0
+Droid,2,Damity,1
+Hive,2,Heavy,0
+Krisoyo,2,Hans Fredrik,0
+Gambla,2,Kafi Nikoo,0
+Food,2,Axz,0
+Flamo,2,Øyvind Aasum,0
+Faofas,0,Gulrot,2
+Valentus,2,Henrik Wright,0
+Sweatypad,2,Doctor Noob,0
+Folvell,2,Andreas Johannesen,0
+Weedl_V,2,Ulf,0
+Aquachu,2,Martin Rønningsbakk,0
+Mjus,2,Ssjhenrik,0
+Oldiz,2,Torstein Alvern,0
+Droid,0,Simensomfins,2
+Fordiboii,2,Hive,0
+Mr Greeb,2,Krisoyo,0
+King Robin,2,Gambla,0
+Mats Xander Kamphuis,2,Food,0
+Casep,2,Flamo,0
+20Xxwingleborgxxx,2,Seetherabbit,0
+Apeduden,2,Gulrot,0
+Howie,2,Valentus,0
+Zprite,0,Sweatypad,2
+Kenz,2,Folvell,0
+Paf,2,Weedl_V,0
+Drasil,2,Aquachu,1
+Sak,2,Mjus,0
+Hobo,2,Oldiz,0
+Petteh,2,Simensomfins,0
+Wiiase,2,Fordiboii,1
+Mr Greeb,2,King Robin,0
+Mats Xander Kamphuis,2,Casep,1
+20Xxwingleborgxxx,2,Apeduden,0
+Howie,2,Sweatypad,0
+Kenz,2,Paf,1
+Drasil,2,Vlanitak,0
+Sak,2,Hobo,1
+Petteh,2,Wiiase,0
+Brolaf,2,Mr Greeb,0
+Sealmore,2,Mats Xander Kamphuis,0
+Dragmirejr,2,20Xxwingleborgxxx,0
+Zorc,2,Howie,1
+Theredsock,2,Kenz,1
+Taka,2,Drasil,0
+Navntøsen,2,Sak,0
+Gardex,2,Petteh,0
+Brolaf,0,Sealmore,2
+Dragmirejr,0,Zorc,2
+Theredsock,0,Taka,2
+Navntøsen,0,Gardex,2
+Big Dick Bandit,2,Sealmore,1
+Askeflink,2,Zorc,0
+Harald,1,Taka,2
+Sverre,2,Gardex,0
+Big Dick Bandit,0,Askeflink,3
+Taka,2,Sverre,3
+Widl,2,Askeflink,3
+Potato Chips,3,Sverre,2
+Askeflink,3,Potato Chips,2
+Flikkflakk,3,Askeflink,0

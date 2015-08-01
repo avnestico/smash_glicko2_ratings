@@ -1,0 +1,218 @@
+Kwote,0,Pd,2
+Boop,2,Amae,0
+Ddhs,2,Zora,0
+Karma,2,Steve Harvey,0
+Ersaac,2,G.U.M.P,0
+Slayer,2,Pd,0
+Boop,0,Ddhs,2
+Coyote,2,Karma,0
+Amz,0,Ersaac,2
+Slayer,2,Ddhs,0
+Coyote,0,Ersaac,2
+Amae,0,Zora,2
+Amz,2,Kwote,0
+Karma,2,Zora,0
+Boop,2,Steve Harvey,0
+Pd,2,G.U.M.P,0
+Amz,0,Karma,2
+Boop,0,Pd,2
+Ddhs,2,Karma,0
+Coyote,0,Pd,2
+Yung Stalin,2,Dejuan,0
+Dork,0,Shiro,2
+Koopahermit,2,Cow,1
+Stub,0,Yoshq,2
+Projectile Dysfunction,0,Mattmog,2
+Triple R,2,Yung Stalin,0
+Shiro,2,Koopahermit,0
+D.Disiple,2,Yoshq,0
+Bluntdoctor,2,Mattmog,0
+Triple R,2,Shiro,0
+D.Disiple,2,Bluntdoctor,0
+Dork,0,Cow,2
+Mattmog,2,Dejuan,0
+Yoshq,2,Cow,0
+Koopahermit,0,Stub,2
+Yung Stalin,0,Projectile Dysfunction,2
+Mattmog,0,Yoshq,2
+Stub,0,Projectile Dysfunction,2
+Shiro,0,Yoshq,2
+Bluntdoctor,2,Projectile Dysfunction,0
+Jemmini,2,Loring,1
+Seabear,0,Sunken,2
+Fluffy,2,Weikai,1
+Tales,2,M00Nbarker,0
+Protato,2,Spd,0
+Absent Page,2,Jemmini,0
+Sunken,2,Fluffy,0
+Veklor,1,Tales,2
+Lord,1,Protato,2
+Absent Page,2,Sunken,0
+Tales,2,Protato,0
+Seabear,0,Weikai,2
+Lord,2,Loring,0
+Veklor,2,Weikai,0
+Fluffy,0,M00Nbarker,2
+Jemmini,0,Spd,2
+Lord,0,Veklor,2
+M00Nbarker,2,Spd,0
+Sunken,0,Veklor,2
+Protato,0,M00Nbarker,2
+Buddy,2,Gabe,0
+Moo Two,0,Zicore,2
+The Manwich,0,Inferno Jack,2
+Pumpz,2,Shut Yo Meowth,0
+Sync,2,Buddy,0
+Fc_Ethan,0,Zicore,2
+Breezy,2,Inferno Jack,0
+Brando550,1,Pumpz,2
+Sync,1,Zicore,2
+Breezy,2,Pumpz,0
+Brando550,0,Gabe,2
+Inferno Jack,2,Moo Two,0
+Fc_Ethan,2,The Manwich,1
+Buddy,2,Shut Yo Meowth,0
+Gabe,0,Inferno Jack,2
+Fc_Ethan,0,Buddy,2
+Sync,2,Inferno Jack,0
+Pumpz,0,Buddy,2
+Barrett7212,0,Voltron,2
+B33F Injectin Hoes',2,Nowun,0
+Thor Gon Jinn,2,Joben,0
+Reebs,2,Blooey,0
+Tempest,2,Voltron,0
+Flow Double,0,B33F Injectin Hoes',2
+Knight,2,Thor Gon Jinn,0
+Brian,0,Reebs,2
+Tempest,2,B33F Injectin Hoes',0
+Knight,2,Reebs,0
+Brian,2,Barrett7212,0
+Thor Gon Jinn,2,Nowun,0
+Flow Double,2,Joben,0
+Voltron,2,Blooey,0
+Brian,0,Thor Gon Jinn,2
+Flow Double,2,Voltron,0
+B33F Injectin Hoes',2,Thor Gon Jinn,0
+Reebs,0,Flow Double,2
+Musigh,2,Snow,1
+Snowstorm,2,Fudu,1
+Torp,0,That Guy,2
+Seabass,2,Bath Cat,0
+Amanze,2,Musigh,0
+Funk,1,Snowstorm,2
+Max,2,That Guy,0
+Casualist,0,Seabass,2
+Amanze,2,Snowstorm,0
+Max,2,Seabass,0
+Casualist,2,Snow,0
+That Guy,2,Fudu,0
+Funk,2,Torp,0
+Musigh,0,Bath Cat,2
+Casualist,0,That Guy,2
+Funk,0,Bath Cat,2
+Snowstorm,0,That Guy,2
+Seabass,2,Bath Cat,0
+Trill,0,Nappz,2
+Cottonmouth,2,Munch,0
+I Am Alex Yu,2,Taichou,0
+Shadowsonnek,2,Jdl,0
+Ergo,2,Uncle Iroh,0
+Ostrich Glue,2,Raz,0
+Wake,2,Nappz,0
+Cottonmouth,0,I Am Alex Yu,2
+Inui,2,Shadowsonnek,0
+Ergo,2,Ostrich Glue,0
+Wake,2,I Am Alex Yu,0
+Inui,0,Ergo,2
+Munch,0,Taichou,2
+Uncle Iroh,0,Raz,2
+Ostrich Glue,0,Trill,2
+Shadowsonnek,0,Taichou,2
+Cottonmouth,2,Jdl,0
+Nappz,0,Raz,2
+Trill,0,Taichou,2
+Cottonmouth,0,Raz,2
+I Am Alex Yu,2,Taichou,0
+Inui,2,Raz,0
+Teddy,0,Bayless,2
+Ibc,2,Kenny,0
+Stairmaster,0,14,2
+Slogs,0,Jibca,2
+Tuey,0,Iceberg,2
+Rat,2,Bayless,0
+Ibc,2,14,0
+Dairy,2,Jibca,0
+Count Gooby,0,Iceberg,2
+Rat,2,Ibc,0
+Dairy,2,Iceberg,0
+Kenny,2,Stairmaster,0
+Count Gooby,0,Teddy,2
+Jibca,2,Kenny,0
+14,2,Slogs,0
+Bayless,2,Tuey,0
+Teddy,0,Jibca,2
+14,0,Bayless,2
+Ibc,2,Jibca,0
+Iceberg,0,Bayless,2
+Slayer,2,Blunt Doctor,0
+Ersaac,2,Beef Injectin Hoes,0
+Rattigan,2,Flow Double,0
+Dairy,2,Sync,0
+Zicore,2,Pd,1
+Breezy,2,Ibc,0
+Tempest,2,Yoshq,0
+Knight,2,Ddhs,0
+Triple R,2,Seabass,0
+Mvg D. Disciple,2,That Guy,0
+Wake,2,Buddy,0
+Ergo,1,Veklor,2
+Absentpage,2,Bayless,0
+Tails,1,I Am Alex Yu,2
+Amanze,2,M00Nbarker,1
+Maxy B,1,Mvg Inui,2
+Slayer,2,Ersaac,1
+Rattigan,2,Dairy,0
+Zicore,2,Breezy,0
+Tempest,2,Knight,0
+Triple R,2,Mvg D. Disciple,0
+Wake,2,Veklor,1
+Absentpage,2,I Am Alex Yu,0
+Amanze,2,Mvg Inui,1
+Slayer,2,Rattigan,0
+Zicore,1,Tempest,2
+Triple R,0,Wake,2
+Absentpage,2,Amanze,0
+Slayer,2,Tempest,0
+Wake,2,Absentpage,1
+Slayer,2,Wake,1
+Slayer,1,Wake,2
+Wake,1,Slayer,2
+Blunt Doctor,0,Beef Injectin Hoes,2
+Flow Double,0,Sync,2
+Pd,2,Ibc,0
+Yoshq,0,Ddhs,2
+Seabass,0,That Guy,2
+Buddy,0,Ergo,2
+Bayless,1,Tails,2
+M00Nbarker,0,Maxy B,2
+Mvg Inui,2,Beef Injectin Hoes,0
+Veklor,2,Pd,1
+Mvg D. Disciple,2,Ddhs,0
+Knight,2,That Guy,0
+Breezy,2,Ergo,1
+Dairy,2,Tails,0
+Ersaac,2,Maxy B,0
+Mvg Inui,2,Sync,1
+Veklor,2,Mvg D. Disciple,0
+Knight,1,Breezy,2
+Dairy,2,Ersaac,1
+Zicore,0,Mvg Inui,2
+Rattigan,2,Veklor,0
+Amanze,2,Breezy,1
+Triple R,2,Dairy,0
+Mvg Inui,0,Rattigan,2
+Amanze,2,Triple R,0
+Absentpage,2,Rattigan,1
+Tempest,1,Amanze,2
+Absentpage,2,Amanze,1
+Wake,2,Absentpage,1

@@ -1,0 +1,126 @@
+Duck,2,Game,0
+Gamero,0,Vegeta,2
+Roki,2,Sheebz,0
+Zbet,2,Sasha,0
+Juggleguy,2,Plastic,0
+Rh1Thmz,2,Iron,0
+Blake,2,Yoyo,0
+Severest,2,Lange,1
+Drephen,2,Lucy,0
+Cam,1,Fendricklamar,2
+Dre,2,Luigimastertae,0
+The Oak,2,Deep Fox,0
+Prince Abu,2,Metacopolys,0
+General Heinz,2,Nexic,0
+.Dempt,2,Dad,0
+Skigh,2,Mingee,0
+Kalamazhu,2,Coupkey,0
+Ryejew,2,Honeybaked,1
+Lain,2,Neil,0
+Ctl,2,Dirtboy,1
+Beach,2,Kudos,0
+G.I. Jon: The Movie,2,Will,1
+Ginger,2,Masterjroll,0
+Paper,2,Jobahfett,0
+Kjh,2,Criphood,0
+Kinglit,2,Nja,0
+Soul,2,Monk,1
+Ju4N,2,Cop Crusher,0
+4%,2,Skraaaaa,0
+Russell,1,Rasto,2
+Hellsing,2,Zashi,0
+Rooktionary,2,Parzival,1
+Duck,2,Vegeta,0
+Roki,0,Zbet,2
+Juggleguy,2,Rh1Thmz,0
+Blake,2,Severest,0
+Drephen,2,Fendricklamar,0
+Dre,0,The Oak,2
+Prince Abu,2,General Heinz,0
+.Dempt,1,Skigh,2
+Kalamazhu,2,Ryejew,0
+Lain,2,Ctl,1
+Beach,2,G.I. Jon: The Movie,0
+Ginger,2,Paper,0
+Kjh,2,Kinglit,0
+Soul,2,Ju4N,1
+4%,2,Rasto,0
+Hellsing,2,Rooktionary,0
+Duck,2,Zbet,0
+Juggleguy,2,Blake,1
+Drephen,2,The Oak,0
+Prince Abu,2,Skigh,0
+Kalamazhu,2,Lain,0
+Beach,1,Ginger,2
+Kjh,2,Soul,0
+4%,2,Hellsing,0
+Duck,1,Juggleguy,2
+Drephen,0,Prince Abu,2
+Kalamazhu,2,Ginger,0
+Kjh,1,4%,2
+Juggleguy,0,Prince Abu,3
+Kalamazhu,1,4%,3
+Prince Abu,3,4%,1
+Prince Abu,0,Duck,3
+Duck,3,Prince Abu,0
+Game,1,Gamero,2
+Sheebz,1,Sasha,2
+Plastic,0,Iron,2
+Yoyo,2,Lange,0
+Lucy,2,Cam,1
+Luigimastertae,0,Deep Fox,2
+Metacopolys,0,Nexic,2
+Dad,2,Mingee,0
+Coupkey,0,Honeybaked,2
+Neil,0,Dirtboy,2
+Kudos,0,Will,2
+Masterjroll,0,Jobahfett,2
+Criphood,0,Nja,2
+Monk,0,Cop Crusher,2
+Skraaaaa,0,Russell,2
+Zashi,1,Parzival,2
+Rooktionary,2,Gamero,0
+Rasto,2,Sasha,1
+Ju4N,2,Iron,0
+Kinglit,0,Yoyo,2
+Paper,2,Lucy,1
+G.I. Jon: The Movie,2,Deep Fox,0
+Ctl,2,Nexic,1
+Ryejew,2,Dad,1
+.Dempt,2,Honeybaked,0
+General Heinz,2,Dirtboy,0
+Dre,2,Will,0
+Fendricklamar,0,Jobahfett,2
+Severest,0,Nja,2
+Rh1Thmz,2,Cop Crusher,0
+Roki,2,Russell,0
+Vegeta,2,Parzival,1
+Rooktionary,2,Rasto,0
+Ju4N,0,Yoyo,2
+Paper,2,G.I. Jon: The Movie,0
+Ctl,2,Ryejew,0
+.Dempt,2,General Heinz,0
+Dre,2,Jobahfett,0
+Nja,2,Rh1Thmz,0
+Roki,2,Vegeta,1
+Skigh,2,Rooktionary,1
+The Oak,2,Yoyo,0
+Blake,2,Paper,0
+Zbet,0,Ctl,2
+Hellsing,2,.Dempt,1
+Soul,2,Dre,1
+Beach,1,Nja,2
+Lain,2,Roki,0
+Blake,2,Ctl,0
+Hellsing,1,Soul,2
+Nja,0,Lain,2
+Ginger,2,Skigh,0
+Kjh,2,Blake,0
+Duck,2,Soul,0
+Drephen,2,Lain,1
+Ginger,0,Kjh,2
+Duck,2,Drephen,0
+Juggleguy,0,Kjh,2
+Kalamazhu,0,Duck,2
+Kjh,1,Duck,3
+4%,0,Duck,3

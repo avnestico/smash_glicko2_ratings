@@ -1,0 +1,63 @@
+Mew2King,2,Samurai Jack,0
+Ash,0,Gem,2
+Neon,2,Jj,0
+Corigames,2,Yeeman,0
+Tai,2,Chris,0
+Patcombo,0,Janet,2
+Gg7,2,Dopple,0
+Maxxxpower,2,Spamus,0
+Axe,2,Dr. R,0
+Schfifty,0,Glitch,2
+Tagless Kyle,2,6669,0
+Fortefreak,2,Blur,1
+Forward,2,Jehuty,0
+Vitro,2,Ic3,0
+Medz,2,Ninji,0
+Oksas,2,Kalimari,1
+Mew2King,2,Gem,0
+Neon,2,Corigames,0
+Tai,2,Janet,0
+Gg7,2,Maxxxpower,0
+Axe,2,Glitch,0
+Tagless Kyle,2,Fortefreak,0
+Forward,2,Vitro,1
+Medz,2,Oksas,0
+Mew2King,2,Neon,0
+Tai,2,Gg7,0
+Axe,2,Tagless Kyle,0
+Forward,0,Medz,2
+Mew2King,3,Tai,0
+Axe,3,Medz,0
+Mew2King,3,Axe,1
+Mew2King,2,Axe,3
+Axe,3,Mew2King,0
+Samurai Jack,2,Ash,0
+Jj,0,Yeeman,2
+Chris,0,Patcombo,2
+Dopple,1,Spamus,2
+Dr. R,0,Schfifty,2
+6669,2,Blur,1
+Jehuty,0,Ic3,2
+Ninji,1,Kalimari,2
+Oksas,2,Samurai Jack,0
+Vitro,2,Yeeman,1
+Fortefreak,2,Patcombo,0
+Glitch,2,Spamus,0
+Maxxxpower,1,Schfifty,2
+Janet,2,6669,1
+Corigames,2,Ic3,0
+Gem,2,Kalimari,1
+Oksas,2,Vitro,1
+Fortefreak,1,Glitch,2
+Schfifty,2,Janet,1
+Corigames,2,Gem,1
+Gg7,2,Oksas,0
+Neon,2,Glitch,1
+Forward,2,Schfifty,0
+Tagless Kyle,2,Corigames,0
+Gg7,2,Neon,0
+Forward,2,Tagless Kyle,1
+Medz,2,Gg7,1
+Tai,0,Forward,2
+Medz,2,Forward,3
+Axe,3,Forward,1

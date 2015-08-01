@@ -1,0 +1,63 @@
+Blunted_Object10,2,Jim Shaw,0
+Booshk,2,Ruin,0
+Bwmatt,1,Rk,2
+Madj,2,Ori,0
+Patooty,2,Zilo,0
+A6M,2,Dime,0
+Noobking,2,Firefly,0
+Espi,2,Tps,0
+Prismagica,2,Skidd,1
+Mojomonkey,2,Polo,0
+Mikevancity604,2,Thegtree,0
+Dawreck,2,Webwipe,0
+Yakal,2,Tko,0
+Ch Killerwhale,0,The Intern,2
+Edge,2,Elate,0
+Bodlack,2,Yield,0
+Blunted_Object10,2,Booshk,0
+Rk,0,Madj,2
+Patooty,1,A6M,2
+Noobking,2,Espi,0
+Prismagica,2,Mojomonkey,1
+Mikevancity604,1,Dawreck,2
+Yakal,1,The Intern,2
+Edge,2,Bodlack,1
+Blunted_Object10,2,Madj,0
+A6M,1,Noobking,2
+Prismagica,2,Dawreck,0
+The Intern,0,Edge,2
+Blunted_Object10,2,Noobking,0
+Prismagica,2,Edge,0
+Blunted_Object10,3,Prismagica,1
+Blunted_Object10,1,Prismagica,3
+Prismagica,1,Blunted_Object10,3
+Jim Shaw,2,Ruin,0
+Bwmatt,2,Ori,0
+Zilo,2,Dime,0
+Firefly,2,Tps,0
+Skidd,2,Polo,0
+Thegtree,0,Webwipe,2
+Tko,0,Ch Killerwhale,2
+Elate,0,Yield,2
+Bodlack,2,Jim Shaw,0
+Yakal,2,Bwmatt,0
+Mikevancity604,2,Zilo,0
+Mojomonkey,2,Firefly,1
+Espi,2,Skidd,1
+Patooty,2,Webwipe,1
+Rk,0,Ch Killerwhale,2
+Booshk,2,Yield,0
+Bodlack,1,Yakal,2
+Mikevancity604,1,Mojomonkey,2
+Espi,2,Patooty,0
+Ch Killerwhale,2,Booshk,0
+A6M,0,Yakal,2
+Madj,2,Mojomonkey,1
+The Intern,1,Espi,2
+Dawreck,2,Ch Killerwhale,0
+Yakal,2,Madj,1
+Espi,2,Dawreck,1
+Edge,2,Yakal,0
+Noobking,0,Espi,2
+Edge,2,Espi,0
+Prismagica,3,Edge,0

@@ -1,0 +1,62 @@
+Kirbykaze,2,Green Ranger,0
+Swiftbass,2,Ciz,0
+Dj Nintendo,0,Ralph,2
+Dizzkidboogie,0,Mattdotzeb,2
+S2J,2,Ace Of Flakes,0
+Frycook,2,Raynex,0
+The Moon,2,Qerb,0
+Slox,1,Zhu,2
+Hax,2,Zanguzen,0
+Mafia,0,Captain Smuckers,2
+Swedish Delight,2,Alan,0
+Homemadewaffles,0,Jeapie,2
+Lucky,2,Velocity,0
+N0Ne,2,Mr. F,0
+Wizzrobe,2,Delphiki,0
+Cactuar,0,Nintendude,2
+Kirbykaze,2,Swiftbass,0
+Ralph,2,Mattdotzeb,0
+S2J,2,Frycook,1
+The Moon,2,Zhu,1
+Hax,2,Captain Smuckers,0
+Swedish Delight,2,Jeapie,0
+Lucky,2,N0Ne,0
+Wizzrobe,1,Nintendude,2
+Kirbykaze,2,Ralph,1
+S2J,2,The Moon,0
+Hax,2,Swedish Delight,0
+Lucky,0,Nintendude,2
+Kirbykaze,2,S2J,3
+Hax,2,Nintendude,3
+Green Ranger,0,Ciz,2
+Dj Nintendo,0,Dizzkidboogie,2
+Ace Of Flakes,0,Raynex,2
+Qerb,2,Slox,0
+Zanguzen,2,Mafia,0
+Alan,0,Homemadewaffles,2
+Velocity,0,Mr. F,2
+Delphiki,0,Cactuar,2
+Wizzrobe,2,Ciz,0
+N0Ne,2,Dizzkidboogie,0
+Jeapie,2,Raynex,1
+Captain Smuckers,2,Qerb,1
+Zhu,0,Zanguzen,2
+Frycook,0,Homemadewaffles,2
+Mattdotzeb,0,Mr. F,2
+Swiftbass,1,Cactuar,2
+Wizzrobe,2,N0Ne,0
+Jeapie,2,Captain Smuckers,0
+Zanguzen,2,Homemadewaffles,1
+Mr. F,0,Cactuar,2
+The Moon,1,Wizzrobe,2
+Ralph,0,Jeapie,2
+Lucky,2,Zanguzen,1
+Swedish Delight,1,Cactuar,2
+Wizzrobe,3,Jeapie,1
+Lucky,3,Cactuar,2
+Hax,3,Wizzrobe,1
+Kirbykaze,0,Lucky,3
+S2J,3,Nintendude,1
+Hax,2,Lucky,3
+Nintendude,1,Lucky,3
+S2J,1,Lucky,6

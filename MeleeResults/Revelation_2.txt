@@ -1,0 +1,62 @@
+Mew2King,2,Swami,0
+Keyo,0,Kittymw,2
+Lovo,2,Romance,0
+Syrox,2,Wink,0
+Cactuar,2,Thrasher,0
+Frizz,2,Nite Money,0
+Slip N Slide,2,Lunchmeat,0
+Ace,0,Turtle,2
+Axe,2,Dtan,0
+Kurt Mcgurt,1,Fishbait,2
+Ferdi,2,Wizp,0
+Holynugz,2,Gt. Hooligan,0
+Zhu,2,Breezy,0
+Hondafoo,2,Envelope,0
+Medz,2,Feedee,0
+Mattdotzeb,2,Lee,1
+Mew2King,2,Kittymw,0
+Lovo,2,Syrox,0
+Cactuar,2,Frizz,0
+Slip N Slide,2,Turtle,0
+Axe,2,Fishbait,1
+Ferdi,0,Holynugz,2
+Zhu,2,Hondafoo,0
+Medz,1,Mattdotzeb,2
+Mew2King,2,Lovo,0
+Cactuar,2,Slip N Slide,1
+Axe,2,Holynugz,0
+Zhu,2,Mattdotzeb,1
+Mew2King,2,Cactuar,0
+Axe,2,Zhu,0
+Swami,0,Keyo,2
+Romance,2,Wink,0
+Thrasher,0,Nite Money,2
+Lunchmeat,2,Ace,0
+Dtan,1,Kurt Mcgurt,2
+Wizp,2,Gt. Hooligan,1
+Breezy,1,Envelope,2
+Feedee,0,Lee,2
+Medz,2,Keyo,0
+Hondafoo,2,Romance,1
+Ferdi,2,Nite Money,0
+Fishbait,2,Lunchmeat,1
+Turtle,2,Kurt Mcgurt,0
+Frizz,2,Wizp,0
+Syrox,2,Envelope,0
+Kittymw,2,Lee,0
+Medz,2,Hondafoo,0
+Ferdi,2,Fishbait,0
+Turtle,0,Frizz,2
+Syrox,2,Kittymw,0
+Slip N Slide,1,Medz,2
+Lovo,2,Ferdi,0
+Mattdotzeb,2,Frizz,0
+Holynugz,1,Syrox,2
+Medz,2,Lovo,0
+Mattdotzeb,2,Syrox,1
+Zhu,2,Medz,0
+Cactuar,2,Mattdotzeb,0
+Mew2King,3,Axe,0
+Zhu,1,Cactuar,2
+Axe,3,Cactuar,1
+Mew2King,4,Axe,5

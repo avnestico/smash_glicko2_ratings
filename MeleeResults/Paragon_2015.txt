@@ -1,0 +1,130 @@
+Hungrybox,3,Mew2King,0
+Eikelmannrus,2,Fullmetal,1
+Christian,2,Owl,0
+Eikelmannrus,2,Jbomb,0
+Bigwenz,0,Rockcrock,2
+Rula,0,Articanus,2
+Prof,2,Paz,1
+Envy,0,Uuaa,2
+Gimr,0,Keepspeedn,2
+Upke,2,Mordicon,1
+Pb&J,0,Pengie,2
+The Author,0,Christian,2
+Mushroom Dynamite!,2,Bluejim,0
+Sartron,0,Rice,2
+Harriet,2,Jrad,0
+Apollo,1,Elliot,2
+Smilez :),2,Flyingpikachu,1
+Moltov,0,Deez,2
+Fearless,0,Dashizwiz,2
+Flow,0,Eikelmannrus,2
+Mike Haze,2,Rockcrock,1
+Porkchops,0,Articanus,2
+Spider Sense,2,Prof,1
+Kpan,2,Uuaa,0
+Gravy,2,Keepspeedn,0
+Blea Gelo,2,Upke,1
+Awstintacious,1,Pengie,2
+Pi,2,Christian,0
+Gahtzu,2,Mushroom Dynamite!,0
+Laudandus,2,Rice,1
+Druggedfox,2,Harriet,0
+Smashmac,2,Elliot,0
+Dizzkidboogie,0,Smilez :),2
+S0Ft,2,Deez,0
+Blueg,0,Dashizwiz,2
+Eikelmannrus,0,Mike Haze,2
+Articanus,0,Spider Sense,2
+Kpan,1,Gravy,2
+Blea Gelo,2,Pengie,0
+Pi,0,Gahtzu,2
+Laudandus,0,Druggedfox,2
+Smashmac,2,Smilez :),0
+S0Ft,2,Dashizwiz,0
+Wizzrobe,2,Mike Haze,0
+Westballz,2,Spider Sense,0
+Cactuar,2,Gravy,0
+Shroomed,2,Blea Gelo,1
+Macd,2,Gahtzu,1
+Zhu,2,Druggedfox,1
+Hugs,2,Smashmac,0
+Sfat,2,S0Ft,0
+Wizzrobe,1,Westballz,2
+Cactuar,0,Shroomed,2
+Macd,2,Zhu,1
+Hugs,1,Sfat,2
+Lucky,1,Westballz,2
+Colbol,0,Shroomed,2
+Leffen,2,Macd,0
+Axe,2,Sfat,1
+Westballz,3,Shroomed,0
+Leffen,3,Axe,2
+Plup,1,Westballz,3
+Armada,2,Leffen,3
+Westballz,1,Leffen,3
+Mew2King,3,Leffen,1
+Dashizwiz,2,Fullmetal,1
+Pengie,2,Owl,0
+Hungrybox,2,Dashizwiz,0
+Awstintacious,2,Fearless,0
+Macd,2,Deez,0
+Blea Gelo,2,Moltov,0
+Gravy,2,Flyingpikachu,0
+Zhu,2,Smilez :),0
+Elliot,1,Kpan,2
+Lucky,2,Apollo,0
+Armada,2,Jrad,0
+Harriet,1,Spider Sense,2
+Hugs,2,Rice,0
+Porkchops,2,Sartron,0
+Mike Haze,2,Bluejim,0
+Colbol,2,Mushroom Dynamite!,0
+Flow,2,The Author,0
+Sfat,2,Christian,1
+Leffen,2,Pengie,0
+Pb&J,0,Blueg,2
+Wizzrobe,2,Mordicon,0
+S0Ft,2,Upke,0
+Dizzkidboogie,2,Keepspeedn,0
+Plup,2,Gimr,0
+Uuaa,1,Smashmac,2
+Westballz,2,Envy,0
+Mew2King,2,Paz,0
+Druggedfox,2,Prof,0
+Cactuar,2,Articanus,0
+Laudandus,2,Rula,1
+Gahtzu,2,Rockcrock,0
+Shroomed,2,Bigwenz,0
+Pi,2,Jbomb,0
+Axe,2,Eikelmannrus,0
+Hungrybox,2,Awstintacious,0
+Macd,2,Blea Gelo,1
+Gravy,0,Zhu,2
+Kpan,0,Lucky,2
+Armada,2,Spider Sense,0
+Hugs,2,Porkchops,0
+Mike Haze,0,Colbol,2
+Flow,0,Sfat,2
+Leffen,2,Blueg,0
+Wizzrobe,2,S0Ft,1
+Dizzkidboogie,0,Plup,2
+Smashmac,0,Westballz,2
+Mew2King,2,Druggedfox,0
+Cactuar,2,Laudandus,1
+Gahtzu,0,Shroomed,2
+Pi,1,Axe,2
+Hungrybox,2,Macd,0
+Zhu,0,Lucky,2
+Armada,2,Hugs,1
+Colbol,2,Sfat,0
+Leffen,2,Wizzrobe,1
+Plup,2,Westballz,0
+Mew2King,2,Cactuar,0
+Shroomed,0,Axe,2
+Hungrybox,2,Lucky,0
+Armada,2,Colbol,1
+Leffen,1,Plup,2
+Mew2King,2,Axe,0
+Hungrybox,3,Armada,2
+Plup,1,Mew2King,3
+Hungrybox,3,Mew2King,1

@@ -1,0 +1,61 @@
+Hax,2,Chuuper,0
+Tian,0,Professor Pro,2
+G$,2,Fiya,0
+Dev,0,Vino,2
+Android,2,Hectohertz,0
+Dizzkidboogie,2,Emukiller,0
+Hdl,2,Zero Omega,0
+Fuzzyness,2,Otg,0
+Ice,2,Pc Chris,0
+Eikelmannrus,0,Zanguzen,2
+Swedish Delight,2,Crush,0
+Zoler,2,Captain Smuckers,0
+The Moon,2,Mikehaggar,0
+Ryan K,0,Mattdotzeb,2
+Dj Nintendo,2,Dudutsai,0
+Beerman,2,Calle W,0
+Hax,2,Professor Pro,0
+G$,2,Vino,0
+Android,2,Dizzkidboogie,0
+Hdl,0,Fuzzyness,2
+Ice,2,Zanguzen,0
+Swedish Delight,2,Zoler,0
+The Moon,2,Mattdotzeb,0
+Dj Nintendo,2,Beerman,0
+Hax,2,G$,0
+Android,0,Fuzzyness,2
+Ice,2,Swedish Delight,0
+The Moon,2,Dj Nintendo,0
+Hax,2,Fuzzyness,0
+Ice,0,The Moon,2
+Chuuper,0,Tian,2
+Fiya,2,Dev,0
+Hectohertz,0,Emukiller,2
+Zero Omega,0,Otg,2
+Pc Chris,2,Eikelmannrus,0
+Crush,2,Captain Smuckers,0
+Mikehaggar,0,Ryan K,2
+Dudutsai,2,Calle W,0
+Beerman,2,Tian,0
+Mattdotzeb,2,Fiya,0
+Zoler,0,Emukiller,2
+Zanguzen,2,Otg,0
+Hdl,2,Pc Chris,0
+Dizzkidboogie,0,Crush,2
+Vino,2,Ryan K,0
+Professor Pro,2,Dudutsai,0
+Beerman,2,Mattdotzeb,0
+Emukiller,0,Zanguzen,2
+Hdl,2,Crush,0
+Vino,0,Professor Pro,2
+Android,2,Beerman,0
+G$,0,Zanguzen,2
+Dj Nintendo,0,Hdl,2
+Swedish Delight,0,Professor Pro,2
+Android,0,Zanguzen,2
+Hdl,0,Professor Pro,2
+Ice,2,Zanguzen,0
+Fuzzyness,0,Professor Pro,2
+Hax,2,The Moon,3
+Ice,3,Professor Pro,1
+Hax,3,Ice,0

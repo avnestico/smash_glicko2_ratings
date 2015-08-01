@@ -1,0 +1,334 @@
+Cheese Wizard,1,Benish,2
+Bell Ringa,2,Cbd,0
+Calvin,1,Glaze,2
+Clodzero,2,Sgs_,0
+Bob$,2,Thundrio,1
+Mew2King,2,Benish,0
+Dcr,2,Jordova,1
+Fish,2,Bell Ringa,0
+This,2,Glaze,0
+Jarod,2,Clodzero,0
+Magnum Dragon,1,Scury,2
+Salvadoc,2,Bob$,0
+Duck Porn,2,Just David,0
+Mew2King,2,Dcr,0
+Fish,1,This,2
+Jarod,2,Scury,0
+Salvadoc,2,Duck Porn,0
+Mew2King,2,This,0
+Jarod,1,Salvadoc,2
+Mew2King,2,Salvadoc,0
+Just David,0,Cheese Wizard,2
+Magnum Dragon,2,Cbd,0
+Clodzero,2,Calvin,0
+Glaze,2,Sgs_,0
+Jordova,2,Thundrio,0
+Bob$,2,Cheese Wizard,0
+Magnum Dragon,0,Clodzero,2
+Bell Ringa,0,Glaze,2
+Jordova,2,Benish,0
+Fish,0,Bob$,2
+Dcr,2,Clodzero,0
+Duck Porn,0,Glaze,2
+Scury,0,Jordova,2
+Bob$,2,Dcr,0
+Glaze,2,Jordova,1
+Jarod,1,Bob$,2
+This,2,Glaze,0
+Bob$,0,This,2
+Salvadoc,2,This,1
+Beef Cake,2,Tony Stefano,0
+Downhill,0,Noomspawn,2
+Pineapple,0,Spider Jew,2
+Bman,2,Holy Raptor,0
+Dz,2,Tspeeds1,1
+Andronio,2,Rhombus,1
+Dr. Knee,2,Charey,0
+Bladewise,2,Beef Cake,0
+Koder,1,Grape,2
+Orion,0,Noomspawn,2
+Aeiou,2,Spider Jew,0
+Alien,2,Bman,0
+Silent,0,Dz,2
+Brick,2,Andronio,0
+Bronte,0,Dr. Knee,2
+Bladewise,2,Grape,0
+Noomspawn,2,Aeiou,1
+Alien,2,Dz,0
+Brick,2,Dr. Knee,0
+Bladewise,2,Noomspawn,0
+Alien,2,Brick,0
+Bladewise,2,Alien,0
+Bronte,2,Tony Stefano,0
+Silent,2,Downhill,0
+Bman,2,Pineapple,1
+Spider Jew,2,Holy Raptor,0
+Orion,0,Tspeeds1,2
+Koder,0,Rhombus,2
+Beef Cake,2,Charey,0
+Andronio,1,Bronte,2
+Silent,0,Bman,2
+Spider Jew,2,Tspeeds1,1
+Rhombus,0,Beef Cake,2
+Aeiou,1,Bronte,2
+Grape,0,Bman,2
+Dr. Knee,2,Spider Jew,0
+Dz,2,Beef Cake,0
+Bronte,0,Bman,2
+Dr. Knee,0,Dz,2
+Brick,2,Bman,1
+Noomspawn,0,Dz,2
+Brick,0,Dz,2
+Alien,2,Dz,0
+Brandon-Chan,2,Shake_Zula,0
+Abro,2,Franqly,0
+Shai,0,Hungry Head Crab,2
+Sly,2,Rom,0
+Qff,2,Kez,0
+Eggz,2,Brandon-Chan,0
+Koschka,0,Gooey,2
+Burnt Wood,2,Abro,0
+Awful,0,Hungry Head Crab,2
+Dsl,2,Sly,0
+Vox,2,Ladyc,1
+Fox,2,Qff,0
+Roap,1,6969,2
+Eggz,2,Gooey,0
+Burnt Wood,0,Hungry Head Crab,2
+Dsl,2,Vox,0
+Fox,2,6969,0
+Eggz,2,Hungry Head Crab,0
+Dsl,2,Fox,1
+Eggz,2,Dsl,0
+Roap,0,Shake_Zula,2
+Ladyc,2,Franqly,0
+Sly,2,Shai,0
+Awful,2,Rom,0
+Koschka,2,Kez,0
+Qff,2,Shake_Zula,0
+Ladyc,2,Sly,1
+Abro,2,Awful,0
+Koschka,0,Brandon-Chan,2
+Burnt Wood,0,Qff,2
+Gooey,2,Ladyc,1
+6969,2,Abro,1
+Vox,0,Brandon-Chan,2
+Qff,2,Gooey,1
+6969,0,Brandon-Chan,2
+Fox,2,Qff,0
+Hungry Head Crab,2,Brandon-Chan,1
+Fox,2,Hungry Head Crab,1
+Jokima,0,Ganobrator,2
+Apathy,2,Saucy Pirate,0
+Girmes,2,Serth,0
+$Ca$H Morey$,2,Rady,1
+Captain Pants,0,Pox,2
+Fatgoku,2,Ganobrator,0
+Goose,2,Lowkey_Fire,1
+A Genderless Hobo,2,Apathy,0
+Walrus,1,Girmes,2
+Dirty Wizard,0,$Ca$H Morey$,2
+Jizzard,2,Jiggly Buff,0
+Antic,2,Pox,1
+Coffe Hamster,0,Spencer,2
+Fatgoku,2,Goose,0
+A Genderless Hobo,2,Girmes,0
+$Ca$H Morey$,0,Jizzard,2
+Antic,2,Spencer,0
+Fatgoku,2,A Genderless Hobo,0
+Jizzard,2,Antic,0
+Fatgoku,2,Jizzard,0
+Coffe Hamster,0,Jokima,2
+Jiggly Buff,1,Saucy Pirate,2
+Dirty Wizard,2,Serth,0
+Walrus,2,Rady,0
+Lowkey_Fire,0,Captain Pants,2
+Pox,2,Jokima,1
+Saucy Pirate,2,Dirty Wizard,1
+Apathy,2,Walrus,0
+Captain Pants,0,Ganobrator,2
+Girmes,0,Pox,2
+Goose,0,Saucy Pirate,2
+Spencer,0,Apathy,2
+$Ca$H Morey$,0,Ganobrator,2
+Pox,2,Saucy Pirate,1
+Apathy,2,Ganobrator,0
+Antic,2,Pox,1
+A Genderless Hobo,1,Apathy,2
+Antic,2,Apathy,1
+Jizzard,0,Antic,2
+Marth,2,Jack Uzi,0
+Grant,0,War,2
+Ham,2,Crbn,0
+Peluche,2,Mort,0
+$W@G Horn3T,2,Armour,0
+Iceman,2,Marth,0
+Volk,0,Saggy,2
+Gabin,2,War,0
+Riley,2,Ham,1
+Oreo,2,Peluche,0
+Frog,0,Stratus,2
+Leaf,2,$W@G Horn3T,0
+Cyanasian,2,Lobotomy,0
+Iceman,2,Saggy,0
+Gabin,0,Riley,2
+Oreo,2,Stratus,0
+Leaf,2,Cyanasian,0
+Iceman,2,Riley,0
+Oreo,1,Leaf,2
+Iceman,2,Leaf,1
+Lobotomy,0,Jack Uzi,2
+Frog,2,Grant,0
+Peluche,2,Crbn,0
+Ham,2,Mort,1
+Volk,2,Armour,0
+$W@G Horn3T,2,Jack Uzi,0
+Frog,0,Peluche,2
+War,0,Ham,2
+Volk,2,Marth,0
+Gabin,2,$W@G Horn3T,1
+Saggy,2,Peluche,0
+Cyanasian,0,Ham,2
+Stratus,0,Volk,2
+Gabin,0,Saggy,2
+Ham,0,Volk,2
+Oreo,2,Saggy,0
+Riley,2,Volk,0
+Oreo,2,Riley,0
+Tlr,2,Crown,0
+Zubola,0,Zakotou,2
+Marcellus,2,Bozy,0
+Hadouken,2,Nephilium,0
+Dan,0,Mccoy,2
+Ebay,2,Tlr,0
+Clam,0,Paul The Monster,2
+Indigo Roger,0,Zakotou,2
+Tudle,0,Marcellus,2
+Keith,2,Muchoman Randy Passion,0
+Vae,2,$Iracha,0
+Pookie,2,Hadouken,0
+Fest,2,Mccoy,0
+Ebay,2,Paul The Monster,0
+Zakotou,2,Marcellus,0
+Keith,2,Vae,0
+Pookie,2,Fest,0
+Ebay,2,Zakotou,0
+Keith,2,Pookie,0
+Ebay,2,Keith,0
+Mccoy,0,Crown,2
+$Iracha,0,Zubola,2
+Muchoman Randy Passion,0,Bozy,2
+Clam,0,Nephilium,2
+Tlr,2,Dan,0
+Hadouken,2,Crown,0
+Zubola,0,Bozy,2
+Indigo Roger,0,Tudle,2
+Nephilium,0,Tlr,2
+Marcellus,0,Hadouken,2
+Paul The Monster,2,Bozy,0
+Fest,1,Tudle,2
+Vae,2,Tlr,0
+Hadouken,2,Paul The Monster,0
+Tudle,0,Vae,2
+Pookie,2,Hadouken,0
+Zakotou,2,Vae,0
+Pookie,2,Zakotou,0
+Keith,2,Pookie,1
+Zeke,0,Thane,2
+Nb,0,Tlo,2
+Adpextwindong,2,Katie Kelly Kreygasm,1
+Dokyun,2,Will Page,0
+Jazz,2,Ogino,0
+Bird,2,Thane,0
+Trig,2,Blink,0
+Kid,0,Tlo,2
+Symphomikev,0,Adpextwindong,2
+Bart,2,Dokyun,0
+Mofat,1,Madvillain,2
+Epg Chevy,2,Jazz,0
+Thal,2,Fat,0
+Bird,2,Trig,0
+Tlo,1,Adpextwindong,2
+Bart,2,Madvillain,0
+Epg Chevy,2,Thal,0
+Bird,2,Adpextwindong,0
+Bart,2,Epg Chevy,0
+Bird,2,Bart,0
+Dokyun,2,Katie Kelly Kreygasm,0
+Symphomikev,2,Will Page,0
+Blink,0,Ogino,2
+Jazz,2,Zeke,1
+Nb,0,Dokyun,2
+Kid,0,Symphomikev,2
+Ogino,1,Thane,2
+Tlo,2,Jazz,0
+Trig,1,Dokyun,2
+Thal,1,Symphomikev,2
+Madvillain,0,Thane,2
+Tlo,1,Dokyun,2
+Symphomikev,2,Thane,0
+Epg Chevy,2,Dokyun,1
+Adpextwindong,2,Symphomikev,0
+Epg Chevy,2,Adpextwindong,1
+Bart,2,Epg Chevy,0
+Selise,0,Nook,2
+Electroswoosh,2,Nikhil,0
+Juicebox,0,Dudellikecake,2
+Toasty,1,Ryan,2
+Seg,0,Sexy Nachos,2
+Adam,2,Nook,0
+Tchaynes,0,Lens,2
+Contra,0,Electroswoosh,2
+Kerp,1,Dudellikecake,2
+Vino,2,Ryan,0
+@Sadrunslive,0,Kajun,2
+Delicious Dave,2,Sexy Nachos,0
+Ender,0,Salty Seth,2
+Adam,2,Lens,0
+Electroswoosh,2,Dudellikecake,0
+Vino,2,Kajun,0
+Delicious Dave,2,Salty Seth,1
+Adam,2,Electroswoosh,0
+Vino,2,Delicious Dave,0
+Adam,0,Vino,2
+Ender,1,Selise,2
+@Sadrunslive,0,Nikhil,2
+Ryan,2,Juicebox,0
+Kerp,0,Toasty,2
+Tchaynes,1,Seg,2
+Sexy Nachos,2,Selise,0
+Nikhil,2,Ryan,0
+Contra,2,Toasty,0
+Seg,0,Nook,2
+Dudellikecake,0,Sexy Nachos,2
+Lens,0,Nikhil,2
+Salty Seth,2,Contra,0
+Kajun,2,Nook,0
+Sexy Nachos,0,Nikhil,2
+Salty Seth,2,Kajun,0
+Delicious Dave,2,Nikhil,0
+Electroswoosh,2,Salty Seth,0
+Delicious Dave,2,Electroswoosh,0
+Adam,2,Delicious Dave,0
+Mew2King,2,Vino,0
+Fatgoku,2,Iceman,1
+Bladewise,2,Bird,0
+Eggz,3,Ebay,0
+Mew2King,3,Fatgoku,1
+Bladewise,3,Eggz,0
+Mew2King,3,Bladewise,0
+Mew2King,3,Bladewise,0
+Salvadoc,0,Adam,2
+Antic,0,Oreo,2
+Alien,0,Bart,2
+Dsl,1,Keith,2
+Ebay,2,Adam,0
+Bird,2,Oreo,0
+Iceman,2,Bart,0
+Vino,2,Keith,0
+Ebay,2,Bird,0
+Iceman,0,Vino,2
+Fatgoku,3,Ebay,0
+Eggz,3,Vino,1
+Fatgoku,3,Eggz,1
+Bladewise,3,Fatgoku,0

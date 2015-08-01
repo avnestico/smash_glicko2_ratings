@@ -1,0 +1,11 @@
+Nintendude,3,Druggedfox,1
+The Moon,3,Redd,0
+Nintendude,3,The Moon,2
+Nintendude,0,The Moon,3
+The Moon,3,Nintendude,2
+Dj Nintendo,2,Vist,0
+Swedish Delight,2,S0Ft,0
+Redd,0,Dj Nintendo,3
+Druggedfox,2,Swedish Delight,3
+Dj Nintendo,1,Swedish Delight,3
+The Moon,3,Swedish Delight,2

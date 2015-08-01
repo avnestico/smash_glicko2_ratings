@@ -1,0 +1,62 @@
+Armada,2,Padoki,0
+Gusti,1,Dj Black,2
+Dev,2,Widde,0
+Hack,2,Taka,0
+Professor Pro,2,Rpg,0
+Zoler,2,Lamp,0
+Calle W,2,Kikkoman,0
+Jadde,2,Irregularjinny,0
+Leffen,2,Nils,0
+Random-Ness,2,Askeflink,0
+Ivp,2,Lootic,0
+Humpe,2,Brtarolg,0
+Android,2,Big Dick Hunter,0
+Djagof,2,Pontus,0
+Beat,2,Flodens Mun,0
+Fauster,2,Kuja,0
+Armada,3,Dj Black,0
+Dev,1,Hack,2
+Professor Pro,2,Zoler,1
+Calle W,2,Jadde,3
+Leffen,3,Random-Ness,0
+Ivp,3,Humpe,1
+Android,3,Djagof,1
+Beat,2,Fauster,1
+Armada,3,Hack,0
+Professor Pro,3,Jadde,0
+Leffen,3,Ivp,0
+Android,3,Beat,1
+Armada,3,Professor Pro,0
+Leffen,3,Android,0
+Padoki,0,Gusti,2
+Widde,1,Taka,2
+Rpg,2,Lamp,0
+Kikkoman,1,Irregularjinny,2
+Nils,0,Askeflink,2
+Lootic,2,Brtarolg,0
+Big Dick Hunter,1,Pontus,2
+Flodens Mun,1,Kuja,2
+Fauster,2,Gusti,0
+Djagof,3,Taka,0
+Humpe,3,Rpg,0
+Random-Ness,3,Irregularjinny,0
+Calle W,3,Askeflink,1
+Zoler,2,Lootic,0
+Dev,2,Pontus,0
+Dj Black,2,Kuja,0
+Fauster,1,Djagof,3
+Humpe,3,Random-Ness,0
+Calle W,3,Zoler,0
+Dev,3,Dj Black,1
+Jadde,3,Djagof,1
+Hack,3,Humpe,1
+Beat,3,Calle W,1
+Ivp,3,Dev,1
+Jadde,0,Hack,3
+Beat,3,Ivp,1
+Android,1,Hack,3
+Professor Pro,3,Beat,1
+Armada,3,Leffen,1
+Hack,1,Professor Pro,3
+Leffen,3,Professor Pro,0
+Armada,3,Leffen,2

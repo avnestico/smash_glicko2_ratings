@@ -1,0 +1,31 @@
+Shroomed,2,Rocky,0
+Ralph,2,Phil,0
+Laudandus,2,Bardeezy,0
+Toph,2,Delphiki,0
+Sfat,2,Mr. Brandandorf,0
+Azusa,2,Alan,1
+Bizzarro Flame,2,Ycz,1
+Silentspectre,0,Gar,2
+Shroomed,2,Ralph,0
+Laudandus,1,Toph,2
+Sfat,2,Azusa,1
+Bizzarro Flame,2,Gar,0
+Shroomed,3,Toph,0
+Sfat,3,Bizzarro Flame,2
+Shroomed,2,Sfat,3
+Sfat,2,Shroomed,3
+Shroomed,2,Sfat,3
+Rocky,1,Phil,2
+Bardeezy,1,Delphiki,2
+Mr. Brandandorf,1,Alan,2
+Ycz,0,Silentspectre,2
+Gar,1,Phil,2
+Azusa,1,Delphiki,2
+Laudandus,2,Alan,0
+Ralph,2,Silentspectre,0
+Phil,0,Delphiki,2
+Laudandus,1,Ralph,2
+Toph,2,Delphiki,1
+Bizzarro Flame,2,Ralph,1
+Toph,1,Bizzarro Flame,3
+Shroomed,3,Bizzarro Flame,1

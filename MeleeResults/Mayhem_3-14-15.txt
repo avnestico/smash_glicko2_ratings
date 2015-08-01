@@ -1,0 +1,281 @@
+Goober Meister,0,Garlic,2
+Macd,2,Garlic,0
+Smackledorf007,0,Spam,2
+Wrench,0,Indie_Dave,2
+Pastabilities,2,Bash,0
+Baka4Moe,2,Matticus,0
+Yeti,2,Neeco,0
+Myl,2,Marbles,0
+Og Asi,2,Connorasada,0
+Macd,2,Spam,0
+Indie_Dave,2,Pastabilities,0
+Baka4Moe,2,Yeti,0
+Myl,2,Og Asi,0
+Macd,2,Indie_Dave,0
+Baka4Moe,2,Myl,0
+Connorasada,0,Goober Meister,2
+Marbles,0,Goober Meister,2
+Neeco,0,Matticus,2
+Bash,0,Wrench,2
+Smackledorf007,0,Garlic,2
+Pastabilities,0,Goober Meister,2
+Spam,2,Matticus,0
+Og Asi,2,Wrench,0
+Yeti,2,Garlic,0
+Goober Meister,0,Spam,2
+Og Asi,0,Yeti,2
+Myl,2,Spam,0
+Indie_Dave,0,Yeti,2
+Glaceon,2,Grizzly,0
+Westballz,2,Glaceon,0
+Bigc,2,Squeeb,0
+Wuggy,0,Bliutwo,2
+Pride,2,Darksplash,0
+J666,2,Megaballs,0
+Xell,2,The Death Dealer,0
+Toucancam,2,Breezy,0
+Neonpegasus,0,Cow,2
+Westballz,2,Bigc,0
+Bliutwo,2,Pride,0
+J666,2,Xell,0
+Toucancam,0,Cow,2
+Westballz,2,Bliutwo,0
+J666,2,Cow,0
+Neonpegasus,0,Grizzly,2
+Breezy,2,Grizzly,0
+The Death Dealer,0,Megaballs,2
+Darksplash,0,Wuggy,2
+Squeeb,0,Glaceon,2
+Pride,0,Breezy,2
+Bigc,2,Megaballs,0
+Toucancam,2,Wuggy,0
+Xell,0,Glaceon,2
+Breezy,2,Bigc,0
+Toucancam,2,Glaceon,0
+Cow,2,Breezy,0
+Bliutwo,0,Toucancam,2
+Morven,0,Exhale,2
+Lush,0,Kramepie,2
+Ken,2,Exhale,0
+Streetlamp,0,Senpapi,2
+Bigpete,0,Baja,2
+Pan-Tdropa,0,Darkclops,2
+Jpegimage,2,Kramepie,0
+P.Y.G.O.,0,Rovl,2
+Manatee,2,Caesar (Salad),0
+Neonbiscuit,0,Crimson Amateur Lobotomy,2
+Ken,2,Senpapi,0
+Baja,2,Darkclops,0
+Jpegimage,2,Rovl,0
+Manatee,2,Crimson Amateur Lobotomy,0
+Ken,2,Baja,0
+Jpegimage,2,Manatee,0
+Neonbiscuit,0,Morven,2
+Pan-Tdropa,0,Lush,2
+Caesar (Salad),0,Morven,2
+P.Y.G.O.,0,Kramepie,2
+Bigpete,0,Lush,2
+Streetlamp,0,Exhale,2
+Darkclops,2,Morven,0
+Senpapi,0,Kramepie,2
+Crimson Amateur Lobotomy,0,Lush,2
+Rovl,0,Exhale,2
+Darkclops,0,Kramepie,2
+Lush,2,Exhale,0
+Manatee,2,Kramepie,0
+Baja,2,Lush,0
+Morningthunder,2,Fire,0
+Kyle G,2,Juice,0
+Kira,2,Morningthunder,0
+Sus Boy,0,Recluse*,2
+Pogo,2,Aaron,0
+Whiskeymilk,0,Dankrooster,2
+Sung475,2,Kyle G,0
+Overies13,2,Thecharlesguy,0
+Meechy Darko (Nonsense),2,C.C.,0
+Zeta,2,Cog,0
+Kira,2,Recluse*,0
+Pogo,2,Dankrooster,0
+Sung475,2,Overies13,0
+Meechy Darko (Nonsense),2,Zeta,0
+Kira,2,Pogo,0
+Sung475,2,Meechy Darko (Nonsense),0
+Cog,2,Fire,0
+Whiskeymilk,0,Juice,2
+C.C.,0,Cog,2
+Thecharlesguy,0,Kyle G,2
+Aaron,2,Juice,0
+Sus Boy,0,Morningthunder,2
+Dankrooster,0,Cog,2
+Recluse*,2,Kyle G,0
+Zeta,0,Aaron,2
+Overies13,2,Morningthunder,0
+Cog,0,Recluse*,2
+Aaron,2,Overies13,0
+Meechy Darko (Nonsense),2,Recluse*,0
+Pogo,0,Aaron,2
+Mister Dawson,0,Fish,2
+Hyprid,2,Fish,0
+Shazmah,0,Titty Sprinkles,2
+Madman,2,Auspicious,0
+Vic_Ramen,0,Davey,2
+Reno,2,Lazitdown69,0
+Zamma,0,Saiko,2
+Peligro,2,Nikolai Chang,0
+Null,0,Cinnamonappleoatmeal,2
+Hyprid,2,Titty Sprinkles,0
+Madman,2,Davey,0
+Reno,2,Saiko,0
+Peligro,2,Cinnamonappleoatmeal,0
+Hyprid,2,Madman,0
+Reno,2,Peligro,0
+Null,0,Mister Dawson,2
+Nikolai Chang,2,Mister Dawson,0
+Zamma,2,Lazitdown69,0
+Vic_Ramen,0,Auspicious,2
+Shazmah,0,Fish,2
+Davey,2,Nikolai Chang,0
+Titty Sprinkles,0,Zamma,2
+Cinnamonappleoatmeal,2,Auspicious,0
+Saiko,2,Fish,0
+Davey,0,Zamma,2
+Cinnamonappleoatmeal,0,Saiko,2
+Peligro,2,Zamma,0
+Madman,0,Saiko,2
+Moss,2,Gyran,0
+Leonding,0,Kimmy,2
+Lucky,2,Moss,0
+Shabadadu #Banyoshi'Sstory,0,Tilt,2
+Quasar,2,Ayo,0
+Poomoj,0,Diya,2
+Coolhat,2,Kimmy,0
+You''Repizza,0,Rustysneakers,2
+Exumer,2,Casper,0
+Prinny,2,Cman,0
+Lucky,2,Tilt,0
+Quasar,0,Diya,2
+Coolhat,2,Rustysneakers,0
+Exumer,0,Prinny,2
+Lucky,2,Diya,0
+Coolhat,2,Prinny,0
+Cman,0,Gyran,2
+Poomoj,2,Leonding,0
+Casper,0,Gyran,2
+You''Repizza,0,Kimmy,2
+Ayo,0,Poomoj,2
+Shabadadu #Banyoshi'Sstory,0,Moss,2
+Quasar,2,Gyran,0
+Tilt,2,Kimmy,0
+Exumer,2,Poomoj,0
+Rustysneakers,2,Moss,0
+Quasar,2,Tilt,0
+Exumer,0,Rustysneakers,2
+Prinny,2,Quasar,0
+Diya,0,Rustysneakers,2
+Meme Lord,0,Nardis,2
+Church,0,Kanti,2
+Tafokints,2,Nardis,0
+Shoang,0,Tenshii,2
+Sugoi Kuma,2,Dilla,0
+Kony,0,Coach West,2
+A Rookie,2,Kanti,0
+Zed,0,Vavez,2
+Nasa,2,Booty,0
+Phadon,0,Terriblefox,2
+Tafokints,2,Tenshii,0
+Sugoi Kuma,2,Coach West,0
+A Rookie,2,Vavez,0
+Nasa,2,Terriblefox,0
+Tafokints,2,Sugoi Kuma,0
+A Rookie,2,Nasa,0
+Phadon,2,Meme Lord,0
+Kony,2,Church,0
+Booty,2,Phadon,0
+Zed,0,Kanti,2
+Dilla,0,Kony,2
+Shoang,0,Nardis,2
+Coach West,2,Booty,0
+Tenshii,0,Kanti,2
+Terriblefox,0,Kony,2
+Vavez,0,Nardis,2
+Coach West,0,Kanti,2
+Kony,0,Nardis,2
+Nasa,2,Kanti,0
+Sugoi Kuma,0,Nardis,2
+Myfishcantswim,2,Nanaandpopo,0
+Chrome,2,Kaneki,0
+Hugs,2,Myfishcantswim,0
+T1S,2,Shockolate,0
+Strain,2,Derpdacorn,0
+Hulka,2,Crocwarlord,0
+Jace,2,Chrome,0
+Volt,0,Dnoz,2
+Toxic Reflection,2,Cesar,0
+Wash,0,Rca,2
+Hugs,2,T1S,0
+Strain,2,Hulka,0
+Jace,2,Dnoz,0
+Toxic Reflection,2,Rca,0
+Hugs,2,Strain,0
+Jace,2,Toxic Reflection,0
+Wash,0,Nanaandpopo,2
+Crocwarlord,0,Kaneki,2
+Cesar,2,Nanaandpopo,0
+Volt,0,Chrome,2
+Derpdacorn,0,Kaneki,2
+Shockolate,2,Myfishcantswim,0
+Hulka,2,Cesar,0
+T1S,0,Chrome,2
+Rca,2,Kaneki,0
+Dnoz,2,Shockolate,0
+Hulka,2,Chrome,0
+Rca,0,Dnoz,2
+Toxic Reflection,0,Hulka,2
+Strain,0,Dnoz,2
+Westballz,2,J666,0
+Hyprid,0,Reno,2
+Hugs,2,Jace,1
+Ken,2,Jpegimage,0
+Lucky,2,Coolhat,0
+Tafokints,1,A Rookie,2
+Macd,2,Baka4Moe,0
+Kira,2,Sung475,1
+Westballz,2,Reno,0
+Hugs,2,Ken,1
+Lucky,2,A Rookie,0
+Macd,2,Kira,0
+Westballz,0,Hugs,3
+Lucky,3,Macd,2
+Hugs,3,Lucky,2
+Hugs,1,Lucky,3
+Lucky,2,Hugs,3
+Dnoz,0,Saiko,2
+Prinny,2,Aaron,0
+Rustsneakers,2,Baja,0
+Nardis,2,Hulka,1
+Peligro,2,Yeti,1
+Toucancam,2,Meechy Darko,0
+Cow,0,Manatee,2
+Nasa,0,Myl,2
+Sung475,2,Saiko,0
+Baka4Moe,2,Prinny,0
+Tafokints,2,Rustsneakers,0
+Coolhat,0,Nardis,2
+Jpegimage,2,Peligro,0
+Jace,2,Toucancam,0
+Hyprid,2,Manatee,0
+J666,2,Myl,0
+Sung475,1,Baka4Moe,2
+Tafokints,2,Nardis,0
+Jpegimage,1,Jace,2
+Hyprid,1,J666,2
+Ken,1,Baka4Moe,2
+Reno,1,Tafokints,2
+Kira,2,Jace,1
+A Rookie,0,J666,2
+Baka4Moe,2,Tafokints,1
+Kira,2,J666,0
+Macd,1,Baka4Moe,2
+Westballz,1,Kira,2
+Baka4Moe,3,Kira,1
+Lucky,3,Baka4Moe,1

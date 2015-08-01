@@ -1,0 +1,58 @@
+Fly Amanita,3,Jace,0
+Shroomed,3,Ken,1
+Mew2King,3,Mevan,1
+Leffen,3,Santiago,0
+Sfat,3,Tai,0
+Hungrybox,3,Macd,0
+Cactuar,3,Mike Haze,0
+Lucky,3,Sherigami,0
+Okamibw,3,Fiction,2
+Hugs,3,Eastcoastjeff,0
+Laudandus,3,Kira,0
+Westballz,3,Nmw,0
+Axe,3,Stab,0
+A Rookie,0,Fly Amanita,3
+Reason,0,Shroomed,3
+Mew2King,1,Leffen,3
+Sfat,3,Tafokints,0
+Hungrybox,3,Cactuar,0
+Lucky,3,Okamibw,1
+Hugs,3,Laudandus,0
+Westballz,2,Axe,3
+Fly Amanita,3,Shroomed,2
+Leffen,2,Sfat,3
+Hungrybox,2,Lucky,3
+Hugs,0,Axe,3
+Fly Amanita,3,Sfat,1
+Lucky,2,Axe,3
+Mang0,3,Jace,0
+Hax,3,Ken,0
+Mevan,0,Santiago,3
+Tai,0,S2J,3
+Macd,3,Mike Haze,0
+Sherigami,1,Fiction,3
+Eastcoastjeff,0,Kira,3
+Nmw,1,Stab,3
+Westballz,0,Mang0,3
+Laudandus,1,Hax,3
+Okamibw,1,Santiago,3
+Cactuar,0,S2J,3
+Tafokints,0,Macd,3
+Mew2King,3,Fiction,0
+Reason,0,Kira,3
+A Rookie,0,Stab,3
+Mang0,3,Hax,1
+Santiago,1,S2J,3
+Macd,1,Mew2King,3
+Kira,1,Stab,3
+Leffen,0,Mang0,3
+Shroomed,3,S2J,1
+Hugs,0,Mew2King,3
+Hungrybox,3,Stab,1
+Mang0,3,Shroomed,0
+Mew2King,0,Hungrybox,3
+Lucky,1,Mang0,3
+Sfat,2,Hungrybox,3
+Mang0,3,Hungrybox,0
+Axe,1,Mang0,3
+Fly Amanita,0,Mang0,6

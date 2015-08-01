@@ -1,0 +1,206 @@
+Kirbykaze,3,Duck,1
+Hugs,3,Frootloop,1
+Duck,0,Hugs,3
+Kirbykaze,3,Hugs,2
+Kirbykaze,2,Stro,0
+Ginger,2,Anther,0
+Hanky Panky,2,4Serial,0
+Mike Haze,2,Lucy,0
+Kalamazhu,2,Nightmare,0
+Luigigoshard,2,The Oak,0
+Hugs,2,Orly,0
+Beach,2,Toast,0
+Chillindude,2,Napkin,0
+Sauc3,2,Dre,0
+Drephen,2,Kason,0
+Kjh,2,Beegs,0
+Duck,2,Reeve,0
+4%,2,Nja,0
+Frootloop,2,Cave Dweller,0
+Prince Abu,2,Eggnawg,0
+Kirbykaze,2,Ginger,0
+Hanky Panky,0,Mike Haze,2
+Kalamazhu,2,Luigigoshard,0
+Hugs,2,Beach,0
+Chillindude,2,Sauc3,0
+Drephen,2,Kjh,1
+Duck,2,4%,0
+Frootloop,2,Prince Abu,1
+Kirbykaze,2,Mike Haze,0
+Kalamazhu,2,Hugs,0
+Chillindude,2,Drephen,0
+Duck,2,Frootloop,0
+Kirbykaze,3,Kalamazhu,0
+Chillindude,0,Duck,3
+Stro,1,Anther,2
+4Serial,2,Lucy,0
+Nightmare,2,The Oak,0
+Orly,2,Toast,0
+Napkin,1,Dre,2
+Kason,2,Beegs,0
+Reeve,1,Nja,2
+Cave Dweller,2,Eggnawg,0
+Prince Abu,2,Anther,0
+4%,2,4Serial,0
+Kjh,2,Nightmare,0
+Sauc3,0,Orly,2
+Beach,2,Dre,0
+Luigigoshard,2,Kason,1
+Hanky Panky,2,Nja,0
+Ginger,2,Cave Dweller,0
+Prince Abu,2,4%,0
+Kjh,2,Orly,1
+Beach,2,Luigigoshard,1
+Hanky Panky,2,Ginger,0
+Hugs,2,Prince Abu,0
+Mike Haze,2,Kjh,0
+Frootloop,2,Beach,0
+Drephen,0,Hanky Panky,2
+Hugs,3,Mike Haze,2
+Frootloop,3,Hanky Panky,0
+Chillindude,0,Hugs,3
+Kalamazhu,0,Frootloop,3
+Invincabull,0,Ryan #2,2
+Gamma,0,Rodohk,2
+Nexic,2,Shinsuyavi,0
+4Serial,2,Dirtboy,0
+Moy,2,Heartstrings,0
+Thugz,2,Garzal,0
+I4N,0,Goonsquad,2
+Paper,2,Lucy,0
+Kirbykaze,2,Ryan #2,0
+Mordicon,2,Rodohk,0
+Ginger,2,Nexic,0
+Stro,2,4Serial,0
+Hanky Panky,2,Moy,0
+Anther,0,Thugz,2
+Mike Haze,2,Goonsquad,0
+Tm,2,Paper,0
+Kirbykaze,2,Mordicon,0
+Ginger,2,Stro,0
+Hanky Panky,2,Thugz,0
+Mike Haze,2,Tm,0
+Paper,2,Invincabull,0
+Goonsquad,2,Gamma,0
+Anther,2,Shinsuyavi,0
+Moy,2,Dirtboy,0
+4Serial,2,Heartstrings,0
+Nexic,2,Garzal,0
+Rodohk,2,I4N,0
+Ryan #2,0,Lucy,2
+Paper,2,Goonsquad,0
+Anther,2,Moy,0
+4Serial,2,Nexic,0
+Rodohk,0,Lucy,2
+Stro,2,Paper,0
+Mordicon,0,Anther,2
+Tm,0,4Serial,2
+Thugz,0,Lucy,2
+Goodin,2,Grasshoppa,0
+Artificial Flavour,2,Chicken Chaser,0
+Luigigoshard,2,Coupkey,0
+Tran,2,Loyal,0
+The Oak,2,Deep C Squid,0
+Toast,2,Ruffian,0
+Navatar,2,Samn,0
+Identity Crisis,2,Kuyashii,0
+Kalamazhu,2,Goodin,0
+Stif,2,Artificial Flavour,0
+Orly,0,Luigigoshard,2
+Jwn L Nightmare,2,Tran,0
+Hugs,2,The Oak,0
+Wok,0,Toast,2
+Beach,2,Navatar,0
+Hellsing,2,Identity Crisis,0
+Kalamazhu,2,Stif,0
+Luigigoshard,2,Jwn L Nightmare,0
+Hugs,2,Toast,0
+Beach,2,Hellsing,0
+Identity Crisis,2,Grasshoppa,0
+Navatar,2,Chicken Chaser,0
+Wok,2,Coupkey,0
+The Oak,2,Loyal,0
+Tran,2,Deep C Squid,0
+Orly,2,Ruffian,0
+Artificial Flavour,0,Samn,2
+Goodin,2,Kuyashii,0
+Identity Crisis,2,Navatar,0
+Wok,0,The Oak,2
+Tran,0,Orly,2
+Samn,0,Goodin,2
+Jwn L Nightmare,2,Identity Crisis,0
+Stif,0,The Oak,2
+Hellsing,0,Orly,2
+Toast,2,Goodin,0
+Freze,2,Fluffysheep,0
+Minorthreat,2,Amir,0
+Russell,2,Datrooph,0
+(◕‿◕✿),2,Ckc,0
+Herm,0,Fendricklamar,2
+Treetz,2,Oven,0
+Webs,2,Radiowar,0
+Napkin,2,Ant,0
+Chillindude,2,Freze,0
+Dre,2,Minorthreat,0
+Sauc3,2,Russell,0
+Lain,2,(◕‿◕✿),0
+Drephen,2,Fendricklamar,0
+Beegs,2,Treetz,0
+Kjh,2,Webs,0
+Kason,2,Napkin,0
+Chillindude,2,Dre,0
+Sauc3,2,Lain,0
+Drephen,2,Beegs,0
+Kjh,2,Kason,0
+Napkin,2,Fluffysheep,0
+Webs,2,Amir,0
+Treetz,2,Datrooph,0
+Fendricklamar,2,Ckc,0
+(◕‿◕✿),0,Herm,2
+Russell,2,Oven,0
+Minorthreat,2,Radiowar,0
+Freze,2,Ant,0
+Napkin,2,Webs,0
+Treetz,2,Fendricklamar,0
+Herm,0,Russell,2
+Minorthreat,2,Freze,0
+Lain,0,Napkin,2
+Dre,2,Treetz,0
+Kason,2,Russell,0
+Beegs,2,Minorthreat,0
+Hunt,0,Pyromaniaccident,2
+Toadster,2,Karls Jr,0
+Iron,2,Casual Friday,0
+Genghiskhan,0,Egg,2
+Supermegawalrus,0,Thexy,2
+Eggnawg,2,Crip Hood,0
+Reeve,2,Kinglewi,0
+Honeybaked,0,100%.,2
+Duck,2,Pyromaniaccident,0
+Coastward,0,Toadster,2
+4%,2,Iron,0
+5-1.,2,Egg,0
+Frootloop,2,Thexy,0
+Nja,0,Eggnawg,2
+Prince Abu,2,Reeve,0
+Cave Dweller,2,100%.,0
+Duck,2,Toadster,0
+4%,2,5-1.,0
+Frootloop,2,Eggnawg,0
+Prince Abu,2,Cave Dweller,0
+100%.,2,Hunt,0
+Reeve,2,Karls Jr,0
+Nja,2,Casual Friday,0
+Thexy,2,Genghiskhan,0
+Egg,2,Supermegawalrus,0
+Iron,2,Crip Hood,0
+Coastward,2,Kinglewi,0
+Pyromaniaccident,0,Honeybaked,2
+100%.,0,Reeve,2
+Nja,2,Thexy,0
+Egg,0,Iron,2
+Coastward,0,Honeybaked,2
+5-1.,0,Reeve,2
+Toadster,0,Nja,2
+Cave Dweller,2,Iron,0
+Eggnawg,2,Honeybaked,0
