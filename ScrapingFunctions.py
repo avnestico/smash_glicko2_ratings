@@ -1,0 +1,329 @@
+import collections
+import contextlib
+import datetime
+import os
+import re
+from bs4 import BeautifulSoup
+import requests
+import RankingFunctions
+from RankingSettings import *
+from urllib.request import http
+
+
+def get_game_folders(game):
+    valid_games = ["SSB", "Melee", "Brawl", "PM", "SM4sh"]
+    if game in valid_games:
+        date_file = game + "Dates.txt"      # List of tournaments, separated by date.
+        url_folder = game + "Urls\\"        # Location of folder containing tournaments and their corresponding urls.
+                                            # Use double backslashes to denote nested folders.
+                                            # Optionally, may be left blank (url_folder = "").
+        result_folder = game + "Results\\"  # Location of folder containing tournament results. Also may be left blank.
+        return date_file, url_folder, result_folder
+    else:
+        print('Error: game "' + game + '" is not a valid game name. Please submit one of ' + str(valid_games), sep="")
+        exit(1)
+
+
+def strip_match(line):
+    """Remove all the useless data from a line"""
+    scores = re.findall('\|[rl]\d+m\d+p\d+score=', line)
+
+    if len(scores) == 2:
+        # normal match, need to check for non-number scores
+        stripped_line = re.sub('\|[rl]\d+m\d+p1=(.*?) (?:\{\{advance|\|).*'
+                               '[rl]\d+m\d+p1score=(.*?) \|.*'
+                               '[rl]\d+m\d+p2=(.*?) (?:\{\{advance|\|).*'
+                               '[rl]\d+m\d+p2score=(.*?)(?: .*|$)',
+                               r'\1,\2,\3,\4', line)
+
+    elif len(scores) == 4:
+        # grand finals with a bracket reset - scores will always be numbers
+        p1score = 0
+        p2score = 0
+        p1scores = re.findall('\|[rl]\d+m\d+p1score=\d', line)
+        p2scores = re.findall('\|[rl]\d+m\d+p2score=\d', line)
+
+        for score in p1scores:
+            p1score += int(score[-1])
+
+        for score in p2scores:
+            p2score += int(score[-1])
+
+        stripped_line = re.sub('\|[rl]\d+m\d+p1=(.*?) \|.* \|[rl]\d+m\d+p2=(.*?) \|.*', r'\1,' + str(p1score) + r',\2,'
+                               + str(p2score), line)
+
+    else:
+        # line is either already formatted or does not contain match data
+        stripped_line = line
+
+    if stripped_line.count(",") == 3:
+        return stripped_line
+
+
+def normalize_names(line):
+    """Convert the names in a match to a standarized format: Title case with no sponsors."""
+
+    # Convert all names to titlecase
+    line[0] = line[0].title()
+    line[2] = line[2].title()
+
+    # Remove pools
+    line[0] = remove_pools(line[0])
+    line[2] = remove_pools(line[2])
+
+    # Remove usual sponsors
+    line[0] = line[0].split("|")[-1].strip()
+    line[0] = line[0].split(" I ")[-1].strip()
+    line[2] = line[2].split("|")[-1].strip()
+    line[2] = line[2].split(" I ")[-1].strip()
+
+    # check if name contains an oddly formatted sponsor or otherwise needs to be changed
+    for Replacement in ReplacementList:
+        if line[0] == Replacement[0].title():
+            line[0] = Replacement[1].title()
+        if line[2] == Replacement[0].title():
+            line[2] = Replacement[1].title()
+
+    return line
+
+
+def remove_pools(string):
+    string = re.sub("(?:\(|\[)(?:P|)\d+(?:|(?:/:-)\d+)(?:\)|\])", "", string).strip()
+    string = re.sub("(?:|\[)P\d+(?:/|-)\d+(?:\]|)", "", string).strip()
+    string = re.sub("[A-Z]\d+\.\d", "", string).strip()
+    string = re.sub("\(Wave(?: |)\d\)", "", string).strip()
+    return string
+
+
+def parse_match(line):
+    """Given a string containing a match result, parse it"""
+    # Convert things to pipes
+    line = re.sub("{{!}}", "|", line)
+    line = re.sub("&amp;#124;", "|", line)
+
+    # Remove garbage
+    line = re.sub(r"\|[lr]\dm\dp\dflag=.*?,", ",", line)
+
+    # Remove html tags
+    line = re.sub("&amp;", "&", line)
+    line = re.sub("&lt;.*?&gt;", "", line)
+
+    # Split into components for further processing
+    line = line.split(",")
+    line = [word.strip() for word in line]
+
+    # Ignore games with byes or no results
+    if "bye" in line[0].lower() or "bye" in line[2].lower():
+        return ""
+    if line[1] == "" and line[3] == "":
+        return ""
+    if "advance" in str(line[1]) or "advance" in str(line[3]):
+        return ""
+    if "DQ" in str(line[1]) or "DQ" in str(line[3]):
+        return ""
+    if line[0] == "" or line[2] == "":
+        return ""
+    if line[1] == "-1" or line[3] == "-1":
+        return ""
+
+    # Convert wins to 2-0's
+    if "{{win}}" in line[1] or line[1] == "W":
+        line[1], line[3] = "2", "0"
+    if "{{win}}" in line[3] or line[3] == "W":
+        line[1], line[3] = "0", "2"
+    if line[1] == "1" and line[3] == "0":
+        line[1] = "2"
+    if line[3] == "1" and line[1] == "0":
+        line[3] = "2"
+
+    # Check if scores can be converted to numbers.
+    # Discard matches containing invalid numbers (x < 0 or x > 6)
+    # The few remaining errors (mostly blank spaces) can be converted to 0's
+    try:
+        num = int(line[1])
+        if num < 0 or num > 6:
+            return ""
+    except ValueError:
+        line[1] = "0"
+
+    try:
+        num = int(line[3])
+        if num < 0 or num > 6:
+            return ""
+    except ValueError:
+        line[3] = "0"
+
+    if line[1] == "0" and line[3] == "0":
+        return ""
+
+    line = normalize_names(line)
+
+    return ",".join(line)
+
+
+def match_played(url, line):
+    """Contains a list of matches that have results but were not played, and returns False if the given line contains
+    one such match. Otherwise, returns True.
+    If the match is on the unplayed list but has numerical scores assigned to it, assume it is a special case and was
+    played.
+    At this point in time, only Liquipedia brackets support being not played."""
+
+    rounds_not_played = {
+        "CEO_2015/Top_32": ["r1"],
+        "Paragon_2015&section=2": ["r1", "l1", "r2"],
+        "The_Big_House_4/Winners_Bracket": ["r1"],
+        "WTFox/Singles_Bracket": ["r1"],
+        "WTFox&section=T-1": ["l1", "r2", "r3"],  # Workaround because WF gets ignored by previous line
+    }
+    for key in rounds_not_played:
+        for value in rounds_not_played[key]:
+            if key in url and re.match(r"^\|" + value, line):
+                return False
+    return True
+
+
+def match_has_scores(line):
+    """Returns true if and only if a match has a numerical, non-negative score assigned to both players."""
+    return re.search('[rl]\d+m\d+p1score=\d+', line) and re.search('[rl]\d+m\d+p2score=\d+', line)
+
+
+def format_liquipedia_url(url):
+    """Converts bracket url to source url, if necessary."""
+    if not "&action=edit" in url:
+        url = re.sub("(wiki\.teamliquid\.net/smash/)(.*)", r"\1index.php?title=\2&action=edit", url)
+    return url
+
+
+def write_txt_from_liquipedia(url, filename):
+    """Returns match data from a Liquipedia link."""
+    url = format_liquipedia_url(url)
+
+    try:
+        soup = BeautifulSoup(requests.get(url).content)
+    except http.client.IncompleteRead as e:
+        soup = BeautifulSoup(e.partial)
+
+    match_data = str(soup.find("textarea"))
+
+    matches = ""
+    prev_line_start = "xxxx"
+    for line in match_data.split("\n"):
+        if re.match('^\|[rl]\d+m\d+', line):
+            if line.startswith(prev_line_start):
+                matches += " " + line
+            else:
+                matches += "\n" + line
+                prev_line_start = re.sub('^(\|[rl]\d+m\d+).*', r'\1', line)
+
+    parsed_matches = ""
+    for line in matches.split("\n"):
+        stripped_line = strip_match(line)
+        if stripped_line is not None and match_played(url, line):
+            parsed_match = parse_match(stripped_line)
+            if parsed_match != "":
+                parsed_matches += parsed_match + "\n"
+
+    with open(filename, 'a', encoding="utf8") as file:
+        file.write(parsed_matches)
+
+
+def safe_delete(filename):
+    """Delete a file if it exists, and do nothing if it does not."""
+    filename = add_txt(filename)
+    with contextlib.suppress(FileNotFoundError):
+        os.remove(filename)
+
+
+def check_if_date(line):
+    """Returns true if a string is a valid date of the form YYYY-MM-DD."""
+    try:
+        datetime.datetime.strptime(line.strip(), '%Y-%m-%d')
+        return True
+    except ValueError:
+        return False
+
+
+def get_filename(folder, string):
+    """Turn a string into a tournament's file name"""
+    filename = add_txt(string)
+    filename = re.sub(":", "", filename)
+    filename = folder + filename
+    return filename
+
+
+def add_txt(string):
+    """Ensures a filename ends in '.txt'."""
+    if not string.endswith(".txt"):
+        string += ".txt"
+    return string
+
+
+def get_tournaments(filename, url_folder):
+    """Returns an ordered dict of tournaments where each tournament's value is a list of its bracket urls."""
+    tournaments = collections.OrderedDict([])
+    with open(filename, "r", encoding="utf-8") as file:
+        for line in file:
+            is_date = check_if_date(line)
+            if not is_date:
+                line = get_filename("", line.strip())
+                tournaments[line] = get_tournament_urls(line, url_folder)
+    return tournaments
+
+
+def get_tournament_urls(filename, url_folder):
+    """Reads a text file of urls and converts it to a list."""
+    urls = []
+    with open(get_filename(url_folder, filename), "r", encoding="utf-8") as file:
+        for line in file:
+            line = line.strip()
+            urls.append(line)
+    return urls
+
+
+def scrape_tournament(filename, url_list):
+    """Scrape all the urls in a file and write the corresponding tournament's matches to a text file."""
+    for url in url_list:
+        print(url)
+        if "challonge" in url:
+            RankingFunctions.WriteTxtFromChallonge(url, filename)
+        elif "teamliquid" in url:
+            write_txt_from_liquipedia(url, filename)
+
+
+def scrape_tournament_by_filename(tournament, game):
+    """Scrapes a single tournament given only its file name and game."""
+    date_file, url_folder, result_folder = get_game_folders(game)
+    urls = get_tournament_urls(tournament, url_folder)
+    tournament_filename = get_filename(result_folder, tournament)
+    safe_delete(tournament_filename)
+    scrape_tournament(tournament_filename, urls)
+
+
+def scrape_all_tournaments(game):
+    """Scrape all match data and write to a set of files."""
+    date_file, url_folder, result_folder = get_game_folders(game)
+    tournaments = get_tournaments(date_file, url_folder)
+    for tournament in tournaments:
+        print(tournament)
+        tournament_filename = get_filename(result_folder, tournament)
+        safe_delete(tournament_filename)
+        scrape_tournament(tournament_filename, tournaments[tournament])
+
+
+def process_game_by_date(game):
+    """Run Glicko2 ranking process for a single game in batches, with tournaments between dates processed in the same
+    batch."""
+    date_file, url_folder, result_folder = get_game_folders(game)
+    tournaments = []
+    with open(date_file, 'r', encoding="utf-8") as f:
+        content = f.readlines()
+        for line in content:
+            line = line.strip()
+            is_date = check_if_date(line)
+            if not is_date:
+                tournaments.append(get_filename(result_folder, line))
+            else:
+                print(line)
+                RankingFunctions.ProcessRankings(tournaments, game)
+                tournaments = []
+    RankingFunctions.ProcessRankings(tournaments, game)
