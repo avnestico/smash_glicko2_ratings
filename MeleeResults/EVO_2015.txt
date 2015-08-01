@@ -1624,15 +1624,15 @@ Kpaul25,0,2Jar,2
 Jim Shaw,2,C_Naught,0
 89074 Whiskeymilk,0,Wake,2
 Qhy,2,Crom,0
-Ojal,0,Thegrimereaper,2
+Ojal,0,Thegrimreaper,2
 Onion,2,Ben%,0
 Cyrain,2,2Krunkvillain,0
 Onewithnature,0,Thesuperiortaste,2
 Jim Shaw,0,Wake,2
-Qhy,0,Thegrimereaper,2
+Qhy,0,Thegrimreaper,2
 Onion,1,Cyrain,2
 Thesuperiortaste,2,Bl Nathan,0
-Wake,0,Thegrimereaper,2
+Wake,0,Thegrimreaper,2
 Cyrain,2,Thesuperiortaste,0
 C_Naught,2,89074 Whiskeymilk,0
 Crom,0,Ojal,2

@@ -228,7 +228,7 @@ Lilostitchface,0,Dattemayo,2
 Alexthe13Th,2,Meatpie,0
 Bigwenz,2,Dattemayo,0
 Darkneo,2,Alexthe13Th,0
-Vgz Nintendude,2,Dkuo,0
+Nintendude,2,Dkuo,0
 Scrapmettle,0,Zain,2
 Milkman,2,Nimzo,0
 Bones,1,C@Nip,2
@@ -236,14 +236,14 @@ Cyrain,2,Frycook,1
 Chris Fabiszak,2,Jimmy,0
 Doh,2,Emodinosaur,0
 Sypherphoenix,0,Wenbobular,2
-Vgz Nintendude,2,Zain,0
+Nintendude,2,Zain,0
 Milkman,0,C@Nip,2
 Cyrain,2,Chris Fabiszak,0
 Doh,2,Wenbobular,0
-Vgz Nintendude,3,C@Nip,0
+Nintendude,3,C@Nip,0
 Cyrain,3,Doh,0
-Vgz Nintendude,3,Cyrain,1
-Vgz Nintendude,3,Doh,1
+Nintendude,3,Cyrain,1
+Nintendude,3,Doh,1
 Level 100 Potato,0,Reqy,2
 Sooji,2,Cava,0
 Redrum,0,Bigwenz,2

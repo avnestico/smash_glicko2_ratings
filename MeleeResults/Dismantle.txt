@@ -280,20 +280,20 @@ Webs,2,Gury,0
 Arty,2,Webs,0
 Dirt,0,Vagna,2
 Creature,2,Turnipforwhat,0
-Trail.,2,Vagna,0
+Trail,2,Vagna,0
 Stdx Jeezus.,2,Fujiko,0
 Zorlock.,0,Ogie,2
 Amida.,2,Creature,0
 Frumpis.,2,Royeric,1
 Grasshoppa.,2,Frost,0
 Dmx.,0,Allpr0,2
-Trail.,2,Ssc,0
+Trail,2,Ssc,0
 Stdx Jeezus.,2,Ogie,0
 Amida.,2,Frumpis.,0
 Grasshoppa.,2,Allpr0,0
-Trail.,2,Stdx Jeezus.,0
+Trail,2,Stdx Jeezus.,0
 Amida.,2,Grasshoppa.,0
-Trail.,3,Amida.,0
+Trail,3,Amida.,0
 Dmx.,0,Dirt,2
 Zorlock.,0,Turnipforwhat,2
 Dirt,0,Frost,2
