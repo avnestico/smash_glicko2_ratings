@@ -27,7 +27,7 @@ When you download this repo, you'll see a file and two folders with the prefix "
     Smash_The_Target.txt
     
     http://mh.challonge.com/stt1_pro
-<br/>
+
 
     SWEET_Prologue.txt
     
@@ -37,7 +37,7 @@ When you download this repo, you'll see a file and two folders with the prefix "
     http://wiki.teamliquid.net/smash/SWEET_Prologue/Singles_Top_96_F
     http://wiki.teamliquid.net/smash/SWEET_Prologue/Singles_Top_96_G
     http://wiki.teamliquid.net/smash/SWEET_Prologue/Singles_Top_96_H
-<br/>
+
     
     and so on...
     
@@ -67,4 +67,20 @@ Then, create a file for each tournament in `MeleeUrls/`, matching the name writt
 
 For other games, perform the same process: for Sm4sh, you would write `Sm4shDates.txt`, create files in `Sm4shUrls/`, and create an empty `Sm4shResults/` folder where the scraped results would be written to.
 
-Then, uncomment the call to `scrape_all_tournaments()` in `SmashRankingsCalculator.py` and run the file with `python SmashRankingsCalculator.py`.
+Then, run `python SmashRankingsCalculator.py --scrape` to process all game data.
+
+### Program arguments
+
+`--help`: Print a help message.
+
+`--print-functions=[all|list]`: Print some useful functions with info on each of them, or just the list of functions. Only useful if you want to dig into the Python code.
+
+`--scrape`: Use this argument if you wish to scrape all data, then process rankings.
+
+`--scrape-tournament=<filename>`: Scrape any games found for a particular tournament. Useful if you're adding a new tournament to the data set and don't want to re-scrape everything else again.
+
+`--format=[human|tab]`: Set to 'human' by default, this can be set to 'tab' to display rankings as a tab-separated list for easy copy-pasting.
+
+`--game=[SSB|Melee|Brawl|PM|Sm4sh]`: Set this if you only wish to display the rankings for one game.
+
+`--top_amount=<int>`: Set the number of players to display in rankings. Set to 100 by default.
