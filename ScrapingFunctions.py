@@ -38,7 +38,7 @@ OTHER DEALINGS IN THE SOFTWARE.
 
 
 def get_valid_games():
-    return ["SSB", "Melee", "Brawl", "PM", "SM4sh"]
+    return ["SSB", "Melee", "Brawl", "PM", "Sm4sh"]
 
 
 def get_game_folders(game):
@@ -49,9 +49,10 @@ def get_game_folders(game):
                                             # Use double backslashes to denote nested folders.
                                             # Optionally, may be left blank (url_folder = "").
         result_folder = game + "Results\\"  # Location of folder containing tournament results. Also may be left blank.
+        ensure_dir_exists(result_folder)
         return date_file, url_folder, result_folder
     else:
-        print('Error: game "' + game + '" is not a valid game name. Please submit one of ' + str(valid_games), sep="")
+        print('Error: game "' + game + '" is not a valid game name. Please submit one of ' + str(valid_games))
         sys.exit(1)
 
 
@@ -289,6 +290,13 @@ def add_txt(string):
     return string
 
 
+def ensure_dir_exists(folder):
+    """Make sure a given directory exists."""
+    directory = os.path.dirname(folder)
+    if not os.path.exists(directory):
+        os.makedirs(directory)
+
+
 def get_tournaments(filename, url_folder):
     """Returns an ordered dict of tournaments where each tournament's value is a list of its bracket urls."""
     tournaments = collections.OrderedDict([])
@@ -321,13 +329,17 @@ def scrape_tournament(filename, url_list):
             write_txt_from_liquipedia(url, filename)
 
 
-def scrape_tournament_by_filename(tournament, game):
-    """Scrapes a single tournament given only its file name and game."""
-    date_file, url_folder, result_folder = get_game_folders(game)
-    urls = get_tournament_urls(tournament, url_folder)
-    tournament_filename = get_filename(result_folder, tournament)
-    safe_delete(tournament_filename)
-    scrape_tournament(tournament_filename, urls)
+def scrape_tournament_by_filename(tournament):
+    """Scrapes a single tournament given only its file name."""
+    for game in get_valid_games():
+        date_file, url_folder, result_folder = get_game_folders(game)
+        urls = get_tournament_urls(tournament, url_folder)
+        tournament_filename = get_filename(result_folder, tournament)
+        try:
+            safe_delete(tournament_filename)
+            scrape_tournament(tournament_filename, urls)
+        except FileNotFoundError:
+            print("No " + game + "data found for tournament '" + tournament + "'.")
 
 
 def scrape_all_tournaments_for_game(game):
@@ -344,14 +356,16 @@ def scrape_all_tournaments_for_game(game):
 def scrape_all_tournaments():
     for game in get_valid_games():
         try:
+            print("Scraping " + game + " tournaments.")
             scrape_all_tournaments_for_game(game)
         except FileNotFoundError:
-            print("No tournaments found for" + game)
+            print("No tournaments found for " + game)
 
 
 def process_game_by_date(game):
     """Run Glicko2 ranking process for a single game in batches, with tournaments between dates processed in the same
     batch."""
+    print("Processing " + game + "...")
     date_file, url_folder, result_folder = get_game_folders(game)
     tournaments = []
     with open(date_file, 'r', encoding="utf-8") as f:
@@ -374,4 +388,4 @@ def process_all_games():
         try:
             process_game_by_date(game)
         except FileNotFoundError:
-            print("Processing files not found for" + game)
+            print("Processing files not found for " + game)
