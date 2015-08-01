@@ -5,6 +5,7 @@ import os
 import re
 from bs4 import BeautifulSoup
 import requests
+import sys
 import RankingFunctions
 from RankingSettings import *
 from urllib.request import http
@@ -36,8 +37,12 @@ OTHER DEALINGS IN THE SOFTWARE.
 """
 
 
+def get_valid_games():
+    return ["SSB", "Melee", "Brawl", "PM", "SM4sh"]
+
+
 def get_game_folders(game):
-    valid_games = ["SSB", "Melee", "Brawl", "PM", "SM4sh"]
+    valid_games = get_valid_games()
     if game in valid_games:
         date_file = game + "Dates.txt"      # List of tournaments, separated by date.
         url_folder = game + "Urls\\"        # Location of folder containing tournaments and their corresponding urls.
@@ -47,7 +52,7 @@ def get_game_folders(game):
         return date_file, url_folder, result_folder
     else:
         print('Error: game "' + game + '" is not a valid game name. Please submit one of ' + str(valid_games), sep="")
-        exit(1)
+        sys.exit(1)
 
 
 def strip_match(line):
@@ -325,7 +330,7 @@ def scrape_tournament_by_filename(tournament, game):
     scrape_tournament(tournament_filename, urls)
 
 
-def scrape_all_tournaments(game):
+def scrape_all_tournaments_for_game(game):
     """Scrape all match data and write to a set of files."""
     date_file, url_folder, result_folder = get_game_folders(game)
     tournaments = get_tournaments(date_file, url_folder)
@@ -334,6 +339,14 @@ def scrape_all_tournaments(game):
         tournament_filename = get_filename(result_folder, tournament)
         safe_delete(tournament_filename)
         scrape_tournament(tournament_filename, tournaments[tournament])
+
+
+def scrape_all_tournaments():
+    for game in get_valid_games():
+        try:
+            scrape_all_tournaments_for_game(game)
+        except FileNotFoundError:
+            print("No tournaments found for" + game)
 
 
 def process_game_by_date(game):
@@ -353,3 +366,12 @@ def process_game_by_date(game):
                 RankingFunctions.ProcessRankings(tournaments, game)
                 tournaments = []
     RankingFunctions.ProcessRankings(tournaments, game)
+
+
+def process_all_games():
+    """Run Glicko2 ranking process for all games"""
+    for game in get_valid_games():
+        try:
+            process_game_by_date(game)
+        except FileNotFoundError:
+            print("Processing files not found for" + game)
