@@ -4,23 +4,17 @@ DefaultTitleMin = 2
 DefaultSort = 'Low'
 DefaultSortTie = 'Middle'
 DefaultLines = 2
-RoundLen = 2             # How many Digits to round to in ranking displays
+RoundLen = 0             # How many Digits to round to in ranking displays
 Rounding = '.' + str(RoundLen) + 'f'
 DefaultRating = 1500
 DefaultRD = 350
 DefaultVol = 0.06
+VarianceCutoff = 80      # Only display players with variance of this number or less
 
 
 # Tags and names go here. There should only be one tag per real name.
 
-TagDict = { \
-    'MaNg0': 'Joseph Marquez', \
-    'Armada': 'Adam Lindgren', \
-    'PPMD': 'Kevin Nanney', \
-    'Hungrybox': 'Juan Manuel Debiedma', \
-    'Leffen': 'William Hjelte', \
-    'Mew2King': 'Jason Zimmerman'\
-    }
+TagDict = {}
 
 
 # Don't touch this.
@@ -34,177 +28,165 @@ for Tag in TagDict:
 # Note that tags of the form A1 or AA1 (that is, a capital letter followed by a number or two capital letters
 # followed by a number) do not always process properly, and additional coding may be needing to avoid errors.
 
-NumFixes = [ \
-    ('AndrewAjt62', 'AndrewAjtsixtytwo'), \
-    ('EMP P4K | Armada', 'Armada'), \
-    ('P4K EMP Armada', 'Armada'), \
-    ('P4K EMP | Armada', 'Armada'), \
-    ('baka4moe', 'bakafourmoe'), \
-    ('Carls492', 'Carlsfourninetwo'), \
-    ('Gninja64', 'Gninjasixtyfour'), \
-    ('482 | JSalt', 'foureighttwo | JSalt'), \
-    ('f00', 'fzerozero'), \
-    ('Jake13', 'Jakethirteen'), \
-    ('j00t', 'jzerozerot'), \
-    ('Kiw1', 'Kiwone'), \
-    ('kukunok0', 'kukunokzero'), \
-    ('C9|Mango', 'MaNgzero'), \
-    ('C9 Mang0', 'MaNgzero'), \
-    ('C9 MaNg0', 'MaNgzero'), \
-    ('C9. Mango', 'MaNgzero'), \
-    ('MaNg0', 'MaNgzero'), \
-    ('PL MVG EMP Mew2King', 'MewtwoKing'), \
-    ('PL MVG mew2king', 'MewtwoKing'), \
-    ('EMP P4K | Mew2King', 'MewtwoKing'), \
-    ('P4K | EMP |Mew2King', 'MewtwoKing'), \
-    ('P4K EMP | Mew2King', 'MewtwoKing'), \
-    ('P4K EMP Mew2King', 'MewtwoKing'), \
-    ('P4K Mew2King', 'MewtwoKing'), \
-    ('CT EMP|MewtwoKing', 'MewtwoKing'), \
-    ('Mew2King', 'MewtwoKing'), \
-    ('M2K', 'MewtwoKing'), \
-    ('Poopmaister6000', 'Poopmaistersixthousand'), \
-    ('SFS KoopaTroopa895', 'SFS KoopaTroopaeightninefive'), \
-    ('[62Bit] Bladewise', '[sixtytwoBit] Bladewise'), \
-    ('Smasher89', 'Smashereightynine'), \
-    ('S2J', 'StwoJ'), \
-    ('S0ft', 'Szeroft'), \
-    ('LP.RaynEX', 'temprayn'), \
-    ('RaynEX', 'temprayn'), \
-    ('VO1D', 'VOoneD'), \
-    ('X1', 'Xone'), \
-    ('Cornholio69', 'Cornholiosixtynine'), \
-    ('Ycz6', 'Yczsix'), \
-    ('GamerGuitarist7', 'GamerGuitaristseven') \
-    ]
+NumFixes = []
 
 
 # Typos, full last names, changed tags, names that have tags, extra spaces, etc., go here.
 
-ReplacementList = [ \
-    ('AG | Arc', 'Arc'), \
-    ('[A]rmada', 'Armada'), \
-    ('Alliance | Armada', 'Armada'), \
-    ('EMP P4K | Armada', 'Armada'), \
-    ('P4K EMP | Armada', 'Armada'), \
-    ('P4K EMP Armada', 'Armada'), \
-    ('MELEE HELL | Articanus', 'Articanus'), \
-    ('Mortality_Axe', 'Axe'), \
-    ('Mortality.Axe', 'Axe'), \
-    ('MOR | Axe', 'Axe'), \
-    ('SmashFactor | Aza', 'Aza'), \
-    ('[62Bit] Bladewise', 'Bladewise'), \
-    ('VS | Blea Gelo', 'Blea Gelo'), \
-    ('VS I Blea Gelo', 'Blea Gelo'), \
-    ('MGFC|Chain-Ace', 'Chain-Ace'), \
-    ('CnB | Chandy', 'Chandy'), \
-    ("Liquid' Chillindude", 'Chillindude'), \
-    ('SS | Colbol', 'Colbol'), \
-    ('CTRL|DJ Nintendo', 'DJ Nintendo'), \
-    ('CTRL | DJ Nintendo', 'DJ Nintendo'), \
-    ('XTR Eddy Mexico', 'Eddy Mexico'), \
-    ('XTR I Eddy Mexico', 'Eddy Mexico'), \
-    ('GK | EikelmannRUS', 'EikelmannRUS'), \
-    ("SS | Flamin'Roy", "Flamin'Roy"), \
-    ('SS | SDR | Flow', 'Flow'), \
-    ('SS | Flow', 'Flow'), \
-    ('SS | FullMetal', 'FullMetal'), \
-    ('SS | Fullmetal', 'Fullmetal'), \
-    ('EE Gahtzu', 'Gahtzu'), \
-    ('GK Gahtzu', 'Gahtzu'), \
-    ('GK | Gahtzu', 'Gahtzu'), \
-    ('VGBC | GimR', 'GimR'), \
-    ('GK | HarrietTheGuy', 'HarrietTheGuy'), \
-    ('VGBC Hax', 'Hax'), \
-    ('VGBC | Hax', 'Hax'), \
-    ('FRQ | HugS', 'HugS'), \
-    ('FRQ| HugS', 'HugS'), \
-    ('Liquid`Hungrybox', 'Hungrybox'), \
-    ('CT|Hungrybox', 'Hungrybox'), \
-    ('Crs. Hungrybox', 'Hungrybox'), \
-    ('CRS.Hungrybox', 'Hungrybox'), \
-    ('Liquid` Hungrybox', 'Hungrybox'), \
-    ('Liquid Hungrybox', 'Hungrybox'), \
-    ('SmashFactor | Javi', 'Javi'), \
-    ('MIOM | Juggleguy', 'Juggleguy'), \
-    ('Liquid`KDJ', 'KDJ'), \
-    ('SS | KeepSpeedN', 'KeepSpeedN'), \
-    ('IPG | Kels', 'Kels'), \
-    ('LiquidKen', 'Ken'), \
-    ('Liquid Ken', 'Ken'), \
-    ('EMG | KirbyKaze', 'KirbyKaze'), \
-    ('SmashFactor | Lazh', 'Lazh'), \
-    ('TSM|Leffen', 'Leffen'), \
-    ('Huggies | Lucky', 'Lucky'), \
-    ('LuCKy', 'Lucky'), \
-    ('MVG Medz', 'Medz'), \
-    ('MIOM I PewPewU', 'MIOM|PewPewU'), \
-    ('C9|Mango', 'MaNg0'), \
-    ('C9 MaNg0', 'MaNg0'), \
-    ('C9 Mang0', 'MaNg0'), \
-    ('C9. Mango', 'MaNg0'), \
-    ('Mang0', 'MaNg0'), \
-    ('Mango', 'MaNg0'), \
-    ('SS | Merck', 'Merck'), \
-    ('COG MVG mew2king', 'Mew2King'), \
-    ('PL MVG mew2king', 'Mew2King'), \
-    ('EMP P4K | Mew2King', 'Mew2King'), \
-    ('PL MVG EMP Mew2King', 'Mew2King'), \
-    ('P4K EMP Mew2King', 'Mew2King'), \
-    ('P4K Mew2King', 'Mew2King'), \
-    ('CT EMP|Mew2King', 'Mew2King'), \
-    ('P4K | EMP |Mew2King', 'Mew2King'), \
-    ('P4K EMP | Mew2King', 'Mew2King'), \
-    ('M2K', 'Mew2King'), \
-    ('GameGuys | Mojo', 'Mojo'), \
-    ('HF Neon', 'Neon'), \
-    ('SS | Nicaboy', 'Nicaboy'), \
-    ('VS | NickRiddle', 'NickRiddle'), \
-    ('Apex | Nintendude', 'Nintendude'), \
-    ('WCS TGG | Oro?!', 'Oro'), \
-    ('TRC | Owl', 'Owl'), \
-    ('SS | PBJ', 'PB&J'), \
-    ('EG I PPMD', 'PPMD'), \
-    ('Dr. PP', 'PPMD'), \
-    ('MIOM|PewPewU', 'PewPewU'), \
-    ('VS | Plup', 'Plup'), \
-    ('VS | Porkchops', 'Porkchops'), \
-    ('VS Porkchops', 'Porkchops'), \
-    ('vWs | Professor Pro', 'Professor Pro'), \
-    ('GULL | Pink Fresh', 'Pink Fresh'), \
-    ('ESI.GG | Prince Abu', 'Prince Abu'), \
-    ('GK Reno', 'Reno'), \
-    ('Apex | Ryobeat', 'Ryobeat'), \
-    ('MIOM|Sfat', 'SFAT'), \
-    ('MIOM | SFAT', 'SFAT'), \
-    ('MIOM|SFAT', 'SFAT'), \
-    ('MIOM | Scar', 'Scar'), \
-    ('VS | Seibrik', 'Seibrik'), \
-    ('MMG_Shroomed', 'Shroomed'), \
-    ('GC | Silent Wolf', 'Silent Wolf'), \
-    ('SS | SmashMac', 'SmashMac'), \
-    ('SS | Soft', 'Soft'), \
-    ('HV VS | Spider_Sense', 'Spider_Sense'), \
-    ('EX | Star Lord', 'Star Lord'), \
-    ('BERT I Swedish Delight', 'Swedish Delight'), \
-    ('MIOM|Tafokints', 'Tafokints'), \
-    ('MVG Tai', 'Tai'), \
-    ('CTRL|The Moon', 'The Moon'), \
-    ('CTRL | The Moon', 'The Moon'), \
-    ('MIOM | Toph', 'Toph'), \
-    ('SmashFactor | Twin', 'Twin'), \
-    ('moe | Upke', 'Upke'), \
-    ('SmashFactor | Valdo', 'Valdo'), \
-    ('EMG | Weon-X', 'Weon-X'), \
-    ('CT Wizzrobe', 'Wizzrobe'), \
-    ('SS | CT | Wizzrobe', 'Wizzrobe'), \
-    ('VS CT | Wizzrobe', 'Wizzrobe'), \
-    ('COG | Wizzrobe', 'Wizzrobe'), \
-    ('FX_DFW Wobbles', 'Wobbles'), \
-    ('CT Zero', 'Zero'), \
-    ('CT ZeRo', 'Zero'), \
-    ('VGBC I aMSa', 'aMSa'), \
-    ('VGBC|aMSa', 'aMSa'), \
-    ('LP.raynEX', 'raynEX'), \
-    ('EE | uuaa', 'uuaa')
-    ]
+ReplacementList = [
+    ("Oxy.2Jar", "2Jar"),
+    ("4 %", "4%"),
+    ("4%.", "4%"),
+    ("￼Adpextwindong", "Adpextwindong"),
+    ('ARC', 'Arc'),
+    ('[A]rmada', 'Armada'),
+    ('P4K EMP Armada', 'Armada'),
+    ('A_Rookie', 'A Rookie'),
+    ('Mortality_Axe', 'Axe'),
+    ('Mortality.Axe', 'Axe'),
+    ('Mortality Axe', 'Axe'),
+    ('Baka', 'Baka4Moe'),
+    ('Entities From The Beyond Within Corpses Obsessed', 'Bart'),
+    ('Bernaldoe', 'Bernal'),
+    ('[62Bit] Bladewise', 'Bladewise'),
+    ('[62-bit] Bladewise', 'Bladewise'),
+    ('62Bit Bladewise', 'Bladewise'),
+    ('Bizarro Flame', 'Bizzarro Flame'),
+    ('Bizarroflame', 'Bizzarro Flame'),
+    ('Boback Vakili', 'Boback'),
+    ('Cactaur', 'Cactuar'),
+    ('(Tmg) Captain Faceroll', 'Captain Faceroll'),
+    ("Chillin", 'Chillindude'),
+    ("Liquid' Chillindude", 'Chillindude'),
+    ('Liquid`Chillin', 'Chillindude'),
+    ('Chudat', 'Chu Dat'),
+    ('Emg_Coastward', 'Coastward'),
+    ('(Tmg) Connor', 'Connorthekid'),
+    ('Connor', 'Connorthekid'),
+    ('(Tmg) Coolkid', 'Coolkid'),
+    ('4K.Corkus', 'Corkus'),
+    ('Dandy?', 'Dandy'),
+    ('Emp Dandy', 'Dandy'),
+    ('(Tmg) Dantefox', 'Dantefox'),
+    ('Dart', 'Dart!'),
+    ('Oxy Dendypretendy', 'Dendypretendy'),
+    ('Drugged Fox', 'Druggedfox'),
+    ('XTR Eddy Mexico', 'Eddy Mexico'),
+    ('Eddymexico', 'Eddy Mexico'),
+    ('Salazar Slitherin (Eggz)', 'Eggz'),
+    ('Eikelmann', 'Eikelmannrus'),
+    ('Espr Eval', 'Eval'),
+    ('Excel_Zero', 'Excel Zero'),
+    ('Excelzero', 'Excel Zero'),
+    ('Fat Goku', 'Fatgoku'),
+    ('CaCAW Slurrpy Snake 32+37 Master', 'Gage'),
+    ('EE Gahtzu', 'Gahtzu'),
+    ('GK Gahtzu', 'Gahtzu'),
+    ('VGBC Hax', 'Hax'),
+    ('Frq.Hugs', 'Hugs'),
+    ('Liquid`Hungrybox', 'Hungrybox'),
+    ('Crs. Hungrybox', 'Hungrybox'),
+    ('CRS.Hungrybox', 'Hungrybox'),
+    ('Liquid` Hungrybox', 'Hungrybox'),
+    ('Liquid Hungrybox', 'Hungrybox'),
+    ('Emg_Idea', 'Idea'),
+    ('Emg Idea', 'Idea'),
+    ('Oxy L J666', 'J666'),
+    ('CEOJebailey', 'Jebailey'),
+    ('Jpeg', 'Jpegimage'),
+    ('Kage The Warrior', 'Kage'),
+    ('Emg Kirbykaze', 'Kirbykaze'),
+    ('LiquidKen', 'Ken'),
+    ('Liquid Ken', 'Ken'),
+    ("Liquid' Ken", 'Ken'),
+    ("Liquid ' Ken", 'Ken'),
+    ("Liquid`Ken", 'Ken'),
+    ('Skt T1 Talon God (Kira)', 'Kira'),
+    ('KDJ', 'Koreandj'),
+    ('Liquid`KDJ', 'Koreandj'),
+    ('Beer Man', 'Lambchops'),
+    ('Dehf', 'Larry Lurr'),
+    ('Laundandus', 'Laudandus'),
+    ('Lauduandus', 'Laudandus'),
+    ('Laduandus', 'Laudandus'),
+    ('MVG Medz', 'Medz'),
+    ('C9 MaNg0', 'Mang0'),
+    ('C9 Mang0', 'Mang0'),
+    ('C9 Mango', 'Mang0'),
+    ('C9. Mango', 'Mang0'),
+    ('C9.Mango', 'Mang0'),
+    ('Mango', 'Mang0'),
+    ('Cloud9.Mango', 'Mang0'),
+    ('COG MVG mew2king', 'Mew2King'),
+    ('PL MVG mew2king', 'Mew2King'),
+    ('PL MVG EMP Mew2King', 'Mew2King'),
+    ('P4K EMP Mew2King', 'Mew2King'),
+    ('P4K Mew2King', 'Mew2King'),
+    ('EMP Mew2King', 'Mew2King'),
+    ('M2K', 'Mew2King'),
+    ('Mikehaggarkj', 'Mikehaggar'),
+    ('Mike Haggar', 'Mikehaggar'),
+    ('Mikehaze', 'Mike Haze'),
+    ("Jj'S Mikehaze", 'Mike Haze'),
+    ("Oes Milkman", 'Milkman'),
+    ('HF Neon', 'Neon'),
+    ('Vgz Nintendude', 'Nintendude'),
+    ('Joey Cheung', 'Ny Joey'),
+    ('Secret.Orly', 'Orly'),
+    ('Pbj', 'Pb&J'),
+    ('P.C. Chris', 'Pc Chris'),
+    ('Dr. PP', 'PPMD'),
+    ('VS Porkchops', 'Porkchops'),
+    ('Pokchops', 'Porkchops'),
+    ('Esi. Gg Prince Abu', 'Prince Abu'),
+    ('Logan', 'Purpletuce'),
+    ('LP.raynEX', 'Raynex'),
+    ('Lp_Raynex', 'Raynex'),
+    ('Lp Raynex', 'Raynex'),
+    ('GK Reno', 'Reno'),
+    ('Kana Manami', 'Riddlebox'),
+    ('(Tmg) Sacasumoto', 'Sacasumoto'),
+    ('Emg Sauc3', 'Sauc3'),
+    ('(Tmg) Sherigami', 'Sherigami'),
+    ('Sherigam', 'Sherigami'),
+    ('MMG_Shroomed', 'Shroomed'),
+    ('Gc Silentwolf', 'Silent Wolf'),
+    ('Psg Sk92', 'Sk92'),
+    ('Smahg0D', 'Smashg0D'),
+    ('Smilez =)', 'Smilez :)'),
+    ('Smilez=)', 'Smilez :)'),
+    ('Smilez', 'Smilez :)'),
+    ('Smilez:)', 'Smilez :)'),
+    ('Soft', 'S0Ft'),
+    ('Soft', 'S0Ft'),
+    ('(Tmg) Squid', 'Squid'),
+    ('Matt', 'Stab'),
+    ('Matt R', 'Stab'),
+    ('Stabbedbyanipple', 'Stab'),
+    ('Stabbedbyahippie', 'Stab'),
+    ('Victor Abdul Latif', 'Stab'),
+    ('Viktor Abdul Latif (Stab)', 'Stab'),
+    ('(Tmg) Victor Abdul Latif', 'Stab'),
+    ('Straight (Second Wave)', 'Straight'),
+    ('OXY SUNG475', 'Sung475'),
+    ('Oxy_Sung475', 'Sung475'),
+    ('James Liu', 'Swedish Delight'),
+    ('Swedishdelight', 'Swedish Delight'),
+    ('MVG Tai', 'Tai'),
+    ('Thegrimereaper', 'Thegrimreaper'),
+    ('Trail.', 'Trail'),
+    ('Lp_Trulliam', 'Trulliam'),
+    ('Lp Trulliam', 'Trulliam'),
+    ('TheMoon', 'The Moon'),
+    ('Tuxedomask', 'Tuxedo Mask'),
+    ('Twin_A', 'Twin A'),
+    ('Velovity', 'Velocity'),
+    ('[62-Bit] Vish', 'Vish'),
+    ('Emg Weon-X', 'Weon-X'),
+    ('Emg_Weon-X', 'Weon-X'),
+    ('Little Boy Big Dreams', 'Weon-X'),
+    ('The Ghost of White Marth', 'Weon-X'),
+    ('CT Wizzrobe', 'Wizzrobe'),
+    ('FX_DFW Wobbles', 'Wobbles'),
+    ('CT Zero', 'Zero'),
+]
