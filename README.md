@@ -2,9 +2,20 @@
 
 ## Python3 program for computing Glicko2 ratings of Super Smash Bros competitors
 
+### Prerequisites
+
+Windows: Just what's here.
+
+Linux/OSX: The latest version of Python 3.
+
 ### Quick Setup
 
-Run `python SmashRankingsCalculator.py` and watch the magic.
+1. Download the repo: `git clone https://github.com/avnestico/smash_glicko2_ratings.git`
+2. Go into the downloaded folder: `cd smash_glicko2_ratings`
+3. Run the program:
+    * Windows: `dist/SmashRankingsCalculator.exe`
+    * Linux/OSX: `python SmashRankingsCalculator.py`
+4. Watch the magic.
 
 ### How to use
 
@@ -61,13 +72,14 @@ If you want to use this program for your own tournaments, replace the contents o
 
 * tournaments in chronological order
 * each tournament following the day it took place
-* multiple tournaments in the same week not separated by a date
+* multiple tournaments in the same week not separated by a date (you can use months as your time scale if your region doesn't have many tournaments; just be sure that you use dates of the form YYYY-MM-DD either way)
+* every week (or month) that doesn't have a tournament should be present, with the next date immediately following it
 
 Then, create a file for each tournament in `MeleeUrls/`, matching the name written down in `MeleeDates.txt` with `.txt` added to the end of each, containing a list of the urls where brackets can be found for the tournament.
 
-For other games, perform the same process: for Sm4sh, you would write `Sm4shDates.txt`, create files in `Sm4shUrls/`, and create an empty `Sm4shResults/` folder where the scraped results would be written to.
+For other games, perform the same process: for Sm4sh, you would write dates and filenames in `Sm4shDates.txt`, and create the corresponding files in `Sm4shUrls/`. A folder called `Sm4shResults/` will be created for the results to be written to.
 
-Then, run `python SmashRankingsCalculator.py --scrape` to process all game data.
+Then, run `dist/SmashRankingsCalculator.exe --scrape` (Windows) or `python SmashRankingsCalculator.py --scrape` (Linux/OSX) to process all game data.
 
 ### Program arguments
 
@@ -84,3 +96,24 @@ Then, run `python SmashRankingsCalculator.py --scrape` to process all game data.
 `--game=[SSB|Melee|Brawl|PM|Sm4sh]`: Set this if you only wish to display the rankings for one game.
 
 `--top_amount=<int>`: Set the number of players to display in rankings. Set to 100 by default.
+
+For example, the command I use to generate the global Glicko2 ratings found [here](https://goo.gl/bK9By7) is `python SmashRankingsCalculator.py --format=tab --game=Melee --top_amount=64`.
+
+### Updating the player tag list
+
+In `RankingSettings.py`, there is a long list of player tags. Each element of the list looks like these:
+
+    ('[A]rmada', 'Armada'),
+    ('P4K EMP Armada', 'Armada'),
+    
+The first string above is the player's tag as found in a bracket online, while the second string is the player's common name in the system.
+
+If you find a player whose name has not been corrected, please send me a Pull Request with the correction in the list, ordered alphabetically by fixed name.
+
+Note that the program ignores anything to the left of a pipe `|`, which usually denotes a sponsor, in a player's name. Thus, names with pipes do not need to be corrected.
+
+Also, for simplicity's sake, all names are recorded in Title Case. That is, `SFAT` will correct to `Sfat`, `S0ft` to `S0Ft`, and `JackieTran.com` to `Jackietran.Com`. The program will ignore corrections meant to revert this.
+
+### Building the Windows executable
+
+If you wish to update the program and create a new Windows executable, run `python setup.py py2exe`. This requires having py2exe installed (`pip install py2exe`).
