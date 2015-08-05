@@ -85,17 +85,17 @@ Then, run `dist/SmashRankingsCalculator.exe --scrape` (Windows) or `python Smash
 
 `--help`: Print a help message.
 
-`--print-functions=[all|list]`: Print some useful functions with info on each of them, or just the list of functions. Only useful if you want to dig into the Python code.
-
 `--scrape`: Use this argument if you wish to scrape all data, then process rankings.
 
-`--scrape-tournament=<filename>`: Scrape any games found for a particular tournament. Useful if you're adding a new tournament to the data set and don't want to re-scrape everything else again.
+`--scrape-tournament=<comma-separated list of filenames>`: Scrape any games found for one or more tournaments. Useful if you're adding a new tournament to the data set and don't want to re-scrape everything else again.
 
 `--format=[human|tab]`: Set to 'human' by default, this can be set to 'tab' to display rankings as a tab-separated list for easy copy-pasting.
 
 `--game=[SSB|Melee|Brawl|PM|Sm4sh]`: Set this if you only wish to display the rankings for one game.
 
 `--top_amount=<int>`: Set the number of players to display in rankings. Set to 100 by default.
+
+`--sort=[Middle|Low|Bottom]`: Set the sorting method for ranking display. 'Middle' displays (Rating), 'Low' displays (Rating - Variance), 'Bottom' displays (Rating - 2 * Variance). Default is 'Low'.
 
 For example, the command I use to generate the global Glicko2 ratings found [here](https://goo.gl/bK9By7) is `python SmashRankingsCalculator.py --format=tab --game=Melee --top_amount=64`.
 

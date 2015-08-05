@@ -7,30 +7,30 @@ def arg_parser(argv):
     """Process args passed in."""
     parser = argparse.ArgumentParser(formatter_class=argparse.RawTextHelpFormatter,
                                      description='Computes Glicko2 ratings of Super Smash Bros competitors')
-    parser.add_argument('--print_functions', dest='print_functions', default=None,
-                        help='Display information on useful functions (all) or just a list of useful functions (list)')
     parser.add_argument('--scrape', dest='scrape', action='store_true',
                         help='Set this flag if you have new tournaments to scrape')
     parser.set_defaults(scrape=False)
-    parser.add_argument('--scrape_tournament', dest='tournament', default=None,
-                        help="Scrape the data for all games in a single tournament. Arg is tournament's filename.")
+    parser.add_argument('--scrape_tournament', '--scrape-tournament', dest='tournaments', default=None,
+                        help="Comma-separated list of tournaments to scrape, by filename.")
     parser.add_argument('--format', dest='output_format', default='human',
-                        help="Format of output: 'human' (human-readable) or 'tab' (tab-separated)")
+                        help="Format of output: 'human' (human-readable) or 'tab' (tab-separated). Default: human")
     parser.add_argument('--game', dest='game', default=None,
                         help="Select a single game to process: 'SSB', 'Melee', 'Brawl', 'PM', or 'Sm4sh'")
-    parser.add_argument('--top_amount', dest='top_amount', default=100,
-                        help="The number of players to be displayed. Set to 100 by default.")
+    parser.add_argument('--top_amount', '--top-amount', dest='top_amount', default=100,
+                        help="The number of players to be displayed. Default value: 100")
+    parser.add_argument('--sort', dest='sort', default='Low',
+                        help="Rating sort: 'Middle', 'Low' (default), or 'Bottom'.")
 
     args = parser.parse_args(argv)
     return args
 
 
-def display_game_rankings(game, output_format, top_amount):
+def display_game_rankings(game, output_format, top_amount, sort):
     """Display rankings for a single game as defined by format."""
     if output_format == "human":
-        ShowRankings(game, TopAmount=top_amount)
+        ShowRankings(game, TopAmount=top_amount, SortedBy=sort)
     elif output_format == "tab":
-        ShowTabSepRankings(game, TopAmount=top_amount)
+        ShowTabSepRankings(game, TopAmount=top_amount, SortedBy=sort)
     else:
         print("Format '" + output_format + "' not valid.")
         exit(1)
@@ -38,33 +38,28 @@ def display_game_rankings(game, output_format, top_amount):
 
 def main(args):
     """Process Glicko2 ratings."""
-    print_functions = args.print_functions
     scrape = args.scrape
-    tournament = args.tournament
+    tournaments = args.tournaments
     output_format = args.output_format
     game = args.game
     top_amount = int(args.top_amount)
-
-    if print_functions:
-        if print_functions == "all":
-            UsefulFunctions()        # Run this to print all the useful functions as well as information about each
-        elif print_functions == "list":
-            UsefulFunctionsListed()  # Run this to list all useful functions without headers or additional information
-        return 0
+    sort = args.sort
 
     if scrape:
         scrape_all_tournaments()
 
-    if tournament:
-        scrape_tournament_by_filename(tournament)
+    if tournaments:
+        tournaments = tournaments.split(",")
+        for tournament in tournaments:
+            scrape_tournament_by_filename(tournament)
 
     # If a specific game is not set, process all games. Otherwise, process only that one game.
     if not game:
         process_all_games()
-        ShowAllRankings(TopAmount=top_amount)
+        ShowAllRankings(TopAmount=top_amount, SortedBy=sort)
     else:
         process_game_by_date(game)
-        display_game_rankings(game, output_format, top_amount)
+        display_game_rankings(game, output_format, top_amount, sort)
 
     return 0
 
