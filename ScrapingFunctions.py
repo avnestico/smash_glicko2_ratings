@@ -45,10 +45,9 @@ def get_game_folders(game):
     valid_games = get_valid_games()
     if game in valid_games:
         date_file = game + "Dates.txt"      # List of tournaments, separated by date.
-        url_folder = game + "Urls\\"        # Location of folder containing tournaments and their corresponding urls.
-                                            # Use double backslashes to denote nested folders.
+        url_folder = game + "Urls/"         # Location of folder containing tournaments and their corresponding urls.
                                             # Optionally, may be left blank (url_folder = "").
-        result_folder = game + "Results\\"  # Location of folder containing tournament results. Also may be left blank.
+        result_folder = game + "Results/"   # Location of folder containing tournament results. Also may be left blank.
         ensure_dir_exists(result_folder)
         return date_file, url_folder, result_folder
     else:
