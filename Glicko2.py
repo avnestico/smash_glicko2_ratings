@@ -101,7 +101,7 @@ class Player:
         x0 = a
         x1 = 0
         
-        while x0 != x1:
+        while abs(x0 - x1) > pow(10, -15):
             # New iteration, so x(i) becomes x(i-1)
             x0 = x1
             d = pow(self.__rating, 2) + v + exp(x0)
