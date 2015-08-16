@@ -14,7 +14,7 @@ Linux/OSX: The latest version of Python 3.
 2. Go into the downloaded folder: `cd smash_glicko2_ratings`
 3. Run the program:
     * Windows: `dist/SmashRankingsCalculator.exe`
-    * Linux/OSX: `python SmashRankingsCalculator.py`
+    * Linux/OSX: `python3 SmashRankingsCalculator.py`
 4. Watch the magic.
 
 ### How to use
