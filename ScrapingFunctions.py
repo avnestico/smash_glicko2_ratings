@@ -121,8 +121,10 @@ def normalize_names(line):
 def remove_pools(string):
     string = re.sub("(?:\(|\[)(?:P|)\d+(?:|(?:/:-)\d+)(?:\)|\])", "", string).strip()
     string = re.sub("(?:|\[)P\d+(?:/|-)\d+(?:\]|)", "", string).strip()
-    string = re.sub("[A-Z]\d+\.\d", "", string).strip()
+    string = re.sub("(?:|\[)[A-Z]\d+\.\d(?:\]|)", "", string).strip()
     string = re.sub("\(Wave(?: |)\d\)", "", string).strip()
+    string = re.sub("\(S\d+ P\d+\)", "", string).strip()
+    string = re.sub("\((?:Setup|Unpaid|Forfeit|Dq)\)", "", string).strip()
     return string
 
 
