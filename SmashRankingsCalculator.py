@@ -8,10 +8,10 @@ def arg_parser(argv):
     parser = argparse.ArgumentParser(formatter_class=argparse.RawTextHelpFormatter,
                                      description='Computes Glicko2 ratings of Super Smash Bros competitors')
     parser.add_argument('--scrape', dest='scrape', action='store_true',
-                        help='Set this flag if you have new tournaments to scrape')
+                        help='Set this flag to re-scrape all tournaments')
     parser.set_defaults(scrape=False)
     parser.add_argument('--scrape_tournament', '--scrape-tournament', dest='tournaments', default=None,
-                        help="Comma-separated list of tournaments to scrape, by filename.")
+                        help="Comma-separated list of tournaments to scrape, by filename")
     parser.add_argument('--format', dest='output_format', default='human',
                         help="Format of output: 'human' (human-readable) or 'tab' (tab-separated). Default: human")
     parser.add_argument('--game', dest='game', default=None,

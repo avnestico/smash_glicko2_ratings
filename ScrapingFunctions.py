@@ -331,14 +331,18 @@ def scrape_tournament(filename, url_list):
 def scrape_tournament_by_filename(tournament):
     """Scrapes a single tournament given only its file name."""
     for game in get_valid_games():
-        date_file, url_folder, result_folder = get_game_folders(game)
-        try:
-            urls = get_tournament_urls(tournament, url_folder)
-            tournament_filename = get_filename(result_folder, tournament)
-            safe_delete(tournament_filename)
-            scrape_tournament(tournament_filename, urls)
-        except FileNotFoundError:
-            print("No " + game + " data found for tournament '" + tournament + "'.")
+        scrape_tournament_by_game(game, tournament)
+
+
+def scrape_tournament_by_game(game, tournament):
+    date_file, url_folder, result_folder = get_game_folders(game)
+    try:
+        urls = get_tournament_urls(tournament, url_folder)
+        tournament_filename = get_filename(result_folder, tournament)
+        safe_delete(tournament_filename)
+        scrape_tournament(tournament_filename, urls)
+    except FileNotFoundError:
+        print("No " + game + " data found for tournament '" + tournament + "'.")
 
 
 def scrape_all_tournaments_for_game(game):
@@ -373,6 +377,8 @@ def process_game_by_date(game):
             line = line.strip()
             is_date = check_if_date(line)
             if not is_date:
+                if not os.path.isfile(get_filename(result_folder, line)):
+                    scrape_tournament_by_game(game, line)
                 tournaments.append(get_filename(result_folder, line))
             else:
                 print(line)
