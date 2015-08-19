@@ -15,8 +15,8 @@ Jflex,2,Equal,0
 Cactuar,2,Bolt$,0
 Beerman,0,Dudutsai,2
 Zhu,2,Rih,0
-Codi,2,Stricnyn3 (Dq),0
-Zanguzen,2,Warriorknight (Forfeit),0
+Codi,2,Stricnyn3,0
+Zanguzen,2,Warriorknight,0
 G$,2,Ryobeat,0
 Leffen,2,Pc Kipp,0
 Swiftbass,2,Reno,0
@@ -38,8 +38,8 @@ Ryobeat,2,Hectohertz,0
 Beerman,2,Baka4Moe,0
 Sol,2,Venti,0
 Yedi,2,Kmac,0
-Warriorknight (Forfeit),0,Ryobeat,2
-Stricnyn3 (Dq),0,Rih,2
+Warriorknight,0,Ryobeat,2
+Stricnyn3,0,Rih,2
 Bolt$,0,Beerman,2
 Equal,0,Sir Rocko,2
 Chuuper,0,Sol,2

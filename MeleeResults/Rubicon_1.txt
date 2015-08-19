@@ -1,0 +1,227 @@
+Guts,2,Mclovin,1
+Adelaide,2,Suplex City,0
+C#,2,Shazzo,0
+Frost,0,Noremac,2
+Jackkenney,2,Zook,0
+Clue,2,Readbarren,0
+Oro?,2,Guts,0
+Adelaide,0,C#,2
+Prz,2,Noremac,1
+Jackkenney,2,Clue,1
+Oro?,2,C#,0
+Prz,2,Jackkenney,1
+Suplex City,0,Shazzo,2
+Zook,2,Readbarren,0
+Clue,2,Mclovin,0
+Noremac,2,Shazzo,0
+Adelaide,2,Frost,0
+Guts,2,Zook,0
+Clue,2,Noremac,1
+Adelaide,2,Guts,0
+C#,0,Clue,2
+Jackkenney,2,Adelaide,0
+Acid,0,Treebeard,2
+[Rg] Jay,2,Sixonesix,0
+Function,2,Owen Chillson,0
+Parzival,2,Zephyr,0
+Deegs,0,Rngesusjr.,2
+Dart!,2,Mellamo,0
+Treebeard,0,[Rg] Jay,2
+Sveet,2,Function,0
+Parzival,2,Rngesusjr.,1
+Dart!,2,[Rg] Jay,0
+Sveet,2,Parzival,0
+Acid,0,Sixonesix,2
+Zephyr,0,Deegs,2
+Function,2,Sixonesix,0
+Treebeard,2,Owen Chillson,1
+Mellamo,0,Deegs,2
+Rngesusjr.,2,Function,0
+Treebeard,2,Deegs,1
+[Rg] Jay,2,Rngesusjr.,0
+Parzival,1,Treebeard,2
+Justjoe,2,Merk,0
+.Hyde,2,Tucker,0
+Dicam,2,Slope,1
+Hushedpuppy,0,Pdub,2
+Ggdoe,0,Roboat,2
+Faceroll,2,Justjoe,0
+.Hyde,2,Dicam,0
+Tink-A-Link,2,Pdub,0
+The Avenger,1,Roboat,2
+Faceroll,2,.Hyde,0
+Tink-A-Link,2,Roboat,0
+Tucker,1,Slope,2
+The Avenger,2,Merk,0
+Pdub,2,Slope,0
+Dicam,0,Hushedpuppy,2
+Justjoe,0,Ggdoe,2
+The Avenger,2,Pdub,0
+Hushedpuppy,2,Ggdoe,0
+.Hyde,1,The Avenger,2
+Roboat,0,Hushedpuppy,2
+King Fedora,2,Mustard,1
+Avian,0,Techdeath,2
+Efx,1,Smirked,2
+Iamthemicrowave,2,Phazeshift,0
+Giogio,2,Digboss,0
+Druggedfox,2,King Fedora,0
+Techdeath,2,Smirked,1
+Rik,2,Iamthemicrowave,0
+Pseudoturtle,2,Giogio,0
+Druggedfox,2,Techdeath,0
+Rik,2,Pseudoturtle,0
+Avian,0,Efx,2
+Giogio,0,Mustard,2
+Iamthemicrowave,2,Efx,0
+Smirked,2,Phazeshift,0
+King Fedora,2,Digboss,1
+Mustard,0,Iamthemicrowave,2
+Smirked,0,King Fedora,2
+Techdeath,2,Iamthemicrowave,1
+Pseudoturtle,2,King Fedora,0
+Techdeath,2,Pseudoturtle,1
+Kirbah,1,Mwbp,2
+Cali,0,Vavv,2
+Dre,0,Smokey Meat,2
+Intern,2,Phoenix,0
+Irs,2,Aqua,0
+Vro,2,Mwbp,0
+Vavv,2,Smokey Meat,0
+Andale,2,Intern,0
+Mc Strike,2,Irs,0
+Vro,2,Vavv,0
+Andale,2,Mc Strike,0
+Cali,2,Dre,0
+Irs,2,Kirbah,0
+Intern,2,Cali,1
+Smokey Meat,0,Phoenix,2
+Mwbp,2,Aqua,0
+Irs,2,Intern,0
+Phoenix,0,Mwbp,2
+Vavv,1,Irs,2
+Mc Strike,2,Mwbp,0
+Irs,0,Mc Strike,2
+Llama,2,Nexus,0
+Chet,0,Vitamin J,2
+Ethan,0,Stealthypanda,2
+Goldman Snacks,0,Photonic,2
+Goldpotato,0,Psuedo,2
+Orly,2,Llama,0
+Vitamin J,2,Stealthypanda,0
+Lanceinthepants,2,Photonic,0
+Knubs.,2,Psuedo,0
+Orly,2,Vitamin J,0
+Lanceinthepants,2,Knubs.,0
+Chet,2,Ethan,0
+Psuedo,2,Nexus,0
+Photonic,2,Chet,0
+Stealthypanda,2,Goldman Snacks,1
+Llama,2,Goldpotato,0
+Psuedo,1,Photonic,2
+Stealthypanda,2,Llama,0
+Vitamin J,1,Photonic,2
+Knubs.,2,Stealthypanda,0
+Lsdx,0,Nightmare,2
+Chicle,0,Wakenvape,2
+Flora,2,Stice,0
+Jacky,0,Phrigid,2
+Gundersen,2,Scorpio,0
+Scythe,2,Nightmare,0
+Wakenvape,2,Flora,0
+Mr.F,2,Phrigid,0
+Webs,1,Gundersen,2
+Scythe,2,Wakenvape,1
+Mr.F,2,Gundersen,0
+Chicle,0,Stice,2
+Webs,2,Lsdx,0
+Phrigid,2,Stice,0
+Flora,2,Jacky,0
+Nightmare,2,Scorpio,0
+Webs,0,Phrigid,2
+Flora,2,Nightmare,1
+Wakenvape,2,Phrigid,0
+Gundersen,2,Flora,1
+Lyfey,2,Nofluxes,0
+Blendtec,0,Yoshifreak,2
+Choiboi,2,Suezo,0
+Jonson,2,Ragoo,0
+Gundy,0,Shabo,2
+Trail,2,Lyfey,0
+Yoshifreak,2,Choiboi,0
+Sago,2,Jonson,0
+Azzu,2,Shabo,0
+Trail,2,Yoshifreak,0
+Sago,2,Azzu,0
+Blendtec,2,Suezo,0
+Shabo,2,Nofluxes,0
+Jonson,0,Blendtec,2
+Choiboi,2,Ragoo,0
+Lyfey,2,Gundy,0
+Shabo,1,Blendtec,2
+Choiboi,0,Lyfey,2
+Yoshifreak,2,Blendtec,0
+Azzu,2,Lyfey,0
+Druggedfox,2,Gundersen,0
+Tink-A-Link,2,Jackkenney,0
+Vro,2,Irs,0
+Scythe,2,Techdeath,0
+Trail,2,Hushedpuppy,0
+Lanceinthepants,2,Clue,0
+Andale,2,Wakenvape,0
+Rik,2,Azzu,0
+Dart!,2,Treebeard,0
+Sago,2,The Avenger,0
+Mr. F,2,Photonic,0
+Sveet,2,Mc Strike,0
+Captain Faceroll,2,[Rg] Jay,0
+Prz,2,Pseudoturtle,0
+Orly,2,Yoshifreak,0
+Oro?,2,Knubs.,0
+Druggedfox,2,Tink-A-Link,0
+Vro,2,Scythe,0
+Trail,2,Lanceinthepants,0
+Andale,2,Rik,0
+Dart!,2,Sago,0
+Mr. F,2,Sveet,0
+Captain Faceroll,2,Prz,1
+Orly,2,Oro?,1
+Druggedfox,1,Vro,2
+Trail,2,Andale,0
+Dart!,2,Mr. F,0
+Captain Faceroll,2,Orly,1
+Vro,3,Trail,2
+Dart!,2,Captain Faceroll,3
+Vro,1,Captain Faceroll,3
+Captain Faceroll,1,Druggedfox,3
+Druggedfox,3,Captain Faceroll,0
+Gundersen,0,Jackkenney,2
+Irs,1,Techdeath,2
+Hushedpuppy,0,Clue,2
+Wakenvape,1,Azzu,2
+Treebeard,0,The Avenger,2
+Photonic,0,Mc Strike,2
+[Rg] Jay,2,Pseudoturtle,0
+Yoshifreak,0,Knubs.,2
+Oro?,0,Jackkenney,2
+Prz,2,Techdeath,0
+Sveet,2,Clue,1
+Sago,0,Azzu,2
+Rik,2,The Avenger,1
+Lanceinthepants,0,Mc Strike,2
+Scythe,1,[Rg] Jay,2
+Tink-A-Link,2,Knubs.,0
+Jackkenney,1,Prz,2
+Sveet,2,Azzu,1
+Rik,2,Mc Strike,0
+[Rg] Jay,0,Tink-A-Link,2
+Andale,2,Prz,0
+Druggedfox,2,Sveet,0
+Orly,0,Rik,2
+Mr. F,2,Tink-A-Link,1
+Andale,1,Druggedfox,2
+Rik,2,Mr. F,0
+Dart!,1,Druggedfox,3
+Trail,2,Rik,0
+Druggedfox,3,Trail,1
+Vro,1,Druggedfox,3

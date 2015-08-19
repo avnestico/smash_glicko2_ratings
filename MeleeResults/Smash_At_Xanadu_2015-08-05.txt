@@ -1,0 +1,202 @@
+Paper Tiger,0,Helix,2
+Btree,2,Tan Wad,0
+The Brig,2,Ace,0
+K Lab,2,Schun,0
+Queendomkeeper,2,Mr. Fluffles,0
+Chair,0,Moonshoe,2
+Miles,2,Nosraef,0
+Jorts Club,0,Crescentia,2
+Peter The Hoe,2,Organic,0
+Pokenutz,2,Dr. Whip,0
+Barracuda,2,Archangel,0
+Llama,2,Plato,0
+Sloth,0,Chewy G3,2
+Adrenaline,2,Mkm,0
+Hop,0,Dominari,2
+Roboticphish,2,Betty Spaghetti,0
+Mega Blissey,0,Stevie G,2
+Lilonstitchface,2,Tom,0
+Panda Jaws,2,Neck,0
+Dr. Lip,2,Vitamin B,0
+Guac,2,Tantalus,0
+Popehat,0,Flip,2
+Brooke,2,Ufo,0
+Coffee Mug,2,Nipples,0
+Master Bum,0,Tkbreezy,2
+Fusion,2,Blueberry Fists,0
+Trentpai,0,Hea7,2
+Kvn,2,Lvl 1 Nana,0
+Pleasured Moans,0,Heavy,2
+20%,2,Unknown,0
+Slurp,2,Traytor,0
+Whiskeytits,0,Cameron,2
+Justbngoode,2,Leao,0
+Yung Wave Dash,0,Doiddlebob,2
+Hero,2,Free Space 1,0
+Straydoggywog,0,Tank,2
+Turn-A,2,Srofit,0
+Mc David,2,T-Rev,0
+Mew2King,2,Helix,0
+Btree,0,The Brig,2
+Sg,2,K Lab,0
+Bacon Pancakes,2,Queendomkeeper,0
+Plank,2,Moonshoe,0
+@Sdashkon,2,Miles,0
+Mike Haze,2,Crescentia,0
+Cava,2,Peter The Hoe,0
+Vgbc Redd,2,Pokenutz,0
+Barracuda,2,Llama,0
+Vgz.Llod,2,Chewy G3,0
+Peanutphobia,2,Adrenaline,0
+Dj Nintendo,2,Dominari,0
+Roboticphish,2,Stevie G,0
+Hat,2,Lilonstitchface,0
+Nimzo,2,Panda Jaws,0
+Westballz,2,Dr. Lip,0
+Guac,2,Flip,0
+Bones,2,Brooke,0
+Pb&J,2,Coffee Mug,0
+Reno,2,Tkbreezy,0
+Bigwenz,2,Fusion,0
+Thumbswayup,2,Hea7,0
+Nurok,2,Kvn,0
+Nintendude,2,Heavy,0
+20%,0,Slurp,2
+Vgz.Smash God,2,Cameron,0
+Zain,2,Justbngoode,0
+The Moon,2,Doiddlebob,0
+Hero,0,Tank,2
+Vist,2,Turn-A,0
+Lock,2,Mc David,0
+Mew2King,2,The Brig,0
+Sg,2,Bacon Pancakes,0
+Plank,2,@Sdashkon,0
+Mike Haze,2,Cava,0
+Vgbc Redd,2,Barracuda,0
+Vgz.Llod,2,Peanutphobia,0
+Dj Nintendo,2,Roboticphish,0
+Hat,2,Nimzo,0
+Westballz,2,Guac,0
+Bones,0,Pb&J,2
+Reno,2,Bigwenz,0
+Thumbswayup,2,Nurok,0
+Nintendude,2,Slurp,0
+Vgz.Smash God,2,Zain,0
+The Moon,2,Tank,0
+Vist,2,Lock,0
+Mew2King,2,Sg,0
+Plank,0,Mike Haze,2
+Vgbc Redd,0,Vgz.Llod,2
+Dj Nintendo,2,Hat,0
+Westballz,2,Pb&J,0
+Reno,2,Thumbswayup,0
+Nintendude,2,Vgz.Smash God,0
+The Moon,2,Vist,0
+Mew2King,2,Mike Haze,0
+Vgz.Llod,0,Dj Nintendo,2
+Westballz,2,Reno,0
+Nintendude,0,The Moon,2
+Mew2King,2,Dj Nintendo,0
+Westballz,0,The Moon,2
+Mew2King,2,The Moon,0
+Mew2King,2,The Moon,0
+Tan Wad,0,Ace,2
+Archangel,0,Plato,2
+Betty Spaghetti,2,Mega Blissey,0
+Tantalus,0,Popehat,2
+Unknown,0,Traytor,2
+Free Space 1,0,Straydoggywog,2
+Mc David,2,Paper Tiger,0
+Turn-A,0,Ace,2
+Hero,2,Schun,0
+Doiddlebob,0,Mr. Fluffles,2
+Justbngoode,2,Chair,0
+Cameron,2,Nosraef,0
+20%,2,Jorts Club,0
+Heavy,0,Organic,2
+Kvn,2,Dr. Whip,0
+Hea7,2,Plato,0
+Fusion,2,Sloth,0
+Tkbreezy,2,Mkm,0
+Coffee Mug,2,Hop,0
+Brooke,0,Betty Spaghetti,2
+Flip,2,Tom,0
+Dr. Lip,2,Neck,0
+Panda Jaws,2,Vitamin B,0
+Lilonstitchface,2,Popehat,0
+Stevie G,2,Ufo,0
+Dominari,0,Nipples,2
+Adrenaline,2,Master Bum,0
+Chewy G3,2,Blueberry Fists,0
+Llama,2,Trentpai,0
+Pokenutz,0,Lvl 1 Nana,2
+Peter The Hoe,2,Pleasured Moans,0
+Crescentia,2,Traytor,0
+Miles,2,Whiskeytits,0
+Moonshoe,0,Leao,2
+Queendomkeeper,2,Yung Wave Dash,0
+K Lab,0,Straydoggywog,2
+Btree,2,Srofit,0
+Helix,2,T-Rev,0
+Mc David,2,Ace,0
+Hero,2,Mr. Fluffles,0
+Justbngoode,2,Cameron,0
+20%,2,Organic,0
+Kvn,2,Hea7,0
+Fusion,2,Tkbreezy,0
+Coffee Mug,0,Betty Spaghetti,2
+Flip,0,Dr. Lip,2
+Panda Jaws,0,Lilonstitchface,2
+Stevie G,0,Nipples,2
+Adrenaline,0,Chewy G3,2
+Llama,2,Lvl 1 Nana,0
+Peter The Hoe,0,Crescentia,2
+Miles,2,Leao,0
+Queendomkeeper,2,Straydoggywog,0
+Btree,2,Helix,0
+Nimzo,2,Mc David,0
+Roboticphish,2,Hero,0
+Peanutphobia,2,Justbngoode,0
+Barracuda,2,20%,0
+Cava,2,Kvn,0
+@Sdashkon,0,Fusion,2
+Bacon Pancakes,2,Betty Spaghetti,0
+The Brig,2,Dr. Lip,0
+Lock,2,Lilonstitchface,0
+Tank,2,Nipples,0
+Zain,2,Chewy G3,0
+Slurp,2,Llama,0
+Nurok,2,Crescentia,0
+Bigwenz,2,Miles,0
+Bones,2,Queendomkeeper,0
+Guac,2,Btree,0
+Nimzo,2,Roboticphish,0
+Peanutphobia,0,Barracuda,2
+Cava,2,Fusion,0
+Bacon Pancakes,0,The Brig,2
+Lock,2,Tank,0
+Zain,2,Slurp,0
+Nurok,2,Bigwenz,0
+Bones,2,Guac,0
+Pb&J,0,Nimzo,2
+Thumbswayup,2,Barracuda,0
+Vgz.Smash God,2,Cava,0
+Vist,2,The Brig,0
+Sg,2,Lock,0
+Plank,2,Zain,0
+Vgbc Redd,2,Nurok,0
+Hat,2,Bones,0
+Nimzo,0,Thumbswayup,2
+Vgz.Smash God,2,Vist,0
+Sg,0,Plank,2
+Vgbc Redd,2,Hat,0
+Mike Haze,2,Thumbswayup,0
+Vgz.Llod,2,Vgz.Smash God,0
+Reno,2,Plank,0
+Nintendude,0,Vgbc Redd,2
+Mike Haze,2,Vgz.Llod,0
+Reno,2,Vgbc Redd,0
+Westballz,2,Mike Haze,0
+Dj Nintendo,2,Reno,0
+Westballz,2,Dj Nintendo,0
+The Moon,2,Westballz,0

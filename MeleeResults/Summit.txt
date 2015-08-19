@@ -1,0 +1,62 @@
+Kirbykaze,2,Plat,0
+4Serial,0,Navatar,2
+Idea,1,Riddlebox,2
+Coffeeblack,2,Lonebutterfish,0
+Raynex,2,Ot Eric,0
+Jamrun,2,Jp,0
+N0Ne,2,Dayz,0
+Anther,2,Sanu,0
+Ryan Ford,2,Infernojesus,0
+Kason The Wsip,2,Fern,0
+Hammertime,2,Dime,0
+Chuffles,0,Gabe,2
+Weon-X,2,Keatsta,0
+Nightmare,1,Windrose,2
+Sauc3,2,Kyle,0
+Trulliam,2,Cmac,1
+Kirbykaze,2,Navatar,0
+Riddlebox,0,Coffeeblack,2
+Raynex,2,Jamrun,0
+N0Ne,1,Anther,2
+Ryan Ford,2,Kason The Wsip,0
+Hammertime,2,Gabe,0
+Weon-X,2,Windrose,0
+Sauc3,2,Trulliam,1
+Kirbykaze,2,Coffeeblack,0
+Raynex,2,Anther,1
+Ryan Ford,2,Hammertime,0
+Weon-X,1,Sauc3,2
+Kirbykaze,3,Raynex,1
+Ryan Ford,3,Sauc3,0
+Kirbykaze,3,Ryan Ford,2
+Kirbykaze,3,Ryan Ford,0
+Plat,1,4Serial,2
+Idea,2,Lonebutterfish,0
+Ot Eric,0,Jp,2
+Dayz,0,Sanu,2
+Infernojesus,2,Fern,1
+Dime,0,Chuffles,2
+Keatsta,0,Nightmare,2
+Kyle,2,Cmac,0
+Trulliam,2,4Serial,1
+Windrose,0,Idea,2
+Gabe,2,Jp,0
+Kason The Wsip,2,Sanu,0
+N0Ne,2,Infernojesus,0
+Jamrun,0,Chuffles,2
+Riddlebox,0,Nightmare,2
+Navatar,1,Kyle,2
+Trulliam,1,Idea,2
+Gabe,1,Kason The Wsip,2
+N0Ne,2,Chuffles,0
+Nightmare,2,Kyle,1
+Anther,0,Idea,2
+Coffeeblack,2,Kason The Wsip,0
+Weon-X,0,N0Ne,2
+Hammertime,1,Nightmare,2
+Idea,0,Coffeeblack,2
+N0Ne,2,Nightmare,0
+Sauc3,2,Coffeeblack,0
+Raynex,0,N0Ne,2
+Sauc3,0,N0Ne,3
+Ryan Ford,3,N0Ne,2

@@ -301,14 +301,14 @@ Dunk,2,Buster Mcnutbutt,0
 Hulka,0,Connorthekid,2
 Exumer,0,Dunk,2
 Mang0,2,Vidjo,0
-Victor Abdul Latif (Stab),2,Zephyr,0
+Stab,2,Zephyr,0
 Hugs,2,Eastcoastjeff,0
 Kira,2,A Rookie,0
 Lucky,1,J666,2
 Tafokints,0,Coolkid,2
 Fly Amanita,2,Dendypretendy,0
 Mike Haze,2,Sung475,1
-Mang0,2,Victor Abdul Latif (Stab),0
+Mang0,2,Stab,0
 Hugs,2,Kira,0
 J666,2,Coolkid,1
 Fly Amanita,0,Mike Haze,2
@@ -337,7 +337,7 @@ Okamibw,0,Lucky,2
 Connorthekid,2,Sherigami,1
 Zephyr,1,Squid,2
 Kira,2,Sung475,0
-Victor Abdul Latif (Stab),0,Lucky,2
+Stab,0,Lucky,2
 Fly Amanita,1,Connorthekid,2
 Coolkid,2,Squid,0
 Kira,1,Lucky,2

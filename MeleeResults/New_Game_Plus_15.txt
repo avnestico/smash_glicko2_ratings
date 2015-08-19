@@ -1,0 +1,212 @@
+Tichinde,2,Messiah,0
+Spookyghost,2,Papa,0
+Neft,2,Kodak,1
+Alex,0,Ehro,2
+Lookalike,1,Onediwrekction,2
+Deep Blue,1,Haplesshero,2
+Null,2,Kob,0
+Boy,2,Sli,0
+Gimme Sac,2,Funk,1
+Dogface,2,Onen,0
+Maso,0,Xela,2
+No Tech Skill,1,Bullfrog,2
+Vudoo,0,820,2
+Ron,2,Zylp,0
+Nico,0,Broth Chiler,2
+Sweets,2,Discogreg,0
+Big Guy,2,The Saucy Stapler,0
+Gtea,2,Tayn,0
+Mario Party 4,2,Law,1
+Nfreak,1,Ross,2
+Ambition,2,Swords,0
+Lurogmz,2,Bd9,0
+The Yak,2,Primer,1
+Shkshk,2,Tsr,0
+Yung Coolatta,0,Pickles,2
+Tehguy,2,Smock,1
+Haldol,0,Twinlord,2
+Para,2,Mao,0
+Snowweiner,2,Shubs,0
+Empty Bottle,0,Rev,2
+Pj,2,Davs,0
+Ogtyx,0,Eddy,2
+A1,0,Ward,2
+Oversteps,2,Will,0
+Flambo,2,Puzzle,1
+Bouldershoulders,0,Gbaby6,2
+Gottoms,1,Stoc,2
+Quality Steve,2,Shadowzvoid,0
+Pink,2,Bals,0
+Dis,2,Fos The Kid,0
+Denny'S Grand Slam Breakfast,2,Thecawkenbalshack,0
+Blahyay,3,Coldo,0
+Baka4Moe,0,Blue,2
+Crush,2,Tichinde,0
+Spookyghost,2,Neft,0
+Metlwing,2,Ehro,0
+Makari,2,Onediwrekction,0
+Rime,2,Haplesshero,0
+Null,2,Boy,0
+Mr Lemon,2,Gimme Sac,1
+Dogface,2,Xela,0
+Klap$,2,Bullfrog,0
+820,2,Ron,0
+Blitzsm,2,Broth Chiler,0
+Mizu,2,Sweets,0
+Kyu Puff,2,Big Guy,0
+Gtea,2,Mario Party 4,0
+Mr Tuesday,2,Ross,0
+Torsionalstrain,2,Ambition,0
+Smuckers,2,Lurogmz,0
+The Yak,0,Shkshk,2
+Trilok,2,Pickles,0
+Colinsfuckboi,2,Tehguy,1
+Hart,2,Twinlord,0
+Para,1,Snowweiner,2
+Bvb,2,Rev,0
+Pj,2,Eddy,0
+Mafia,2,Ward,0
+Oversteps,2,Flambo,0
+Spiff,2,Gbaby6,0
+Bonk,2,Stoc,0
+Squible,2,Quality Steve,0
+Pink,2,Dis,0
+Stb,2,Denny'S Grand Slam Breakfast,0
+Blahyay,2,Blue,0
+Crush,2,Spookyghost,0
+Metlwing,0,Makari,2
+Rime,2,Null,0
+Mr Lemon,2,Dogface,0
+Klap$,2,820,0
+Blitzsm,2,Mizu,1
+Kyu Puff,2,Gtea,0
+Mr Tuesday,2,Torsionalstrain,0
+Smuckers,2,Shkshk,0
+Trilok,2,Colinsfuckboi,0
+Hart,2,Snowweiner,0
+Bvb,2,Pj,0
+Mafia,2,Oversteps,0
+Spiff,2,Bonk,1
+Squible,2,Pink,0
+Stb,2,Blahyay,0
+Crush,2,Makari,0
+Rime,2,Mr Lemon,0
+Klap$,2,Blitzsm,0
+Kyu Puff,0,Mr Tuesday,2
+Smuckers,2,Trilok,0
+Hart,0,Bvb,2
+Mafia,2,Spiff,0
+Squible,0,Stb,2
+Crush,2,Rime,0
+Klap$,2,Mr Tuesday,0
+Smuckers,2,Bvb,0
+Mafia,2,Stb,0
+Crush,2,Klap$,0
+Smuckers,2,Mafia,0
+Crush,1,Smuckers,3
+Smuckers,3,Mafia,2
+Papa,0,Kodak,2
+Kob,0,Sli,2
+Onen,0,Maso,2
+Vudoo,2,Zylp,0
+Tayn,2,Law,1
+Primer,2,Tsr,0
+Mao,2,Shubs,0
+Davs,0,Ogtyx,2
+Will,2,Puzzle,0
+Bals,2,Fos The Kid,0
+Coldo,1,Baka4Moe,2
+Blue,2,Messiah,0
+Denny'S Grand Slam Breakfast,2,Kodak,1
+Dis,2,Alex,0
+Quality Steve,2,Lookalike,1
+Stoc,2,Deep Blue,1
+Gbaby6,2,Sli,1
+Flambo,1,Funk,2
+Ward,1,Maso,2
+Eddy,2,No Tech Skill,0
+Rev,2,Vudoo,0
+Para,2,Nico,0
+Twinlord,2,Discogreg,1
+Tehguy,2,The Saucy Stapler,0
+Pickles,2,Tayn,1
+The Yak,2,Nfreak,0
+Lurogmz,2,Swords,0
+Ambition,2,Bd9,0
+Ross,1,Primer,2
+Mario Party 4,2,Yung Coolatta,0
+Big Guy,0,Smock,2
+Sweets,2,Haldol,0
+Broth Chiler,0,Mao,2
+Ron,2,Empty Bottle,0
+Bullfrog,2,Ogtyx,0
+Xela,2,A1,0
+Gimme Sac,2,Will,0
+Boy,2,Bouldershoulders,0
+Haplesshero,3,Gottoms,0
+Onediwrekction,2,Shadowzvoid,0
+Ehro,2,Bals,0
+Neft,2,Thecawkenbalshack,0
+Tichinde,2,Baka4Moe,0
+Blue,2,Denny'S Grand Slam Breakfast,0
+Dis,0,Quality Steve,2
+Stoc,0,Gbaby6,2
+Funk,0,Maso,2
+Eddy,0,Rev,2
+Para,2,Twinlord,0
+Tehguy,2,Pickles,0
+The Yak,2,Lurogmz,0
+Ambition,2,Primer,1
+Mario Party 4,2,Smock,1
+Sweets,2,Mao,0
+Ron,0,Bullfrog,2
+Xela,1,Gimme Sac,2
+Boy,2,Haplesshero,0
+Onediwrekction,2,Ehro,0
+Neft,0,Tichinde,2
+Torsionalstrain,2,Blue,1
+Gtea,2,Quality Steve,1
+Mizu,2,Gbaby6,0
+820,0,Maso,2
+Dogface,2,Rev,0
+Null,2,Para,1
+Metlwing,2,Tehguy,0
+Spookyghost,2,The Yak,0
+Blahyay,2,Ambition,0
+Pink,2,Mario Party 4,0
+Bonk,2,Sweets,0
+Oversteps,2,Bullfrog,0
+Pj,2,Gimme Sac,0
+Snowweiner,0,Boy,2
+Colinsfuckboi,2,Onediwrekction,0
+Shkshk,1,Tichinde,2
+Torsionalstrain,2,Gtea,0
+Mizu,2,Maso,0
+Dogface,2,Null,1
+Metlwing,1,Spookyghost,2
+Blahyay,2,Pink,0
+Bonk,1,Oversteps,2
+Pj,1,Boy,2
+Colinsfuckboi,2,Tichinde,0
+Trilok,2,Torsionalstrain,0
+Hart,2,Mizu,0
+Spiff,2,Dogface,0
+Squible,2,Spookyghost,0
+Makari,2,Blahyay,1
+Mr Lemon,2,Oversteps,0
+Blitzsm,2,Boy,0
+Kyu Puff,2,Colinsfuckboi,0
+Trilok,1,Hart,2
+Spiff,0,Squible,2
+Makari,1,Mr Lemon,2
+Blitzsm,0,Kyu Puff,2
+Rime,2,Hart,0
+Mr Tuesday,0,Squible,2
+Bvb,2,Mr Lemon,1
+Stb,1,Kyu Puff,2
+Rime,1,Squible,2
+Bvb,0,Kyu Puff,2
+Mafia,2,Squible,0
+Klap$,0,Kyu Puff,2
+Mafia,2,Kyu Puff,0
+Crush,1,Mafia,3

@@ -3499,7 +3499,7 @@ Ken,2,Animal,0
 Plup,2,Darkrain,0
 Wizzrobe,2,Redd,0
 Westballz,2,Toph,0
-4%,0,Ken,2
+4%,1,Ken,2
 Plup,2,Ky,0
 Wizzrobe,2,Twin 1,0
 Westballz,0,Ken,2
@@ -3518,6 +3518,7 @@ Dr. Z,2,Mr. Ii,0
 G$,2,Ministry,0
 Animal,2,Dtr,0
 Darkrain,2,Eval,0
+Redd,2,Chip,0
 Fatgoku,2,Dr. Z,0
 G$,0,Animal,2
 4%,0,Darkrain,2

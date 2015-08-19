@@ -1,0 +1,94 @@
+Cuddle,2,Petertheho,0
+Dr. Drew The Dragon,0,Kevin C,2
+Mervis,0,Coda,2
+Ludovico,2,Mr. Fish,0
+Dylan White,2,Sourdough,0
+Geoff,0,Guti,2
+Mags,0,Just Rath,2
+Metroid,2,Oven,0
+Worth,2,Tristan'S Rule,0
+Gimmie,0,Moophobia,2
+Jelly,2,Clouded,0
+Nevakee,2,Darkhero,0
+Pooch,2,Ptjon,0
+Jsalt,0,Elsa,2
+Wubbs,2,Scg Hona,0
+Blitzbolt,2,Cp9,0
+Mew2King,2,Cuddle,0
+Dubs,0,Kevin C,2
+Fx Dfw Albert,2,Coda,0
+Jf,2,Ludovico,0
+Darkrain,2,Dylan White,0
+Thoraxe,2,Guti,0
+Gameguys Mojo,2,Just Rath,0
+Fx Dfw Hamyojo,2,Metroid,0
+Wobbles,2,Worth,0
+Ripple,0,Moophobia,2
+Jake13,2,Jelly,0
+Bestfriendjohn,2,Nevakee,0
+Axe,2,Pooch,0
+Junebug,2,Elsa,0
+Arc,2,Wubbs,0
+Bluezaft,2,Blitzbolt,0
+Mew2King,2,Kevin C,0
+Fx Dfw Albert,2,Jf,0
+Darkrain,2,Thoraxe,0
+Gameguys Mojo,2,Fx Dfw Hamyojo,0
+Wobbles,2,Moophobia,0
+Jake13,2,Bestfriendjohn,0
+Axe,2,Junebug,0
+Arc,2,Bluezaft,0
+Mew2King,2,Fx Dfw Albert,0
+Darkrain,0,Gameguys Mojo,2
+Wobbles,2,Jake13,0
+Axe,2,Arc,0
+Mew2King,2,Gameguys Mojo,0
+Wobbles,2,Axe,0
+Mew2King,0,Wobbles,2
+Wobbles,2,Mew2King,0
+Blitzbolt,2,Petertheho,0
+Wubbs,2,Dr. Drew The Dragon,0
+Elsa,2,Mervis,0
+Pooch,2,Mr. Fish,0
+Nevakee,2,Sourdough,0
+Jelly,2,Geoff,0
+Ripple,0,Mags,2
+Worth,0,Oven,2
+Metroid,2,Tristan'S Rule,0
+Just Rath,2,Gimmie,0
+Guti,0,Clouded,2
+Dylan White,0,Darkhero,2
+Ludovico,0,Ptjon,2
+Coda,0,Jsalt,2
+Dubs,0,Scg Hona,2
+Cuddle,2,Cp9,0
+Blitzbolt,0,Wubbs,2
+Elsa,2,Pooch,0
+Nevakee,2,Jelly,0
+Mags,0,Oven,2
+Metroid,2,Just Rath,0
+Clouded,0,Darkhero,2
+Ptjon,0,Jsalt,2
+Scg Hona,2,Cuddle,0
+Fx Dfw Hamyojo,2,Wubbs,0
+Thoraxe,2,Elsa,0
+Jf,2,Nevakee,0
+Kevin C,2,Oven,0
+Bluezaft,2,Metroid,0
+Junebug,2,Darkhero,0
+Bestfriendjohn,2,Jsalt,0
+Moophobia,2,Scg Hona,0
+Fx Dfw Hamyojo,2,Thoraxe,0
+Jf,2,Kevin C,0
+Bluezaft,2,Junebug,0
+Bestfriendjohn,2,Moophobia,0
+Jake13,2,Fx Dfw Hamyojo,0
+Arc,2,Jf,0
+Fx Dfw Albert,0,Bluezaft,2
+Darkrain,2,Bestfriendjohn,0
+Jake13,0,Arc,2
+Bluezaft,0,Darkrain,2
+Gameguys Mojo,0,Arc,2
+Axe,2,Darkrain,0
+Arc,0,Axe,2
+Mew2King,2,Axe,0

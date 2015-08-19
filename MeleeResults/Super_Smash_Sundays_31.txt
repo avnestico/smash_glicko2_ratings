@@ -1,0 +1,40 @@
+Westballz,2,J666,0
+Stab,0,Mike Haze,2
+Lucky,2,Vish,0
+Tafokints,0,Tope,2
+Sfat,2,Jace,0
+Reno,0,Connorthekid,2
+Hugs,2,Sherigami,0
+Alex19,2,S2J,0
+Strain,0,Lock,2
+Luigikid,0,Kpan,2
+Yeti,2,A Man At Sea,0
+Dendypretendy,2,Neeco,0
+Oats,0,Trichael Man,2
+Sacasumoto,0,Intheyear420Xxx…,2
+Peligro,0,Koopatroopa895,2
+Hyprid,2,Toastbread,0
+J666,2,Lock,0
+Stab,2,Kpan,0
+Vish,2,Yeti,0
+Tafokints,0,Dendypretendy,2
+Jace,2,Trichael Man,0
+Reno,2,Intheyear420Xxx…,0
+Sherigami,0,Koopatroopa895,2
+S2J,2,Hyprid,0
+J666,0,Stab,2
+Vish,2,Dendypretendy,0
+Jace,0,Reno,2
+Koopatroopa895,0,S2J,2
+Hugs,2,Stab,0
+Connorthekid,2,Vish,0
+Tope,0,Reno,2
+Mike Haze,0,S2J,2
+Hugs,2,Connorthekid,0
+Reno,0,S2J,2
+Westballz,2,Hugs,0
+Alex19,0,S2J,2
+Lucky,0,Sfat,2
+Westballz,2,S2J,0
+Lucky,0,Westballz,2
+Sfat,3,Westballz,6

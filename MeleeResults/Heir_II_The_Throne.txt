@@ -1,0 +1,183 @@
+Haotwo,2,Theredsock,0
+J3Ly,2,Socks,0
+Mikehaggar,2,Jomo,0
+Luigo,1,Yeniths,2
+Alpha Dash,2,Phade,0
+Pop,2,Pureevil,0
+Deathgazer,2,Kraft-Ebing,0
+Datto,2,Epikfaal,0
+Volvo,2,Maskless,0
+Jin,1,Matt Smith,2
+Yabasta,1,Shloub,2
+Lamp,2,Moone 2,0
+Adamkex,0,Frenzy,2
+Unreal,2,Modest Major,0
+Jam,2,Lengman,0
+Kikkoman,2,Bullet Bill,0
+Vj,2,Calzum,1
+Nils,2,X1,0
+Cpt. Zeppo,2,Kidcandi,0
+Jim,2,Jjlinyard,0
+Doraki,2,Ddiz,0
+Luxus,0,Tamoo,2
+Schlimmshady,2,Rashattack,0
+Blaze,2,Bloodbowler,0
+Suntherion,1,Shifting Shadows,2
+Prosmashertim,2,Osu Timemuffinphd,0
+Willz,2,Ac_Anon,0
+Zorc,2,Beans,0
+Armada,2,Haotwo,0
+Flikflakk,2,R23,0
+Reaper,2,J3Ly,0
+Langley Trifasia,2,Mikehaggar,1
+Overtriforce,2,Yeniths,0
+Askeflink,1,Alpha Dash,2
+Jeapie,2,Pop,0
+Aether,0,Deathgazer,2
+Lucky,2,Datto,0
+Kriz,2,Stelzig,0
+Vanity Angel,2,Volvo,0
+Djagof,2,Matt Smith,0
+Professor Pro,2,Shloub,0
+Random-Ness,0,Lamp,2
+Salepate,2,Frenzy,0
+Eagle,2,Unreal,0
+Leffen,2,Jam,0
+Gawes,0,Brtarolg,2
+Eikelman,2,Kikkoman,0
+Daumling,0,Vj,2
+Tekk,2,Nils,0
+#Norway K-12,2,Cpt. Zeppo,1
+Fuzzyness,2,Jim,1
+Dev,2,Doraki,0
+Ice,2,Tamoo,1
+Fauster,2,Norm,0
+Mahie,2,Schlimmshady,0
+Beat,0,Blaze,2
+Android,2,Shifting Shadows,0
+Charlon,2,Prosmashertim,0
+Baxon,2,Willz,0
+Zoler,2,Zorc,0
+Armada,2,Flikflakk,0
+Reaper,0,Langley Trifasia,2
+Overtriforce,2,Alpha Dash,0
+Jeapie,2,Deathgazer,0
+Lucky,2,Kriz,0
+Vanity Angel,2,Djagof,1
+Professor Pro,2,Lamp,0
+Salepate,2,Eagle,0
+Leffen,2,Brtarolg,0
+Eikelman,2,Vj,0
+Tekk,2,#Norway K-12,0
+Fuzzyness,2,Dev,1
+Ice,2,Fauster,0
+Mahie,2,Blaze,0
+Android,2,Charlon,0
+Baxon,2,Zoler,0
+Armada,1,Langley Trifasia,2
+Overtriforce,2,Jeapie,0
+Lucky,2,Vanity Angel,1
+Professor Pro,2,Salepate,0
+Leffen,0,Eikelman,2
+Tekk,2,Fuzzyness,0
+Ice,2,Mahie,1
+Android,2,Baxon,0
+Langley Trifasia,3,Overtriforce,0
+Lucky,3,Professor Pro,0
+Eikelman,0,Tekk,3
+Ice,2,Android,3
+Langley Trifasia,2,Lucky,3
+Tekk,3,Android,1
+Lucky,3,Tekk,1
+Lucky,1,Armada,3
+Armada,3,Lucky,1
+Zorc,2,Theredsock,0
+Prosmashertim,2,Socks,0
+Shifting Shadows,2,Jomo,0
+Beat,2,Luigo,0
+Schlimmshady,2,Phade,0
+Norm,2,Pureevil,0
+Tamoo,1,Kraft-Ebing,2
+Doraki,2,Epikfaal,0
+Cpt. Zeppo,2,Maskless,0
+Nils,0,Jin,2
+Daumling,2,Yabasta,0
+Kikkoman,2,Moone 2,0
+Gawes,2,Adamkex,0
+Jam,2,Modest Major,0
+Unreal,2,Lengman,1
+Random-Ness,2,Bullet Bill,0
+Shloub,2,Calzum,0
+Matt Smith,1,X1,2
+Volvo,0,Kidcandi,2
+Stelzig,0,Jjlinyard,2
+Datto,2,Ddiz,0
+Aether,2,Luxus,0
+Askeflink,2,Rashattack,0
+Yeniths,2,Bloodbowler,1
+Mikehaggar,2,Suntherion,0
+J3Ly,2,Osu Timemuffinphd,1
+R23,2,Ac_Anon,0
+Haotwo,2,Beans,0
+Willz,0,Zorc,2
+Prosmashertim,0,Shifting Shadows,2
+Beat,2,Schlimmshady,1
+Norm,2,Kraft-Ebing,1
+Jim,2,Doraki,0
+Cpt. Zeppo,1,Jin,2
+Daumling,2,Kikkoman,0
+Gawes,1,Jam,2
+Frenzy,0,Unreal,2
+Random-Ness,2,Shloub,0
+X1,2,Kidcandi,0
+Jjlinyard,2,Datto,0
+Pop,0,Aether,2
+Askeflink,2,Yeniths,0
+Mikehaggar,1,J3Ly,2
+R23,2,Haotwo,0
+Eagle,2,Zorc,0
+Lamp,1,Shifting Shadows,2
+Djagof,1,Beat,2
+Kriz,2,Norm,0
+Deathgazer,1,Jim,2
+Alpha Dash,2,Jin,0
+Reaper,2,Daumling,0
+Flikflakk,2,Jam,0
+Zoler,2,Unreal,0
+Charlon,2,Random-Ness,0
+Blaze,1,X1,2
+Fauster,2,Jjlinyard,1
+Dev,0,Aether,2
+#Norway K-12,2,Askeflink,0
+Vj,2,J3Ly,0
+Brtarolg,1,R23,2
+Eagle,2,Shifting Shadows,0
+Beat,2,Kriz,1
+Jim,1,Alpha Dash,2
+Reaper,1,Flikflakk,2
+Zoler,2,Charlon,1
+X1,0,Fauster,2
+Aether,2,#Norway K-12,0
+Vj,0,R23,2
+Leffen,2,Eagle,0
+Fuzzyness,2,Beat,1
+Mahie,2,Alpha Dash,1
+Baxon,2,Flikflakk,1
+Armada,2,Zoler,1
+Jeapie,2,Fauster,0
+Vanity Angel,2,Aether,1
+Salepate,0,R23,2
+Leffen,3,Fuzzyness,2
+Mahie,3,Baxon,0
+Armada,3,Jeapie,2
+Vanity Angel,3,R23,0
+Overtriforce,1,Leffen,3
+Professor Pro,3,Mahie,0
+Eikelman,0,Armada,3
+Ice,3,Vanity Angel,1
+Leffen,3,Professor Pro,0
+Armada,3,Ice,1
+Android,3,Leffen,2
+Langley Trifasia,0,Armada,3
+Android,0,Armada,3
+Tekk,0,Armada,3
