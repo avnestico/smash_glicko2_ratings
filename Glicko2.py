@@ -86,33 +86,55 @@ class Player:
             tempSum += self._g(RD_list[i]) * \
                        (outcome_list[i] - self._E(rating_list[i], RD_list[i]))
         self.__rating += pow(self.__rd, 2) * tempSum
-        
-        
-    def _newVol(self, rating_list, RD_list, outcome_list, v):
+
+    def _newVol(self, rating_list, RD_list, outcome_list, v, epsilon=0.000001):
         """ Calculating the new volatility as per the Glicko2 system.
         
         _newVol(list, list, list) -> float
         
         """
-        i = 0
         delta = self._delta(rating_list, RD_list, outcome_list, v)
-        a = log(pow(self.vol, 2))
         tau = self._tau
-        x0 = a
-        x1 = 0
-        
-        while abs(x0 - x1) > pow(10, -15):
-            # New iteration, so x(i) becomes x(i-1)
-            x0 = x1
-            d = pow(self.__rating, 2) + v + exp(x0)
-            h1 = -(x0 - a) / pow(tau, 2) - 0.5 * exp(x0) \
-            / d + 0.5 * exp(x0) * pow(delta / d, 2)
-            h2 = -1 / pow(tau, 2) - 0.5 * exp(x0) * \
-            (pow(self.__rating, 2) + v) \
-            / pow(d, 2) + 0.5 * pow(delta, 2) * exp(x0) \
-            * (pow(self.__rating, 2) + v - exp(x0)) / pow(d, 3)
-            x1 = x0 - (h1 / h2)
+        rd = self.__rd
 
+        # 1. Let a = ln(s^2), and define f(x)
+        a = log(self.vol ** 2)
+
+        def f(x):
+            tmp = rd ** 2 + v + exp(x)
+            b = exp(x) * (delta ** 2 - tmp) / (2 * tmp ** 2)
+            c = (x - a) / tau ** 2
+            return b - c
+
+        # 2. Set the initial values of the iterative algorithm.
+        x0 = a
+        if delta ** 2 > rd ** 2 + v:
+            x1 = log(delta ** 2 - rd ** 2 - v)
+        else:
+            k = 1
+            if f(a - k * tau) < 0:
+                k += 1
+            x1 = a - k * tau
+
+        # 3. Let fA = f(A) and f(B) = f(B)
+        f_x0, f_x1 = f(x0), f(x1)
+
+        # 4. While |B-A| > e, carry out the following steps.
+        while abs(x0 - x1) > epsilon:
+            # (a) Let C = A + (A - B)fA / (fB-fA), and let fC = f(C).
+            x2 = x0 + (x0 - x1) * f_x0 / (f_x1 - f_x0)
+            f_x2 = f(x2)
+            # (b) If fCfB < 0, then set A <- B and fA <- fB; otherwise, just set
+            #     fA <- fA/2.
+            if f_x1 * f_x2 < 0:
+                x0, f_x0 = x1, f_x1
+            else:
+                f_x0 /= 2
+            # (c) Set B <- C and fB <- fC.
+            x1, f_x1 = x2, f_x2
+            # (d) Stop if |B-A| <= e. Repeat the above three steps otherwise.
+
+        # 5. Once |B-A| <= e, set s' <- e^(A/2)
         return exp(x1 / 2)
         
     def _delta(self, rating_list, RD_list, outcome_list, v):
