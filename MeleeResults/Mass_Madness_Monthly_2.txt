@@ -1,0 +1,63 @@
+Zoso,2,7Ent,0
+Mr. Tuesday,2,Solar,1
+Shminkledorf,0,R2Dliu,2
+Mr Lemon,2,Hazard,0
+Crush,2,Racer,0
+Arc,2,Makari,0
+Kyu Puff,0,Hea7,3
+Dazwa,2,Broth Chiler,0
+Mdz,2,Batsox,0
+Dudutsai,2,Trilok,0
+Psi,0,Dj Mirror,2
+Sora,2,Vudoo,0
+Hart,2,Bonk,0
+Bvb,2,Koga,0
+Weapon X,0,Arty,3
+Th0Rn,2,Tenshi,0
+Zoso,2,Mr. Tuesday,0
+R2Dliu,0,Mr Lemon,2
+Crush,2,Arc,0
+Hea7,0,Dazwa,2
+Mdz,1,Dudutsai,2
+Dj Mirror,0,Sora,2
+Hart,0,Bvb,2
+Arty,0,Th0Rn,2
+Zoso,2,Mr Lemon,0
+Crush,2,Dazwa,0
+Dudutsai,1,Sora,2
+Bvb,2,Th0Rn,0
+Zoso,3,Crush,1
+Sora,0,Bvb,3
+Zoso,3,Bvb,1
+Zoso,2,Crush,3
+Crush,1,Zoso,3
+7Ent,2,Solar,1
+Shminkledorf,2,Hazard,0
+Racer,2,Makari,0
+Kyu Puff,2,Broth Chiler,0
+Batsox,0,Trilok,2
+Psi,2,Vudoo,0
+Bonk,0,Koga,2
+Weapon X,2,Tenshi,0
+Arty,0,7Ent,2
+Hart,0,Shminkledorf,2
+Dj Mirror,2,Racer,0
+Mdz,2,Kyu Puff,1
+Hea7,0,Trilok,2
+Arc,1,Psi,2
+R2Dliu,2,Koga,1
+Mr. Tuesday,2,Weapon X,0
+7Ent,2,Shminkledorf,0
+Dj Mirror,0,Mdz,2
+Trilok,1,Psi,2
+R2Dliu,2,Mr. Tuesday,1
+Dazwa,2,7Ent,0
+Mr Lemon,1,Mdz,2
+Th0Rn,2,Psi,1
+Dudutsai,2,R2Dliu,0
+Dazwa,2,Mdz,0
+Th0Rn,1,Dudutsai,2
+Sora,0,Dazwa,3
+Crush,3,Dudutsai,0
+Dazwa,1,Crush,3
+Bvb,1,Crush,3

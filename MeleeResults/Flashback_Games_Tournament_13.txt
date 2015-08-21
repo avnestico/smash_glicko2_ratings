@@ -1,0 +1,194 @@
+Flaminroy,2,Katestheo,0
+Yort,2,Dust,0
+Dashdancedan,2,Mouse Shampoo,1
+Carter,2,Killua,0
+Flaminroy,2,Yort,0
+Dashdancedan,2,Carter,1
+Flaminroy,2,Dashdancedan,0
+Flaminroy,2,Dashdancedan,0
+Mouse Shampoo,2,Killua,0
+Dust,2,Katestheo,0
+Yort,2,Mouse Shampoo,0
+Carter,2,Dust,0
+Yort,1,Carter,2
+Dashdancedan,2,Carter,0
+Meat,0,Incenetum,2
+Dog,2,Smoof,0
+Nicaboy,2,Incenetum,0
+Swerve,2,Tm12,0
+Esperanto,2,Chad Quixote,0
+Nicaboy,2,Swerve,0
+Dog,0,Esperanto,2
+Nicaboy,2,Esperanto,0
+Nicaboy,2,Esperanto,0
+Chad Quixote,2,Meat,0
+Tm12,2,Smoof,0
+Tm12,2,Incenetum,0
+Swerve,2,Chad Quixote,0
+Dog,0,Tm12,2
+Swerve,2,Tm12,0
+Esperanto,2,Swerve,0
+King Tran,2,Feedthehead,0
+Chaos Dunk,2,Rupture,0
+Zaney,2,Pkpanta,0
+Druggedfox,2,King Tran,0
+Jummy,2,Pipes,0
+Op,2,Chaos Dunk,0
+Jazz,2,Zaney,0
+Druggedfox,2,Jummy,0
+Op,2,Jazz,0
+Druggedfox,2,Op,0
+Druggedfox,2,Op,0
+Zaney,2,Feedthehead,0
+Pipes,2,Rupture,0
+King Tran,2,Pkpanta,0
+Chaos Dunk,2,Zaney,0
+Pipes,2,King Tran,0
+Jummy,2,Chaos Dunk,0
+Jazz,2,Pipes,0
+Jummy,2,Jazz,0
+Op,2,Jummy,0
+401K,0,Rozz,2
+Karma,2,Perry,0
+S0Ft,2,Cloud,0
+Mantwin,2,Wild,0
+Rooktionary,2,Karma,0
+S0Ft,2,Mantwin,0
+Rozz,2,Rooktionary,0
+S0Ft,2,Rozz,0
+S0Ft,2,Rooktionary,0
+Wild,2,401K,0
+Cloud,0,Perry,2
+Wild,2,Perry,0
+Mantwin,2,Karma,0
+Rooktionary,2,Wild,0
+Mantwin,0,Rooktionary,2
+Rozz,0,Rooktionary,2
+Smashing Turnips,2,Wiki,0
+Pengie,2,N7 Zero,0
+Bravo,2,Amarula,0
+Pengie,2,Player-1,0
+Smashing Turnips,0,Bravo,2
+Pengie,2,Bravo,0
+Pengie,2,Smashing Turnips,0
+Wiki,0,N7 Zero,2
+Player-1,2,Amarula,0
+Smashing Turnips,2,N7 Zero,0
+Player-1,0,Smashing Turnips,2
+Bravo,0,Smashing Turnips,2
+Pyro,2,Turtle Stance,0
+Stroke,0,Good Will,2
+Gawes,2,Itsey Bitsey,0
+Thad,2,Pyro,0
+Bbq,2,Good Will,0
+Moonshine,2,Silver,0
+Gawes,2,Thad,0
+Bbq,2,Moonshine,0
+Gawes,2,Bbq,0
+Gawes,2,Bbq,0
+Good Will,2,Turtle Stance,0
+Pyro,2,Stroke,0
+Silver,2,Good Will,0
+Pyro,2,Itsey Bitsey,0
+Thad,2,Silver,0
+Moonshine,2,Pyro,0
+Thad,0,Moonshine,2
+Bbq,2,Moonshine,0
+Goon,2,Chipgroove,1
+Sd,2,Solo D0Lo,0
+Fullmetal,2,Seemsgood,0
+Dbag,2,Xbeke,0
+Een,2,Goon,0
+Fullmetal,2,Dbag,0
+Een,2,Sd,0
+Fullmetal,2,Een,1
+Fullmetal,2,Een,0
+Xbeke,0,Chipgroove,2
+Seemsgood,2,Solo D0Lo,1
+Chipgroove,2,Seemsgood,0
+Dbag,2,Goon,0
+Sd,0,Chipgroove,2
+Dbag,2,Chipgroove,0
+Een,2,Dbag,0
+Ovenmitts,2,Punny,1
+Gooftree,1,.Exe,2
+Rush,0,Jack,2
+Chaddd,2,Ovenmitts,0
+Soma,1,Tairseth,2
+Firoki,2,.Exe,1
+Trix,2,Jack,0
+Chaddd,2,Tairseth,0
+Firoki,1,Trix,2
+Chaddd,2,Trix,0
+Chaddd,2,Trix,0
+Jack,2,Punny,1
+Soma,2,Gooftree,0
+Ovenmitts,2,Rush,1
+.Exe,2,Jack,0
+Soma,1,Ovenmitts,2
+Tairseth,2,.Exe,0
+Firoki,2,Ovenmitts,0
+Tairseth,1,Firoki,2
+Trix,2,Firoki,0
+Druggedfox P31,2,Tm12 P24,0
+Smashing Turnips P52,0,Carter P13,2
+Fullmetal P71,2,Player-1 P54,0
+Dashdancedan P12,2,Rozz P43,0
+Nicaboy P21,2,Thad P64,0
+Rooktionary P42,2,Bravo P53,0
+Chaddd Pd1,2,Mantwin P44,0
+Bbq P62,0,Swerve P23,2
+S0Ft P41,2,Yort P14,0
+Esperanto P22,2,Dbag P73,1
+Gawes P61,2,Jazz P34,0
+Een P72,1,Firoki Pd3,2
+Flaminroy P11,2,Chipgroove P74,0
+Trix Pd2,2,Jummy P33,0
+Pengie P51,2,Tairseth Pd4,0
+Op P32,2,Moonshine P63,0
+Druggedfox P31,2,Carter P13,1
+Fullmetal P71,2,Dashdancedan P12,0
+Nicaboy P21,2,Rooktionary P42,1
+Chaddd Pd1,2,Swerve P23,0
+S0Ft P41,2,Esperanto P22,1
+Gawes P61,2,Firoki Pd3,0
+Flaminroy P11,2,Trix Pd2,0
+Pengie P51,1,Op P32,2
+Druggedfox P31,2,Fullmetal P71,1
+Nicaboy P21,2,Chaddd Pd1,1
+S0Ft P41,2,Gawes P61,1
+Flaminroy P11,2,Op P32,0
+Druggedfox P31,0,Nicaboy P21,3
+S0Ft P41,3,Flaminroy P11,0
+Nicaboy P21,1,S0Ft P41,3
+S0Ft P41,3,Flaminroy P11,2
+Tm12 P24,0,Smashing Turnips P52,2
+Player-1 P54,2,Rozz P43,0
+Thad P64,0,Bravo P53,2
+Mantwin P44,0,Bbq P62,2
+Yort P14,2,Dbag P73,1
+Jazz P34,0,Een P72,2
+Chipgroove P74,0,Jummy P33,2
+Tairseth Pd4,0,Moonshine P63,2
+Pengie P51,2,Smashing Turnips P52,0
+Trix Pd2,1,Player-1 P54,2
+Firoki Pd3,2,Bravo P53,1
+Esperanto P22,2,Bbq P62,1
+Swerve P23,2,Yort P14,0
+Rooktionary P42,2,Een P72,0
+Dashdancedan P12,2,Jummy P33,1
+Carter P13,2,Moonshine P63,0
+Pengie P51,2,Player-1 P54,0
+Firoki Pd3,0,Esperanto P22,2
+Swerve P23,0,Rooktionary P42,2
+Dashdancedan P12,1,Carter P13,2
+Chaddd Pd1,0,Pengie P51,2
+Fullmetal P71,2,Esperanto P22,1
+Op P32,2,Rooktionary P42,0
+Gawes P61,2,Carter P13,0
+Pengie P51,0,Fullmetal P71,2
+Op P32,1,Gawes P61,2
+Flaminroy P11,2,Fullmetal P71,0
+Druggedfox P31,0,Gawes P61,2
+Flaminroy P11,3,Gawes P61,2
+Nicaboy P21,0,Flaminroy P11,3

@@ -1,0 +1,170 @@
+Ward,2,Dis,0
+Bouldershoulders,2,Munchlax,1
+Haven,2,Mizuki,0
+Kkid,2,Ultramarine,0
+Lil Coolata,0,Sealand,2
+Spike Spiegel,0,Suds,2
+C-Stick Fibrosis,0,Mao,2
+Wrek'D Em,2,R00,1
+Label,1,Funk,2
+Daddy,0,Juniormint,2
+Flambo,2,Andy,0
+Blazingsparky,0,Razz,2
+-1,2,Kob,0
+Girthquake,2,Tom,0
+Ron,0,Ross,2
+Smoch,0,Krum,2
+Rev,1,Snowweiner,2
+Hoot,2,Coldo,0
+Broth Chiler,1,Ses,2
+Q,0,Primer,2
+Crazy Cow,1,Mbs,2
+Sweets,2,Jody Whitcore,0
+The Moon,2,Ward,0
+The Yak,2,Gtea,1
+Arc,2,Bouldershoulders,0
+Trilok,2,Haven,0
+Rime,2,Kkid,1
+Bugatti,2,Lurogmz,0
+Sora,2,Sealand,0
+Koga,2,Boy,1
+Crush,2,Suds,0
+Swissmiss,1,Null,2
+Hart,2,Mao,0
+Luigimaster,2,Wrek'D Em,0
+Mdz,2,Funk,0
+Jlo,1,Hea7,2
+Buffglutes92,2,Juniormint,0
+Brisenberg,2,Flambo,0
+Dj Nintendo,2,Razz,0
+Kunai,2,Pj,0
+Blitzsm,2,-1,0
+Makari,1,Girthquake,2
+Squible,2,Ross,0
+Spiff,1,Gtown_Tom,2
+Dudutsai,2,Krum,1
+Metlwing,2,Shkshk,0
+Mafia,2,Snowweiner,0
+Hazard,0,Stickman,2
+Bvb,2,Hoot,0
+Kazaam,2,Ses,0
+Tian,2,Primer,0
+Slag,2,Pink,1
+Mr Lemon,2,Mbs,0
+Blahyay,2,Sweets,0
+The Moon,2,The Yak,0
+Arc,2,Trilok,0
+Rime,2,Bugatti,0
+Sora,2,Koga,1
+Crush,2,Null,0
+Hart,2,Luigimaster,0
+Mdz,2,Hea7,0
+Buffglutes92,2,Brisenberg,0
+Dj Nintendo,2,Kunai,0
+Blitzsm,2,Girthquake,0
+Squible,2,Gtown_Tom,0
+Dudutsai,2,Metlwing,0
+Mafia,2,Stickman,0
+Bvb,1,Kazaam,2
+Tian,2,Slag,0
+Mr Lemon,2,Blahyay,0
+The Moon,2,Arc,0
+Rime,0,Sora,2
+Crush,1,Hart,2
+Mdz,2,Buffglutes92,0
+Dj Nintendo,2,Blitzsm,0
+Squible,1,Dudutsai,2
+Mafia,2,Kazaam,0
+Tian,2,Mr Lemon,1
+The Moon,2,Sora,0
+Hart,0,Mdz,2
+Dj Nintendo,2,Dudutsai,1
+Mafia,2,Tian,0
+The Moon,2,Mdz,0
+Dj Nintendo,2,Mafia,0
+The Moon,0,Dj Nintendo,3
+Dj Nintendo,3,The Moon,2
+Sweets,2,Dis,0
+Pink,2,Munchlax,0
+Primer,2,Mizuki,1
+Ses,2,Ultramarine,0
+Hazard,2,Lil Coolata,0
+Shkshk,2,Spike Spiegel,0
+Spiff,2,C-Stick Fibrosis,0
+Ross,2,R00,0
+Makari,2,Label,0
+Pj,2,Daddy,0
+Razz,2,Andy,0
+Flambo,1,Blazingsparky,2
+Jlo,2,Kob,0
+Funk,2,Tom,0
+Wrek'D Em,2,Ron,0
+Swissmiss,2,Smoch,0
+Boy,2,Rev,1
+Lurogmz,0,Coldo,2
+Kkid,1,Broth Chiler,2
+Haven,2,Q,1
+Gtea,2,Crazy Cow,0
+Ward,2,Jody Whitcore,0
+Mbs,1,Sweets,2
+Pink,2,Primer,0
+Hoot,0,Ses,2
+Snowweiner,0,Hazard,2
+Krum,2,Shkshk,0
+Spiff,2,Ross,0
+-1,0,Makari,2
+Pj,2,Razz,0
+Juniormint,0,Blazingsparky,2
+Jlo,2,Funk,1
+Mao,1,Wrek'D Em,2
+Suds,1,Swissmiss,2
+Sealand,0,Boy,2
+Coldo,0,Broth Chiler,2
+Bouldershoulders,0,Haven,2
+Gtea,2,Ward,0
+Brisenberg,2,Sweets,0
+Hea7,2,Pink,0
+Luigimaster,2,Ses,1
+Null,1,Hazard,2
+Koga,1,Krum,2
+Bugatti,0,Spiff,2
+Trilok,2,Makari,0
+The Yak,2,Pj,0
+Blahyay,2,Blazingsparky,0
+Slag,2,Jlo,1
+Bvb,2,Wrek'D Em,0
+Stickman,2,Swissmiss,0
+Metlwing,2,Boy,0
+Gtown_Tom,0,Broth Chiler,2
+Girthquake,0,Haven,2
+Kunai,2,Gtea,0
+Brisenberg,1,Hea7,2
+Luigimaster,0,Hazard,2
+Krum,0,Spiff,2
+Trilok,2,The Yak,0
+Blahyay,2,Slag,0
+Bvb,2,Stickman,1
+Metlwing,2,Broth Chiler,0
+Haven,1,Kunai,2
+Blitzsm,2,Hea7,0
+Squible,2,Hazard,1
+Kazaam,2,Spiff,0
+Mr Lemon,0,Trilok,2
+Arc,2,Blahyay,0
+Rime,1,Bvb,2
+Crush,2,Metlwing,0
+Buffglutes92,2,Kunai,0
+Blitzsm,2,Squible,0
+Kazaam,2,Trilok,0
+Arc,1,Bvb,2
+Crush,2,Buffglutes92,0
+Sora,2,Blitzsm,0
+Hart,2,Kazaam,0
+Dudutsai,1,Bvb,2
+Tian,1,Crush,2
+Sora,2,Hart,0
+Bvb,0,Crush,2
+Mafia,2,Sora,0
+Mdz,0,Crush,2
+Mafia,1,Crush,2
+The Moon,3,Crush,0

@@ -1,0 +1,62 @@
+Mojo,2,Zap101,0
+Overdrive,2,Lumpy,0
+Jf,2,Sunflash,0
+Pawlstothewall,2,Merk,0
+Tirno,2,Jcast,0
+Sjkf,2,Jkt,0
+Bestfriendjohn,2,D,0
+Bloke Cinco,2,Lgt,1
+Mt,2,Blockhead,0
+Mouf,2,2002,0
+Zhea,2,Bok Choy,0
+Hamyojo,2,Brian,0
+Jake13,2,Big Red,0
+Kbarry,2,Silver,1
+Bluezaft,2,Zephix,0
+Tsc,2,Wtblake,1
+Mojo,2,Overdrive,0
+Jf,2,Pawlstothewall,0
+Tirno,2,Sjkf,0
+Bestfriendjohn,2,Bloke Cinco,1
+Mt,2,Mouf,0
+Zhea,0,Hamyojo,2
+Jake13,2,Kbarry,0
+Bluezaft,2,Tsc,0
+Mojo,2,Jf,1
+Tirno,2,Bestfriendjohn,1
+Mt,2,Hamyojo,0
+Jake13,0,Bluezaft,2
+Mojo,3,Tirno,0
+Mt,3,Bluezaft,1
+Mojo,3,Mt,0
+Mojo,3,Mt,1
+Zap101,0,Lumpy,2
+Sunflash,2,Merk,0
+Jcast,2,Jkt,1
+D,1,Lgt,2
+Blockhead,2,2002,0
+Bok Choy,1,Brian,2
+Big Red,0,Silver,2
+Zephix,0,Wtblake,2
+Tsc,2,Lumpy,0
+Kbarry,2,Sunflash,0
+Zhea,2,Jcast,0
+Mouf,2,Lgt,0
+Bloke Cinco,2,Blockhead,0
+Sjkf,2,Brian,0
+Pawlstothewall,2,Silver,0
+Overdrive,0,Wtblake,2
+Tsc,2,Kbarry,0
+Zhea,0,Mouf,2
+Bloke Cinco,2,Sjkf,1
+Pawlstothewall,0,Wtblake,2
+Bestfriendjohn,2,Tsc,0
+Jf,2,Mouf,1
+Jake13,2,Bloke Cinco,0
+Hamyojo,1,Wtblake,2
+Bestfriendjohn,0,Jf,3
+Jake13,3,Wtblake,0
+Bluezaft,1,Jf,3
+Tirno,2,Jake13,3
+Jf,0,Jake13,3
+Mt,3,Jake13,2

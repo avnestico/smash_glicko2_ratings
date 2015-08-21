@@ -1,0 +1,165 @@
+Coldo,0,Cat,2
+Dis,1,Master Of The Dingoverse,2
+Jsun,2,Soma,1
+Spiff,2,Q,0
+Matador,2,Shawarmaking,0
+Life,2,Dr Noisewaters,1
+Cam,0,Ant,2
+Maso,2,Rezzerection,0
+Rooahzawl,2,Forte,0
+Fu,2,Computerslime,0
+Hazard,2,Seaghost,0
+Pink,2,Mono,0
+Wreck,2,Flysloth,0
+Nidra,1,Haplesshero,2
+Spade,2,Dankasswondergimps,0
+Spacecadet,0,Rockbutt,2
+The Yak,2,Label,0
+Hea7,2,Requiredbear,0
+Stoc,2,Brohad,0
+Mafia,2,Cat,0
+Tichinde925,0,Brisenburg,2
+Xpilot,2,Master Of The Dingoverse,0
+Makari,2,Jsun,0
+Dudutsai,2,Spiff,0
+Batsox,2,Ec Joey,0
+Kazamm,2,Matador,1
+Koga,2,Veggietales,0
+Rime,2,Life,0
+Bugatti,2,Joreg,0
+Kaiju,2,Ant,0
+Blahyay,1,Lurogmz,2
+Kyu Puff,2,Maso,0
+Memory,1,Seabass,2
+Arc,2,Rooahzawl,0
+Kalvar,2,Grim,0
+Mdz,2,Fu,0
+Gtea,2,Girthquake,1
+Blitzsm,2,Hazard,0
+Trilok,2,Pink,0
+Mr Lemon,2,Wreck,0
+Racer.Money,2,Feelings,0
+Sora,2,Haplesshero,0
+Metlwing,2,Jellyfish,1
+Squible,2,Spade,0
+Pj,2,Yungbonezvillian,0
+Crow,2,Rockbutt,0
+Daesin,0,The Yak,2
+Mr Tuesday,2,Hea7,0
+Leet,2,Combatcoldcuts,0
+Bvb,2,Stoc,0
+Para,2,Gtown Tom,1
+Mafia,2,Brisenburg,0
+Xpilot,0,Makari,2
+Dudutsai,1,Batsox,2
+Kazamm,1,Koga,2
+Rime,2,Bugatti,0
+Kaiju,2,Lurogmz,0
+Kyu Puff,2,Seabass,0
+Arc,2,Kalvar,1
+Mdz,2,Gtea,0
+Blitzsm,0,Trilok,2
+Mr Lemon,2,Racer.Money,0
+Sora,2,Metlwing,0
+Squible,2,Pj,1
+Crow,2,The Yak,0
+Mr Tuesday,2,Leet,0
+Bvb,0,Para,2
+Mafia,2,Makari,0
+Batsox,2,Koga,0
+Rime,2,Kaiju,0
+Kyu Puff,2,Arc,1
+Mdz,2,Trilok,0
+Mr Lemon,0,Sora,2
+Squible,2,Crow,0
+Mr Tuesday,2,Para,0
+Mafia,2,Batsox,0
+Rime,2,Kyu Puff,0
+Mdz,2,Sora,1
+Squible,2,Mr Tuesday,0
+Mafia,2,Rime,0
+Mdz,0,Squible,2
+Mafia,3,Squible,1
+Mafia,1,Mdz,3
+Mdz,1,Mafia,3
+Gtown Tom,2,Coldo,0
+Combatcoldcuts,2,Dis,0
+Hea7,2,Soma,1
+Daesin,2,Q,0
+Yungbonezvillian,2,Shawarmaking,0
+Jellyfish,2,Dr Noisewaters,0
+Feelings,1,Cam,2
+Pink,2,Rezzerection,0
+Girthquake,2,Forte,0
+Grim,2,Computerslime,0
+Memory,2,Seaghost,0
+Maso,2,Mono,1
+Blahyay,2,Flysloth,0
+Joreg,2,Nidra,0
+Veggietales,2,Dankasswondergimps,0
+Ec Joey,2,Spacecadet,0
+Spiff,2,Label,0
+Jsun,2,Requiredbear,1
+Tichinde925,2,Brohad,0
+Stoc,0,Gtown Tom,2
+Combatcoldcuts,0,Hea7,2
+Rockbutt,0,Daesin,2
+Spade,2,Yungbonezvillian,0
+Haplesshero,2,Jellyfish,1
+Wreck,2,Cam,0
+Hazard,0,Pink,2
+Fu,2,Girthquake,1
+Rooahzawl,0,Grim,2
+Memory,2,Maso,0
+Ant,0,Blahyay,2
+Life,0,Joreg,2
+Matador,2,Veggietales,1
+Ec Joey,2,Spiff,1
+Master Of The Dingoverse,2,Jsun,0
+Cat,2,Tichinde925,1
+Kalvar,0,Gtown Tom,2
+Seabass,1,Hea7,2
+Lurogmz,0,Daesin,2
+Bugatti,2,Spade,0
+Kazamm,2,Haplesshero,0
+Dudutsai,2,Wreck,0
+Xpilot,2,Pink,0
+Brisenburg,2,Fu,0
+Bvb,2,Grim,1
+Leet,1,Memory,2
+The Yak,0,Blahyay,2
+Pj,2,Joreg,1
+Metlwing,0,Matador,2
+Racer.Money,2,Ec Joey,0
+Blitzsm,2,Master Of The Dingoverse,1
+Gtea,2,Cat,0
+Gtown Tom,0,Hea7,2
+Daesin,1,Bugatti,2
+Kazamm,1,Dudutsai,2
+Xpilot,2,Brisenburg,0
+Bvb,2,Memory,0
+Blahyay,0,Pj,2
+Matador,1,Racer.Money,2
+Blitzsm,2,Gtea,0
+Trilok,2,Hea7,0
+Mr Lemon,2,Bugatti,0
+Crow,1,Dudutsai,2
+Para,2,Xpilot,0
+Makari,0,Bvb,2
+Koga,2,Pj,1
+Kaiju,2,Racer.Money,0
+Arc,1,Blitzsm,2
+Trilok,0,Mr Lemon,2
+Dudutsai,2,Para,0
+Bvb,2,Koga,0
+Kaiju,2,Blitzsm,1
+Batsox,0,Mr Lemon,2
+Kyu Puff,2,Dudutsai,1
+Sora,1,Bvb,2
+Mr Tuesday,1,Kaiju,2
+Mr Lemon,2,Kyu Puff,0
+Bvb,1,Kaiju,2
+Mdz,2,Mr Lemon,0
+Rime,2,Kaiju,0
+Mdz,2,Rime,0
+Squible,0,Mdz,3

@@ -1,0 +1,94 @@
+Polar,1,Karlv,2
+Mitchd,2,Bloodghast,0
+Dairbair,0,Bobinator,2
+Niku,2,Andrew,0
+Fabreeze,2,Jebitz,0
+Shlonkey Kong,2,Ctoph,0
+Yobro,0,Zuz,2
+Moocow,2,Dr. Karts,0
+Afrokano,2,Choft,1
+Idog,2,Fox,0
+Seng,2,Kanopy,0
+Iceman,2,Contact,0
+Swiffer,2,Koba,0
+Meat,2,Cuzzin Sad0,0
+Stom,2,Safeway,0
+Keagsbsmashin,0,Cmyk,2
+Tizzy,2,Karlv,0
+Hawk,1,Mitchd,2
+Jredl,2,Bobinator,0
+Burnt Out Ninja,2,Niku,0
+Subzero,2,Fabreeze,0
+At22,1,Shlonkey Kong,2
+Cmg,2,Zuz,0
+Choft'S Ego,2,Moocow,0
+Dark Flame Master,2,Afrokano,0
+Tenda,0,Idog,2
+Star,2,Seng,0
+Stickman,2,Iceman,0
+Oldboy,2,Swiffer,0
+Acx$,2,Meat,0
+Cuno,2,Stom,0
+Revenant,2,Cmyk,0
+Tizzy,2,Mitchd,0
+Jredl,2,Burnt Out Ninja,0
+Subzero,2,Shlonkey Kong,0
+Cmg,2,Choft'S Ego,0
+Dark Flame Master,2,Idog,0
+Star,2,Stickman,0
+Oldboy,2,Acx$,0
+Cuno,1,Revenant,2
+Tizzy,2,Jredl,0
+Subzero,0,Cmg,2
+Dark Flame Master,0,Star,2
+Oldboy,2,Revenant,0
+Tizzy,2,Cmg,0
+Star,2,Oldboy,1
+Tizzy,3,Star,1
+Tizzy,3,Star,2
+Cmyk,2,Polar,0
+Stom,2,Bloodghast,1
+Meat,2,Dairbair,0
+Swiffer,2,Andrew,1
+Iceman,2,Jebitz,1
+Seng,2,Ctoph,0
+Tenda,0,Yobro,2
+Afrokano,2,Dr. Karts,0
+Moocow,0,Choft,2
+Zuz,2,Fox,0
+At22,2,Kanopy,0
+Fabreeze,2,Contact,0
+Niku,2,Koba,0
+Bobinator,2,Cuzzin Sad0,0
+Hawk,2,Safeway,0
+Karlv,1,Keagsbsmashin,2
+Cmyk,0,Stom,2
+Meat,0,Swiffer,2
+Iceman,0,Seng,2
+Yobro,0,Afrokano,2
+Choft,0,Zuz,2
+At22,1,Fabreeze,2
+Niku,2,Bobinator,0
+Hawk,2,Keagsbsmashin,0
+Choft'S Ego,2,Stom,0
+Shlonkey Kong,2,Swiffer,0
+Burnt Out Ninja,2,Seng,0
+Mitchd,0,Afrokano,2
+Cuno,2,Zuz,1
+Acx$,1,Fabreeze,2
+Stickman,2,Niku,0
+Idog,2,Hawk,0
+Choft'S Ego,0,Shlonkey Kong,2
+Burnt Out Ninja,2,Afrokano,1
+Cuno,2,Fabreeze,1
+Stickman,2,Idog,0
+Dark Flame Master,2,Shlonkey Kong,0
+Revenant,0,Burnt Out Ninja,2
+Jredl,2,Cuno,1
+Subzero,2,Stickman,0
+Dark Flame Master,2,Burnt Out Ninja,0
+Jredl,2,Subzero,1
+Cmg,0,Dark Flame Master,2
+Oldboy,2,Jredl,0
+Dark Flame Master,2,Oldboy,1
+Star,3,Dark Flame Master,2

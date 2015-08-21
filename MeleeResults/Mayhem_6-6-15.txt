@@ -56,7 +56,7 @@ Oli,2,Joemama,0
 Dj Mirror,2,Human,0
 Wacky,0,Baja,2
 Sun,2,Carlit0,0
-Homestar,2,[Brkd] Mariner,0
+Homestar,2,Mariner,0
 Silver Blazblue,0,Dirty Dan,2
 Pepemdp,2,Iron,0
 Turbomaximus,0,Blanking,2
@@ -80,7 +80,7 @@ Macd,2,Dj Mirror,0
 Sung475,0,Jace,2
 Nixon,2,Joemama,0
 Human,2,Wacky,0
-Carlit0,2,[Brkd] Mariner,0
+Carlit0,2,Mariner,0
 Iron,0,Turbomaximus,2
 Cnbftbgb,2,Dr. Whooves,0
 Prim8,0,Tenshii,2
@@ -110,7 +110,7 @@ Paradox,2,Jadezilla,0
 Mr. Paul,2,Housekeys,0
 W!Z,2,Bbng_,0
 Manatee,2,Theo,0
-Will+5,2,[Brkd] Kyule_,0
+Will+5,2,Kyule_,0
 Submind,0,Donutthief,2
 Phobe,0,Kramepie,2
 Tuxedo Mask,2,Birdman,0
@@ -134,7 +134,7 @@ Hugs,2,Manatee,0
 Squid,0,J666,2
 Morven,2,Jadezilla,0
 Housekeys,2,Bbng_,0
-Theo,2,[Brkd] Kyule_,0
+Theo,2,Kyule_,0
 Phobe,2,Birdman,0
 Kenji,2,R0Sas,0
 Gami,0,Blaze,2
@@ -164,7 +164,7 @@ Oops,0,Jago,2
 Rickety,2,Gorx,0
 Vavez,2,Argo,0
 Hulka,0,Yingling,2
-You'Repizza,2,[Brkd] Harrisonjbb,0
+You'Repizza,2,Harrisonjbb,0
 Stupid_Yoshii,2,Dopenshire,0
 Marthpwnzer,0,Krzy8,2
 Umbrella,0,Binca,2
@@ -188,7 +188,7 @@ Westballz,2,Rickety,0
 Tafokints,2,Peligro,0
 Lush,0,Oops,2
 Gorx,2,Argo,0
-Hulka,2,[Brkd] Harrisonjbb,0
+Hulka,2,Harrisonjbb,0
 Marthpwnzer,2,Umbrella,0
 Mlgfedora,2,Ragnarok,0
 G0Rdo19,2,Chanos97,0

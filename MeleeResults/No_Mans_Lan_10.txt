@@ -1,0 +1,63 @@
+Kirbykaze,2,Dad,0
+Cmac,0,Juggleguy'S 5Th Biggest House Fan,2
+Idea,2,Nja,1
+Coffeeblack,2,Bloody Joker,0
+Weon-X,2,Nexic,0
+Juggleguy,1,Hello,2
+N0Ne,2,Deep C Squid,0
+Trulliam,2,Fendrick Lamar,0
+Duck,2,Sevan,0
+Soul,2,Toronto Joe,1
+Kage,2,I4N,0
+Sauc3,2,Slug - Gunner,0
+Vwins,2,Will,0
+Kason,1,Toast,2
+Kjh,2,Sasha,0
+Ginger,1,4Serial,2
+Kirbykaze,2,Juggleguy'S 5Th Biggest House Fan,0
+Idea,0,Coffeeblack,2
+Weon-X,2,Hello,1
+N0Ne,2,Trulliam,0
+Duck,2,Soul,0
+Kage,2,Sauc3,0
+Vwins,2,Toast,0
+Kjh,2,4Serial,0
+Kirbykaze,2,Coffeeblack,0
+Weon-X,2,N0Ne,1
+Duck,1,Kage,2
+Vwins,2,Kjh,0
+Kirbykaze,3,Weon-X,2
+Kage,1,Vwins,3
+Kirbykaze,3,Vwins,0
+Kirbykaze,2,Duck,3
+Duck,1,Kirbykaze,3
+Dad,0,Cmac,2
+Nja,2,Bloody Joker,1
+Nexic,0,Juggleguy,2
+Deep C Squid,1,Fendrick Lamar,2
+Sevan,0,Toronto Joe,2
+I4N,1,Slug - Gunner,2
+Will,1,Kason,2
+Sasha,0,Ginger,2
+4Serial,2,Cmac,1
+Toast,2,Nja,0
+Sauc3,0,Juggleguy,2
+Soul,2,Fendrick Lamar,0
+Trulliam,2,Toronto Joe,0
+Hello,2,Slug - Gunner,0
+Idea,2,Kason,1
+Juggleguy'S 5Th Biggest House Fan,0,Ginger,2
+4Serial,2,Toast,0
+Juggleguy,2,Soul,0
+Trulliam,2,Hello,0
+Idea,2,Ginger,1
+N0Ne,2,4Serial,0
+Coffeeblack,2,Juggleguy,0
+Kjh,2,Trulliam,0
+Duck,2,Idea,1
+N0Ne,2,Coffeeblack,0
+Kjh,1,Duck,2
+Kage,1,N0Ne,2
+Weon-X,0,Duck,2
+N0Ne,2,Duck,3
+Vwins,0,Duck,3

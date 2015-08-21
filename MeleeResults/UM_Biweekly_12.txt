@@ -1,0 +1,144 @@
+Lonny,2,Spooky,0
+Ham,0,Yokoruta Nosamacha,2
+Doylesmash,0,Joka,2
+Pono,0,Npv,2
+Monk,2,Nomad,0
+Shinsuyavi,2,Young Hot Ebony Reborn,0
+Kuma,2,Blue Ranger,0
+Twitch.Tv/Mars_Smash,0,Xxnoscopebowserextemexx,2
+2Stop,2,Hikaritenchi,0
+Kjh,2,Lonny,0
+Ricechrispy,2,Chardcore,0
+Heartstrings,2,Jayce,0
+Thugz,2,Jingran Wang,0
+Paper,2,Yokoruta Nosamacha,0
+Shanondorf,0,Xam,2
+Yoyo,2,Joka,0
+Sheep,2,Strooper,0
+1Der,2,Npv,0
+Ruffian,2,Design,0
+Nutsack,2,+C,0
+Moose Beat Alan,2,Cornbread,0
+Beach,2,Monk,0
+Psythr,2,Bad Horse,0
+Quang,2,Regralht,0
+Yoyosucks248,2,401Loserbutt,0
+Duck,2,Shinsuyavi,0
+Tilt,2,Indy,0
+Cam,2,Datnero,0
+Criphood,2,Magicscrumpy,0
+Saturday Lain On A Wednesday,2,Kuma,0
+Minorthreat,2,Mathematics,0
+Fendricklamar,2,Skate,0
+Bandit,2,Jayjayjayjayjayjayjayjay,0
+Juggles,2,Xxnoscopebowserextemexx,0
+Noon,0,Coleslaw,2
+I4N,2,Heavyrock,0
+Darklouie,2,Shanahan,0
+Mb-Smash,2,2Stop,0
+Garzal,2,Gman,0
+Butch G,2,Kenta,0
+Sho,2,Top Pomeranian,0
+Kjh,2,Ricechrispy,0
+Heartstrings,0,Thugz,2
+Paper,2,Xam,0
+Yoyo,2,Sheep,0
+1Der,2,Ruffian,0
+Nutsack,0,Moose Beat Alan,2
+Beach,2,Psythr,0
+Quang,2,Yoyosucks248,0
+Duck,2,Tilt,0
+Cam,0,Criphood,2
+Saturday Lain On A Wednesday,2,Minorthreat,0
+Fendricklamar,2,Bandit,0
+Juggles,2,Coleslaw,0
+I4N,2,Darklouie,0
+Mb-Smash,2,Garzal,0
+Butch G,2,Sho,0
+Kjh,2,Thugz,0
+Paper,2,Yoyo,0
+1Der,2,Moose Beat Alan,0
+Beach,2,Quang,0
+Duck,2,Criphood,0
+Saturday Lain On A Wednesday,0,Fendricklamar,2
+Juggles,2,I4N,0
+Mb-Smash,2,Butch G,0
+Kjh,2,Paper,0
+1Der,0,Beach,2
+Duck,2,Fendricklamar,0
+Juggles,2,Mb-Smash,0
+Kjh,2,Beach,0
+Duck,2,Juggles,0
+Kjh,2,Duck,0
+Kjh,2,Duck,0
+Top Pomeranian,0,Spooky,2
+Shanahan,2,Ham,0
+Noon,2,Doylesmash,0
+Jayjayjayjayjayjayjayjay,2,Pono,0
+Magicscrumpy,0,Nomad,2
+401Loserbutt,2,Young Hot Ebony Reborn,0
+Cornbread,2,Blue Ranger,0
+Strooper,0,Twitch.Tv/Mars_Smash,2
+Jingran Wang,0,Hikaritenchi,2
+Kenta,0,Spooky,2
+Gman,0,2Stop,2
+Heavyrock,2,Shanahan,0
+Xxnoscopebowserextemexx,2,Noon,0
+Skate,0,Jayjayjayjayjayjayjayjay,2
+Mathematics,2,Kuma,0
+Datnero,0,Nomad,2
+Indy,2,Shinsuyavi,0
+Regralht,0,401Loserbutt,2
+Bad Horse,0,Monk,2
++C,0,Cornbread,2
+Design,0,Npv,2
+Joka,2,Twitch.Tv/Mars_Smash,0
+Shanondorf,0,Yokoruta Nosamacha,2
+Jayce,2,Hikaritenchi,0
+Chardcore,0,Lonny,2
+Yoyosucks248,2,Spooky,0
+Psythr,0,2Stop,2
+Nutsack,2,Heavyrock,0
+Ruffian,2,Xxnoscopebowserextemexx,0
+Sheep,2,Jayjayjayjayjayjayjayjay,0
+Xam,0,Mathematics,2
+Heartstrings,2,Nomad,0
+Ricechrispy,2,Indy,0
+Sho,0,401Loserbutt,2
+Garzal,0,Monk,2
+Darklouie,2,Cornbread,0
+Coleslaw,0,Npv,2
+Bandit,2,Joka,0
+Minorthreat,2,Yokoruta Nosamacha,0
+Cam,2,Jayce,0
+Tilt,0,Lonny,2
+Yoyosucks248,0,2Stop,2
+Nutsack,0,Ruffian,2
+Sheep,0,Mathematics,2
+Heartstrings,2,Ricechrispy,0
+401Loserbutt,0,Monk,2
+Darklouie,2,Npv,0
+Bandit,0,Minorthreat,2
+Cam,2,Lonny,0
+Criphood,2,2Stop,0
+Saturday Lain On A Wednesday,2,Ruffian,0
+I4N,2,Mathematics,0
+Butch G,2,Heartstrings,0
+Thugz,0,Monk,2
+Yoyo,0,Darklouie,2
+Moose Beat Alan,2,Minorthreat,0
+Quang,2,Cam,0
+Criphood,2,Saturday Lain On A Wednesday,0
+I4N,0,Butch G,2
+Monk,0,Darklouie,2
+Moose Beat Alan,0,Quang,2
+Paper,2,Criphood,0
+1Der,0,Butch G,2
+Fendricklamar,2,Darklouie,0
+Mb-Smash,0,Quang,2
+Paper,0,Butch G,2
+Fendricklamar,0,Quang,2
+Juggles,0,Butch G,2
+Beach,2,Quang,0
+Butch G,0,Beach,2
+Duck,2,Beach,0

@@ -1,0 +1,193 @@
+Kick It Smooth,2,Gooey,0
+Sgs,0,Adpextwindong,2
+Mayanryan,2,Dudeilikecake,0
+Pax,0,Cheese Wizard,2
+Bladewise,2,Kick It Smooth,0
+Thane,0,Adpextwindong,2
+Dsl,0,Mayanryan,2
+Vox,2,Cheese Wizard,0
+Bladewise,2,Adpextwindong,0
+Mayanryan,2,Vox,0
+Bladewise,2,Mayanryan,0
+Cheese Wizard,0,Gooey,2
+Dsl,2,Sgs,0
+Thane,2,Dudeilikecake,1
+Kick It Smooth,2,Pax,0
+Gooey,0,Dsl,2
+Thane,0,Kick It Smooth,2
+Adpextwindong,0,Dsl,2
+Vox,0,Kick It Smooth,2
+Dsl,2,Kick It Smooth,0
+Mayanryan,2,Dsl,0
+Kakarot,0,Goochi Main,2
+Saucy Pirate,0,Mason,2
+Bellringa,0,Chevy,2
+Paul The Monster,2,Caeda,0
+Eggz,2,Goochi Main,0
+Taf,0,Mason,2
+Wasabi,2,Chevy,0
+Wphp,2,Paul The Monster,0
+Eggz,1,Mason,2
+Wasabi,2,Wphp,0
+Mason,2,Wasabi,1
+Paul The Monster,2,Kakarot,0
+Chevy,2,Saucy Pirate,0
+Taf,0,Bellringa,2
+Goochi Main,1,Caeda,2
+Paul The Monster,1,Chevy,2
+Bellringa,0,Caeda,2
+Eggz,2,Chevy,1
+Wphp,2,Caeda,0
+Eggz,2,Wphp,1
+Wasabi,0,Eggz,2
+Juba,0,Lvl 6 Zubat,2
+Steve Alder,2,Bronte,0
+Leaf,2,A Genderless Hobo,0
+Norfair,2,Duckporn,0
+Fatgoku,2,Lvl 6 Zubat,0
+Valioes,0,Steve Alder,2
+Eleven,2,Leaf,0
+Keith,2,Norfair,0
+Fatgoku,2,Steve Alder,0
+Eleven,1,Keith,2
+Fatgoku,1,Keith,2
+Norfair,2,Juba,0
+Leaf,2,Bronte,1
+Valioes,2,A Genderless Hobo,0
+Lvl 6 Zubat,2,Duckporn,0
+Norfair,2,Leaf,0
+Valioes,2,Lvl 6 Zubat,1
+Steve Alder,1,Norfair,2
+Eleven,2,Valioes,0
+Norfair,1,Eleven,2
+Lezt,2,Fry,1
+Smitty,2,Biro,1
+Nook,0,Jordova,2
+Tspeeds,1,Dsharp,2
+Foos Jr.,2,Lezt,0
+Rustin,2,Smitty,0
+Oreo,2,Jordova,0
+Aaron H,1,Dsharp,2
+Foos Jr.,2,Rustin,0
+Oreo,2,Dsharp,0
+Foos Jr.,3,Oreo,1
+Aaron H,2,Fry,0
+Jordova,2,Biro,0
+Smitty,1,Nook,2
+Lezt,2,Tspeeds,0
+Aaron H,0,Jordova,2
+Nook,1,Lezt,2
+Rustin,2,Jordova,0
+Dsharp,1,Lezt,2
+Rustin,2,Lezt,0
+Oreo,2,Rustin,0
+Lady C,2,Jorbachu,0
+Siglemic,2,Missingno,0
+Rs,0,Debaser,2
+Salty Seth,2,Benish,0
+Iceman,2,Lady C,0
+Trombe,0,Siglemic,2
+Purpletuce,2,Debaser,0
+Nikabod,2,Salty Seth,0
+Iceman,2,Siglemic,0
+Purpletuce,2,Nikabod,0
+Iceman,2,Purpletuce,1
+Salty Seth,2,Jorbachu,0
+Debaser,0,Missingno,2
+Trombe,0,Rs,2
+Lady C,2,Benish,0
+Salty Seth,0,Missingno,2
+Rs,2,Lady C,0
+Siglemic,2,Missingno,0
+Nikabod,2,Rs,0
+Siglemic,0,Nikabod,2
+Nibs,1,Nox,2
+Mofat,2,Dirtywizard,0
+Rhombus,2,Jigglybuff,1
+Zubola,0,Fmax,2
+Adam,2,Nox,0
+Trauma,0,Mofat,2
+Vino,2,Rhombus,0
+Brick,2,Fmax,0
+Adam,2,Mofat,0
+Vino,2,Brick,0
+Adam,2,Vino,1
+Fmax,0,Nibs,2
+Rhombus,2,Dirtywizard,1
+Trauma,2,Jigglybuff,0
+Nox,2,Zubola,1
+Nibs,1,Rhombus,2
+Trauma,0,Nox,2
+Mofat,0,Rhombus,2
+Brick,2,Nox,0
+Rhombus,0,Brick,2
+Jazz,2,Fenrir,1
+Punk Panda,2,Rubrub,0
+Jordan,0,Crow,2
+Nerf Herder Ex,0,Beefcake,2
+Ebay,2,Jazz,0
+Shatnuh,0,Punk Panda,2
+Bart,2,Crow,0
+Tpk,0,Beefcake,2
+Ebay,2,Punk Panda,0
+Bart,2,Beefcake,0
+Ebay,2,Bart,0
+Tpk,0,Fenrir,2
+Crow,2,Rubrub,0
+Shatnuh,2,Jordan,0
+Jazz,2,Nerf Herder Ex,1
+Fenrir,2,Crow,1
+Shatnuh,0,Jazz,2
+Punk Panda,2,Fenrir,1
+Beefcake,2,Jazz,1
+Punk Panda,1,Beefcake,2
+Bart,2,Beefcake,0
+Shakezula,0,Fox,2
+Mf Chung,0,Contra,2
+Pex,1,Babyhbox,2
+Outthecutz,2,Electroswoosh,0
+Thundrio,0,Fox,2
+Jizzard,2,Contra,1
+Jarod,2,Babyhbox,0
+Outthecutz,1,Fox,2
+Jizzard,0,Jarod,2
+Fox,2,Jarod,1
+Contra,2,Shakezula,0
+Thundrio,2,Mf Chung,0
+Electroswoosh,2,Pex,0
+Babyhbox,1,Contra,2
+Thundrio,1,Electroswoosh,2
+Outthecutz,2,Contra,0
+Jizzard,2,Electroswoosh,0
+Outthecutz,1,Jizzard,2
+Jarod,0,Jizzard,2
+Bladewise,2,Dsl,0
+Fox,2,Jizzard,0
+Adam,2,Vino,0
+Fatgoku,0,Keith,2
+Eggz,0,Mason,2
+Bart,0,Ebay,2
+Iceman,2,Nikabod,0
+Foos Jr,2,Oreo,0
+Bladewise,2,Fox,0
+Adam,2,Keith,1
+Mason,0,Ebay,2
+Iceman,1,Foos Jr,2
+Bladewise,2,Adam,0
+Ebay,2,Foos Jr,0
+Bladewise,3,Ebay,0
+Bladewise,3,Foos Jr,0
+Dsl,0,Jizzard,2
+Vino,0,Fatgoku,2
+Eggz,1,Bart,2
+Nikabod,2,Oreo,0
+Iceman,2,Jizzard,0
+Mason,0,Fatgoku,2
+Keith,0,Bart,2
+Fox,1,Nikabod,2
+Iceman,0,Fatgoku,2
+Bart,2,Nikabod,0
+Adam,1,Fatgoku,2
+Foos Jr,2,Bart,0
+Fatgoku,1,Foos Jr,2
+Ebay,1,Foos Jr,3

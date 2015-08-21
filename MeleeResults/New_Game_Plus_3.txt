@@ -1,0 +1,141 @@
+Mono,2,Nook,1
+Computer Slime,0,Seabass,2
+Coldo,0,J-Bo,2
+Jsun,0,Life,2
+Free,2,Btc,0
+Pink,2,Lala,0
+Discogreg,1,Uv,2
+Slim Jim,2,Mono,0
+Pj,1,Gtea,2
+Metlwing,2,Gtown Tom,0
+Dj Mirror,2,Kingbbb,0
+Arc,2,Moo,0
+Jellyfish,0,Jlo,2
+Blitzsm,2,Trig,0
+Swissmiss,2,The Yak,0
+Bigvegetabluntz,2,Seabass,0
+Cranberry,0,Youngbonezvilian,2
+Darkcloud,2,Ceeds,0
+Racer,2,Gbaby6,1
+Yedi,2,J-Bo,0
+Batsox The Realest Luigi,2,Lurogmz,0
+Poob,2,Takyon,0
+Broth Chiler,2,Bozo,0
+Squible,2,Life,0
+Turbo,1,Sweets,2
+Stickman,2,Steel Kangaroo,0
+Spooky Ghost,2,Space Cadet,0
+Clue,2,Free,0
+Ec Joey,0,Edwin Dexter,2
+Koga,2,Cat,0
+Poobanans,2,Ant,0
+Mr Lemon,2,Pink,0
+Combatcoldcuts,2,Blue,1
+Bonk,2,Stoc,0
+Slag,2,Veggie Tales,0
+Mr Tuesday,2,Uv,1
+Pudge,0,Girthquake,2
+Wind,2,Krum,0
+Bugatti,2,Shaokanye,0
+Slim Jim,2,Gtea,0
+Metlwing,0,Dj Mirror,2
+Arc,2,Jlo,0
+Blitzsm,2,Swissmiss,0
+Bigvegetabluntz,2,Youngbonezvilian,0
+Darkcloud,2,Racer,0
+Yedi,2,Batsox The Realest Luigi,0
+Poob,0,Broth Chiler,2
+Squible,2,Sweets,0
+Stickman,1,Spooky Ghost,2
+Clue,2,Edwin Dexter,0
+Koga,2,Poobanans,1
+Mr Lemon,2,Combatcoldcuts,0
+Bonk,2,Slag,1
+Mr Tuesday,2,Girthquake,1
+Wind,2,Bugatti,0
+Slim Jim,2,Dj Mirror,0
+Arc,0,Blitzsm,2
+Bigvegetabluntz,2,Darkcloud,0
+Yedi,2,Broth Chiler,0
+Squible,2,Spooky Ghost,0
+Clue,2,Koga,0
+Mr Lemon,2,Bonk,1
+Mr Tuesday,1,Wind,2
+Slim Jim,2,Blitzsm,1
+Bigvegetabluntz,0,Yedi,2
+Squible,2,Clue,0
+Mr Lemon,2,Wind,1
+Slim Jim,2,Yedi,0
+Squible,2,Mr Lemon,1
+Slim Jim,1,Squible,3
+Squible,2,Slim Jim,3
+Slim Jim,3,Squible,0
+Shaokanye,0,Nook,2
+Ant,2,Computer Slime,1
+Space Cadet,2,Coldo,0
+Bozo,0,Jsun,2
+Gbaby6,2,Btc,0
+The Yak,2,Lala,0
+Kingbbb,2,Discogreg,0
+Krum,2,Nook,0
+Pudge,2,Uv,0
+Veggie Tales,2,Stoc,0
+Blue,0,Pink,2
+Cat,2,Ant,1
+Ec Joey,0,Free,2
+Steel Kangaroo,2,Space Cadet,0
+Turbo,2,Life,1
+Takyon,0,Jsun,2
+Lurogmz,2,J-Bo,0
+Ceeds,2,Gbaby6,0
+Cranberry,0,Seabass,2
+Trig,2,The Yak,1
+Jellyfish,2,Moo,1
+Gtown Tom,2,Kingbbb,1
+Pj,2,Mono,0
+Poob,2,Krum,0
+Batsox The Realest Luigi,2,Pudge,1
+Racer,2,Veggie Tales,0
+Youngbonezvilian,2,Pink,0
+Swissmiss,2,Cat,0
+Jlo,2,Free,1
+Metlwing,2,Steel Kangaroo,0
+Gtea,2,Turbo,1
+Bugatti,2,Jsun,0
+Girthquake,2,Lurogmz,0
+Slag,2,Ceeds,0
+Combatcoldcuts,0,Seabass,2
+Poobanans,2,Trig,0
+Edwin Dexter,2,Jellyfish,0
+Stickman,2,Gtown Tom,1
+Sweets,0,Pj,2
+Poob,2,Batsox The Realest Luigi,0
+Racer,2,Youngbonezvilian,0
+Swissmiss,2,Jlo,0
+Metlwing,0,Gtea,2
+Bugatti,2,Girthquake,0
+Slag,2,Seabass,0
+Poobanans,1,Edwin Dexter,2
+Stickman,2,Pj,0
+Spooky Ghost,2,Poob,0
+Koga,2,Racer,0
+Bonk,2,Swissmiss,1
+Mr Tuesday,2,Gtea,0
+Dj Mirror,2,Bugatti,0
+Arc,2,Slag,1
+Darkcloud,1,Edwin Dexter,2
+Broth Chiler,0,Stickman,2
+Spooky Ghost,2,Koga,1
+Bonk,0,Mr Tuesday,2
+Dj Mirror,1,Arc,2
+Edwin Dexter,0,Stickman,2
+Blitzsm,2,Spooky Ghost,1
+Bigvegetabluntz,0,Mr Tuesday,2
+Clue,0,Arc,2
+Wind,2,Stickman,1
+Blitzsm,1,Mr Tuesday,2
+Arc,2,Wind,0
+Mr Lemon,1,Mr Tuesday,2
+Yedi,2,Arc,1
+Mr Tuesday,2,Yedi,1
+Slim Jim,3,Mr Tuesday,0

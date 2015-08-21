@@ -1,0 +1,161 @@
+Senpapi,2,Chase,0
+Lacan,2,Zach,0
+Yingling,2,Dee,0
+Maturbo,2,Monsogo,0
+Mattfortyseven,0,Paradox,2
+Vavez,2,Mist,0
+Rei,2,Bay,1
+Zurgox,2,Keeng,1
+Mojoe,2,Buddyi34,0
+Senpapi,2,Lacan,0
+Yingling,2,Arthur Read,0
+Spheal37,2,Meha,0
+Maturbo,2,Dbesd,0
+Vavez,2,Rei,1
+Theo,0,Zurgox,2
+Mojoe,2,Senpapi,0
+Yingling,2,Spheal37,0
+Maturbo,2,Paradox,0
+Vavez,2,Zurgox,0
+Mojoe,2,Yingling,0
+Maturbo,2,Vavez,1
+Mist,2,Bay,1
+Theo,2,Koin_Ace,0
+Meha,2,Monsogo,0
+Lacan,0,Mist,2
+Buddyi34,0,Keeng,2
+Theo,0,Rei,2
+Dee,1,Dbesd,2
+Meha,0,Arthur Read,2
+Mist,1,Keeng,2
+Spheal37,0,Rei,2
+Senpapi,2,Dbesd,0
+Zurgox,2,Arthur Read,0
+Paradox,1,Keeng,2
+Rei,0,Senpapi,2
+Zurgox,2,Keeng,0
+Vavez,0,Senpapi,2
+Yingling,2,Zurgox,0
+Namel3Ss,0,Geno,2
+Void,0,Booty,2
+Corgi,0,Jayr,2
+Ferret,2,Power Fist,0
+:^),0,Heisenberg,2
+Mixx,2,Geno,0
+Crisp,0,Monsogo,2
+R0Tz,0,Booty,2
+Justpoohbear,2,Jayr,0
+Pr0N,0,Littleman,2
+Nut,2,Ferret,0
+Lyn,0,Heisenberg,2
+Mixx,2,Monsogo,0
+Baka4Moe,0,Booty,2
+Justpoohbear,2,Littleman,0
+Nut,2,Heisenberg,0
+Mixx,2,Booty,0
+Justpoohbear,2,Nut,0
+Lyn,0,Namel3Ss,2
+Jayr,0,Void,2
+R0Tz,2,Corgi,0
+Crisp,2,Power Fist,0
+Geno,2,:^),0
+Namel3Ss,0,Ferret,2
+Pr0N,0,Void,2
+Crisp,0,Geno,2
+Baka4Moe,0,Ferret,2
+Monsogo,2,Void,0
+Heisenberg,2,R0Tz,1
+Littleman,0,Geno,2
+Ferret,0,Monsogo,2
+Heisenberg,2,Geno,0
+Nut,2,Monsogo,0
+Booty,2,Heisenberg,1
+Kano,2,Dandy,0
+Aleo'S Story,2,Buster,0
+Hoa,2,Meatball,0
+Dr. Barrio,2,Ricky Bobby,0
+Kaptivate,2,The,0
+Neb,2,Mlgfedora,0
+Motoko,2,Kano,0
+Takyon,1,Lucksnipe,2
+Grizzly,0,Aleo'S Story,2
+Grizzly,0,Hoa,2
+The Prince,2,Dr. Barrio,0
+Magmar,2,Tacokiller,0
+Baby Alan,2,Kaptivate,1
+Birdman,0,Neb,2
+Motoko,2,Lucksnipe,0
+Aleo'S Story,2,Hoa,0
+The Prince,2,Magmar,0
+Baby Alan,0,Neb,2
+Motoko,2,Aleo'S Story,0
+The Prince,2,Neb,0
+Birdman,2,Dandy,0
+Tacokiller,0,Buster,2
+Dr. Barrio,2,Meatball,0
+Grizzly,2,Ricky Bobby,0
+Takyon,2,The,0
+Kano,2,Mlgfedora,0
+Birdman,0,Kaptivate,2
+Buster,2,Dr. Barrio,0
+Grizzly,2,Grizzly,0
+Takyon,2,Kano,0
+Hoa,0,Kaptivate,2
+Lucksnipe,2,Buster,0
+Baby Alan,2,Grizzly,0
+Magmar,0,Takyon,2
+Kaptivate,0,Lucksnipe,2
+Baby Alan,0,Takyon,2
+Neb,2,Lucksnipe,0
+Aleo'S Story,2,Takyon,1
+Jose V,2,Prez,0
+Will,1,Swee,2
+Squeeb,2,Skim,1
+Hengod,2,Bongo,1
+Joemama,0,Daru,2
+Jose V,2,Swee,0
+Jamal,0,Meru,2
+Dinoblade,2,Squeeb,0
+Hengod,2,Lelouch,0
+Myfishcantswim,2,Daru,0
+Shazam,2,Carlit0,1
+Davey,0,Dinoblade,2
+Hengod,2,Djwon,0
+Myfishcantswim,2,Shazam,1
+Jose V,2,Dinoblade,0
+Hengod,2,Myfishcantswim,0
+Carlit0,2,Prez,0
+Squeeb,2,Bongo,1
+Jamal,2,Joemama,0
+Swee,2,Will,0
+Carlit0,2,Daru,0
+Jamal,0,Swee,2
+Davey,2,Carlit0,0
+Shazam,0,Squeeb,2
+Djwon,1,Swee,2
+Davey,2,Skim,0
+Squeeb,0,Swee,2
+Myfishcantswim,1,Davey,2
+Dinoblade,2,Swee,0
+Mojoe,0,The Prince,2
+Motoko,1,Mixx,2
+Justpoohbear,2,Hengod,0
+Jose V,2,Maturbo,1
+The Prince,0,Mixx,2
+Justpoohbear,1,Jose V,2
+Mixx,3,Jose V,0
+Mixx,3,The Prince,2
+Dinoblade,0,Nut,2
+Yingling,1,Davey,2
+Aleo'S Story,1,Senpapi,2
+Booty,1,Neb,2
+Maturbo,0,Nut,2
+Hengod,0,Davey,2
+Motoko,2,Senpapi,0
+Mojoe,2,Neb,0
+Nut,2,Davey,1
+Motoko,2,Mojoe,1
+The Prince,2,Nut,0
+Justpoohbear,0,Motoko,2
+The Prince,2,Motoko,1
+Jose V,0,The Prince,3

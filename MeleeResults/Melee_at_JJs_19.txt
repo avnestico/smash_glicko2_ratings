@@ -1,0 +1,145 @@
+Stoozy Floozy,2,Seltzerwaterfalls,0
+Alaca,0,Franknstein,2
+Oso,2,Spish,0
+Tooka,2,Hyru Foxtrot,0
+Ace,1,Grape,2
+Nikhil,2,Paul,0
+D4Nkw33D430,0,Sesh,2
+Friskee Fatty,0,Fishy,2
+Lange,2,W!Z,1
+S2J,2,Stoozy Floozy,0
+Shwang,2,Icecream,0
+Tapez,2,Bazl,0
+Pogo,2,Ellis,0
+Jace,2,Franknstein,0
+Clever Nevers,2,Hendo,0
+Hyprid,2,Oso,0
+Null,2,After Angel,0
+Kira,2,Tooka,0
+Kanti,2,Birdman,0
+The Phenom,2,Sexy Nana,0
+Kitsune91,2,Edmejor,0
+Sung475,2,Grape,0
+Breezy,2,Inboundsdread,0
+Peligro,2,Gentlefox,0
+Nasa,2,Sabre,0
+Hugs,2,Nikhil,0
+Stab,0,Obvn Tsieh,2
+Manatee,2,Smeagol,0
+Human,2,Tan,0
+Mind Assassin,2,Sesh,0
+Scrub$,2,Wssc,0
+L33Thal,2,Celi,0
+Gabe,2,Mr.Giggles,0
+Mike Haze,2,Fishy,1
+Loch,0,Kushmaster818,2
+Madman,0,Cow,2
+Hulka,2,Tankek,0
+Dr. J,2,Lange,0
+Shazmah,0,Yugi,2
+Corkus,2,Alex,0
+Nastynate,2,Bruny Baby,0
+S2J,2,Shwang,0
+Tapez,2,Pogo,0
+Jace,2,Clever Nevers,0
+Hyprid,2,Null,0
+Kira,2,Kanti,0
+The Phenom,0,Kitsune91,2
+Sung475,2,Breezy,0
+Peligro,2,Nasa,0
+Hugs,2,Obvn Tsieh,0
+Manatee,2,Human,1
+Mind Assassin,2,Scrub$,0
+L33Thal,1,Gabe,2
+Mike Haze,2,Kushmaster818,0
+Cow,2,Hulka,1
+Dr. J,2,Yugi,0
+Corkus,2,Nastynate,0
+S2J,2,Tapez,0
+Jace,2,Hyprid,0
+Kira,2,Kitsune91,0
+Sung475,2,Peligro,1
+Hugs,2,Manatee,0
+Mind Assassin,2,Gabe,1
+Mike Haze,2,Cow,0
+Dr. J,1,Corkus,2
+S2J,2,Jace,1
+Kira,2,Sung475,0
+Hugs,2,Mind Assassin,0
+Mike Haze,2,Corkus,1
+S2J,2,Kira,3
+Hugs,3,Mike Haze,0
+Kira,1,Hugs,3
+Hugs,2,S2J,3
+S2J,3,Hugs,0
+Bruny Baby,2,Seltzerwaterfalls,0
+Tankek,2,Alaca,1
+Loch,0,Spish,2
+Mr.Giggles,2,Hyru Foxtrot,0
+Tan,0,Ace,2
+Sabre,2,Paul,0
+Edmejor,2,D4Nkw33D430,0
+After Angel,0,Friskee Fatty,2
+Ellis,0,W!Z,2
+Alex,0,Bruny Baby,2
+Shazmah,0,Lange,2
+Madman,1,Tankek,2
+Fishy,2,Spish,0
+Celi,1,Mr.Giggles,2
+Wssc,0,Sesh,2
+Smeagol,0,Ace,2
+Stab,2,Nikhil,0
+Gentlefox,2,Sabre,0
+Inboundsdread,0,Grape,2
+Sexy Nana,0,Edmejor,2
+Birdman,2,Tooka,0
+Oso,2,Friskee Fatty,0
+Hendo,0,Franknstein,2
+Bazl,0,W!Z,2
+Icecream,2,Stoozy Floozy,0
+Nasa,2,Bruny Baby,0
+Breezy,2,Lange,1
+The Phenom,2,Tankek,0
+Kanti,1,Fishy,2
+Null,2,Mr.Giggles,0
+Clever Nevers,2,Sesh,1
+Pogo,2,Ace,1
+Shwang,2,Stab,0
+Nastynate,2,Gentlefox,0
+Yugi,2,Grape,1
+Hulka,2,Edmejor,1
+Kushmaster818,2,Birdman,0
+L33Thal,2,Oso,0
+Scrub$,2,Franknstein,0
+Human,0,W!Z,2
+Obvn Tsieh,1,Icecream,2
+Nasa,0,Breezy,2
+The Phenom,2,Fishy,0
+Null,2,Clever Nevers,1
+Pogo,2,Shwang,0
+Nastynate,2,Yugi,0
+Hulka,2,Kushmaster818,0
+L33Thal,2,Scrub$,1
+W!Z,2,Icecream,1
+Manatee,2,Breezy,0
+Gabe,2,The Phenom,1
+Cow,2,Null,1
+Dr. J,2,Pogo,0
+Tapez,2,Nastynate,0
+Hyprid,2,Hulka,1
+Kitsune91,2,L33Thal,0
+Peligro,2,W!Z,0
+Manatee,2,Gabe,1
+Cow,0,Dr. J,2
+Tapez,1,Hyprid,2
+Kitsune91,1,Peligro,2
+Jace,2,Manatee,1
+Sung475,2,Dr. J,0
+Mind Assassin,0,Hyprid,2
+Corkus,1,Peligro,2
+Jace,2,Sung475,1
+Hyprid,2,Peligro,0
+Mike Haze,1,Jace,2
+S2J,2,Hyprid,0
+Jace,0,S2J,3
+Kira,1,S2J,3

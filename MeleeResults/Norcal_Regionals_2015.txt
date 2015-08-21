@@ -1,0 +1,153 @@
+Galen The Wise,0,Milkwaffles,2
+Witay95,2,Door Entry 2,0
+Legit,2,Jfly,0
+Snorlax,2,Door Entry 1,0
+Homemadewaffles,2,Milkwaffles,0
+Mavas,2,Laziepokekai,0
+Choknater,2,Witay95,0
+Atrioc,2,Voyager,0
+Laudandus,2,Legit,0
+Green Greens,2,Free Flow,0
+Mooninite,2,Snorlax,0
+Geekliftus,2,Strayble,0
+Homemadewaffles,2,Mavas,0
+Choknater,2,Atrioc,0
+Laudandus,2,Green Greens,0
+Mooninite,2,Geekliftus,0
+Homemadewaffles,2,Choknater,0
+Laudandus,2,Mooninite,0
+Homemadewaffles,0,Laudandus,2
+Strayble,0,Galen The Wise,2
+Free Flow,2,Door Entry 2,0
+Voyager,2,Jfly,0
+Laziepokekai,2,Door Entry 1,0
+Snorlax,0,Galen The Wise,2
+Legit,0,Free Flow,2
+Witay95,0,Voyager,2
+Milkwaffles,2,Laziepokekai,0
+Atrioc,2,Galen The Wise,0
+Mavas,2,Free Flow,0
+Geekliftus,2,Voyager,0
+Green Greens,2,Milkwaffles,0
+Atrioc,0,Mavas,2
+Geekliftus,2,Green Greens,0
+Mooninite,2,Mavas,0
+Choknater,0,Geekliftus,2
+Mooninite,2,Geekliftus,0
+Homemadewaffles,2,Mooninite,0
+Eridaan,0,Jfly,2
+Fizix,0,Jayford,2
+Unclegrandfather,2,Door Entry 2,0
+Shroomed,2,Jfly,0
+El Cancell,2,Foogyun,0
+Narfanator,2,Sean-Go,0
+Toph,2,Jayford,0
+Loscar,0,Dr. Grin,2
+Dr. Z,2,Unclegrandfather,0
+Techmims,0,Cemo,2
+Shroomed,2,El Cancell,0
+Narfanator,2,Cgl Cidfox,0
+Toph,2,Dr. Grin,0
+Dr. Z,2,Cemo,0
+Shroomed,2,Narfanator,0
+Toph,2,Dr. Z,1
+Shroomed,2,Toph,0
+Techmims,2,Eridaan,0
+Foogyun,2,Door Entry 2,0
+Unclegrandfather,0,Techmims,2
+Loscar,0,Jayford,2
+Sean-Go,2,Fizix,0
+Jfly,2,Foogyun,0
+Cgl Cidfox,2,Techmims,0
+El Cancell,2,Jayford,0
+Cemo,0,Sean-Go,2
+Dr. Grin,2,Jfly,0
+Cgl Cidfox,0,El Cancell,2
+Sean-Go,0,Dr. Grin,2
+Dr. Z,2,El Cancell,0
+Narfanator,2,Dr. Grin,0
+Dr. Z,2,Narfanator,0
+Toph,2,Dr. Z,1
+The Pardack,2,Thecoonherder,0
+Bensw,0,A Single Ant,2
+Yuuki,0,Scar,2
+Ppu,2,The Pardack,0
+Nanz,2,Hot_Dogg,0
+Falcomist,2,Beaddog,0
+Kev$,2,Xavier,0
+Azusa,2,A Single Ant,0
+Jhunie,2,Jtf,0
+Gar,2,Scar,1
+Ghidorah,2,Vizc,0
+Ppu,2,Nanz,0
+Falcomist,2,Kev$,0
+Azusa,2,Jhunie,0
+Gar,2,Ghidorah,0
+Ppu,2,Falcomist,0
+Azusa,2,Gar,0
+Ppu,2,Azusa,0
+Vizc,0,Thecoonherder,2
+Xavier,2,Bensw,0
+Hot_Dogg,0,Yuuki,2
+Scar,2,Thecoonherder,0
+Jtf,0,A Single Ant,2
+Beaddog,2,Xavier,0
+The Pardack,2,Yuuki,0
+Kev$,0,Scar,2
+Nanz,0,A Single Ant,2
+Ghidorah,2,Beaddog,0
+Jhunie,0,The Pardack,2
+Scar,2,A Single Ant,0
+Ghidorah,2,The Pardack,0
+Gar,2,Scar,0
+Gar,2,Ghidorah,0
+Azusa,2,Gar,0
+Drug Money,2,Duck Tale,0
+Mexico Juice,0,Door Entry 1,2
+Fatal,2,Door Entry 2,0
+Sfat,2,Drug Money,0
+True008,2,Heist,0
+Imyt,2,Darksilence,0
+Drgn,2,Drewgong,0
+Alan,2,Door Entry 1,0
+Jams,0,Henrius,2
+Ss,2,Fatal,0
+2Framez,2,Charles,0
+Sfat,2,True008,0
+Imyt,2,Drgn,0
+Alan,2,Henrius,0
+Ss,2,2Framez,0
+Sfat,2,Imyt,0
+Alan,0,Ss,2
+Sfat,2,Ss,0
+Charles,2,Duck Tale,0
+Drewgong,2,Mexico Juice,0
+Heist,2,Door Entry 2,0
+Fatal,0,Charles,2
+Jams,0,Door Entry 1,2
+Darksilence,2,Drewgong,0
+Drug Money,0,Heist,2
+Drgn,2,Charles,0
+True008,0,Door Entry 1,2
+2Framez,2,Darksilence,0
+Henrius,2,Heist,0
+Drgn,0,Door Entry 1,2
+2Framez,2,Henrius,0
+Alan,2,Door Entry 1,0
+Imyt,2,2Framez,0
+Alan,2,Imyt,0
+Ss,2,Alan,0
+Sfat,2,Silentspectre,0
+Laudandus,2,Hmw,0
+Shroomed,2,Toph,0
+Pewpewu,2,Azusa,0
+Sfat,2,Laudandus,0
+Shroomed,0,Pewpewu,2
+Sfat,1,Pewpewu,2
+Pewpewu,3,Sfat,2
+Silentspectre,0,Hmw,2
+Toph,2,Azusa,1
+Shroomed,2,Hmw,1
+Laudandus,1,Toph,2
+Shroomed,2,Toph,1
+Sfat,2,Shroomed,0

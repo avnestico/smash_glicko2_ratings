@@ -1,0 +1,70 @@
+That Guy,2,Augs,0
+Chilliconcarnage,2,Mattsmith,0
+Inertia,2,Biss,0
+Manyula,2,Gijn,0
+Professor Pro,2,That Guy,0
+R23,0,Deathgazer,2
+J3Ly,2,X1,0
+Jin,2,Jomo,0
+Adam,2,Chilliconcarnage,0
+Jjlinyard,2,Unreal,0
+Zeppo,2,Pyro,0
+Excal,0,Yeniths,2
+Fuzzyness,2,Inertia,0
+Shufu,2,Gmsean,1
+Kipkopsky,2,Kone,0
+Brtarolg,2,Calzum,0
+Va,2,Manyula,0
+M.M.Molgera,0,Jolteon,2
+Alpha Dash,2,Dacacia,0
+Shifting Shadows,1,Jam,2
+Professor Pro,2,Deathgazer,1
+J3Ly,0,Jin,2
+Adam,2,Jjlinyard,0
+Zeppo,2,Yeniths,0
+Fuzzyness,2,Shufu,0
+Kipkopsky,2,Brtarolg,1
+Va,2,Jolteon,0
+Alpha Dash,1,Jam,2
+Professor Pro,2,Jin,0
+Adam,2,Zeppo,0
+Fuzzyness,2,Kipkopsky,0
+Va,2,Jam,0
+Professor Pro,3,Adam,1
+Fuzzyness,3,Va,0
+Shifting Shadows,2,Augs,0
+Calzum,1,Mattsmith,2
+Excal,2,Biss,0
+Jomo,2,Gijn,0
+Dacacia,0,Shifting Shadows,2
+M.M.Molgera,0,Manyula,2
+Kone,2,Mattsmith,0
+Gmsean,2,Inertia,1
+Pyro,0,Excal,2
+Unreal,2,Chilliconcarnage,1
+X1,1,Jomo,2
+R23,2,That Guy,0
+Yeniths,0,Shifting Shadows,2
+Jjlinyard,2,Manyula,0
+J3Ly,2,Kone,1
+Deathgazer,2,Gmsean,1
+Alpha Dash,2,Excal,0
+Jolteon,0,Unreal,2
+Brtarolg,2,Jomo,0
+Shufu,0,R23,2
+Shifting Shadows,2,Jjlinyard,1
+J3Ly,2,Deathgazer,1
+Alpha Dash,2,Unreal,0
+Brtarolg,2,R23,0
+Kipkopsky,2,Shifting Shadows,1
+Jam,0,J3Ly,2
+Jin,2,Alpha Dash,1
+Zeppo,1,Brtarolg,2
+Kipkopsky,2,J3Ly,3
+Jin,2,Brtarolg,3
+Adam,3,J3Ly,0
+Va,3,Brtarolg,0
+Professor Pro,3,Fuzzyness,0
+Adam,0,Va,3
+Fuzzyness,3,Va,0
+Professor Pro,3,Fuzzyness,2

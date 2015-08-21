@@ -1,0 +1,126 @@
+Tekk,2,Eneara,0
+Poney,0,Kar,2
+Samplay,2,Mick605,0
+Jim,2,Rony,0
+Alox,2,Le Forain,0
+Lepoiraut,2,Tchang,0
+Etril,2,Killerganon,0
+Bgin,2,Amjo,0
+Baxon,2,Badnight,0
+Monopenisguy,1,Sylvoute,2
+Fauster,2,Dero,1
+Datto,2,Brog,0
+Bseed,2,Damo,0
+Kululu,2,Rondelle,0
+Aephage,2,Kid Candi,0
+Plinci,2,Darx,0
+Overtriforce,2,Gauya,0
+Fragmads,2,Over,0
+Meljin,2,Maxattack,0
+Luk,2,Styl,0
+Zck,2,Surrealista,0
+Cc,2,Draq,0
+Jah Ridin',2,Tewind,0
+Brtarolg,2,Galtier,0
+Professor Pro,2,Caillou,0
+Yogui,2,Winsk,1
+Djagof,2,Tyc,0
+Lguy,2,Kelasius,0
+Aether,2,Felix,0
+Chaos6,2,Dirty Deeds Done Dirt Cheap,0
+Metalfox,2,Nuclearlunch,0
+Fekah,2,Pikkususi,0
+Tekk,2,Kar,1
+Samplay,1,Jim,2
+Alox,2,Lepoiraut,0
+Etril,2,Bgin,1
+Baxon,2,Sylvoute,0
+Fauster,1,Datto,2
+Bseed,2,Kululu,1
+Aephage,0,Plinci,2
+Overtriforce,2,Fragmads,0
+Meljin,2,Luk,0
+Zck,1,Cc,2
+Jah Ridin',2,Brtarolg,0
+Professor Pro,2,Yogui,0
+Djagof,1,Lguy,2
+Aether,2,Chaos6,1
+Metalfox,2,Fekah,0
+Tekk,2,Jim,0
+Alox,2,Etril,0
+Baxon,2,Datto,0
+Bseed,1,Plinci,2
+Overtriforce,2,Meljin,0
+Cc,0,Jah Ridin',2
+Professor Pro,2,Lguy,0
+Aether,2,Metalfox,0
+Tekk,2,Alox,0
+Baxon,2,Plinci,0
+Overtriforce,2,Jah Ridin',0
+Professor Pro,2,Aether,0
+Tekk,3,Baxon,1
+Overtriforce,2,Professor Pro,3
+Eneara,0,Poney,2
+Mick605,0,Rony,2
+Le Forain,0,Tchang,2
+Killerganon,1,Amjo,2
+Badnight,0,Monopenisguy,2
+Dero,2,Brog,0
+Damo,2,Rondelle,1
+Kid Candi,2,Darx,0
+Gauya,0,Over,2
+Maxattack,0,Styl,2
+Surrealista,1,Draq,2
+Tewind,0,Galtier,2
+Caillou,2,Winsk,1
+Tyc,2,Kelasius,1
+Felix,0,Dirty Deeds Done Dirt Cheap,2
+Nuclearlunch,2,Pikkususi,1
+Fekah,2,Poney,0
+Chaos6,2,Rony,0
+Djagof,2,Tchang,0
+Yogui,2,Amjo,0
+Brtarolg,2,Monopenisguy,0
+Zck,2,Dero,0
+Luk,2,Damo,0
+Fragmads,0,Kid Candi,2
+Aephage,2,Over,0
+Kululu,1,Styl,2
+Fauster,2,Draq,0
+Sylvoute,2,Galtier,0
+Bgin,2,Caillou,0
+Lepoiraut,2,Tyc,0
+Samplay,2,Dirty Deeds Done Dirt Cheap,0
+Kar,2,Nuclearlunch,0
+Fekah,2,Chaos6,1
+Djagof,2,Yogui,0
+Brtarolg,2,Zck,0
+Luk,2,Kid Candi,0
+Aephage,2,Styl,0
+Fauster,2,Sylvoute,0
+Bgin,2,Lepoiraut,0
+Samplay,2,Kar,0
+Bseed,1,Fekah,2
+Datto,1,Djagof,2
+Etril,0,Brtarolg,2
+Jim,1,Luk,2
+Metalfox,0,Aephage,2
+Lguy,2,Fauster,0
+Cc,2,Bgin,1
+Meljin,0,Samplay,2
+Fekah,1,Djagof,2
+Brtarolg,2,Luk,1
+Aephage,1,Lguy,2
+Cc,1,Samplay,2
+Jah Ridin',1,Djagof,2
+Aether,2,Brtarolg,0
+Alox,1,Lguy,2
+Plinci,0,Samplay,2
+Djagof,3,Aether,2
+Lguy,1,Samplay,3
+Baxon,3,Djagof,1
+Overtriforce,3,Samplay,1
+Tekk,1,Professor Pro,3
+Baxon,3,Overtriforce,2
+Tekk,2,Baxon,3
+Professor Pro,3,Baxon,1

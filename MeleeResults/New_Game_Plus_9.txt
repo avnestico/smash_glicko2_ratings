@@ -1,0 +1,163 @@
+Spacecadet,0,Blanky,2
+Lilcoolata,0,Spade,2
+Migs,0,Ryucloud,2
+Shawarma King,0,-1,2
+Dankasswondergimps,2,Ajc4,0
+Messiah,2,Pewu,0
+2Dank,1,Gbaby6,2
+Soma,2,Fu,0
+Sweet Teeth,2,Smoch,0
+Snowweiner,0,Ses,2
+Flambo,0,Broth Chiler,2
+Hoot,0,Tichinde,2
+Brohad,0,Quality Steve,2
+Cat,2,Seaghost,0
+Stoc,2,Boulder Shoulders,0
+Null,2,Munchlax,0
+Ghost,2,Sweets,0
+Wrek,2,Bull Frog,1
+Crush,2,Blanky,0
+Twisty,2,Lurogmz,0
+Slothbear,2,Spade,0
+Spooky Ghost,2,Ryucloud,0
+Mr. Lemon,2,-1,0
+Racer,2,Oversteps,1
+Dudutsai,2,Dankasswondergimps,0
+Batsox The Realest Luigi,2,Sleisl,0
+Tian,2,Messiah,0
+Donnie Cash,2,Dis,1
+Bvb,2,Gbaby6,0
+Blahyay,2,Grim,0
+Rime,2,Soma,0
+Tenshi,0,The Yak,2
+Mr. Tuesday,2,Sweet Teeth,0
+Slag,2,Label,1
+Gravy,2,Ses,0
+Gtown_Tom,2,Shkshk,1
+Trilok,2,Broth Chiler,0
+Makari,2,Tichinde,1
+Sora,2,Quality Steve,0
+Pj,1,Spiff,2
+Lyndong,2,Cat,0
+Bugatti,2,Ant,0
+Klap$,2,Stoc,0
+Hazard,1,Pink,2
+Psi,2,Null,0
+Notable Bonk,1,Dems,2
+Kyu Puff,2,Ghost,0
+Wx,2,Steel Kangaroo,0
+Hart,2,Wrek,0
+Metlwing,2,Hea7,0
+Crush,2,Twisty,0
+Slothbear,0,Spooky Ghost,2
+Mr. Lemon,2,Racer,0
+Dudutsai,2,Batsox The Realest Luigi,0
+Tian,2,Donnie Cash,0
+Bvb,2,Blahyay,1
+Rime,2,The Yak,0
+Mr. Tuesday,2,Slag,0
+Gravy,2,Gtown_Tom,0
+Trilok,1,Makari,2
+Sora,2,Spiff,0
+Lyndong,2,Bugatti,0
+Klap$,2,Pink,0
+Psi,2,Dems,0
+Kyu Puff,2,Wx,0
+Hart,2,Metlwing,1
+Crush,2,Spooky Ghost,0
+Mr. Lemon,1,Dudutsai,2
+Tian,2,Bvb,0
+Rime,2,Mr. Tuesday,1
+Gravy,2,Makari,0
+Sora,0,Lyndong,2
+Klap$,2,Psi,0
+Kyu Puff,0,Hart,2
+Crush,2,Dudutsai,0
+Tian,2,Rime,0
+Gravy,2,Lyndong,0
+Klap$,2,Hart,1
+Crush,2,Tian,0
+Gravy,2,Klap$,0
+Crush,3,Gravy,2
+Crush,0,Gravy,3
+Gravy,2,Crush,3
+Hea7,2,Spacecadet,0
+Steel Kangaroo,2,Lilcoolata,0
+Ghost,2,Migs,0
+Notable Bonk,2,Shawarma King,0
+Hazard,2,Ajc4,0
+Ant,2,Pewu,0
+Pj,2,2Dank,1
+Tichinde,2,Fu,0
+Shkshk,2,Smoch,0
+Label,2,Snowweiner,0
+Tenshi,2,Flambo,0
+Soma,0,Hoot,2
+Grim,2,Brohad,0
+Dis,2,Seaghost,0
+Sleisl,2,Boulder Shoulders,1
+Oversteps,2,Munchlax,0
+Ryucloud,2,Sweets,0
+Lurogmz,2,Bull Frog,0
+Wrek,1,Hea7,2
+Steel Kangaroo,2,Ghost,0
+Null,2,Notable Bonk,0
+Stoc,0,Hazard,2
+Cat,2,Ant,0
+Quality Steve,0,Pj,2
+Broth Chiler,2,Tichinde,1
+Ses,2,Shkshk,1
+Sweet Teeth,2,Label,1
+Tenshi,2,Hoot,0
+Gbaby6,0,Grim,2
+Messiah,2,Dis,1
+Dankasswondergimps,0,Sleisl,2
+-1,0,Oversteps,2
+Spade,0,Ryucloud,2
+Blanky,2,Lurogmz,0
+Slag,1,Hea7,2
+The Yak,2,Steel Kangaroo,0
+Blahyay,2,Null,0
+Donnie Cash,0,Hazard,2
+Batsox The Realest Luigi,2,Cat,1
+Racer,2,Pj,1
+Slothbear,2,Broth Chiler,0
+Twisty,0,Ses,2
+Metlwing,2,Sweet Teeth,0
+Wx,2,Tenshi,1
+Dems,2,Grim,0
+Pink,2,Messiah,0
+Bugatti,2,Sleisl,0
+Spiff,2,Oversteps,0
+Trilok,0,Ryucloud,2
+Gtown_Tom,1,Blanky,2
+Hea7,1,The Yak,2
+Blahyay,2,Hazard,0
+Batsox The Realest Luigi,1,Racer,2
+Slothbear,2,Ses,0
+Metlwing,2,Wx,0
+Dems,1,Pink,2
+Bugatti,0,Spiff,2
+Ryucloud,2,Blanky,0
+Makari,2,The Yak,0
+Sora,2,Blahyay,0
+Psi,2,Racer,0
+Kyu Puff,2,Slothbear,1
+Spooky Ghost,2,Metlwing,0
+Mr. Lemon,2,Pink,0
+Bvb,0,Spiff,2
+Mr. Tuesday,1,Ryucloud,2
+Makari,0,Sora,2
+Psi,1,Kyu Puff,2
+Spooky Ghost,0,Mr. Lemon,2
+Spiff,0,Ryucloud,2
+Dudutsai,0,Sora,2
+Rime,2,Kyu Puff,1
+Lyndong,0,Mr. Lemon,2
+Hart,2,Ryucloud,0
+Sora,1,Rime,2
+Mr. Lemon,0,Hart,2
+Klap$,2,Rime,0
+Tian,0,Hart,2
+Klap$,2,Hart,1
+Gravy,3,Klap$,0

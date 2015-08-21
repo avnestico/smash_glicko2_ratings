@@ -1,0 +1,62 @@
+Zoso,2,Mr Tuesday,0
+Trilok,2,Tartox,0
+Spiff,0,Roldgold,2
+Th0Rn,2,Hart,0
+Dunc,0,Bonfire10,2
+Kyu Puff,2,Wind,0
+Crush,2,Weaponx,0
+Tichinde925,0,Bvb,2
+Puff,0,Psi,2
+Bolt,2,Tian,1
+Mafia,2,Hayato,0
+Metlwing,0,Ryucloud,2
+Swift,2,Dudutsai,1
+Hea7,0,Squible,2
+Ambisinister,1,Solar,2
+Klap$,2,Arty,0
+Zoso,2,Trilok,0
+Roldgold,0,Th0Rn,2
+Bonfire10,0,Kyu Puff,2
+Crush,2,Bvb,0
+Psi,0,Bolt,2
+Mafia,2,Ryucloud,0
+Swift,2,Squible,0
+Solar,0,Klap$,2
+Zoso,2,Th0Rn,1
+Kyu Puff,1,Crush,2
+Bolt,0,Mafia,2
+Swift,1,Klap$,2
+Zoso,3,Crush,1
+Mafia,0,Klap$,3
+Zoso,3,Klap$,0
+Zoso,3,Th0Rn,2
+Mr Tuesday,2,Tartox,1
+Spiff,0,Hart,2
+Dunc,0,Wind,2
+Weaponx,2,Tichinde925,0
+Puff,1,Tian,2
+Hayato,1,Metlwing,2
+Dudutsai,2,Hea7,0
+Ambisinister,2,Arty,0
+Solar,1,Mr Tuesday,2
+Squible,2,Hart,0
+Ryucloud,2,Wind,1
+Psi,2,Weaponx,1
+Bvb,1,Tian,2
+Bonfire10,2,Metlwing,0
+Roldgold,0,Dudutsai,2
+Trilok,2,Ambisinister,0
+Mr Tuesday,0,Squible,2
+Ryucloud,0,Psi,2
+Tian,2,Bonfire10,1
+Dudutsai,2,Trilok,1
+Kyu Puff,2,Squible,1
+Th0Rn,2,Psi,0
+Swift,2,Tian,1
+Bolt,1,Dudutsai,2
+Kyu Puff,0,Th0Rn,2
+Swift,2,Dudutsai,0
+Mafia,1,Th0Rn,3
+Crush,3,Swift,2
+Th0Rn,3,Crush,2
+Klap$,0,Th0Rn,3

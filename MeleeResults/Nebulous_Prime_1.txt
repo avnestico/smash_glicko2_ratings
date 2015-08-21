@@ -25,7 +25,7 @@ Ryan K,2,Aon,0
 Bwar,1,Rold Gold,2
 Dj Nintendo,2,Pvt. O'Mally,0
 Yedi,2,Frazer,0
-Smuckers,2,Orji,0
+Captain Smuckers,2,Orji,0
 Coinchaser,2,Papa John,0
 Swedish Delight,2,Jflex,0
 Qerb,2,Maruf,0
@@ -42,7 +42,7 @@ Cactuar,2,Bolt,0
 Zanguzen,2,Son2,0
 Ryan K,2,Rold Gold,0
 Dj Nintendo,2,Yedi,0
-Smuckers,2,Coinchaser,0
+Captain Smuckers,2,Coinchaser,0
 Swedish Delight,2,Qerb,0
 Reno,1,Dizzkidboogie,2
 Jaden,2,Smokey,0
@@ -50,11 +50,11 @@ Slox,2,Ryobeat,0
 The Moon,2,Vino,0
 Nando,0,Cactuar,2
 Zanguzen,2,Ryan K,0
-Dj Nintendo,0,Smuckers,2
+Dj Nintendo,0,Captain Smuckers,2
 Swedish Delight,2,Dizzkidboogie,0
 Jaden,0,Slox,2
 The Moon,2,Cactuar,0
-Zanguzen,2,Smuckers,0
+Zanguzen,2,Captain Smuckers,0
 Swedish Delight,3,Slox,0
 The Moon,3,Zanguzen,0
 Swedish Delight,3,The Moon,0
@@ -108,7 +108,7 @@ Reno,0,Qerb,2
 Dj Nintendo,2,Kaeon,0
 Nando,0,Jflex,2
 Cactuar,2,Smokey,0
-Smuckers,1,Qerb,2
+Captain Smuckers,1,Qerb,2
 Dizzkidboogie,1,Dj Nintendo,2
 Jaden,1,Jflex,2
 Cactuar,2,Qerb,0

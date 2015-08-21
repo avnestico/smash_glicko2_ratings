@@ -1,0 +1,180 @@
+Noob,0,Zeeb,2
+S0Ft,2,Zeeb,0
+Pyro,2,Minty,0
+Flotus,2,Binks,0
+Mantwin,2,Silver,0
+Pengie,2,Wild,0
+Neo,0,Jack Hammer,2
+Op,2,Kosign,1
+Dbag,2,The Crow,0
+S0Ft,2,Pyro,0
+Flotus,2,Mantwin,0
+Pengie,2,Jack Hammer,0
+Op,2,Dbag,0
+S0Ft,2,Flotus,0
+Pengie,2,Op,0
+S0Ft,2,Pengie,1
+The Crow,2,Noob,0
+Kosign,2,The Crow,0
+Neo,0,Wild,2
+Silver,2,Binks,0
+Minty,0,Zeeb,2
+Mantwin,1,Kosign,2
+Pyro,2,Wild,0
+Dbag,2,Silver,0
+Jack Hammer,2,Zeeb,0
+Kosign,2,Pyro,0
+Dbag,0,Jack Hammer,2
+Op,2,Kosign,0
+Flotus,2,Jack Hammer,0
+Op,0,Flotus,2
+Pengie,2,Flotus,0
+Punny,0,Wheat,2
+Flamin Roy,2,Wheat,0
+Zaney,0,Puma,2
+Esperanto,2,Ohan,0
+Rooktionary,2,Derp,0
+Flow,2,Rest Machino,0
+Dblat,2,Kyle M,0
+Tbag,2,Cybrax,1
+Doc Brown,0,Lose Guy,2
+Flamin Roy,2,Puma,0
+Esperanto,0,Rooktionary,2
+Flow,2,Dblat,0
+Tbag,2,Lose Guy,0
+Flamin Roy,2,Rooktionary,1
+Flow,2,Tbag,1
+Flamin Roy,2,Flow,0
+Doc Brown,2,Punny,0
+Cybrax,2,Doc Brown,0
+Kyle M,0,Rest Machino,2
+Derp,0,Ohan,2
+Zaney,1,Wheat,2
+Esperanto,2,Cybrax,0
+Puma,2,Rest Machino,0
+Lose Guy,2,Ohan,1
+Dblat,2,Wheat,0
+Esperanto,2,Puma,1
+Lose Guy,0,Dblat,2
+Tbag,2,Esperanto,0
+Rooktionary,1,Dblat,2
+Tbag,2,Dblat,0
+Siren,2,Soap,0
+Baka4Moe,2,Siren,0
+Type1,2,Ramen,0
+Tubes,2,Towlie,0
+Kokiri Champ,2,Nil,0
+Kpan,2,Caup,0
+Yort,2,Drama,0
+Fullmetal,2,Cohenski,0
+Killua,2,Avocado,0
+Baka4Moe,2,Type1,1
+Tubes,0,Kokiri Champ,2
+Kpan,2,Yort,0
+Fullmetal,2,Killua,0
+Baka4Moe,2,Kokiri Champ,1
+Kpan,0,Fullmetal,2
+Baka4Moe,2,Fullmetal,0
+Avocado,2,Soap,0
+Cohenski,2,Avocado,0
+Drama,0,Caup,2
+Nil,0,Towlie,2
+Ramen,1,Siren,2
+Tubes,2,Cohenski,0
+Type1,2,Caup,0
+Killua,2,Towlie,0
+Yort,2,Siren,0
+Tubes,2,Type1,0
+Killua,0,Yort,2
+Kpan,2,Tubes,0
+Kokiri Champ,2,Yort,0
+Kpan,2,Kokiri Champ,1
+Fullmetal,1,Kpan,2
+Jummy,0,Polarity,2
+Nicaboy,2,Polarity,0
+Pk Panta,0,Trevor,2
+Triple D,2,Cloudrunner,0
+Macho Man Sam,2,Seemsgood,0
+Merck,2,420Xx,0
+Tm12,2,Hogan,0
+Ga Wes,2,Twig,0
+Omega,2,Sd,0
+Nicaboy,2,Trevor,0
+Triple D,2,Macho Man Sam,0
+Merck,2,Tm12,0
+Ga Wes,0,Omega,2
+Nicaboy,2,Triple D,0
+Merck,2,Omega,0
+Nicaboy,2,Merck,0
+Sd,1,Jummy,2
+Twig,2,Jummy,0
+Hogan,2,420Xx,0
+Seemsgood,0,Cloudrunner,2
+Pk Panta,0,Polarity,2
+Macho Man Sam,2,Twig,1
+Trevor,0,Hogan,2
+Ga Wes,2,Cloudrunner,0
+Tm12,0,Polarity,2
+Macho Man Sam,2,Hogan,0
+Ga Wes,2,Polarity,0
+Omega,2,Macho Man Sam,0
+Triple D,0,Ga Wes,2
+Omega,2,Ga Wes,1
+Tubes,0,Macho Man Sam,2
+Fullmetal,2,Kosign,0
+Flotus,2,Dbag,0
+Niceboy,2,Hogan,0
+Kokiri Champ,2,Lose Guy,0
+Pengie,2,Pyro,0
+Dblat,2,Puma,0
+Triple D,2,Jack Hammer,0
+Kpan,1,Type1,2
+Op,2,Yort,0
+Baka4Moe,2,Polarity,0
+Gawes,2,Rooktionary,0
+Tbag,2,Killua,0
+Omega,2,Esperanto,0
+S0Ft,2,Macho Man Sam,0
+Fullmetal,2,Flotus,0
+Niceboy,2,Kokiri Champ,0
+Pengie,2,Dblat,0
+Flaminroy,2,Triple D,0
+Type1,0,Op,2
+Baka4Moe,2,Gawes,0
+Tbag,2,Omega,0
+S0Ft,2,Fullmetal,0
+Niceboy,2,Pengie,0
+Flaminroy,2,Op,0
+Baka4Moe,2,Tbag,0
+S0Ft,3,Niceboy,2
+Flaminroy,2,Baka4Moe,3
+S0Ft,3,Baka4Moe,1
+S0Ft,2,Baka4Moe,3
+Baka4Moe,2,S0Ft,3
+Kosign,1,Dbag,2
+Pyro,0,Puma,2
+Kpan,2,Yort,0
+Polarity,0,Rooktionary,2
+Killua,1,Esperanto,2
+Omega,2,Tubes,0
+Gawes,2,Dbag,0
+Type1,2,Lose Guy,1
+Triple D,2,Puma,0
+Dblat,2,Jack Hammer,1
+Kokiri Champ,0,Kpan,2
+Flotus,2,Rooktionary,0
+Macho Man Sam,1,Esperanto,2
+Omega,1,Gawes,2
+Type1,0,Triple D,2
+Dblat,0,Kpan,2
+Flotus,2,Esperanto,0
+Pengie,2,Gawes,0
+Fullmetal,1,Triple D,2
+Tbag,0,Kpan,2
+Op,0,Flotus,2
+Pengie,2,Triple D,0
+Kpan,0,Flotus,2
+Flaminroy,1,Pengie,2
+Niceboy,2,Flotus,0
+Pengie,1,Niceboy,3
+Baka4Moe,3,Niceboy,1

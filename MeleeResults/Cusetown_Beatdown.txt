@@ -1,0 +1,193 @@
+Syrup,2,Poppertop,0
+Socks,0,Humps,2
+The_Rake,0,Redwood,2
+Spice,2,Cstix,0
+Themanalord,2,Syrup,0
+Bag,2,Humps,0
+Trilok,2,Redwood,0
+B3N,0,Spice,2
+Themanalord,2,Bag,0
+Trilok,1,Spice,2
+Themanalord,2,Spice,1
+Themanalord,2,Trilok,0
+B3N,2,Poppertop,0
+Redwood,2,Socks,0
+Humps,2,The_Rake,0
+Syrup,2,Cstix,0
+B3N,2,Redwood,0
+Humps,0,Syrup,2
+Bag,0,B3N,2
+Trilok,2,Syrup,1
+B3N,0,Trilok,2
+Spice,0,Trilok,2
+Nitro,0,Lenca,2
+G Spot Microspot,0,H2,2
+Neira,0,Petro,2
+Gunshi,0,Rqy Money,2
+Beta,2,Lenca,0
+Biological Nun,2,H2,0
+Poonslayer,2,Petro,0
+Ezvip,2,Rqy Money,0
+Beta,2,Biological Nun,0
+Poonslayer,2,Ezvip,0
+Beta,2,Poonslayer,0
+Beta,2,Poonslayer,0
+Rqy Money,2,Nitro,0
+Petro,2,G Spot Microspot,0
+H2,2,Neira,0
+Lenca,2,Gunshi,0
+Rqy Money,0,Petro,2
+H2,0,Lenca,2
+Biological Nun,1,Petro,2
+Ezvip,2,Lenca,0
+Petro,0,Ezvip,2
+Poonslayer,2,Ezvip,0
+Keith,0,The Mayor,2
+Justaleek,1,Gsgreg,2
+Fabio,0,Patches,2
+Byakuya,0,Luke,2
+Andrewajt62,2,The Mayor,0
+Wally West,2,Gsgreg,0
+Chess,2,Patches,0
+Pig,2,Luke,0
+Andrewajt62,2,Wally West,0
+Chess,2,Pig,0
+Andrewajt62,2,Chess,0
+Andrewajt62,2,Chess,0
+Luke,2,Keith,0
+Patches,2,Justaleek,0
+Gsgreg,2,Fabio,1
+The Mayor,2,Byakuya,0
+Luke,0,Patches,2
+Gsgreg,0,The Mayor,2
+Wally West,2,Patches,0
+Pig,2,The Mayor,0
+Wally West,2,Pig,1
+Chess,2,Wally West,0
+Junky,0,Jib,2
+Sidbim,0,Hotbassfishin,2
+Riley,2,Bunz,0
+Chance,0,Leo,2
+Lefty,2,Jib,0
+Syko,0,Hotbassfishin,2
+Jank,2,Riley,0
+Sbqrscipio,2,Leo,0
+Lefty,2,Hotbassfishin,0
+Jank,2,Sbqrscipio,1
+Lefty,2,Jank,0
+Lefty,2,Jank,0
+Leo,2,Junky,0
+Syko,0,Bunz,2
+Jib,2,Chance,0
+Leo,0,Riley,2
+Bunz,0,Jib,2
+Hotbassfishin,2,Riley,0
+Sbqrscipio,2,Jib,0
+Hotbassfishin,0,Sbqrscipio,2
+Jank,2,Sbqrscipio,1
+Snips,2,Saber,0
+Sweatpants Johnny,2,Spacejam,1
+Quix,1,Bomboy,2
+Kenshiro,0,Ken2,2
+Pikapika,2,Snips,1
+Dust,2,Sweatpants Johnny,0
+Jkj,2,Bomboy,0
+Panzy,2,Ken2,1
+Pikapika,2,Dust,0
+Jkj,2,Panzy,0
+Pikapika,2,Jkj,0
+Pikapika,2,Jkj,0
+Ken2,2,Saber,0
+Bomboy,2,Spacejam,1
+Sweatpants Johnny,0,Quix,2
+Snips,2,Kenshiro,0
+Ken2,2,Bomboy,0
+Quix,0,Snips,2
+Dust,0,Ken2,2
+Panzy,1,Snips,2
+Ken2,2,Snips,1
+Jkj,2,Ken2,0
+Sand,0,Kevin Z,2
+Beefwellington,2,Tom Bezek,0
+Shampoo Man,0,Fez,2
+Asylum,2,Demigod,0
+Andy Rivers,2,Kevin Z,0
+Barry Blaze,2,Beefwellington,0
+Pyro,2,Fez,0
+Asylum,2,Andy Rivers,0
+Barry Blaze,0,Pyro,2
+Asylum,2,Pyro,0
+Asylum,2,Pyro,0
+Fez,2,Mom,0
+Beefwellington,2,Sand,0
+Kevin Z,2,Tom Bezek,0
+Demigod,2,Shampoo Man,0
+Fez,2,Beefwellington,0
+Kevin Z,2,Demigod,0
+Andy Rivers,0,Fez,2
+Barry Blaze,2,Kevin Z,0
+Fez,0,Barry Blaze,2
+Pyro,2,Barry Blaze,0
+Cruised,2,Ahsan,0
+Captain Douglas Jay Falcon,1,Buddy,2
+Weed,0,Gabe And Watch,2
+Jesiahteg,2,Cruised,0
+Veesus,0,Darron,2
+Hungry Pigeon,2,Buddy,0
+Goodles,2,Gabe And Watch,0
+Jesiahteg,2,Darron,0
+Hungry Pigeon,2,Goodles,0
+Jesiahteg,2,Hungry Pigeon,0
+Jesiahteg,2,Goodles,0
+Gabe And Watch,2,Ahsan,0
+Veesus,0,Captain Douglas Jay Falcon,2
+Cruised,2,Weed,0
+Buddy,0,Gabe And Watch,2
+Captain Douglas Jay Falcon,2,Cruised,0
+Darron,2,Gabe And Watch,0
+Goodles,2,Captain Douglas Jay Falcon,0
+Darron,0,Goodles,2
+Fuzz,2,Tib The Dragon,0
+Perdew,2,Beef,0
+Fugu,0,Iroh,2
+Sk8R,0,2% Milk,2
+Flaw,2,Fuzz,0
+Wassabi,2,Perdew,0
+Zaandaa,2,Iroh,0
+Higgins,0,2% Milk,2
+Flaw,2,Wassabi,0
+Zaandaa,2,2% Milk,0
+Flaw,2,Zaandaa,0
+Flaw,2,Zaandaa,0
+Iroh,2,Beef,0
+Perdew,0,Fugu,2
+Fuzz,2,Sk8R,0
+Higgins,2,Iroh,0
+Fugu,2,Fuzz,0
+Wassabi,1,Higgins,2
+2% Milk,1,Fugu,2
+Higgins,0,Fugu,2
+Zaandaa,2,Fugu,0
+5.1 Pikapika,0,4.1 Lefty,2
+1.1 Themanalord,2,8.1 Flaw,0
+7.1 Jesiahteg,0,3.1 Andrewajt62,2
+2.1 Beta,0,6.1 Asylum,2
+4.1 Lefty,2,1.1 Themanalord,0
+3.1 Andrewajt62,2,6.1 Asylum,1
+4.1 Lefty,0,3.1 Andrewajt62,2
+3.1 Andrewajt62,0,7.1 Jesiahteg,2
+7.1 Jesiahteg,0,3.1 Andrewajt62,2
+7.2 Goodle,0,4.2 Jank,2
+2.2 Poonslayer,0,6.2 Pyro,2
+1.2 Trilok,1,5.2 Jkj,2
+8.2 Zaandaa,2,3.2 Chess,1
+2.1 Beta,2,4.2 Jank,0
+7.1 Jesiahteg,2,6.2 Pyro,0
+8.1 Flaw,0,5.2 Jkj,2
+5.1 Pikapika,2,8.2 Zaandaa,0
+2.1 Beta,1,7.1 Jesiahteg,2
+5.2 Jkj,1,5.1 Pikapika,2
+1.1 Themanalord,0,7.1 Jesiahteg,2
+6.1 Asylum,1,5.1 Pikapika,2
+7.1 Jesiahteg,2,5.1 Pikapika,0
+4.1 Lefty,0,7.1 Jesiahteg,2

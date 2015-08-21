@@ -57,7 +57,7 @@ Kyu Puff,2,Big Guy,0
 Gtea,2,Mario Party 4,0
 Mr Tuesday,2,Ross,0
 Torsionalstrain,2,Ambition,0
-Smuckers,2,Lurogmz,0
+Captain Smuckers,2,Lurogmz,0
 The Yak,0,Shkshk,2
 Trilok,2,Pickles,0
 Colinsfuckboi,2,Tehguy,1
@@ -81,7 +81,7 @@ Klap$,2,820,0
 Blitzsm,2,Mizu,1
 Kyu Puff,2,Gtea,0
 Mr Tuesday,2,Torsionalstrain,0
-Smuckers,2,Shkshk,0
+Captain Smuckers,2,Shkshk,0
 Trilok,2,Colinsfuckboi,0
 Hart,2,Snowweiner,0
 Bvb,2,Pj,0
@@ -93,18 +93,18 @@ Crush,2,Makari,0
 Rime,2,Mr Lemon,0
 Klap$,2,Blitzsm,0
 Kyu Puff,0,Mr Tuesday,2
-Smuckers,2,Trilok,0
+Captain Smuckers,2,Trilok,0
 Hart,0,Bvb,2
 Mafia,2,Spiff,0
 Squible,0,Stb,2
 Crush,2,Rime,0
 Klap$,2,Mr Tuesday,0
-Smuckers,2,Bvb,0
+Captain Smuckers,2,Bvb,0
 Mafia,2,Stb,0
 Crush,2,Klap$,0
-Smuckers,2,Mafia,0
-Crush,1,Smuckers,3
-Smuckers,3,Mafia,2
+Captain Smuckers,2,Mafia,0
+Crush,1,Captain Smuckers,3
+Captain Smuckers,3,Mafia,2
 Papa,0,Kodak,2
 Kob,0,Sli,2
 Onen,0,Maso,2

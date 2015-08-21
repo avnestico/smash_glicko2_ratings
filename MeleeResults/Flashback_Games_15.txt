@@ -1,0 +1,204 @@
+Caup,2,Alexisstarving,0
+Cloudrunner,2,R0Cky,0
+Druggedfox,2,401K,0
+Caup,2,Cloudrunner,0
+Druggedfox,2,Caup,0
+Druggedfox,2,Caup,0
+Alexisstarving,0,R0Cky,2
+401K,2,R0Cky,0
+Cloudrunner,2,401K,0
+Caup,2,Cloudrunner,0
+Sdeems,2,Dcw,0
+Tm12,2,Bri,0
+Omen,2,Soap,1
+Linkmastaflex,2,Sdeems,0
+Tm12,1,Omen,2
+Linkmastaflex,2,Omen,0
+Linkmastaflex,2,Tm12,0
+Bri,0,Soap,2
+Tm12,2,Dcw,0
+Sdeems,2,Soap,0
+Tm12,2,Sdeems,0
+Omen,1,Tm12,2
+Jibblyporf,2,Skroat,1
+Bravo,2,Asap Andy,0
+Chaddd,2,Jibblyporf,1
+Bravo,2,Killua,0
+Chaddd,2,Bravo,0
+Chaddd,2,Bravo,0
+Killua,2,Skroat,0
+Jibblyporf,2,Asap Andy,0
+Killua,1,Jibblyporf,2
+Bravo,2,Jibblyporf,0
+Wiki,1,Guava,2
+Lethal,2,Monsoon,0
+Fastestrock,2,Bear,0
+Flotus,2,Guava,0
+Lethal,2,Fastestrock,0
+Flotus,0,Lethal,2
+Lethal,2,Flotus,0
+Monsoon,2,Bear,0
+Fastestrock,2,Wiki,0
+Guava,2,Monsoon,0
+Fastestrock,2,Guava,0
+Flotus,2,Fastestrock,0
+Timepilotchkn,0,Karma,2
+Rum,2,Apop99,0
+Siggy,2,Blitzcread,0
+Op,2,Karma,0
+Rum,2,Siggy,0
+Op,2,Rum,0
+Op,2,Rum,0
+Apop99,2,Blitzcread,0
+Siggy,2,Timepilotchkn,0
+Karma,2,Apop99,0
+Siggy,0,Karma,2
+Rum,2,Karma,0
+Jim,2,Canyoudigit,0
+Towelieeeee,2,Smashing Turnips,0
+Mantwin,2,Knarf,0
+Silver,2,Ein,0
+Jim,2,Towelieeeee,0
+Mantwin,2,Silver,0
+Jim,2,Mantwin,0
+Jim,2,Smashing Turnips,0
+Canyoudigit,0,Smashing Turnips,2
+Knarf,0,Ein,2
+Silver,0,Smashing Turnips,2
+Towelieeeee,2,Ein,0
+Smashing Turnips,2,Towelieeeee,0
+Mantwin,0,Smashing Turnips,2
+Ddsdancedan,2,Spoon,0
+Meat,0,Kraft,2
+Jazz,2,Matty-Downb-Raps,0
+The Cool Hat Man,0,Tran,2
+Ddsdancedan,2,Kraft,0
+Jazz,2,Tran,0
+Ddsdancedan,2,Jazz,0
+Ddsdancedan,2,The Cool Hat Man,0
+Spoon,0,Meat,2
+Matty-Downb-Raps,0,The Cool Hat Man,2
+Tran,2,Meat,0
+Kraft,0,The Cool Hat Man,2
+Tran,0,The Cool Hat Man,2
+Jazz,1,The Cool Hat Man,2
+Omega,2,B@Rd,0
+Tiny,2,Hashslinger,0
+Jummy,2,Mattyb-Rex,0
+Bitch,2,Yukon,0
+Omega,2,Tiny,0
+Jummy,2,Bitch,0
+Omega,2,Jummy,0
+Omega,2,Jummy,0
+B@Rd,0,Hashslinger,2
+Mattyb-Rex,2,Yukon,0
+Bitch,2,Hashslinger,0
+Tiny,2,Mattyb-Rex,0
+Bitch,0,Tiny,2
+Jummy,2,Tiny,0
+Tubesssbm,2,Gandhi,0
+Breadsticks,2,Gooftree,0
+Yort,2,Stock Me Amadeus,0
+Robo-Ky,2,Tectonic,0
+Tubesssbm,2,Breadsticks,0
+Yort,2,Robo-Ky,0
+Tubesssbm,2,Yort,1
+Tubesssbm,2,Yort,0
+Gandhi,2,Gooftree,0
+Stock Me Amadeus,0,Tectonic,2
+Robo-Ky,2,Gandhi,0
+Breadsticks,2,Tectonic,0
+Robo-Ky,2,Breadsticks,0
+Yort,2,Robo-Ky,0
+Esperanto,2,Rayd,0
+Ari,2,Paragon,0
+Origamisalami,1,Katestheo,2
+Esperanto,2,Goon,0
+Ari,2,Katestheo,0
+Esperanto,2,Ari,0
+Esperanto,2,Ari,0
+Paragon,0,Origamisalami,2
+Katestheo,2,Rayd,0
+Goon,2,Origamisalami,0
+Katestheo,0,Goon,2
+Ari,2,Goon,0
+Basic,2,Idk,0
+Zeta,1,Vyram,2
+Dr Hook,0,Karmerz,2
+Ron-A-Roni,2,Basic,0
+Kittensoup,2,Wisaac,0
+Bbq,2,Vyram,0
+Moonshine,2,Karmerz,0
+Ron-A-Roni,2,Kittensoup,0
+Bbq,0,Moonshine,2
+Ron-A-Roni,2,Moonshine,0
+Ron-A-Roni,2,Moonshine,0
+Karmerz,2,Idk,0
+Wisaac,2,Zeta,0
+Basic,0,Dr Hook,2
+Vyram,0,Karmerz,2
+Wisaac,2,Dr Hook,1
+Kittensoup,2,Karmerz,0
+Bbq,2,Wisaac,0
+Kittensoup,0,Bbq,2
+Moonshine,2,Bbq,1
+Druggedfox,2,Bbqd3,0
+Tm1222,0,Yort92,2
+Lethal41,0,Mantwin63,2
+Tubesssbm91,2,Omen23,1
+Omega81,2,Robo-Ky93,1
+Bravo32,0,Flotus42,2
+Op51,2,Jibblyporf33,0
+Caup12,0,Ari02,2
+Linkmastaflex21,2,Goon03,0
+Rum52,2,Moonshined2,1
+Ddsdancedan71,2,Fastestrock43,0
+Esperanto01,2,Cloudrunner13,0
+Chaddd31,2,Jazz73,0
+Smashing Turnips62,0,Jummy82,2
+Jim61,2,Karma53,0
+Ron-A-Ronid1,2,The Cool Hat Man72,0
+Druggedfox,2,Yort92,0
+Mantwin63,1,Tubesssbm91,2
+Omega81,0,Flotus42,2
+Op51,2,Ari02,1
+Linkmastaflex21,2,Rum52,0
+Ddsdancedan71,2,Esperanto01,0
+Chaddd31,2,Jummy82,0
+Jim61,0,Ron-A-Ronid1,2
+Druggedfox,2,Tubesssbm91,0
+Flotus42,2,Op51,0
+Linkmastaflex21,2,Ddsdancedan71,0
+Chaddd31,0,Ron-A-Ronid1,2
+Druggedfox,3,Flotus42,0
+Linkmastaflex21,2,Ron-A-Ronid1,3
+Druggedfox,3,Ron-A-Ronid1,0
+Bbqd3,2,Tm1222,0
+Lethal41,2,Omen23,0
+Robo-Ky93,0,Bravo32,2
+Jibblyporf33,1,Caup12,2
+Goon03,0,Moonshined2,2
+Fastestrock43,2,Cloudrunner13,0
+Karma53,0,The Cool Hat Man72,2
+Jim61,1,Bbqd3,2
+Jummy82,0,Lethal41,2
+Esperanto01,2,Bravo32,1
+Rum52,2,Caup12,0
+Ari02,2,Moonshined2,0
+Omega81,2,Fastestrock43,0
+Mantwin63,1,Smashing Turnips62,2
+Yort92,2,The Cool Hat Man72,0
+Bbqd3,0,Lethal41,2
+Esperanto01,1,Rum52,2
+Ari02,0,Omega81,2
+Smashing Turnips62,0,Yort92,2
+Op51,2,Lethal41,0
+Tubesssbm91,2,Rum52,1
+Chaddd31,2,Omega81,0
+Ddsdancedan71,2,Yort92,0
+Op51,1,Tubesssbm91,2
+Chaddd31,2,Ddsdancedan71,0
+Linkmastaflex21,2,Tubesssbm91,1
+Flotus42,0,Chaddd31,2
+Linkmastaflex21,2,Chaddd31,1
+Ron-A-Ronid1,0,Linkmastaflex21,3

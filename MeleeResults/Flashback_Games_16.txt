@@ -1,0 +1,218 @@
+Druggedfox,2,Pkmn,0
+Swerve,2,Timepilotchkn,0
+Moonshine,2,Paragon,0
+Druggedfox,2,Silver,0
+Swerve,0,Moonshine,2
+Druggedfox,2,Moonshine,0
+Druggedfox,2,Swerve,0
+Timepilotchkn,2,Paragon,0
+Silver,2,Timepilotchkn,0
+Swerve,2,Pkmn,0
+Silver,0,Swerve,2
+Moonshine,1,Swerve,2
+Ben%,0,Minty,2
+Dmbarkley,2,Bigplayray,0
+Nicaboy,2,Minty,0
+Mouse Shampoo,2,Pyro,0
+Ari,2,Dmbarkley,0
+Nicaboy,2,Mouse Shampoo,0
+Ari,2,Mantwin,0
+Nicaboy,2,Ari,1
+Nicaboy,2,Ari,0
+Pyro,2,Bigplayray,0
+Dmbarkley,2,Ben%,0
+Minty,0,Pyro,2
+Mouse Shampoo,2,Dmbarkley,0
+Mantwin,2,Pyro,0
+Mouse Shampoo,2,Mantwin,0
+Ari,2,Mouse Shampoo,0
+Hobotz,0,Fop,2
+Wisaac,0,Leyatis,2
+S0Ft,2,Fop,0
+Dbag,2,Leyatis,0
+Fastestrock,2,Chinaux,0
+Dbag,2,Fastestrock,0
+S0Ft,2,Dbag,0
+S0Ft,2,Fop,0
+Chinaux,0,Hobotz,2
+Leyatis,2,Hobotz,0
+Fop,2,Wisaac,0
+Fastestrock,0,Fop,2
+Leyatis,0,Fop,2
+Dbag,0,Fop,2
+Schmii,2,Laprasified,0
+Rozz,2,Wbd!,0
+Flaminroy,2,Schmii,0
+Dcw,0,Skroat,2
+Esperanto,2,Rozz,0
+Smashingturnips,2,Sampai,0
+Flaminroy,2,Skroat,0
+Esperanto,2,Smashingturnips,0
+Flaminroy,2,Esperanto,0
+Flaminroy,2,Esperanto,0
+Sampai,0,Laprasified,2
+Dcw,2,Wbd!,0
+Rozz,2,Laprasified,0
+Schmii,0,Dcw,2
+Skroat,0,Rozz,2
+Smashingturnips,2,Dcw,0
+Rozz,0,Smashingturnips,2
+Esperanto,2,Smashingturnips,0
+Chaddd,2,Sweatybox,0
+$Wagboi,1,.Exe,2
+Omen,2,Wiki,0
+Chaddd,2,.Exe,0
+L3Thal,2,Omen,0
+Chaddd,2,L3Thal,0
+Chaddd,2,L3Thal,0
+Sweatybox,0,$Wagboi,2
+.Exe,2,Wiki,0
+Omen,2,$Wagboi,0
+.Exe,0,Omen,2
+L3Thal,2,Omen,1
+Cookie,2,Who?,0
+Fullmetal,2,Lubs,0
+Karma,2,Vyrem,0
+Nix,2,Cookie,0
+Jummy,2,Doc Brown,0
+Fullmetal,2,Karma,0
+Nix,2,Jummy,0
+Fullmetal,2,Nix,0
+Fullmetal,2,Nix,0
+Vyrem,0,Who?,2
+Cookie,2,Doc Brown,0
+Lubs,0,Who?,2
+Karma,0,Cookie,2
+Jummy,2,Who?,0
+Cookie,0,Jummy,2
+Nix,2,Jummy,0
+Nalsa,0,Christian,2
+Op,2,Doctor Payne,0
+Chaos Dunk,1,Dusk,2
+Dashdancedan,2,Christian,0
+Op,2,Dusk,0
+Dashdancedan,2,Breadsticks,0
+Op,2,Dashdancedan,0
+Op,2,Chaos Dunk,0
+Chaos Dunk,2,Nalsa,0
+Doctor Payne,0,Chaos Dunk,2
+Dusk,2,Christian,0
+Breadsticks,0,Chaos Dunk,2
+Dusk,0,Chaos Dunk,2
+Dashdancedan,0,Chaos Dunk,2
+Sasuke,2,Noodles,0
+Een,2,Ihop Obama,0
+Shag,2,Sasuke,0
+Robo-Ky,2,Love Handles,0
+Een,2,Chipgroove,0
+Shag,2,Robo-Ky,0
+Een,2,Shag,0
+Een,2,Chipgroove,0
+Sasuke,2,Love Handles,0
+Ihop Obama,2,Noodles,0
+Chipgroove,2,Sasuke,0
+Robo-Ky,2,Ihop Obama,0
+Chipgroove,2,Robo-Ky,0
+Shag,0,Chipgroove,2
+Whitedusts,0,Crispix,2
+Shiitake,2,Kelik772,0
+Tubesssbm,2,Crispix,0
+Killua,2,Tiny,0
+Trix,2,Shiitake,0
+Moonbucks,2,Gooftree,0
+Tubesssbm,2,Killua,1
+Trix,2,Moonbucks,1
+Tubesssbm,2,Trix,1
+Tubesssbm,2,Crispix,0
+Gooftree,0,Whitedusts,2
+Tiny,2,Kelik772,0
+Shiitake,1,Whitedusts,2
+Crispix,2,Tiny,0
+Killua,2,Whitedusts,0
+Moonbucks,0,Crispix,2
+Killua,1,Crispix,2
+Trix,0,Crispix,2
+Mayo,0,Punny,2
+Omega,2,Punny,0
+Jibblyporf,2,Sdeems,0
+Caup,2,Erock,0
+Omega,2,Jibblyporf,1
+Toris,0,Caup,2
+Omega,2,Caup,0
+Omega,2,Caup,0
+Erock,2,Mayo,0
+Punny,0,Sdeems,2
+Jibblyporf,1,Erock,2
+Toris,0,Sdeems,2
+Erock,2,Sdeems,0
+Caup,2,Erock,1
+Cloud,2,Slick,0
+Tbag,2,Cloud,0
+Mop,2,Justicelazer,0
+Tbag,2,Mop,0
+Tbag,2,Mop,0
+Justicelazer,2,Slick,0
+Cloud,2,Justicelazer,0
+Mop,2,Cloud,0
+Druggedfox,2,Erock03,0
+Esperanto42,2,Fop32,0
+Chaddd51,2,Shag83,0
+Tubesssbm91,2,Smashingturnips43,0
+Flaminroy41,2,Trix93,0
+Chaos Dunk72,0,Mopd2,2
+Een81,2,Omen53,0
+Crispix92,0,Caup02,2
+Nicaboy21,2,Moonshine13,0
+L3Thal52,2,Chipgroove82,1
+Op71,2,Jummy63,0
+Tbagd1,2,Dbag33,0
+Soft31,2,Mouse Shampoo23,0
+Nix62,2,Swerve12,1
+Fullmetal61,2,Dashdancedan73,0
+Omega01,2,Ari22,1
+Druggedfox,2,Esperanto42,0
+Chaddd51,2,Tubesssbm91,0
+Flaminroy41,2,Mopd2,0
+Een81,2,Caup02,0
+Nicaboy21,2,L3Thal52,1
+Op71,2,Tbagd1,1
+Soft31,1,Nix62,2
+Fullmetal61,2,Omega01,0
+Druggedfox,2,Chaddd51,0
+Flaminroy41,2,Een81,0
+Nicaboy21,2,Op71,0
+Nix62,0,Fullmetal61,2
+Druggedfox,3,Flaminroy41,0
+Nicaboy21,3,Fullmetal61,0
+Druggedfox,3,Nicaboy21,0
+Druggedfox,3,Flaminroy41,0
+Erock03,0,Fop32,2
+Shag83,1,Smashingturnips43,2
+Trix93,2,Chaos Dunk72,0
+Omen53,0,Crispix92,2
+Moonshine13,1,Chipgroove82,2
+Jummy63,2,Dbag33,0
+Mouse Shampoo23,0,Swerve12,2
+Dashdancedan73,0,Ari22,2
+Omega01,2,Fop32,1
+Soft31,2,Smashingturnips43,0
+Tbagd1,2,Trix93,0
+L3Thal52,2,Crispix92,0
+Caup02,1,Chipgroove82,2
+Mopd2,2,Jummy63,0
+Tubesssbm91,2,Swerve12,0
+Esperanto42,2,Ari22,1
+Omega01,1,Soft31,2
+Tbagd1,0,L3Thal52,2
+Chipgroove82,2,Mopd2,0
+Tubesssbm91,2,Esperanto42,1
+Een81,0,Soft31,2
+Chaddd51,2,L3Thal52,0
+Nix62,2,Mopd2,1
+Op71,2,Tubesssbm91,1
+Soft31,2,Chaddd51,0
+Nix62,1,Op71,2
+Fullmetal61,0,Soft31,2
+Flaminroy41,2,Op71,0
+Soft31,1,Flaminroy41,3
+Nicaboy21,1,Flaminroy41,3

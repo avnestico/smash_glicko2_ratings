@@ -862,12 +862,12 @@ Rsc Yung Dactyl,0,Mako,2
 Matticus,2,Slam,0
 Jonjon,2,Chicky,0
 Mari,0,Nokes,2
-Coldpizzaa,0,[Ve] At0M,2
+Coldpizzaa,0,At0M,2
 Drinksonme,2,Duhcodda,0
 Madman,0,Blackmagic754,2
 Leffen,2,Mako,0
 Matticus,0,Jonjon,2
-Nokes,2,[Ve] At0M,0
+Nokes,2,At0M,0
 Drinksonme,0,Blackmagic754,2
 Leffen,2,Jonjon,0
 Nokes,2,Blackmagic754,0
@@ -875,7 +875,7 @@ Uuaa,2,Rsc Yung Dactyl,0
 Slam,0,Chicky,2
 Mari,2,Coldpizzaa,0
 Duhcodda,2,Madman,0
-[Ve] At0M,0,Uuaa,2
+At0M,0,Uuaa,2
 Drinksonme,0,Chicky,2
 Mako,2,Mari,0
 Matticus,2,Duhcodda,0
@@ -888,13 +888,13 @@ Uuaa,2,Matticus,0
 Nokes,0,Uuaa,2
 Bpak,0,Noirscythe,2
 Machineelf,2,Troy Flynn,0
-Phazermuffin,0,[Ve] Aj,2
+Phazermuffin,0,Aj,2
 Indie_Dave,0,Ace,2
 L10,0,Tyler Van Voorene,2
 Sergio Rodriguez,2,Yoshi,0
 Nexic,2,Flyboy,0
 Noirscythe,2,Grouch,0
-Machineelf,2,[Ve] Aj,0
+Machineelf,2,Aj,0
 Ace,2,Tyler Van Voorene,0
 Sergio Rodriguez,2,Nexic,0
 Noirscythe,2,Machineelf,0
@@ -905,7 +905,7 @@ Yoshi,2,Flyboy,0
 Tyler Van Voorene,0,Bpak,2
 Nexic,2,Troy Flynn,0
 Grouch,0,Indie_Dave,2
-[Ve] Aj,0,Yoshi,2
+Aj,0,Yoshi,2
 Bpak,2,Nexic,0
 Indie_Dave,0,Yoshi,2
 Machineelf,0,Bpak,2
@@ -1879,7 +1879,7 @@ Flow,0,Beach,2
 Borz,0,Purpletuce,2
 Andrew Moore,0,The Yak Aka Bpon Aka Totes …,2
 Crypticpurge,0,Tope,2
-Kitsune,2,[Lp]Liefx,0
+Kitsune,2,Liefx,0
 Dokyun,0,Desi Alvarez,2
 Yakal,2,David Decoste,0
 Jacob Ross,2,Invisiblekid,0
@@ -1891,7 +1891,7 @@ Jacob Ross,2,Fija,0
 Purpletuce,0,Tope,2
 Yakal,2,Jacob Ross,0
 Borz,2,Andrew Moore,0
-Crypticpurge,2,[Lp]Liefx,0
+Crypticpurge,2,Liefx,0
 Dokyun,0,David Decoste,2
 Invisiblekid,0,Octave,2
 Desi Alvarez,0,Borz,2
@@ -2565,7 +2565,7 @@ Leaf,0,Jackietran.Com,2
 Psychomidget,0,L,2
 Saiko,2,Jackietran.Com,0
 Psychomidget,0,Saiko,2
-[Neg] Mrbenready,0,Snacks,2
+Mrbenready,0,Snacks,2
 Franknstein,2,Wreck,0
 Zaid Lama,2,Poketroopa,0
 Buttered Toast,0,Thenguyenner,2
@@ -2580,10 +2580,10 @@ Sleeves,0,Arc,2
 Wreck,0,Poketroopa,2
 Buttered Toast,0,Wind,2
 Janet,2,Deku,0
-Thenguyenner,0,[Neg] Mrbenready,2
+Thenguyenner,0,Mrbenready,2
 Mogwai,2,Poketroopa,0
 Franknstein,0,Janet,2
-[Neg] Mrbenready,0,Mogwai,2
+Mrbenready,0,Mogwai,2
 Wind,0,Janet,2
 Zaid Lama,0,Mogwai,2
 Sleeves,0,Janet,2

@@ -1,0 +1,40 @@
+William Quijada,0,Roman Martinez,2
+Adam (Gt),2,Denux,0
+Fish (Ni),0,Mike,2
+Itzmar Franco (Gt),2,Kevin Raymundo,0
+Andy Salas (Gt),0,Jose Hernandez,2
+Kaiser (Invitation Pending),2,Michael Almenar,0
+Fer,2,Ricardo Arévalo (Gt),0
+Taku,2,Only,0
+Wil (Gt),2,Christopher Rendon,0
+Loy,2,Hector Flores,0
+Hien,2,Luis Acosta,0
+Adam (Gt),2,Mike,0
+Itzmar Franco (Gt),2,Sais,0
+Jose Hernandez,1,Kaiser (Invitation Pending),2
+Bubu (Ni),2,Fer,1
+Taku,2,Wil (Gt),0
+Loy,2,Hien,0
+Itzmar Franco (Gt),0,Kaiser (Invitation Pending),2
+Taku,2,Loy,0
+Adam (Gt),2,Kaiser (Invitation Pending),0
+Bubu (Ni),1,Taku,2
+Adam (Gt),3,Taku,0
+Adam (Gt),3,Bubu (Ni),1
+Denux,0,Fish (Ni),2
+Andy Salas (Gt),2,Michael Almenar,1
+Only,2,Christopher Rendon,0
+Hector Flores,1,Luis Acosta,2
+Wil (Gt),0,Fish (Ni),2
+Fer,2,Andy Salas (Gt),0
+Jose Hernandez,2,Ricardo Arévalo (Gt),0
+Mike,1,Only,2
+Roman Martinez,2,Luis Acosta,0
+Hien,0,Fish (Ni),2
+Jose Hernandez,2,Sais,1
+Only,1,Roman Martinez,2
+Itzmar Franco (Gt),2,Fish (Ni),1
+Loy,2,Jose Hernandez,0
+Kaiser (Invitation Pending),2,Loy,0
+Bubu (Ni),3,Kaiser (Invitation Pending),0
+Taku,0,Bubu (Ni),3

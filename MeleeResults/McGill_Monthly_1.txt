@@ -1,0 +1,62 @@
+Vwins,2,Tim,0
+Moonpanda,2,Wakka,1
+Kyle,2,Pixie,1
+Testrider,2,Gaz,0
+Waz,2,Cat$,0
+Handsome Tom,2,Xuna,0
+Saus,2,Gabe,0
+Ssf,2,Rice,1
+Kage,2,Paulwalker53,0
+Yogi,0,Jager,2
+Erayz,2,Vane,0
+Perhapsman,2,Lafungo,0
+Shunsuke,2,Keo,0
+X,0,Vrud,2
+Cemo,2,Godiegogo,1
+Flood,2,Lapopo,0
+Vwins,2,Moonpanda,0
+Kyle,2,Testrider,0
+Waz,2,Handsome Tom,0
+Saus,2,Ssf,0
+Kage,2,Jager,0
+Erayz,2,Perhapsman,0
+Shunsuke,2,Vrud,0
+Cemo,2,Flood,1
+Vwins,2,Kyle,0
+Waz,2,Saus,1
+Kage,2,Erayz,0
+Shunsuke,2,Cemo,0
+Vwins,3,Waz,0
+Kage,3,Shunsuke,1
+Tim,2,Wakka,1
+Pixie,0,Gaz,2
+Cat$,2,Xuna,1
+Gabe,2,Rice,0
+Paulwalker53,0,Yogi,2
+Vane,2,Lafungo,1
+Keo,2,X,0
+Godiegogo,2,Lapopo,1
+Flood,2,Tim,0
+Vrud,2,Gaz,1
+Perhapsman,1,Cat$,2
+Jager,0,Gabe,2
+Ssf,2,Yogi,1
+Handsome Tom,2,Vane,0
+Testrider,2,Keo,0
+Moonpanda,0,Godiegogo,2
+Flood,1,Vrud,2
+Cat$,0,Gabe,2
+Ssf,0,Handsome Tom,2
+Testrider,0,Godiegogo,2
+Saus,2,Vrud,1
+Kyle,1,Gabe,2
+Cemo,2,Handsome Tom,1
+Erayz,2,Godiegogo,0
+Saus,2,Gabe,0
+Cemo,1,Erayz,2
+Shunsuke,0,Saus,2
+Waz,2,Erayz,0
+Vwins,3,Kage,2
+Saus,0,Waz,2
+Kage,3,Waz,0
+Vwins,3,Kage,0

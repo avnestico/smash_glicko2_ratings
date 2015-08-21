@@ -1,0 +1,183 @@
+Tranq,2,Fos The Kid,0
+Mr Melon,2,Puzzle,0
+Dis,2,Young Fly Amanita Look Alike,0
+Ron,0,Kunai,2
+Bobbery,0,Soke,2
+Malo,2,Witch Lawyer,0
+Dankasswondergimps,0,Cigs,2
+Shk Shk,2,Ross,0
+Titanium Shovel,0,Twisty,2
+Label,1,Nbs,2
+Xanx,0,Ses,2
+Shamu,2,Empty Bottle,1
+Zylp,2,R00,1
+Boulder Shoulders,0,Mr Jones,2
+Wally Wiggles,0,Shubs,2
+C-Stick Fibrosis,0,Sudz,2
+Snow Weiner,2,Injeanius,0
+Pink,2,Jsun,1
+Ganreizu,2,Takyon,0
+Daddy,0,Bater,2
+Ludwig,2,Bozo,0
+Yung Bonez Villian,2,Ramz,0
+Crazy Cow,0,Primer,2
+Oversteps,2,Papa,0
+Wrek,1,Neft,2
+Nfreak,2,Pete,0
+Yung Coolatta,0,Bullfrog,2
+Seaghost,2,Rex,0
+Mafia,2,Tranq,0
+Gimme Sac,2,Balley,0
+Trilok,2,Mr Melon,0
+Bonk,2,Dis,1
+Squible,2,Kunai,0
+Hea7,2,Soke,0
+Hart,2,Malo,0
+Spiff,2,Cigs,0
+Mr Lemon,2,Shk Shk,0
+Spooky Ghost,0,Null,2
+Blahyay,2,Twisty,0
+Pj,2,Nbs,0
+Dudutsai,2,Ses,1
+Stoc,2,Shamu,1
+Kazamm,2,Zylp,0
+Bugatti,2,Mr Jones,0
+Mattdotzeb,2,Shubs,0
+Para,2,Blazing Sparky,0
+Batsox,2,Sudz,1
+Broth Chiler,2,Snow Weiner,0
+Sora,2,Pink,0
+Jlo,2,Ganreizu,0
+Cheezpuff,2,Bater,0
+Boy,2,Ludwig,0
+Tian,2,Yung Bonez Villian,0
+Torsional Strain,2,Nugget,0
+Makari,2,Primer,0
+Stickman,2,Oversteps,0
+Kyu Puff,2,Neft,0
+Tichinde925,2,Nfreak,0
+Mizu,2,Bullfrog,0
+Gtea,2,Seaghost,0
+Mafia,2,Gimme Sac,0
+Trilok,1,Bonk,2
+Squible,2,Hea7,0
+Hart,2,Spiff,0
+Mr Lemon,2,Null,0
+Blahyay,1,Pj,2
+Dudutsai,2,Stoc,1
+Kazamm,1,Bugatti,2
+Mattdotzeb,2,Para,0
+Batsox,2,Broth Chiler,1
+Sora,2,Jlo,0
+Cheezpuff,2,Boy,0
+Tian,2,Torsional Strain,0
+Makari,2,Stickman,0
+Kyu Puff,2,Tichinde925,0
+Mizu,1,Gtea,2
+Mafia,2,Bonk,0
+Squible,2,Hart,1
+Mr Lemon,2,Pj,0
+Dudutsai,2,Bugatti,1
+Mattdotzeb,2,Batsox,0
+Sora,2,Cheezpuff,1
+Tian,2,Makari,0
+Kyu Puff,2,Gtea,0
+Mafia,2,Squible,1
+Mr Lemon,1,Dudutsai,2
+Mattdotzeb,2,Sora,1
+Tian,1,Kyu Puff,2
+Mafia,2,Dudutsai,0
+Mattdotzeb,2,Kyu Puff,1
+Mafia,2,Mattdotzeb,3
+Mattdotzeb,2,Mafia,3
+Mafia,3,Mattdotzeb,2
+Seaghost,2,Fos The Kid,0
+Nfreak,2,Puzzle,0
+Neft,2,Young Fly Amanita Look Alike,0
+Oversteps,2,Ron,0
+Primer,2,Bobbery,0
+Nugget,2,Witch Lawyer,0
+Yung Bonez Villian,2,Dankasswondergimps,0
+Ludwig,2,Ross,1
+Ganreizu,2,Titanium Shovel,1
+Pink,2,Label,0
+Snow Weiner,2,Xanx,0
+Sudz,2,Empty Bottle,0
+Blazing Sparky,1,R00,2
+Shubs,2,Boulder Shoulders,0
+Mr Jones,2,Wally Wiggles,0
+Shamu,0,C-Stick Fibrosis,2
+Ses,2,Injeanius,0
+Nbs,2,Jsun,0
+Twisty,2,Takyon,0
+Spooky Ghost,2,Daddy,0
+Shk Shk,2,Bozo,0
+Cigs,0,Ramz,2
+Soke,2,Crazy Cow,0
+Kunai,2,Papa,0
+Dis,0,Wrek,2
+Mr Melon,2,Pete,0
+Balley,2,Yung Coolatta,0
+Tranq,2,Rex,0
+Bullfrog,1,Seaghost,2
+Nfreak,0,Neft,2
+Oversteps,2,Primer,0
+Nugget,1,Yung Bonez Villian,2
+Bater,0,Ludwig,2
+Ganreizu,1,Pink,2
+Snow Weiner,2,Sudz,1
+R00,1,Shubs,2
+Zylp,2,Mr Jones,1
+C-Stick Fibrosis,0,Ses,2
+Nbs,0,Twisty,2
+Spooky Ghost,2,Shk Shk,1
+Malo,2,Ramz,0
+Soke,1,Kunai,2
+Wrek,0,Mr Melon,2
+Balley,1,Tranq,2
+Kazamm,2,Seaghost,0
+Stoc,0,Neft,2
+Blahyay,2,Oversteps,1
+Null,2,Yung Bonez Villian,0
+Spiff,2,Ludwig,0
+Hea7,1,Pink,2
+Trilok,2,Snow Weiner,0
+Gimme Sac,2,Shubs,0
+Mizu,2,Zylp,0
+Tichinde925,0,Ses,2
+Stickman,2,Twisty,1
+Torsional Strain,2,Spooky Ghost,0
+Boy,2,Malo,1
+Jlo,1,Kunai,2
+Broth Chiler,1,Mr Melon,2
+Para,2,Tranq,0
+Kazamm,2,Neft,0
+Blahyay,2,Null,1
+Spiff,2,Pink,0
+Trilok,2,Gimme Sac,0
+Mizu,0,Ses,2
+Stickman,2,Torsional Strain,0
+Boy,0,Kunai,2
+Mr Melon,2,Para,0
+Batsox,1,Kazamm,2
+Cheezpuff,2,Blahyay,0
+Makari,0,Spiff,2
+Gtea,1,Trilok,2
+Bonk,1,Ses,2
+Hart,2,Stickman,0
+Pj,2,Kunai,1
+Bugatti,2,Mr Melon,0
+Kazamm,1,Cheezpuff,2
+Spiff,0,Trilok,2
+Ses,0,Hart,2
+Pj,1,Bugatti,2
+Squible,1,Cheezpuff,2
+Mr Lemon,2,Trilok,0
+Sora,2,Hart,1
+Tian,2,Bugatti,0
+Cheezpuff,1,Mr Lemon,2
+Sora,1,Tian,2
+Kyu Puff,2,Mr Lemon,0
+Dudutsai,1,Tian,2
+Kyu Puff,1,Tian,2
+Mafia,3,Tian,0

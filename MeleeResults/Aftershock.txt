@@ -39,7 +39,7 @@ Jf,0,Junebug,2
 Gahtzu,2,Treetrunks,0
 Mr. Brandandorf,2,Tuesday,0
 Milkman,2,Dakpo,0
-[Mb] Disafter,2,Erasmorpheous,0
+Disafter,2,Erasmorpheous,0
 Westballz,2,Dyl,0
 Jelly,0,Lk,2
 Mojo,2,Dr. Drew,0
@@ -51,7 +51,7 @@ Dizzy,2,Jra64,0
 Axe,2,Dmg,0
 Jake13,2,Junebug,0
 Gahtzu,2,Mr. Brandandorf,0
-Milkman,2,[Mb] Disafter,0
+Milkman,2,Disafter,0
 Westballz,2,Lk,0
 Mojo,2,Moophobia,0
 Redd,2,Eikelmannrus,0
@@ -72,7 +72,7 @@ Erasmorpheous,0,Dakpo,2
 Tuesday,2,Treetrunks,0
 Jf,2,Geoff,0
 Pootthebox,0,Ptjon,2
-[Mb] Disafter,2,Denti,0
+Disafter,2,Denti,0
 Mr. Brandandorf,0,Ripple,2
 Junebug,2,Dr. Drew,0
 Dmg,0,Jelly,2
@@ -80,11 +80,11 @@ Dizzy,2,Dakpo,0
 Eikelmannrus,2,Tuesday,0
 Moophobia,2,Jf,0
 Lk,2,Ptjon,0
-[Mb] Disafter,2,Ripple,0
+Disafter,2,Ripple,0
 Junebug,2,Jelly,0
 Dizzy,0,Eikelmannrus,2
 Moophobia,0,Lk,2
-Mojo,2,[Mb] Disafter,0
+Mojo,2,Disafter,0
 Arc,2,Junebug,0
 Jake13,2,Eikelmannrus,0
 Milkman,2,Lk,0

@@ -1,0 +1,142 @@
+Hellabryan,2,Dranyos,0
+Tino,0,Shreckkisses,2
+J Bob,2,Yoohoo,0
+Adlp,0,Nugs,2
+Ralph,1,Trick,2
+Cloudsquall,2,Kopaka,1
+Rca,2,Tolerablezero,1
+Squallette,0,Yardsale,2
+Westballz,2,Hellabryan,0
+Yattadante,2,Chooch,0
+Jpegimage,2,Echo,0
+Volvo,2,Koschka,0
+Pb&J,2,Shreckkisses,0
+Anjo,2,Johnny D,0
+Triple R,2,Ray,0
+Goose,0,Tc Luck,2
+Stricnyn3,2,J Bob,0
+Bdr,2,Bayless,0
+Sk92,2,Whiskeymilk,0
+The Biggest C,2,Rattigan,1
+Dizzkidboogie,2,Nugs,0
+Fija,0,Ayu,2
+Roche,2,Gibbles,0
+Bpak,2,Alex,0
+Dj Nintendo,2,Trick,0
+Mmx,0,Studmuffin,2
+Saiko,2,Td,0
+Coon,0,Spam,2
+Chain-Ace,2,Cloudsquall,0
+Bacon,2,Doogless,0
+Firefly,2,Zeta,0
+Mittens,2,Matsson,0
+The Moon,2,Rca,0
+Thezerofareal,2,Indie Dave,0
+Psg Trahh,2,Tato,0
+Gw Dansdaman,2,Volk,0
+Okamibw,2,Yardsale,0
+Lalo,2,Nordy,1
+D. Disciple,2,Sweats,0
+Carl Sweatshirt,2,Kwin,0
+Westballz,2,Yattadante,0
+Jpegimage,2,Volvo,0
+Pb&J,1,Anjo,2
+Triple R,2,Tc Luck,0
+Stricnyn3,2,Bdr,0
+Sk92,2,The Biggest C,0
+Dizzkidboogie,2,Ayu,0
+Roche,2,Bpak,0
+Dj Nintendo,2,Studmuffin,0
+Saiko,2,Spam,0
+Chain-Ace,2,Bacon,0
+Firefly,0,Mittens,2
+The Moon,2,Thezerofareal,0
+Psg Trahh,2,Gw Dansdaman,0
+Okamibw,2,Lalo,0
+D. Disciple,2,Carl Sweatshirt,0
+Westballz,2,Jpegimage,1
+Anjo,0,Triple R,2
+Stricnyn3,2,Sk92,0
+Dizzkidboogie,2,Roche,0
+Dj Nintendo,2,Saiko,0
+Chain-Ace,1,Mittens,2
+The Moon,2,Psg Trahh,0
+Okamibw,2,D. Disciple,0
+Westballz,2,Triple R,0
+Stricnyn3,1,Dizzkidboogie,2
+Dj Nintendo,2,Mittens,0
+The Moon,2,Okamibw,1
+Westballz,3,Dizzkidboogie,2
+Dj Nintendo,3,The Moon,1
+Westballz,3,Dj Nintendo,0
+Westballz,3,Dizzkidboogie,1
+Kwin,2,Dranyos,0
+Volk,2,Tino,0
+Matsson,0,Yoohoo,2
+Coon,0,Adlp,2
+Alex,2,Ralph,0
+Rattigan,2,Kopaka,0
+Goose,1,Tolerablezero,2
+Koschka,2,Squallette,0
+Sweats,2,Kwin,0
+Nordy,0,Yardsale,2
+Tato,2,Volk,0
+Indie Dave,2,Rca,0
+Zeta,2,Yoohoo,0
+Doogless,0,Cloudsquall,2
+Td,2,Adlp,0
+Mmx,0,Trick,2
+Gibbles,0,Alex,2
+Fija,1,Nugs,2
+Whiskeymilk,0,Rattigan,2
+Bayless,2,J Bob,0
+Ray,0,Tolerablezero,2
+Johnny D,1,Shreckkisses,2
+Echo,2,Koschka,0
+Chooch,0,Hellabryan,2
+Bpak,2,Sweats,0
+Ayu,0,Yardsale,2
+The Biggest C,2,Tato,0
+Bdr,2,Indie Dave,0
+Tc Luck,2,Zeta,1
+Pb&J,0,Cloudsquall,2
+Volvo,2,Td,0
+Yattadante,1,Trick,2
+Carl Sweatshirt,2,Alex,0
+Lalo,0,Nugs,2
+Gw Dansdaman,2,Rattigan,0
+Thezerofareal,1,Bayless,2
+Firefly,2,Tolerablezero,0
+Bacon,2,Shreckkisses,0
+Spam,2,Echo,1
+Studmuffin,2,Hellabryan,0
+Bpak,1,Yardsale,2
+The Biggest C,0,Bdr,2
+Tc Luck,1,Cloudsquall,2
+Volvo,2,Trick,0
+Carl Sweatshirt,0,Nugs,2
+Gw Dansdaman,2,Bayless,0
+Firefly,0,Bacon,2
+Spam,0,Studmuffin,2
+Saiko,0,Yardsale,2
+Chain-Ace,1,Bdr,2
+Psg Trahh,2,Cloudsquall,1
+D. Disciple,0,Volvo,2
+Jpegimage,2,Nugs,0
+Anjo,1,Gw Dansdaman,2
+Sk92,2,Bacon,0
+Roche,2,Studmuffin,1
+Yardsale,2,Bdr,0
+Psg Trahh,2,Volvo,1
+Jpegimage,2,Gw Dansdaman,0
+Sk92,0,Roche,2
+Triple R,2,Yardsale,0
+Stricnyn3,2,Psg Trahh,0
+Mittens,0,Jpegimage,2
+Okamibw,2,Roche,1
+Triple R,1,Stricnyn3,3
+Jpegimage,3,Okamibw,1
+The Moon,3,Stricnyn3,0
+Dizzkidboogie,3,Jpegimage,0
+The Moon,1,Dizzkidboogie,3
+Dj Nintendo,1,Dizzkidboogie,3

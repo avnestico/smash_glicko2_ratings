@@ -1,0 +1,62 @@
+Wobbles,2,Creams,0
+Quote,1,Oracle,2
+Disafter,2,2D Fighter,0
+Zift,2,Ryebread,0
+Thoraxe,2,52 Pick Up,0
+Rage,2,Horizon,1
+Wtblake,2,Web,0
+Moophobia,2,Soup,0
+Arc,2,Gimme,0
+Ptjon,2,Aspen,0
+Strong Bad,2,Rat King,0
+Poot,2,Chandy,1
+Jf,2,Ramos,0
+Kbarry,2,Sdj,1
+Hamyojo,2,#Rekt,0
+Infinity,2,Kevin Wow,0
+Wobbles,2,Oracle,0
+Disafter,2,Zift,1
+Thoraxe,2,Rage,0
+Wtblake,0,Moophobia,2
+Arc,2,Ptjon,0
+Strong Bad,2,Poot,1
+Jf,2,Kbarry,0
+Hamyojo,2,Infinity,1
+Wobbles,2,Disafter,1
+Thoraxe,2,Moophobia,1
+Arc,2,Strong Bad,0
+Jf,0,Hamyojo,2
+Wobbles,3,Thoraxe,0
+Arc,3,Hamyojo,0
+Wobbles,3,Arc,1
+Wobbles,3,Arc,0
+Creams,0,Quote,2
+2D Fighter,0,Ryebread,2
+52 Pick Up,2,Horizon,0
+Web,2,Soup,1
+Gimme,2,Aspen,1
+Rat King,0,Chandy,2
+Ramos,1,Sdj,2
+#Rekt,2,Kevin Wow,1
+Infinity,2,Quote,1
+Kbarry,2,Ryebread,0
+Poot,2,52 Pick Up,1
+Ptjon,2,Web,1
+Wtblake,2,Gimme,0
+Rage,1,Chandy,2
+Zift,2,Sdj,0
+Oracle,2,#Rekt,1
+Infinity,0,Kbarry,2
+Poot,2,Ptjon,1
+Wtblake,2,Chandy,1
+Zift,0,Oracle,2
+Moophobia,2,Kbarry,1
+Disafter,2,Poot,0
+Jf,2,Wtblake,1
+Strong Bad,0,Oracle,2
+Moophobia,2,Disafter,1
+Jf,2,Oracle,0
+Hamyojo,1,Moophobia,3
+Thoraxe,1,Jf,3
+Moophobia,2,Jf,3
+Arc,3,Jf,1

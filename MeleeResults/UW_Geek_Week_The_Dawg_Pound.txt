@@ -1,0 +1,190 @@
+Kzki,0,Tg,2
+Pharm,2,Slickis,1
+Brian H,2,Dolla,0
+Sleepy Cat,2,Siv,0
+Dert,0,Camryn833,2
+Btbhead,2,Colbra,0
+Crossie,2,Gym,0
+Gamma33,0,Nasports,2
+Baka4Moe,0,Davin,2
+Taka,1,Tukr,2
+Korean Wind,0,Ian,2
+Dave Guy,2,Kronor,0
+Koschka,2,Austin,0
+A Skilled Roy,2,Frozenrain,0
+Razor,0,D,2
+Warwaz,0,Mr. Wu,2
+/Jonn,2,Taeny,0
+Crisis,0,Gibs,2
+King Scrub,0,Green,2
+Morgan,2,Strtflexin,0
+Rollerbob,2,Sabbsie,1
+Tachion,2,The Bomb Dropper,0
+Zim,2,Zanderaw,0
+Smurf,2,Hyo,1
+Xmungam,2,Hurricane Chris,0
+Txv,0,Skzy,2
+Scruffy Mcwonder Crumpet,0,Jmlee337,2
+Low5,2,Crispycat,0
+Volk,2,Watchout4Snakes,0
+Wooglin,2,Casual,0
+Cumt,2,Bark,0
+C2X,2,Dnguyen,0
+Ebay,2,Tg,0
+Barron,2,Pharm,0
+Epitome Of Loss,2,Brian H,0
+Dempsey,2,Sleepy Cat,0
+Gimpyfish,2,Camryn833,0
+Sm-Ace,0,Btbhead,2
+Pwrup!,2,Crossie,0
+Mochi,2,Nasports,0
+Wasabi,2,Davin,0
+Mr. Pika,0,Tukr,2
+Gdawg,2,Ian,0
+Star Warrior,2,Dave Guy,0
+Rustin,2,Koschka,0
+Greenguy,2,A Skilled Roy,1
+Bdj,2,D,0
+Kookie Munster,0,Mr. Wu,2
+Outthecuts,2,/Jonn,0
+Charles,0,Gibs,2
+Hno3,2,Green,0
+Zen,1,Morgan,2
+Vitamine,2,Rollerbob,0
+Gorf,2,Tachion,0
+Magesoren,2,Zim,0
+Dave,0,Smurf,2
+Vino,2,Xmungam,1
+Ciwb,0,Skzy,2
+Milk$,1,Jmlee337,2
+Dean,1,Low5,2
+Roy Enthusiast,2,Volk,1
+Johnny Karate,0,Wooglin,2
+Purpletuce,2,Cumt,0
+Giggles The Tapeworm,2,C2X,0
+Ebay,2,Barron,0
+Epitome Of Loss,0,Dempsey,2
+Gimpyfish,2,Btbhead,0
+Pwrup!,0,Mochi,2
+Wasabi,2,Tukr,0
+Gdawg,2,Star Warrior,0
+Rustin,2,Greenguy,0
+Bdj,2,Mr. Wu,0
+Outthecuts,2,Gibs,0
+Hno3,2,Morgan,0
+Vitamine,2,Gorf,0
+Magesoren,2,Smurf,0
+Vino,2,Skzy,0
+Jmlee337,0,Low5,2
+Roy Enthusiast,2,Wooglin,0
+Purpletuce,2,Giggles The Tapeworm,1
+Ebay,2,Dempsey,0
+Gimpyfish,2,Mochi,0
+Wasabi,2,Gdawg,0
+Rustin,2,Bdj,0
+Outthecuts,2,Hno3,0
+Vitamine,2,Magesoren,0
+Vino,2,Low5,0
+Roy Enthusiast,2,Purpletuce,0
+Ebay,2,Gimpyfish,0
+Wasabi,2,Rustin,0
+Outthecuts,2,Vitamine,0
+Vino,2,Roy Enthusiast,0
+Ebay,2,Wasabi,1
+Outthecuts,2,Vino,1
+Ebay,1,Outthecuts,3
+Outthecuts,2,Vino,1
+C2X,2,Kzki,0
+Cumt,2,Slickis,1
+Johnny Karate,2,Dolla,0
+Volk,2,Siv,1
+Dean,2,Dert,0
+Milk$,2,Colbra,0
+Ciwb,2,Gym,0
+Xmungam,2,Gamma33,0
+Dave,2,Baka4Moe,0
+Zim,2,Taka,1
+Tachion,2,Korean Wind,0
+Rollerbob,2,Kronor,0
+Zen,2,Austin,0
+Green,2,Frozenrain,0
+Charles,0,Razor,2
+/Jonn,2,Warwaz,0
+Kookie Munster,0,Taeny,2
+D,2,Crisis,0
+A Skilled Roy,1,King Scrub,2
+Koschka,2,Strtflexin,0
+Dave Guy,0,Sabbsie,2
+Ian,2,The Bomb Dropper,0
+Mr. Pika,2,Zanderaw,1
+Davin,0,Hyo,2
+Nasports,2,Hurricane Chris,0
+Crossie,2,Txv,0
+Sm-Ace,2,Scruffy Mcwonder Crumpet,0
+Camryn833,0,Crispycat,2
+Sleepy Cat,2,Watchout4Snakes,0
+Brian H,2,Casual,1
+Pharm,2,Bark,0
+Tg,2,Dnguyen,1
+C2X,2,Cumt,0
+Johnny Karate,0,Volk,2
+Dean,2,Milk$,0
+Ciwb,2,Xmungam,0
+Dave,0,Zim,2
+Tachion,0,Rollerbob,2
+Zen,0,Green,2
+Razor,1,/Jonn,2
+Taeny,0,D,2
+King Scrub,0,Koschka,2
+Sabbsie,0,Ian,2
+Mr. Pika,0,Hyo,2
+Nasports,0,Crossie,2
+Sm-Ace,2,Crispycat,0
+Sleepy Cat,2,Brian H,0
+Pharm,0,Tg,2
+Mr. Wu,2,C2X,0
+Greenguy,0,Volk,2
+Star Warrior,0,Dean,2
+Tukr,2,Ciwb,0
+Pwrup!,2,Zim,0
+Btbhead,0,Rollerbob,2
+Epitome Of Loss,0,Green,2
+Barron,1,/Jonn,2
+Giggles The Tapeworm,2,D,0
+Wooglin,2,Koschka,1
+Jmlee337,2,Ian,1
+Skzy,2,Hyo,0
+Smurf,2,Crossie,1
+Gorf,2,Sm-Ace,1
+Morgan,0,Sleepy Cat,2
+Gibs,2,Tg,0
+Mr. Wu,0,Volk,2
+Dean,2,Tukr,0
+Pwrup!,0,Rollerbob,2
+Green,2,/Jonn,0
+Giggles The Tapeworm,2,Wooglin,0
+Jmlee337,2,Skzy,0
+Smurf,2,Gorf,0
+Sleepy Cat,1,Gibs,2
+Hno3,0,Volk,2
+Magesoren,1,Dean,2
+Low5,2,Rollerbob,0
+Purpletuce,0,Green,2
+Dempsey,0,Giggles The Tapeworm,2
+Mochi,2,Jmlee337,0
+Gdawg,2,Smurf,0
+Bdj,2,Gibs,0
+Volk,0,Dean,2
+Low5,0,Green,2
+Giggles The Tapeworm,2,Mochi,0
+Gdawg,0,Bdj,2
+Gimpyfish,2,Dean,0
+Rustin,2,Green,0
+Vitamine,2,Giggles The Tapeworm,0
+Roy Enthusiast,2,Bdj,1
+Gimpyfish,1,Rustin,2
+Vitamine,2,Roy Enthusiast,0
+Vino,2,Rustin,0
+Wasabi,2,Vitamine,0
+Vino,2,Wasabi,1
+Ebay,0,Vino,2

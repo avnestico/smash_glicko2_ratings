@@ -1,0 +1,76 @@
+Sns,2,Tarh20,0
+Dild,0,Droseph,2
+Accidentalhamsandwish,2,Wipes,0
+Jtmerrell,0,Statefarm,2
+Sns,2,Droseph,0
+Accidentalhamsandwish,2,Statefarm,0
+Sns,2,Accidentalhamsandwish,0
+Tarh20,2,Dild,1
+Wipes,0,Jtmerrell,2
+Statefarm,2,Tarh20,0
+Droseph,2,Jtmerrell,0
+Statefarm,1,Droseph,2
+Accidentalhamsandwish,2,Droseph,0
+72Cm (Jordan Bayer),0,Swaka (Michael T),2
+Cinos (Seth Raspaldo),1,Swaka (Michael T),2
+Wwjd (Abel Choa),2,Doubledorf (Hayden Malone),0
+Oblivion (Israel Avina),2,Goombah (Brad Ward),0
+Grnthunder (Cody Rexford),2,Vegas702 (Ag Garza),0
+Falconic (Torrell),2,Anonymous (Aldo),0
+Aerial (Ariel Buentello),2,Hunter (Hunter Allen),0
+Caravan (Jeremy Lasly),2,Salty Loser,0
+Z7 (Joe Garza),0,Kingflanagan (Torian Flanagan),2
+Swaka (Michael T),2,Wwjd (Abel Choa),0
+Oblivion (Israel Avina),2,Grnthunder (Cody Rexford),1
+Falconic (Torrell),2,Aerial (Ariel Buentello),0
+Caravan (Jeremy Lasly),1,Kingflanagan (Torian Flanagan),2
+Swaka (Michael T),2,Oblivion (Israel Avina),1
+Falconic (Torrell),2,Kingflanagan (Torian Flanagan),0
+Swaka (Michael T),2,Falconic (Torrell),0
+Swaka (Michael T),0,Falconic (Torrell),3
+Falconic (Torrell),3,Swaka (Michael T),1
+Z7 (Joe Garza),2,72Cm (Jordan Bayer),1
+Salty Loser,0,Z7 (Joe Garza),2
+Hunter (Hunter Allen),1,Anonymous (Aldo),2
+Vegas702 (Ag Garza),2,Goombah (Brad Ward),0
+Doubledorf (Hayden Malone),0,Cinos (Seth Raspaldo),2
+Grnthunder (Cody Rexford),1,Z7 (Joe Garza),2
+Wwjd (Abel Choa),2,Anonymous (Aldo),0
+Caravan (Jeremy Lasly),0,Vegas702 (Ag Garza),2
+Aerial (Ariel Buentello),1,Cinos (Seth Raspaldo),2
+Z7 (Joe Garza),2,Wwjd (Abel Choa),0
+Vegas702 (Ag Garza),1,Cinos (Seth Raspaldo),2
+Kingflanagan (Torian Flanagan),2,Z7 (Joe Garza),0
+Oblivion (Israel Avina),0,Cinos (Seth Raspaldo),2
+Kingflanagan (Torian Flanagan),2,Cinos (Seth Raspaldo),1
+Falconic (Torrell),3,Kingflanagan (Torian Flanagan),1
+Sns,2,Accidentalhamsandwich,0
+Advent,2,Jimb0,0
+Kokingpin,2,Therocketinyourpocket,0
+Xilyn,2,Mr. Pickle,0
+Moist,2,Cobbler,0
+Guardian Chrispus,2,Mucho,0
+K-Man,2,Shapular,0
+Mew,2,Evang,0
+Sns,2,Advent,0
+Kokingpin,2,Xilyn,0
+Moist,2,Guardian Chrispus,0
+K-Man,2,Mew,0
+Sns,2,Kokingpin,0
+Moist,2,K-Man,1
+Sns,3,Moist,2
+Sns,3,Moist,0
+Accidentalhamsandwich,2,Jimb0,0
+Therocketinyourpocket,2,Mr. Pickle,0
+Cobbler,0,Mucho,2
+Shapular,0,Evang,2
+Mew,0,Accidentalhamsandwich,2
+Guardian Chrispus,2,Therocketinyourpocket,0
+Xilyn,2,Mucho,0
+Advent,0,Evang,2
+Accidentalhamsandwich,2,Guardian Chrispus,0
+Xilyn,0,Evang,2
+Kokingpin,2,Accidentalhamsandwich,0
+K-Man,2,Evang,0
+Kokingpin,2,K-Man,0
+Moist,3,Kokingpin,1

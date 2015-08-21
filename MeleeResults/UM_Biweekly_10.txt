@@ -1,0 +1,190 @@
+Dirtybubble,0,Luigi Master Tae,2
+Karils,2,Monk2,0
+Jakeolantern,0,Jambo,2
+Tangy,2,Mars,0
+Pono,0,401K,2
+Dcyoungfly,2,Wham,0
+Monk,2,Ultimatewobblerxxx,0
+The Succ,2,Greasy,0
+Djinn,2,Bonkers,0
+Aaronmctizzle,0,Second City,2
+Datnero,2,Pandasu,0
+Top Pomeranian,0,Ant,2
+Psythr,2,Hurst,0
+Minorthreat,2,Joka,0
+Strooper,0,Mathematics,2
+Coleslaw,0,Carnage,2
+Sheep,2,Mr.Paddock,0
+Shwangdi,0,Skate,2
+Notkain,2,Xp,0
+Mountaindew2King,0,Amir,2
+Ebil,0,Blackscarecrow,2
+Robert,0,Young Hot Ebony,2
+Vulgr,0,Mak,2
+Rodohk,2,Indy,0
+Design,2,Artun,0
+Ueramos,0,Jayce,2
+Trip,2,Ron Diesel,0
+Bad Horse,0,2Shadez,2
+Shanondorf,0,Mobius,2
+Shinsuyavi,2,Service,0
+Xtrooper,0,Xam,2
+Yoyosucks248,2,Justin,0
+Duck,2,Luigi Master Tae,0
+Nexic,2,Karils,0
+Will,2,Jambo,0
+Darklouis,2,Tangy,0
+Ju4N,2,401K,0
+The Brons Kneecap,0,Dcyoungfly,2
+Paper,2,Monk,0
+Treetz,2,The Succ,0
+Juggleguy,2,Djinn,0
+Jermaine,2,Second City,0
+Roki,2,Datnero,0
+Heartstrings,2,Ant,0
+Tm,2,Psythr,0
+Ricechrispy,0,Minorthreat,2
+Fendricklamar,2,Mathematics,0
+I4N,2,Carnage,0
+Kjh,2,Sheep,0
+Garzal,2,Skate,0
+Napkin,2,Notkain,0
+Iron,2,Amir,0
+Ryejew,2,Blackscarecrow,0
+Green,0,Young Hot Ebony,2
+Yoyo,2,Mak,0
+Crip,2,Rodohk,0
+Dope,2,Design,0
+Ness,0,Jayce,2
+Butch G,2,Trip,0
+Russell,2,2Shadez,0
+Mb-Smash,2,Mobius,0
+Nintendork,2,Shinsuyavi,0
+The Oak,2,Xam,0
+Kuyashi,2,Yoyosucks248,0
+Duck,2,Nexic,0
+Will,2,Darklouis,0
+Ju4N,2,Dcyoungfly,0
+Paper,2,Treetz,0
+Juggleguy,2,Jermaine,0
+Roki,2,Heartstrings,0
+Tm,2,Minorthreat,0
+Fendricklamar,2,I4N,0
+Kjh,2,Garzal,0
+Napkin,2,Iron,0
+Ryejew,2,Young Hot Ebony,0
+Yoyo,2,Crip,0
+Dope,2,Jayce,0
+Butch G,2,Russell,0
+Mb-Smash,2,Nintendork,0
+The Oak,0,Kuyashi,2
+Duck,2,Will,0
+Ju4N,0,Paper,2
+Juggleguy,2,Roki,0
+Tm,2,Fendricklamar,0
+Kjh,2,Napkin,0
+Ryejew,0,Yoyo,2
+Dope,2,Butch G,0
+Mb-Smash,2,Kuyashi,0
+Duck,2,Paper,0
+Juggleguy,2,Tm,0
+Kjh,2,Yoyo,0
+Dope,2,Mb-Smash,0
+Duck,2,Juggleguy,0
+Kjh,2,Dope,0
+Duck,0,Kjh,2
+Kjh,2,Duck,0
+Yoyosucks248,2,Dirtybubble,0
+Xam,2,Monk2,0
+Shinsuyavi,2,Jakeolantern,0
+Mobius,0,Mars,2
+2Shadez,2,Pono,0
+Trip,2,Wham,0
+Ness,0,Ultimatewobblerxxx,2
+Design,0,Greasy,2
+Rodohk,2,Bonkers,0
+Mak,2,Aaronmctizzle,0
+Green,0,Pandasu,2
+Blackscarecrow,0,Top Pomeranian,2
+Amir,2,Hurst,0
+Notkain,2,Joka,0
+Skate,0,Strooper,2
+Sheep,2,Coleslaw,0
+Carnage,2,Mr.Paddock,0
+Mathematics,2,Shwangdi,0
+Ricechrispy,2,Xp,0
+Psythr,0,Mountaindew2King,2
+Ant,2,Ebil,0
+Datnero,2,Robert,0
+Second City,2,Vulgr,0
+Djinn,2,Indy,0
+The Succ,2,Artun,0
+Monk,2,Ueramos,0
+The Brons Kneecap,2,Ron Diesel,0
+401K,2,Bad Horse,0
+Tangy,2,Shanondorf,0
+Jambo,0,Service,2
+Karils,2,Xtrooper,0
+Luigi Master Tae,0,Justin,2
+Yoyosucks248,2,Xam,0
+Shinsuyavi,0,Mars,2
+2Shadez,2,Trip,0
+Ultimatewobblerxxx,2,Greasy,0
+Rodohk,2,Mak,0
+Pandasu,0,Top Pomeranian,2
+Amir,2,Notkain,0
+Strooper,0,Sheep,2
+Carnage,0,Mathematics,2
+Ricechrispy,2,Mountaindew2King,0
+Ant,2,Datnero,0
+Second City,0,Djinn,2
+The Succ,0,Monk,2
+The Brons Kneecap,0,401K,2
+Tangy,2,Service,0
+Karils,0,Justin,2
+I4N,0,Yoyosucks248,2
+Minorthreat,2,Mars,0
+Heartstrings,2,2Shadez,0
+Jermaine,2,Ultimatewobblerxxx,0
+Treetz,2,Rodohk,0
+Dcyoungfly,2,Top Pomeranian,0
+Darklouis,2,Amir,0
+Nexic,2,Sheep,0
+The Oak,2,Mathematics,0
+Nintendork,2,Ricechrispy,0
+Russell,2,Ant,0
+Jayce,0,Djinn,2
+Crip,2,Monk,0
+Young Hot Ebony,0,401K,2
+Iron,2,Tangy,0
+Garzal,2,Justin,0
+Yoyosucks248,0,Minorthreat,2
+Heartstrings,2,Jermaine,0
+Treetz,2,Dcyoungfly,0
+Darklouis,0,Nexic,2
+The Oak,2,Nintendork,0
+Russell,2,Djinn,0
+Crip,2,401K,0
+Iron,2,Garzal,0
+Napkin,2,Minorthreat,0
+Ryejew,2,Heartstrings,0
+Butch G,2,Treetz,0
+Kuyashi,0,Nexic,2
+Will,0,The Oak,2
+Ju4N,2,Russell,0
+Roki,0,Crip,2
+Fendricklamar,2,Iron,0
+Napkin,0,Ryejew,2
+Butch G,2,Nexic,0
+The Oak,0,Ju4N,2
+Crip,0,Fendricklamar,2
+Paper,2,Ryejew,0
+Tm,2,Butch G,0
+Yoyo,0,Ju4N,2
+Mb-Smash,2,Fendricklamar,0
+Paper,2,Tm,0
+Ju4N,0,Mb-Smash,2
+Dope,2,Paper,0
+Juggleguy,2,Mb-Smash,0
+Dope,0,Juggleguy,2
+Duck,2,Juggleguy,0

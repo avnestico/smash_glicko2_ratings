@@ -1,0 +1,62 @@
+Zoso,2,Swissmiss,0
+Psi,2,Kazaam,1
+Shminkledorf,2,Bonk,1
+Bigvegetabluntz,2,Blitzsm,0
+Crush,2,Trilok,0
+Roman,2,Solar,1
+Kevinm,1,Arc,2
+Mattdotzeb,2,Darkcloud,0
+Th0Rn,2,Torsional Strain,0
+Bolt,0,Klaps,2
+Kyu Puff,2,Flexed,0
+Bonfire10,2,Wind,0
+Gibsonzero,2,Bugatti,0
+Sora,0,Dudutsai,2
+Mr Lemon,2,Mr Tuesday,0
+Mafia,2,Arty,0
+Zoso,2,Psi,0
+Shminkledorf,0,Bigvegetabluntz,2
+Crush,2,Roman,0
+Arc,0,Mattdotzeb,2
+Th0Rn,2,Klaps,0
+Kyu Puff,2,Bonfire10,0
+Gibsonzero,2,Dudutsai,1
+Mr Lemon,1,Mafia,2
+Zoso,2,Bigvegetabluntz,0
+Crush,1,Mattdotzeb,2
+Th0Rn,2,Kyu Puff,0
+Gibsonzero,1,Mafia,2
+Zoso,2,Mattdotzeb,3
+Th0Rn,1,Mafia,3
+Mattdotzeb,3,Mafia,2
+Mattdotzeb,3,Mafia,0
+Swissmiss,0,Kazaam,2
+Bonk,0,Blitzsm,2
+Trilok,0,Solar,2
+Kevinm,2,Darkcloud,1
+Torsional Strain,0,Bolt,2
+Flexed,2,Wind,0
+Bugatti,1,Sora,2
+Mr Tuesday,2,Arty,0
+Mr Lemon,2,Kazaam,1
+Dudutsai,1,Blitzsm,2
+Bonfire10,2,Solar,1
+Klaps,0,Kevinm,2
+Arc,0,Bolt,2
+Roman,1,Flexed,2
+Shminkledorf,2,Sora,0
+Psi,2,Mr Tuesday,0
+Mr Lemon,2,Blitzsm,0
+Bonfire10,0,Kevinm,2
+Bolt,2,Flexed,0
+Shminkledorf,2,Psi,1
+Crush,2,Mr Lemon,1
+Bigvegetabluntz,1,Kevinm,2
+Gibsonzero,2,Bolt,1
+Kyu Puff,2,Shminkledorf,0
+Crush,2,Kevinm,1
+Gibsonzero,2,Kyu Puff,0
+Th0Rn,2,Crush,0
+Zoso,2,Gibsonzero,0
+Th0Rn,3,Zoso,1
+Mafia,3,Th0Rn,0

@@ -1,0 +1,131 @@
+Sabre,0,Army,2
+Birdman,0,Tonic,2
+Lucky,2,Army,0
+Lyux,0,Black Mamba,2
+Tuxedo Mask,2,Hot Rod,0
+Kellen,2,Dawl,0
+Myl,2,Jake,0
+Cow,2,Donthyeuph,0
+Tapez,2,Clever/Nevers,0
+Kushmaster818,0,Bottle Opener Guy,2
+Kira,2,Matt47,0
+Casper,2,Binca,0
+Echo,2,Alex,0
+Null,2,Neff Jeff,0
+Squid,2,Crispy,0
+Oli,2,Mark Morrison,0
+Hulka,2,Alaca,0
+Icecream,2,Hiro,0
+Westballz,2,Tonic,0
+Mr. Giggles,0,Shoop,2
+Kanti,2,Jayben,0
+The Riptide,2,Treeman,0
+Nmw,2,Doubld,0
+Q,2,Brendo,0
+Fishy,2,Kay Gee,0
+Neeco,2,Ducktale,0
+Mike Haze,2,Baldmoon Black,0
+Apog,0,Connor Asada,2
+Nasa,2,Ruffle,0
+Andymosity,2,Gmo,0
+Jace,2,Cult,0
+Franknstein,2,Mario G.,0
+Mind Assassin,2,Frisky Fatty,0
+Raging Cherry,2,Splish,0
+Lucky,2,Black Mamba,0
+Tuxedo Mask,2,Kellen,0
+Myl,2,Cow,0
+Tapez,2,Bottle Opener Guy,0
+Kira,2,Casper,0
+Echo,2,Null,0
+Squid,2,Oli,0
+Hulka,2,Icecream,0
+Westballz,2,Shoop,0
+Kanti,2,The Riptide,0
+Nmw,2,Q,0
+Fishy,0,Neeco,2
+Mike Haze,2,Connor Asada,0
+Nasa,0,Andymosity,2
+Jace,2,Franknstein,0
+Mind Assassin,2,Raging Cherry,0
+Lucky,2,Tuxedo Mask,0
+Myl,2,Tapez,0
+Kira,2,Echo,0
+Squid,2,Hulka,0
+Westballz,2,Kanti,0
+Nmw,2,Neeco,0
+Mike Haze,2,Andymosity,0
+Jace,2,Mind Assassin,0
+Lucky,2,Myl,0
+Kira,2,Squid,0
+Westballz,2,Nmw,0
+Mike Haze,2,Jace,0
+Lucky,2,Kira,0
+Westballz,2,Mike Haze,0
+Lucky,0,Westballz,2
+Westballz,0,Lucky,2
+Westballz,0,Lucky,2
+Splish,0,Sabre,2
+Hiro,0,Birdman,2
+Frisky Fatty,2,Sabre,0
+Mario G.,2,Cult,0
+Gmo,0,Ruffle,2
+Apog,0,Baldmoon Black,2
+Ducktale,0,Kay Gee,2
+Brendo,0,Doubld,2
+Treeman,0,Jayben,2
+Mr. Giggles,0,Tonic,2
+Alaca,0,Birdman,2
+Mark Morrison,0,Crispy,2
+Neff Jeff,2,Alex,0
+Binca,0,Matt47,2
+Kushmaster818,0,Clever/Nevers,2
+Donthyeuph,2,Jake,0
+Dawl,2,Hot Rod,0
+Lyux,0,Army,2
+Icecream,2,Frisky Fatty,0
+Oli,2,Mario G.,0
+Null,0,Ruffle,2
+Casper,2,Baldmoon Black,0
+Bottle Opener Guy,0,Kay Gee,2
+Cow,2,Doubld,0
+Kellen,2,Jayben,0
+Black Mamba,0,Tonic,2
+Raging Cherry,2,Birdman,0
+Franknstein,0,Crispy,2
+Nasa,2,Neff Jeff,0
+Connor Asada,0,Matt47,2
+Fishy,2,Clever/Nevers,0
+Q,2,Donthyeuph,0
+The Riptide,2,Dawl,0
+Shoop,0,Army,2
+Icecream,0,Oli,2
+Ruffle,2,Casper,0
+Kay Gee,0,Cow,2
+Kellen,0,Tonic,2
+Raging Cherry,0,Crispy,2
+Nasa,2,Matt47,0
+Fishy,2,Q,0
+The Riptide,2,Army,0
+Kanti,2,Oli,0
+Neeco,0,Ruffle,2
+Andymosity,0,Cow,2
+Mind Assassin,2,Tonic,0
+Tuxedo Mask,0,Crispy,2
+Tapez,2,Nasa,0
+Echo,0,Fishy,2
+Hulka,2,The Riptide,0
+Kanti,2,Ruffle,0
+Cow,0,Mind Assassin,2
+Crispy,0,Tapez,2
+Fishy,2,Hulka,0
+Myl,0,Kanti,2
+Squid,2,Mind Assassin,0
+Nmw,2,Tapez,0
+Jace,0,Fishy,2
+Kanti,0,Squid,2
+Nmw,2,Fishy,0
+Mike Haze,0,Squid,2
+Kira,2,Nmw,0
+Squid,0,Kira,2
+Lucky,2,Kira,0

@@ -1,0 +1,162 @@
+Bane,2,Bokehlicious,0
+Banjo,2,Flyguy,0
+Lupo,0,Kapachi,2
+Mr. Magik,2,Wasp,0
+$Mike,2,Bane,0
+Cloud,2,Banjo,1
+Mr. Money And Match,2,Kapachi,0
+Gato,2,Mr. Magik,0
+$Mike,2,Cloud,0
+Mr. Money And Match,0,Gato,2
+$Mike,2,Gato,0
+Mr. Magik,2,Bokehlicious,0
+Kapachi,2,Flyguy,0
+Banjo,2,Lupo,0
+Bane,2,Wasp,0
+Mr. Magik,0,Kapachi,2
+Banjo,2,Bane,0
+Cloud,2,Kapachi,1
+Mr. Money And Match,2,Banjo,0
+Cloud,0,Mr. Money And Match,2
+Gato,1,Mr. Money And Match,2
+Burn,0,Avalon,2
+Goldenface,1,Izzy,2
+Twistytreats,2,Frozone,1
+Stingers,2,Avalon,0
+Squee,2,Smile,0
+Sneak,2,Izzy,0
+Skywalker,2,Twistytreats,0
+Stingers,2,Squee,0
+Sneak,2,Skywalker,1
+Stingers,2,Sneak,0
+Twistytreats,2,Burn,1
+Smile,0,Goldenface,2
+Avalon,2,Frozone,1
+Izzy,0,Twistytreats,2
+Goldenface,2,Avalon,1
+Squee,2,Twistytreats,0
+Skywalker,2,Goldenface,0
+Squee,0,Skywalker,2
+Sneak,1,Skywalker,2
+Tempo,0,Staff,2
+Lightkaizo,1,Chucknasty,2
+Lenny,0,Dice,2
+Tah.,2,Staff,0
+Gohahn,2,Quasar,1
+Smith,2,Chucknasty,0
+Jbas234,2,Dice,0
+Tah.,2,Gohahn,0
+Smith,2,Jbas234,1
+Tah.,2,Smith,0
+Tah.,2,Smith,0
+Dice,2,Tempo,0
+Quasar,2,Lightkaizo,0
+Staff,0,Lenny,2
+Chucknasty,0,Dice,2
+Quasar,2,Lenny,0
+Gohahn,1,Dice,2
+Jbas234,2,Quasar,0
+Dice,0,Jbas234,2
+Smith,2,Jbas234,0
+Quetpie,2,J5,0
+Wiizr,0,Clem,2
+Dark Hart,2,Quetpie,1
+Dembo,1,Xianos,2
+Plumbr,2,Clem,0
+Sprankles,2,Steef,0
+Dark Hart,2,Xianos,0
+Plumbr,0,Sprankles,2
+Dark Hart,0,Sprankles,2
+Steef,2,J5,0
+Dembo,2,Wiizr,0
+Clem,2,Steef,0
+Quetpie,0,Dembo,2
+Xianos,1,Clem,2
+Plumbr,2,Dembo,0
+Clem,0,Plumbr,2
+Dark Hart,2,Plumbr,0
+Rektangle,2,H,1
+Tinkle,0,Cithulu,2
+Mute City,2,Rektangle,0
+Libner,2,Cysekong,0
+Pineapple,2,Cithulu,0
+Oso,2,92Greatness,0
+Mute City,2,Libner,0
+Pineapple,2,Oso,0
+Mute City,2,Pineapple,0
+92Greatness,0,H,2
+Cysekong,2,Tinkle,0
+Cithulu,0,H,2
+Rektangle,2,Cysekong,0
+Libner,2,H,0
+Oso,2,Rektangle,0
+Libner,0,Oso,2
+Pineapple,2,Oso,0
+Jackdeathshard5,0,Crag,2
+Brett3,2,Theproblem,1
+Bl@Ck Chris,2,Crag,0
+Pixel,1,Young Seth,2
+Cloudsquall,2,Brett3,0
+Rocke Lobster,2,Moohaw,0
+Bl@Ck Chris,2,Young Seth,0
+Cloudsquall,2,Rocke Lobster,1
+Bl@Ck Chris,2,Cloudsquall,1
+Moohaw,0,Jackdeathshard5,2
+Pixel,2,Theproblem,0
+Brett3,2,Jackdeathshard5,0
+Crag,2,Pixel,0
+Young Seth,1,Brett3,2
+Rocke Lobster,2,Crag,0
+Brett3,1,Rocke Lobster,2
+Cloudsquall,2,Rocke Lobster,0
+Ohjay,2,Troubleshootme,0
+Purple,2,Ohjay,0
+Ravyn,2,Mp7373,0
+Karma,2,Kid Fantastic,1
+Purple,2,Ravyn,0
+Brickman,2,Karma,0
+Purple,2,Brickman,1
+Kid Fantastic,2,Troubleshootme,0
+Mp7373,1,Ohjay,2
+Ravyn,0,Kid Fantastic,2
+Karma,2,Ohjay,0
+Kid Fantastic,0,Karma,2
+Toastly,0,Hoot,2
+Cheeznips,2,Glabe64,0
+Oe Le Fou,2,Hoot,0
+Infamous,2,Pants,0
+Slipnslide,2,Cheeznips,0
+Emb,2,Shredman3,0
+Oe Le Fou,2,Infamous,0
+Slipnslide,0,Emb,2
+Oe Le Fou,2,Emb,0
+Shredman3,2,Toastly,0
+Pants,2,Glabe64,0
+Cheeznips,0,Shredman3,2
+Hoot,0,Pants,2
+Infamous,2,Shredman3,1
+Slipnslide,1,Pants,2
+Infamous,2,Pants,0
+Emb,2,Infamous,1
+Tah.,2,Sprankles,0
+Bl@Ck Chris,2,Mute City,1
+Oes Le Fou,0,$Mike,2
+Purple,1,Stingers,2
+Tah.,2,Bl@Ck Chris,0
+$Mike,2,Stingers,0
+Tah.,1,$Mike,3
+$Mike,3,Tah.,0
+Skywalker,0,Cloudsquall,2
+Karma,0,Pineapple,2
+Dark Hart,2,Mr. Money  Match,0
+Smith,0,Emb,2
+Purple,0,Cloudsquall,2
+Oes Le Fou,0,Pineapple,2
+Mute City,1,Dark Hart,2
+Sprankles,2,Emb,0
+Cloudsquall,1,Pineapple,2
+Dark Hart,2,Sprankles,0
+Bl@Ck Chris,2,Pineapple,0
+Stingers,0,Dark Hart,2
+Bl@Ck Chris,1,Dark Hart,2
+Tah.,3,Dark Hart,0

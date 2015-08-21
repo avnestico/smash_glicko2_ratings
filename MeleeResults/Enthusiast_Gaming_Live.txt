@@ -1,0 +1,94 @@
+Sca,0,Coastward,2
+Nightmare,2,Lumi,0
+Bernal,2,The Engineer,1
+Frog,2,Hvac,0
+Phake,2,Towel,0
+Jamrun,2,Kidney Thief,0
+Reggie,2,Voltampt,0
+Windrose,2,Radiowar,1
+Syphi,2,Krisp,1
+Coolhat,2,Rappsody,0
+Hello,2,Moist,0
+Jethrotex,2,Kip,0
+Plum,1,Smashcentral,2
+Toast,2,Cozy,0
+4Serial,2,Ssj2Elsa,0
+Toronto Joe,2,Rasclat,0
+Shroomed,2,Coastward,0
+Prince Abu,2,Nightmare,0
+Raynex,2,Bernal,0
+Riddlebox,2,Frog,0
+Vwins,2,Phake,0
+Sauc3,2,Jamrun,0
+Weon-X,2,Reggie,0
+Kalamazhu,2,Windrose,0
+Kirbykaze,2,Syphi,0
+Kjh,2,Coolhat,0
+N0Ne,2,Hello,1
+Dizzkidboogie,2,Jethrotex,0
+Duck,2,Smashcentral,0
+Coffeeblack,2,Toast,0
+Ryan Ford,2,4Serial,0
+Kage,2,Toronto Joe,0
+Shroomed,1,Prince Abu,2
+Raynex,2,Riddlebox,1
+Vwins,2,Sauc3,1
+Weon-X,2,Kalamazhu,1
+Kirbykaze,2,Kjh,0
+N0Ne,0,Dizzkidboogie,2
+Duck,2,Coffeeblack,0
+Ryan Ford,2,Kage,0
+Prince Abu,1,Raynex,3
+Vwins,2,Weon-X,3
+Kirbykaze,1,Dizzkidboogie,3
+Duck,3,Ryan Ford,1
+Raynex,3,Weon-X,0
+Dizzkidboogie,2,Duck,3
+Toronto Joe,2,Sca,1
+4Serial,2,Lumi,0
+Toast,2,The Engineer,0
+Smashcentral,2,Hvac,0
+Jethrotex,2,Towel,0
+Hello,2,Kidney Thief,0
+Coolhat,2,Voltampt,0
+Syphi,1,Radiowar,2
+Windrose,1,Krisp,2
+Reggie,2,Rappsody,0
+Jamrun,2,Moist,0
+Phake,2,Kip,0
+Frog,2,Plum,0
+Bernal,2,Cozy,0
+Nightmare,2,Ssj2Elsa,0
+Coastward,2,Rasclat,0
+Toronto Joe,2,4Serial,1
+Toast,2,Smashcentral,0
+Jethrotex,2,Hello,1
+Coolhat,2,Radiowar,0
+Krisp,0,Reggie,2
+Jamrun,2,Phake,0
+Frog,1,Bernal,2
+Nightmare,0,Coastward,2
+Kalamazhu,2,Toronto Joe,0
+Sauc3,2,Toast,0
+Riddlebox,2,Jethrotex,0
+Shroomed,2,Coolhat,0
+Kage,2,Reggie,0
+Coffeeblack,2,Jamrun,1
+N0Ne,2,Bernal,0
+Kjh,2,Coastward,0
+Kalamazhu,2,Sauc3,0
+Riddlebox,0,Shroomed,2
+Kage,2,Coffeeblack,0
+N0Ne,2,Kjh,0
+Kirbykaze,2,Kalamazhu,0
+Ryan Ford,0,Shroomed,2
+Prince Abu,1,Kage,2
+Vwins,1,N0Ne,2
+Kirbykaze,2,Shroomed,3
+Kage,3,N0Ne,2
+Weon-X,0,Shroomed,3
+Dizzkidboogie,0,Kage,3
+Raynex,0,Duck,3
+Shroomed,3,Kage,0
+Raynex,2,Shroomed,3
+Duck,2,Shroomed,6

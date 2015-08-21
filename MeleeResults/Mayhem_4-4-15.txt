@@ -40,14 +40,14 @@ Silva From The Blocc,2,Iotby,0
 Ezynjay,2,Lock,0
 Thecharlesguy,0,Sexy Nana,2
 Fly Amanita,2,Trichael Man,0
-[Glg]Blackpr,2,Tobes,0
+Blackpr,2,Tobes,0
 Tapez,2,Gyran,0
 Zeo,2,Silva From The Blocc,0
 Coolhat,2,Dodger,0
 Poomoj,0,Volt,2
 Dendypretendy,2,Ezynjay,0
 Ragingcherry From Florida,2,Sexy Nana,0
-Fly Amanita,2,[Glg]Blackpr,0
+Fly Amanita,2,Blackpr,0
 Tapez,2,Zeo,0
 Coolhat,2,Volt,0
 Dendypretendy,2,Ragingcherry From Florida,0
@@ -63,7 +63,7 @@ Poomoj,2,Dodger,0
 Gyran,0,Silva From The Blocc,2
 Lock,2,Trichael Man,0
 Zeo,2,Ezynjay,0
-[Glg]Blackpr,0,Poomoj,2
+Blackpr,0,Poomoj,2
 Ragingcherry From Florida,0,Silva From The Blocc,2
 Volt,0,Lock,2
 Zeo,2,Poomoj,0
@@ -192,14 +192,14 @@ Davey,0,Koeps,2
 Xell,2,Agent 11,0
 Mang0,2,Baja,0
 Neeco,2,Pettanko-Senpai,0
-[Glg]Kuma,2,Kushmaster818,0
+Kuma,2,Kushmaster818,0
 Nonsense,2,Shoop From Florida,0
 Vidjo,2,Coil,0
 Rustysneakers,2,Timesink,0
 Sacasumoto,2,Koeps,0
 Mevan,2,Xell,0
 Mang0,2,Neeco,0
-[Glg]Kuma,0,Nonsense,2
+Kuma,0,Nonsense,2
 Vidjo,2,Rustysneakers,0
 Sacasumoto,2,Mevan,0
 Mang0,2,Nonsense,0
@@ -214,11 +214,11 @@ Koeps,0,Xell,2
 Timesink,0,Coil,2
 Kushmaster818,0,Shoop From Florida,2
 Pettanko-Senpai,0,Baja,2
-[Glg]Kuma,2,Xell,0
+Kuma,2,Xell,0
 Neeco,2,Coil,0
 Mevan,2,Shoop From Florida,0
 Rustysneakers,2,Baja,0
-[Glg]Kuma,0,Neeco,2
+Kuma,0,Neeco,2
 Mevan,2,Rustysneakers,0
 Sacasumoto,2,Neeco,0
 Nonsense,2,Mevan,0

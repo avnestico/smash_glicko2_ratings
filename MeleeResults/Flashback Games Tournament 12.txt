@@ -1,0 +1,241 @@
+Infinity,2,Doc Brown,1
+Jummy,2,F.L.U.D.D.,0
+Drama,2,Riktor,1
+Flaminroy,2,Infinity,0
+Mahoumanrandysamlowe,2,Jummy,0
+Robo-Ky,2,Drama,0
+Flaminroy,2,Avocado,0
+Mahoumanrandysamlowe,2,Robo-Ky,1
+Flaminroy,0,Mahoumanrandysamlowe,2
+Drama,2,Doc Brown,0
+Infinity,0,Riktor,2
+Jummy,2,Drama,0
+F.L.U.D.D.,0,Riktor,2
+Avocado,0,Jummy,2
+Robo-Ky,2,Riktor,0
+Jummy,2,Robo-Ky,0
+Flaminroy,2,Jummy,0
+Druggedfox,2,Mgn1,0
+Lose Guy,0,Kid,2
+Dashdancedan,2,Robbins,0
+Druggedfox,2,Kid,0
+Dashdancedan,2,Breadsticks,1
+Druggedfox,2,Dashdancedan,0
+Mgn1,0,Lose Guy,2
+Kid,1,Robbins,2
+Breadsticks,2,Lose Guy,0
+Robbins,1,Breadsticks,2
+Dashdancedan,2,Breadsticks,0
+Goon,2,Love Handles,0
+Smashingtomoes,2,Brevinon,1
+T,0,Silver,2
+Gas$,2,Goon,1
+Nicaboy,2,Silver,0
+Gas$,2,Smashingtomoes,0
+Nicaboy,2,Gas$,0
+T,2,Love Handles,0
+T,2,Brevinon,0
+Silver,1,Goon,2
+Smashingtomoes,2,T,1
+Goon,2,Smashingtomoes,0
+Gas$,2,Goon,0
+401K,0,Rozz,2
+S0Ft,2,N7 Zero,0
+Cj,2,Timepilotchkn,0
+Kosien,2,Order,0
+S0Ft,2,Cj,1
+Rozz,2,Kosien,0
+S0Ft,2,Rozz,0
+Timepilotchkn,2,401K,0
+N7 Zero,2,Timepilotchkn,0
+Cj,2,Order,0
+Kosien,2,N7 Zero,0
+Cj,0,Kosien,2
+Rozz,0,Kosien,2
+Cloud,0,Cars,2
+Zaney,1,Vlashen,2
+Baka4Moe,2,Cars,0
+Whipple,2,Siggy,0
+Mr. Bonkey,2,Vlashen,0
+Swerve,2,Snap,0
+Baka4Moe,2,Whipple,0
+Mr. Bonkey,2,Swerve,0
+Baka4Moe,2,Mr. Bonkey,0
+Snap,1,Cloud,2
+Siggy,2,Zaney,0
+Vlashen,2,Cloud,1
+Cars,0,Siggy,2
+Whipple,2,Vlashen,0
+Swerve,2,Siggy,0
+Whipple,0,Swerve,2
+Mr. Bonkey,2,Swerve,0
+Meat,1,Simulacrum,2
+Randall,2,Davalexal,0
+Een,2,Simulacrum,0
+Karma,0,Deviant,2
+Tubesssbm,2,Randall,0
+Yort,2,Killua,0
+Een,2,Deviant,0
+Tubesssbm,2,Yort,0
+Een,1,Tubesssbm,2
+Killua,2,Meat,0
+Karma,2,Davalexal,0
+Randall,0,Killua,2
+Simulacrum,0,Karma,2
+Deviant,0,Killua,2
+Yort,2,Karma,0
+Killua,0,Yort,2
+Een,2,Yort,1
+Mouseshampoo,2,Incenetum,0
+Tiny,0,Lizzleleaf,2
+Pengie,2,Mouseshampoo,0
+Esperanto,2,Lizzleleaf,0
+Pengie,2,Tm12,0
+Esperanto,2,Mantwin,0
+Pengie,2,Esperanto,0
+Lizzleleaf,2,Incenetum,0
+Mouseshampoo,2,Tiny,0
+Tm12,2,Lizzleleaf,0
+Mantwin,0,Mouseshampoo,2
+Tm12,2,Mouseshampoo,0
+Esperanto,2,Tm12,0
+Op,2,Sire,0
+Rupture,0,Just Andrew,2
+Gawes,2,Angel,0
+Op,2,Just Andrew,0
+Gawes,2,Thad,0
+Op,1,Gawes,2
+Sire,1,Rupture,2
+Just Andrew,2,Angel,0
+Thad,2,Rupture,0
+Just Andrew,0,Thad,2
+Op,2,Thad,1
+Dab,2,Jazz,0
+Wild,2,Seemsgood,0
+Dbag,2,Madunka,0
+Dab,2,Wild,0
+Bbq,2,Dbag,1
+Dab,2,Bbq,0
+Jazz,2,Seemsgood,0
+Wild,2,Madunka,0
+Dbag,0,Jazz,2
+Wild,2,Jazz,1
+Bbq,2,Wild,1
+Chipgroove,2,Booster,0
+Rysk,2,Wxd,0
+Fullmetal,2,Chipgroove,0
+Ari,2,Rysk,0
+Bravo,2,Dog,1
+Fullmetal,2,Brochille,0
+Ari,2,Bravo,0
+Fullmetal,2,Ari,0
+Dog,2,Booster,0
+Rysk,0,Dog,2
+Chipgroove,2,Wxd,0
+Brochille,0,Dog,2
+Bravo,0,Chipgroove,2
+Dog,2,Chipgroove,0
+Ari,2,Dog,0
+Aot,0,Mr. Squiggles,2
+Ts,0,Mummbles,2
+Bluj,0,Dm Barkley,2
+Ovenmitts,0,Rush,2
+Chaddd,2,Mr. Squiggles,0
+Pablo Escabar,0,Mummbles,2
+Carter,2,Dm Barkley,0
+Lethal,2,Rush,0
+Chaddd,2,Mummbles,0
+Carter,1,Lethal,2
+Chaddd,2,Lethal,1
+Rush,2,Aot,0
+Dm Barkley,2,Ts,0
+Pablo Escabar,0,Bluj,2
+Mr. Squiggles,2,Ovenmitts,0
+Rush,0,Dm Barkley,2
+Bluj,1,Mr. Squiggles,2
+Mummbles,2,Dm Barkley,0
+Carter,2,Mr. Squiggles,0
+Mummbles,0,Carter,2
+Dog P10 S3,0,Robo-Ky P1 S4,2
+Goon P3 S3,2,Jazz P9 S4,0
+Breadsticks P2 S3,2,Justandrew P8 S4,1
+Tm12 P7 S3,1,Cj P4 S4,2
+Yort P6 S3,2,Whipple P5 S4,0
+Wild P9 S3,2,Robbins P2 S4,0
+Rozz P4 S3,0,Mouseshampoo P7 S4,2
+Jummy P1 S3,2,Chipgroove P10 S4,0
+Thad P8 S3,0,Killua P6 S4,2
+Swerve P5 S3,2,Smashingtomoes P3 S4,0
+Druggedfox P2 S1,2,Robo-Ky P1 S4,0
+Bbq P9 S2,0,Esperanto P7 S2,2
+Gawes P8 S1,2,Goon P3 S3,0
+Machosamlowe P1 S1,2,Breadsticks P2 S3,0
+Baka4Moe P5 S1,2,Cj P4 S4,0
+Op P8 S2,2,Ari P10 S2,0
+Pengie P7 S1,2,Yort P6 S3,0
+Flaminroy P1 S2,2,Mr. Bonkey P5 S2,1
+Soft P4 S1,2,Wild P9 S3,0
+Dashdancedan P2 S2,0,Carter Dp S2,2
+Fullmetal P10 S1,2,Mouseshampoo P7 S4,0
+Tubesssbm P6 S1,0,Jummy P1 S3,2
+Nicaboi P3 S1,2,Killua P6 S4,0
+Een P6 S2,2,Kosien P4 S2,0
+Dab P9 S1,2,Swerve P5 S3,0
+Lethal Dp S1,0,Gas$ P3 S2,2
+Druggedfox P2 S1,2,Esperanto P7 S2,0
+Gawes P8 S1,2,Machosamlowe P1 S1,1
+Baka4Moe P5 S1,2,Op P8 S2,0
+Pengie P7 S1,2,Flaminroy P1 S2,0
+Soft P4 S1,2,Carter Dp S2,0
+Fullmetal P10 S1,2,Jummy P1 S3,1
+Nicaboi P3 S1,2,Een P6 S2,0
+Dab P9 S1,2,Gas$ P3 S2,0
+Druggedfox P2 S1,2,Gawes P8 S1,0
+Baka4Moe P5 S1,2,Pengie P7 S1,0
+Soft P4 S1,2,Fullmetal P10 S1,0
+Nicaboi P3 S1,2,Dab P9 S1,0
+Druggedfox P2 S1,0,Baka4Moe P5 S1,3
+Soft P4 S1,3,Nicaboi P3 S1,2
+Baka4Moe P5 S1,1,Soft P4 S1,3
+Soft P4 S1,2,Flaminroy P1 S2,3
+Flaminroy P1 S2,2,Soft P4 S1,3
+Lethal Dp S1,2,Dog P10 S3,0
+Kosien P4 S2,0,Jazz P9 S4,2
+Killua P6 S4,2,Justandrew P8 S4,0
+Tubesssbm P6 S1,2,Tm12 P7 S3,0
+Dashdancedan P2 S2,2,Whipple P5 S4,0
+Mr. Bonkey P5 S2,2,Robbins P2 S4,0
+Ari P10 S2,2,Rozz P4 S3,0
+Cj P4 S4,0,Chipgroove P10 S4,2
+Breadsticks P2 S3,0,Thad P8 S3,2
+Bbq P9 S2,2,Smashingtomoes P3 S4,0
+Swerve P5 S3,2,Lethal Dp S1,1
+Jazz P9 S4,2,Killua P6 S4,0
+Mouseshampoo P7 S4,0,Tubesssbm P6 S1,2
+Wild P9 S3,1,Dashdancedan P2 S2,2
+Yort P6 S3,2,Mr. Bonkey P5 S2,0
+Ari P10 S2,2,Chipgroove P10 S4,0
+Goon P3 S3,0,Thad P8 S3,2
+Robo-Ky P1 S4,1,Bbq P9 S2,2
+Flaminroy P1 S2,2,Swerve P5 S3,0
+Op P8 S2,2,Jazz P9 S4,0
+Machosamlowe P1 S1,1,Tubesssbm P6 S1,2
+Esperanto P7 S2,2,Dashdancedan P2 S2,1
+Gas$ P3 S2,0,Yort P6 S3,2
+Een P6 S2,2,Ari P10 S2,0
+Jummy P1 S3,2,Thad P8 S3,0
+Carter Dp S2,2,Bbq P9 S2,0
+Flaminroy P1 S2,2,Op P8 S2,1
+Tubesssbm P6 S1,2,Esperanto P7 S2,0
+Yort P6 S3,0,Een P6 S2,2
+Jummy P1 S3,0,Carter Dp S2,2
+Fullmetal P10 S1,0,Flaminroy P1 S2,2
+Dab P9 S1,2,Tubesssbm P6 S1,0
+Gawes P8 S1,2,Een P6 S2,0
+Pengie P7 S1,2,Carter Dp S2,0
+Flaminroy P1 S2,2,Dab P9 S1,0
+Gawes P8 S1,0,Pengie P7 S1,2
+Druggedfox P2 S1,0,Flaminroy P1 S2,2
+Nicaboi P3 S1,2,Pengie P7 S1,0
+Flaminroy P1 S2,3,Nicaboi P3 S1,1
+Baka4Moe P5 S1,2,Flaminroy P1 S2,3

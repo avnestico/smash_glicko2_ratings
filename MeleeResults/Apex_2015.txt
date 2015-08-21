@@ -752,7 +752,7 @@ Fuel,2,4 Stocrates,0
 Firefly,2,Motive,0
 Sasha,2,Popples,0
 Admiral,2,Catastrophe,0
-Roboticphish,2,[Fbc] Cooltrainer Dr3W,0
+Roboticphish,2,Cooltrainer Dr3W,0
 Njzfinest,0,Gold,2
 Emodinosaur,2,Lint,0
 Zhu,2,Fuel,0
@@ -764,7 +764,7 @@ Admiral,0,Emodinosaur,2
 Zhu,2,Emodinosaur,0
 Suarez,2,4 Stocrates,0
 Motive,0,Popples,2
-Catastrophe,2,[Fbc] Cooltrainer Dr3W,0
+Catastrophe,2,Cooltrainer Dr3W,0
 Njzfinest,2,Lint,0
 Gold,2,Suarez,0
 Roboticphish,2,Popples,0
@@ -899,7 +899,7 @@ Mizu,2,Jamz,0
 Mike Haze,2,Wildcard,0
 Akio,2,Waterpulse,0
 Benteezy,2,E.E.K.,0
-[Fbc] Lad,0,Xxxxpoopmuncher69Xxxx (Walnut),2
+Lad,0,Xxxxpoopmuncher69Xxxx (Walnut),2
 Th0Rn,2,Shablazor,0
 Miles,0,Mizu,2
 Mike Haze,2,Akio,0
@@ -910,13 +910,13 @@ Th0Rn,0,Mike Haze,2
 Monkey,2,Mint,0
 Luma,0,Jamz,2
 Wildcard,2,Waterpulse,0
-E.E.K.,0,[Fbc] Lad,2
+E.E.K.,0,Lad,2
 Xxxxpoopmuncher69Xxxx (Walnut),2,Monkey,0
 Akio,2,Jamz,0
 Miles,0,Wildcard,2
-Shablazor,0,[Fbc] Lad,2
+Shablazor,0,Lad,2
 Xxxxpoopmuncher69Xxxx (Walnut),2,Akio,0
-Wildcard,2,[Fbc] Lad,0
+Wildcard,2,Lad,0
 Mizu,2,Xxxxpoopmuncher69Xxxx (Walnut),0
 Benteezy,2,Wildcard,0
 Mizu,0,Benteezy,2
@@ -1214,13 +1214,13 @@ Machiavelli,0,Fullmetal,2
 Chillindude,2,Based,0
 Reiddsan,2,Ganreizu,0
 Ranch,2,Faber,0
-[Mg] Tid,2,Votrin,0
+Tid,2,Votrin,0
 Gar,2,Kude,0
 Alpha Dash,2,Scratchinmagician,0
 Beach,2,Veda,0
 Darksim,0,Memo,2
 Chillindude,2,Reiddsan,0
-Ranch,2,[Mg] Tid,0
+Ranch,2,Tid,0
 Gar,0,Alpha Dash,2
 Beach,2,Memo,0
 Chillindude,2,Ranch,0
@@ -1232,10 +1232,10 @@ Kude,0,Scratchinmagician,2
 Veda,2,Darksim,0
 Memo,0,Based,2
 Gar,2,Faber,0
-[Mg] Tid,2,Scratchinmagician,0
+Tid,2,Scratchinmagician,0
 Reiddsan,0,Veda,2
 Based,0,Gar,2
-[Mg] Tid,0,Veda,2
+Tid,0,Veda,2
 Ranch,0,Gar,2
 Beach,2,Veda,0
 Gar,2,Beach,0

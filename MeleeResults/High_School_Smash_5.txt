@@ -1,0 +1,91 @@
+Gyran,2,Crisp,0
+Metapod,2,Bio,0
+Mixx,2,Gyran,0
+Squeeb,2,Metapod,1
+Metapod,2,Crisp,0
+Gyran,2,Bio,1
+A-Dar,2,Kamgasm,0
+Birdman,0,King Aj,2
+Denzel Curry Fried Rice,2,A-Dar,0
+Booty,2,King Aj,1
+King Aj,2,Kamgasm,0
+A-Dar,2,Birdman,0
+Gehis,1,Cman,2
+Heisenberg,2,Sosnazzy,0
+The Prince,2,Cman,0
+Hurtyelite,2,Heisenberg,0
+Heisenberg,1,Gehis,2
+Cman,2,Sosnazzy,0
+Casper,2,Hoodie,0
+Kony,2,Imani,1
+Stavo,0,Switzerfrenzy,2
+Meganut,2,Casper,1
+Kony,2,Switzerfrenzy,0
+Imani,2,Stavo,0
+Switzerfrenzy,2,Hoodie,0
+Casper,2,Imani,0
+Hypno,0,Djwon,2
+Bongo,2,Mugatu,0
+Mista Thug,2,Djwon,0
+Dilla,2,Bongo,0
+Bongo,2,Hypno,1
+Djwon,2,Mugatu,0
+Onregon,1,Charliedaking,2
+Kano,2,Goon,0
+Maturbo,2,Charliedaking,0
+Null,2,Kano,0
+Kano,0,Onregon,2
+Charliedaking,1,Goon,2
+Mojoe,2,Red Hot,0
+Hengod,0,Zimd00D,2
+Hengod,2,Southerncan,0
+Ryguy,2,Patched Notes,0
+Dandy,2,Chizard,0
+Myfishcantswim,0,Ryguy,2
+Senpapi,2,Dandy,0
+Dandy,2,Patched Notes,0
+Myfishcantswim,2,Chizard,0
+The Prince (W1),2,Swee (W7),0
+Davey (W8),2,Senpapi (W8),0
+Motoko (W6),2,Tenshii (W2),0
+Eloy (W7),1,Myfishcantswim (W4),2
+Mojoe (W2),2,Grizzly (W5),0
+Waves The Yoshi (W3),2,Kony (W1),0
+Jose V (W4),2,Vavez (W6),1
+Diya (W5),2,Dilla (W3),0
+The Prince (W1),2,Davey (W8),1
+Motoko (W6),2,Myfishcantswim (W4),0
+Mojoe (W2),2,Waves The Yoshi (W3),0
+Jose V (W4),0,Diya (W5),2
+The Prince (W1),2,Motoko (W6),1
+Mojoe (W2),1,Diya (W5),2
+The Prince (W1),0,Diya (W5),3
+Diya (W5),3,Mojoe (W2),2
+Elegant (L8),0,Aleo'S Story (L2),2
+Chives (L7),0,Kaptivate (L8),2
+7Th Acre (L4),0,Squeeb (L4),2
+Kcf (L3),2,Pg Man (L6),1
+Gehis (L7),0,Neb (L5),2
+Zimd00D (L1),2,Heisenburg (L6),0
+Hot Stove (L5),0,Booty (L3),2
+Kishi (L2),1,Null (L1),2
+Dilla (W3),2,Aleo'S Story (L2),1
+Vavez (W6),2,Kaptivate (L8),0
+Kony (W1),2,Squeeb (L4),0
+Grizzly (W5),2,Kcf (L3),0
+Eloy (W7),2,Neb (L5),1
+Tenshii (W2),2,Zimd00D (L1),0
+Senpapi (W8),2,Booty (L3),1
+Swee (W7),2,Null (L1),0
+Kony (W1),2,Grizzly (W5),0
+Eloy (W7),2,Tenshii (W2),1
+Senpapi (W8),2,Swee (W7),0
+Davey (W8),2,Kony (W1),0
+Jose V (W4),2,Eloy (W7),1
+Waves The Yoshi (W3),2,Senpapi (W8),1
+Myfishcantswim (W4),0,Davey (W8),2
+Jose V (W4),1,Waves The Yoshi (W3),2
+Mojoe (W2),2,Davey (W8),0
+Motoko (W6),0,Waves The Yoshi (W3),2
+Mojoe (W2),3,Waves The Yoshi (W3),0
+The Prince (W1),2,Mojoe (W2),3

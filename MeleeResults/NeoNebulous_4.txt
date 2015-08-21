@@ -1,0 +1,114 @@
+Grizzly Melon,2,Noah,0
+Juno,2,Myrista,0
+Rip,1,Bsupreme,2
+Geodude,0,Saber,2
+Que$O,2,Birdup,0
+Thesis,0,Prez,2
+Slat,2,Helo,0
+Qwop,0,Lego,2
+Gaslight,0,Che,2
+Royal Flush,2,Grant,0
+Wawa,2,Doug Wilson,0
+Chuuper,2,Grizzly Melon,1
+Juno,2,Bsupreme,0
+Sammo,2,Saber,0
+Dz Rei,2,Que$O,0
+A-On,2,Prez,0
+Slat,0,Lego,2
+Mt Crushmore,2,Che,0
+Royal Flush,0,Wawa,2
+Chuuper,2,Juno,0
+Sammo,2,Dz Rei,0
+A-On,2,Lego,0
+Mt Crushmore,0,Wawa,2
+Chuuper,2,Sammo,0
+A-On,0,Wawa,2
+Chuuper,3,Wawa,0
+Chuuper,3,Sammo,1
+Myrista,0,Rip,2
+Helo,1,Qwop,2
+Grant,2,Doug Wilson,0
+Royal Flush,2,Noah,0
+Che,2,Rip,0
+Slat,2,Geodude,0
+Prez,1,Birdup,2
+Que$O,2,Thesis,1
+Saber,0,Qwop,2
+Bsupreme,2,Gaslight,0
+Grizzly Melon,2,Grant,0
+Royal Flush,2,Che,0
+Slat,2,Birdup,0
+Que$O,2,Qwop,1
+Bsupreme,0,Grizzly Melon,2
+Dz Rei,0,Royal Flush,2
+Juno,0,Slat,2
+Mt Crushmore,2,Que$O,0
+Lego,2,Grizzly Melon,1
+Royal Flush,0,Slat,2
+Mt Crushmore,0,Lego,2
+A-On,0,Slat,2
+Sammo,2,Lego,0
+Slat,1,Sammo,2
+Wawa,0,Sammo,3
+Hax,2,Shminkledorf,0
+Smokey,2,Bubbaking,0
+Sir Rocko,0,Venti3Hm,2
+Idris,0,Vanz,2
+Kaeon,2,Koro?,0
+Knut,2,Equal,0
+Otg,2,Future,0
+Captain Smuckers,0,Young,2
+Dj Nintendo,2,Vegas,0
+Rold Gold,2,Yedi,0
+Fiya,2,$Led,0
+Dizzkidboogie,2,Tangerine,0
+Slox,2,Ultros,0
+Andrewajt62,2,Hectohertz,0
+Jflex,2,Vortex,0
+Swift,2,Baka4Moe,0
+Hax,2,Smokey,0
+Venti3Hm,0,Vanz,2
+Kaeon,0,Knut,2
+Otg,2,Young,0
+Dj Nintendo,2,Rold Gold,0
+Fiya,0,Dizzkidboogie,2
+Slox,2,Andrewajt62,0
+Jflex,2,Swift,0
+Hax,2,Vanz,0
+Knut,0,Otg,2
+Dj Nintendo,0,Dizzkidboogie,2
+Slox,2,Jflex,0
+Hax,2,Otg,0
+Dizzkidboogie,0,Slox,2
+Hax,2,Slox,0
+Hax,2,Vanz,0
+Shminkledorf,0,Bubbaking,2
+Sir Rocko,2,Idris,0
+Koro?,0,Equal,2
+Future,0,Captain Smuckers,2
+Vegas,0,Yedi,2
+$Led,2,Tangerine,0
+Ultros,0,Hectohertz,2
+Vortex,2,Baka4Moe,0
+Swift,2,Bubbaking,0
+Andrewajt62,2,Sir Rocko,0
+Fiya,2,Equal,0
+Rold Gold,0,Captain Smuckers,2
+Young,0,Yedi,2
+Kaeon,2,$Led,0
+Venti3Hm,0,Hectohertz,2
+Smokey,2,Vortex,0
+Swift,2,Andrewajt62,0
+Fiya,0,Captain Smuckers,2
+Yedi,0,Kaeon,2
+Hectohertz,0,Smokey,2
+Knut,2,Swift,0
+Vanz,2,Captain Smuckers,0
+Jflex,2,Kaeon,0
+Dj Nintendo,2,Smokey,0
+Knut,0,Vanz,2
+Jflex,0,Dj Nintendo,2
+Dizzkidboogie,0,Vanz,2
+Otg,0,Dj Nintendo,2
+Vanz,2,Dj Nintendo,0
+Slox,0,Vanz,2

@@ -1,0 +1,153 @@
+Deeks,2,James,0
+Chop,0,Dank,2
+Crispy,0,Faz,2
+Alex,0,Yoats,2
+Andy,2,Reef,0
+Ef,2,Steady,0
+Woods,2,Nitten,0
+Tetra,0,Joffers,2
+Gem,2,Dee,0
+Rhyno012,2,Paul,0
+Skeneo,0,Haikal In Spirit,2
+Generic,0,Bus,2
+Lucky,2,Deeks,0
+Ktmfinx,0,Hobs,2
+Joey,2,Cackle,0
+Mask1N,2,Bailey,0
+Redact,2,Dank,0
+Dom Hynes,2,Fudge,0
+Sa Nick,2,Faz,0
+Nicks,2,Mgk,0
+Chillindude,2,Yoats,0
+Neeson,0,Tyler,2
+Forte,2,Corks,0
+Earl,2,Adis,0
+S.D,2,Andy,0
+Cup,2,Juci,0
+Azri,2,Ef,0
+Hughie,2,Moist,0
+Hugs,2,Woods,0
+Noxus,2,Sadistic,0
+Moxie,2,Admir,0
+Hardpelicn,2,Naga,0
+Splice,2,Joffers,0
+Sumeet,2,Meredy,0
+Atticus,2,Gem,0
+Dreadtech,2,Poop,0
+S2J,2,Rhyno012,0
+Top 5 Nz,0,Boris,2
+Donb,2,Rize,0
+Jamwa,2,Shenny,0
+Skeletom,2,Haikal In Spirit,0
+Russell The Love Muscle,2,Lincoln,0
+Blaxxon,2,Bus,0
+Jkts,2,Magnus,0
+Lucky,2,Hobs,0
+Joey,0,Mask1N,2
+Redact,2,Dom Hynes,0
+Sa Nick,2,Nicks,0
+Chillindude,2,Tyler,0
+Forte,0,Earl,2
+S.D,2,Cup,0
+Azri,2,Hughie,0
+Hugs,2,Noxus,0
+Moxie,2,Hardpelicn,0
+Splice,2,Sumeet,0
+Atticus,2,Dreadtech,0
+S2J,2,Boris,0
+Donb,0,Jamwa,2
+Skeletom,2,Russell The Love Muscle,0
+Blaxxon,2,Jkts,0
+Lucky,2,Mask1N,0
+Redact,2,Sa Nick,0
+Chillindude,2,Earl,0
+S.D,2,Azri,0
+Hugs,2,Moxie,0
+Splice,2,Atticus,0
+S2J,2,Jamwa,0
+Skeletom,2,Blaxxon,0
+Lucky,2,Redact,0
+Chillindude,2,S.D,0
+Hugs,2,Splice,0
+S2J,2,Skeletom,0
+Lucky,2,Chillindude,0
+Hugs,0,S2J,2
+Lucky,3,S2J,1
+Magnus,2,James,0
+Shenny,2,Chop,0
+Top 5 Nz,2,Crispy,0
+Poop,0,Alex,2
+Naga,2,Reef,0
+Sadistic,2,Steady,0
+Moist,0,Nitten,2
+Adis,0,Tetra,2
+Neeson,2,Dee,0
+Mgk,2,Paul,0
+Bailey,2,Skeneo,0
+Ktmfinx,2,Generic,0
+Magnus,2,Bus,0
+Lincoln,0,Haikal In Spirit,2
+Shenny,2,Rize,0
+Top 5 Nz,2,Rhyno012,0
+Alex,0,Gem,2
+Meredy,2,Joffers,0
+Naga,2,Admir,0
+Sadistic,0,Woods,2
+Nitten,0,Ef,2
+Juci,0,Andy,2
+Tetra,0,Corks,2
+Neeson,2,Yoats,0
+Mgk,2,Faz,0
+Fudge,2,Dank,0
+Bailey,2,Cackle,0
+Ktmfinx,2,Deeks,0
+Hughie,2,Magnus,0
+Cup,2,Haikal In Spirit,0
+Forte,2,Shenny,0
+Tyler,2,Top 5 Nz,0
+Nicks,2,Gem,0
+Dom Hynes,2,Meredy,0
+Joey,2,Naga,0
+Hobs,0,Woods,2
+Jkts,2,Ef,0
+Russell The Love Muscle,2,Andy,0
+Donb,2,Corks,0
+Boris,2,Neeson,0
+Dreadtech,2,Mgk,0
+Sumeet,2,Fudge,0
+Hardpelicn,2,Bailey,0
+Noxus,2,Ktmfinx,0
+Hughie,2,Cup,0
+Forte,2,Tyler,0
+Nicks,2,Dom Hynes,0
+Joey,2,Woods,0
+Jkts,2,Russell The Love Muscle,0
+Donb,2,Boris,0
+Dreadtech,0,Sumeet,2
+Hardpelicn,2,Noxus,0
+Moxie,2,Hughie,0
+Atticus,2,Forte,1
+Jamwa,2,Nicks,0
+Blaxxon,2,Joey,1
+Mask1N,2,Jkts,0
+Sa Nick,2,Donb,0
+Earl,2,Sumeet,0
+Azri,2,Hardpelicn,1
+Moxie,0,Atticus,2
+Jamwa,0,Blaxxon,2
+Mask1N,0,Sa Nick,2
+Earl,2,Azri,1
+Redact,2,Atticus,0
+S.D,2,Blaxxon,0
+Splice,2,Sa Nick,0
+Skeletom,2,Earl,0
+Redact,0,S.D,2
+Splice,0,Skeletom,2
+Hugs,2,S.D,0
+Chillindude,2,Skeletom,0
+Hugs,3,Chillindude,2
+S2J,2,Hugs,0
+Lucky,3,S2J,1
+Hugs,3,Chillindude,2
+S2J,2,Hugs,0
+Lucky,2,S2J,0

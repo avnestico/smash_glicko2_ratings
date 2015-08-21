@@ -1,0 +1,63 @@
+Prince Abu,2,Dudley,0
+Thrash,0,Rook,2
+Jiano,2,Raptor Bootsy,0
+Xivii,2,Dephlo,0
+Voorheese,2,Stringer,0
+Corkus,2,Peanut,1
+Rik,2,Dr. Greenthumb,1
+Hunt,2,Gunhaver,0
+Drephen,2,Koto,0
+Photonic,1,Ferriswheel,2
+Roboat,1,Bajef,2
+Winnie,2,Quint,0
+Lance,2,Karas,0
+Jmanj,2,Tanner,0
+Reeve,2,Phd,0
+Onisser,2,Mist,0
+Prince Abu,2,Rook,0
+Jiano,2,Xivii,0
+Voorheese,2,Corkus,1
+Rik,2,Hunt,0
+Drephen,2,Ferriswheel,0
+Bajef,0,Winnie,2
+Lance,2,Jmanj,0
+Reeve,2,Onisser,0
+Prince Abu,0,Jiano,2
+Voorheese,0,Rik,2
+Drephen,2,Winnie,0
+Lance,2,Reeve,0
+Jiano,2,Rik,3
+Drephen,3,Lance,0
+Rik,0,Drephen,3
+Drephen,0,Prince Abu,3
+Prince Abu,3,Drephen,1
+Dudley,2,Thrash,0
+Raptor Bootsy,2,Dephlo,1
+Stringer,0,Peanut,2
+Dr. Greenthumb,2,Gunhaver,1
+Koto,0,Photonic,2
+Roboat,0,Quint,2
+Karas,0,Tanner,2
+Phd,2,Mist,0
+Onisser,2,Dudley,0
+Jmanj,2,Raptor Bootsy,1
+Bajef,1,Peanut,2
+Ferriswheel,2,Dr. Greenthumb,1
+Hunt,2,Photonic,1
+Corkus,2,Quint,0
+Xivii,2,Tanner,0
+Rook,2,Phd,0
+Onisser,2,Jmanj,1
+Peanut,2,Ferriswheel,0
+Hunt,1,Corkus,2
+Xivii,0,Rook,2
+Voorheese,2,Onisser,0
+Prince Abu,2,Peanut,0
+Reeve,2,Corkus,0
+Winnie,1,Rook,2
+Voorheese,1,Prince Abu,2
+Reeve,2,Rook,1
+Lance,0,Prince Abu,2
+Jiano,0,Reeve,2
+Prince Abu,3,Reeve,0
+Rik,0,Prince Abu,3

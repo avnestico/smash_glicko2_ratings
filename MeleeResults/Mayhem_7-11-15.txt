@@ -79,7 +79,7 @@ Psychomidget,0,Dtr,2
 Justaneyedea,2,Green Junior,0
 Ebc Saber,2,Ganja69,0
 Bzdyra,2,Alex,0
-[Brkd] Mariner,0,Kingdroe,2
+Mariner,0,Kingdroe,2
 Pheonix,2,Fiji,0
 Babyalan,0,Krzy8,2
 Dilla,0,Fallennova,2
@@ -116,7 +116,7 @@ Fallennova,0,Tuxedo Mask,2
 Commander Chinigan,2,Green Junior,0
 Sassafrass,2,Ganja69,0
 Breezy,2,Alex,0
-Cad,2,[Brkd] Mariner,0
+Cad,2,Mariner,0
 Tomoya,0,Fiji,2
 Tdk,0,Babyalan,2
 Saintie,0,Dilla,2

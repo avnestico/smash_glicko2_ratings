@@ -1,0 +1,22 @@
+Axe,2,Sf Aza,0
+Yu,2,Bimbo,0
+Mew2King,2,E-X,0
+Medz,1,Sf Valdo,2
+Axe,2,Yu,0
+Mew2King,2,Sf Valdo,0
+Axe,1,Mew2King,3
+Mew2King,3,Axe,0
+Joey,0,Teté,2
+Pit,2,Esponga,0
+Maxx,2,T.O. Joe,1
+Dream,0,Batu,2
+Medz,2,Teté,0
+E-X,2,Pit,0
+Bimbo,2,Maxx,0
+Sf Aza,2,Batu,0
+Medz,2,E-X,0
+Bimbo,0,Sf Aza,2
+Yu,0,Medz,2
+Sf Valdo,3,Sf Aza,1
+Medz,3,Sf Valdo,1
+Axe,3,Medz,1

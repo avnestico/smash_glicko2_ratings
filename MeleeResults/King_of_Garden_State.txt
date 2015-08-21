@@ -1,0 +1,167 @@
+Losho,0,Kevin J,2
+2%,0,Chris M,2
+Kyle,0,The Great Gonzalez,2
+Mahik,2,Aids,0
+Free,2,Domo,0
+Arashi,2,Eric,0
+3Pete,0,Atlas,2
+Bab,2,Shawn O,0
+Joanna,0,Nopfed,2
+Pudgy Panda,2,Ethan,0
+Nausce,0,Gnarcade,2
+Fmk,2,Bubbles,0
+Milk,0,Tsc Fersher,2
+Zach M,0,Lew,2
+Scooter Dave,0,Rugs,2
+Roochie,0,Tsc Claw,2
+Zibosta,2,Goat,0
+Ion The Kid,0,Soap,2
+Dan Luk,0,Darksim,2
+Downey Soft,2,Xuan,0
+Swedish Delight,2,Kevin J,0
+Ad,2,Vanni,0
+Nando,2,Chris M,0
+Dj Si-Guy,2,The Great Gonzalez,0
+Chain-Ace,2,Mahik,0
+Str8Wu,0,Gunblade,2
+Frycook,2,Free,0
+Mgfc H3Aderon,2,Evan,0
+Jsex,2,Arashi,0
+Tank,2,Spencer,0
+Kmac,2,Atlas,0
+Kevorkian,2,Bab,0
+Zanguzen,2,Nopfed,0
+Maruf,2,Berserk,0
+Njzfinest,2,Pudgy Panda,0
+Vbm,0,Akio,2
+Stricnyn3,2,Gnarcade,0
+Shadowlink,0,Zofrea,2
+Mgfc Bert Mr. F,2,Fmk,0
+Dekunut,2,Tsc Fersher,0
+Copycat,2,Lew,0
+Starve Crate,0,Mgfc Icelink,2
+Son2,2,Rugs,0
+Cuppajoe,2,Palmerfan,0
+C!Z,2,Tsc Claw,0
+Crownlessking,0,Hugo H,2
+Zodiac,2,Zibosta,0
+Theftz,2,Soap,0
+Icer,2,Darksim,0
+T.Swagg,0,Ko$A,2
+Tweek,2,Downey Soft,0
+Mgfc Bigdaddyganon,2,Blank Dots,0
+Swedish Delight,2,Ad,0
+Nando,2,Dj Si-Guy,0
+Chain-Ace,2,Gunblade,0
+Frycook,2,Mgfc H3Aderon,0
+Jsex,2,Tank,0
+Kmac,2,Kevorkian,0
+Zanguzen,2,Maruf,0
+Njzfinest,2,Akio,0
+Stricnyn3,2,Zofrea,0
+Mgfc Bert Mr. F,2,Dekunut,0
+Copycat,2,Mgfc Icelink,0
+Son2,2,Cuppajoe,0
+C!Z,2,Hugo H,0
+Zodiac,2,Theftz,0
+Icer,2,Ko$A,0
+Tweek,2,Mgfc Bigdaddyganon,0
+Swedish Delight,2,Nando,0
+Chain-Ace,0,Frycook,2
+Jsex,2,Kmac,0
+Zanguzen,2,Njzfinest,0
+Stricnyn3,2,Mgfc Bert Mr. F,0
+Copycat,2,Son2,0
+C!Z,2,Zodiac,0
+Icer,2,Tweek,0
+Swedish Delight,2,Frycook,0
+Jsex,2,Zanguzen,0
+Stricnyn3,2,Copycat,0
+C!Z,2,Icer,0
+Swedish Delight,2,Jsex,0
+Stricnyn3,2,C!Z,0
+Swedish Delight,2,Stricnyn3,0
+Swedish Delight,0,Stricnyn3,2
+Stricnyn3,0,Swedish Delight,2
+Blank Dots,2,Losho,0
+T.Swagg,2,2%,0
+Darksim,2,Kyle,0
+Soap,2,Aids,0
+Crownlessking,0,Domo,2
+Palmerfan,2,Eric,0
+Starve Crate,2,3Pete,0
+Lew,2,Shawn O,0
+Tsc Fersher,2,Joanna,0
+Shadowlink,0,Ethan,2
+Vbm,2,Nausce,0
+Berserk,2,Bubbles,0
+Nopfed,2,Milk,0
+Bab,2,Zach M,0
+Spencer,0,Scooter Dave,2
+Evan,0,Roochie,2
+Str8Wu,2,Goat,0
+Mahik,0,Ion The Kid,2
+The Great Gonzalez,2,Dan Luk,0
+Vanni,0,Xuan,2
+Downey Soft,0,Blank Dots,2
+T.Swagg,0,Darksim,2
+Zibosta,0,Soap,2
+Tsc Claw,2,Domo,0
+Rugs,0,Palmerfan,2
+Starve Crate,0,Lew,2
+Fmk,2,Tsc Fersher,0
+Gnarcade,2,Ethan,0
+Pudgy Panda,2,Vbm,0
+Berserk,2,Nopfed,0
+Atlas,2,Bab,0
+Arashi,0,Scooter Dave,2
+Free,0,Roochie,2
+Str8Wu,2,Ion The Kid,0
+Chris M,0,The Great Gonzalez,2
+Kevin J,2,Xuan,0
+Akio,2,Blank Dots,0
+Maruf,2,Darksim,0
+Kevorkian,2,Soap,0
+Tank,2,Tsc Claw,0
+Mgfc H3Aderon,2,Palmerfan,0
+Gunblade,2,Lew,0
+Dj Si-Guy,2,Fmk,0
+Ad,2,Gnarcade,0
+Mgfc Bigdaddyganon,2,Pudgy Panda,0
+Ko$A,2,Berserk,0
+Theftz,0,Atlas,2
+Hugo H,0,Scooter Dave,2
+Cuppajoe,0,Roochie,2
+Mgfc Icelink,2,Str8Wu,0
+Dekunut,2,The Great Gonzalez,0
+Zofrea,2,Kevin J,0
+Akio,0,Maruf,2
+Kevorkian,2,Tank,0
+Mgfc H3Aderon,0,Gunblade,2
+Dj Si-Guy,2,Ad,0
+Mgfc Bigdaddyganon,0,Ko$A,2
+Atlas,2,Scooter Dave,0
+Roochie,0,Mgfc Icelink,2
+Dekunut,2,Zofrea,0
+Mgfc Bert Mr. F,2,Maruf,0
+Son2,2,Kevorkian,0
+Zodiac,2,Gunblade,0
+Tweek,2,Dj Si-Guy,0
+Nando,2,Ko$A,0
+Chain-Ace,2,Atlas,0
+Kmac,2,Mgfc Icelink,0
+Njzfinest,2,Dekunut,0
+Mgfc Bert Mr. F,2,Son2,0
+Zodiac,2,Tweek,0
+Nando,2,Chain-Ace,0
+Kmac,0,Njzfinest,2
+Frycook,2,Mgfc Bert Mr. F,0
+Zanguzen,2,Zodiac,0
+Copycat,2,Nando,0
+Icer,2,Njzfinest,0
+Frycook,0,Zanguzen,2
+Copycat,0,Icer,2
+C!Z,0,Zanguzen,2
+Jsex,0,Icer,2
+Zanguzen,2,Icer,0
+Stricnyn3,2,Zanguzen,0

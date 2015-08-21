@@ -1,0 +1,66 @@
+Strat,0,Dragondorf,2
+Dbag,2,Black Spiderman,1
+Zhu,2,Dragondorf,0
+Accidental Ham Sandwich,2,Handorin,0
+J00T,2,Fam_Veks,0
+2Kv,2,M00Nshoez,0
+Druggedfox,2,Therocketinyourpocket,0
+Moist,2,Rooster,0
+Iori,0,Moogle,2
+Ippo,1,Dairdev1L,2
+Abate,2,Dbag,0
+Crispus,2,Ghettoblush,1
+Dickcheese,0,Esperanto,2
+Jimbo,0,Mew,2
+Cactuar,2,Oko,0
+Evan Gunn,2,Seuss,0
+Awstintacious,2,Mucho,0
+Slippery Lizard,2,Niceclimbers,1
+Zhu,2,Accidental Ham Sandwich,0
+J00T,2,2Kv,0
+Druggedfox,2,Moist,0
+Moogle,2,Dairdev1L,1
+Abate,2,Crispus,0
+Esperanto,2,Mew,0
+Cactuar,2,Evan Gunn,0
+Awstintacious,2,Slippery Lizard,0
+Zhu,2,J00T,0
+Druggedfox,2,Moogle,0
+Abate,2,Esperanto,0
+Cactuar,2,Awstintacious,0
+Zhu,2,Druggedfox,3
+Abate,3,Cactuar,2
+Druggedfox,3,Abate,0
+Druggedfox,3,Abate,0
+Niceclimbers,2,Strat,1
+Ippo,2,Black Spiderman,0
+Mucho,2,Niceclimbers,1
+Seuss,2,Oko,0
+Jimbo,1,Dickcheese,2
+Ghettoblush,2,Dbag,0
+Iori,2,Ippo,0
+Rooster,0,Therocketinyourpocket,2
+M00Nshoez,2,Fam_Veks,0
+Handorin,0,Dragondorf,2
+Dairdev1L,2,Mucho,0
+Moist,2,Seuss,0
+2Kv,1,Dickcheese,2
+Accidental Ham Sandwich,1,Ghettoblush,2
+Slippery Lizard,0,Iori,2
+Evan Gunn,2,Therocketinyourpocket,1
+Mew,2,M00Nshoez,0
+Crispus,2,Dragondorf,1
+Dairdev1L,2,Moist,0
+Dickcheese,2,Ghettoblush,0
+Iori,2,Evan Gunn,0
+Mew,0,Crispus,2
+Esperanto,0,Dairdev1L,2
+Awstintacious,0,Dickcheese,2
+J00T,2,Iori,0
+Moogle,2,Crispus,0
+Dairdev1L,0,Dickcheese,2
+J00T,2,Moogle,0
+Zhu,3,Dickcheese,0
+Cactuar,3,J00T,0
+Zhu,3,Cactuar,0
+Abate,3,Zhu,2

@@ -41,12 +41,12 @@ Fox,2,Owen,0
 Watofu,2,Dz,0
 General Cabbage,2,Spidyj,0
 Wasabi,2,Dapper,0
-[Epg] Punk Panda,1,Terryj,2
+Punk Panda,1,Terryj,2
 Shanks,2,Salvation,0
 Scab,2,Mon,0
 Iceman,2,Shades,0
 Felix,2,Jordova,0
-[Epg] Chevy,2,Icee,0
+Chevy,2,Icee,0
 Ebay,2,Milk Money,0
 Mike Lau,2,Bdj,0
 Banana,2,Wumbokaz,0
@@ -72,7 +72,7 @@ Watofu,2,General Cabbage,0
 Wasabi,2,Terryj,1
 Shanks,2,Scab,0
 Iceman,2,Vitamine,0
-Felix,2,[Epg] Chevy,0
+Felix,2,Chevy,0
 Ebay,2,Mike Lau,1
 Banana,2,Kgb,0
 Bladewise,2,Ganobrator,0
@@ -132,7 +132,7 @@ Jordova,2,Sunkwon,0
 Shades,2,Deka,0
 Mon,2,El Osolodo,0
 Salvation,2,Satomo,0
-[Epg] Punk Panda,2,Psoisfun,0
+Punk Panda,2,Psoisfun,0
 Dapper,2,Nuggetz,0
 Spidyj,2,Winnidacrew,0
 Dz,2,Littlespoon,0
@@ -150,12 +150,12 @@ Sky,0,Ej,2
 Bdj,2,Milk Money,0
 Icee,0,Jordova,2
 Mon,2,Salvation,1
-[Epg] Punk Panda,2,Dapper,0
+Punk Panda,2,Dapper,0
 Spidyj,0,Dz,2
 Owen,2,Aleco,0
 Kgb,2,Chai,0
 Mike Lau,2,Scrb,0
-[Epg] Chevy,2,Rustin,0
+Chevy,2,Rustin,0
 Vitamine,2,Nail,0
 Scab,2,Nicklesdimesandquarters,0
 Terryj,1,Hadoken,2
@@ -165,11 +165,11 @@ Fox,0,1337Hax07,2
 Philip Coast Philip,1,Bdj,2
 Hyphen,0,Jordova,2
 Krillin,2,Mon,0
-Speake,2,[Epg] Punk Panda,0
+Speake,2,Punk Panda,0
 Epidemique,1,Dz,2
 Ganobrator,2,Owen,0
 Kgb,0,Mike Lau,2
-[Epg] Chevy,1,Vitamine,2
+Chevy,1,Vitamine,2
 Scab,2,Hadoken,1
 General Cabbage,2,1337Hax07,1
 .Wav,2,Bdj,0

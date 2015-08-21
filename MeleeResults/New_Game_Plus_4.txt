@@ -1,0 +1,159 @@
+Cranberry,2,Pink,0
+Mono,0,Messiah,2
+Neft,2,Dr Noise Waters,0
+Bsac,0,Feelings,2
+Moop,0,Flysloth,2
+Dis,0,Grimm,2
+Seabass,2,Shouhei,0
+Free,1,Jellyfish,2
+Para,2,Ganreizu,0
+Tbgd,0,Yungbonezvillian,2
+Coldo,0,Owl,2
+Spacecadet,0,Dingus,2
+Gtown Tom,2,Cat,1
+Bozo,2,Wreck,0
+Cake,2,Jam,0
+Fluff,0,Tofu Papi,2
+Pause,1,Hapless Hero,2
+Pyro,2,Fresh Milk,0
+Mafia,2,Cranberry,0
+Metlwing,1,Brisenburg,2
+Koga,1,Messiah,2
+Blitzsm,2,Neft,0
+Mr Lemon,2,Feelings,0
+Lurogmz,0,Vudoo,2
+Blahyay,2,Flysloth,0
+Slag,2,Pj,0
+Klap$,2,Grimm,0
+Ec Joey,2,Girthquake,0
+Falcomaster827,2,Seabass,0
+Batsox The Realest Luigi,2,Nicketh,0
+Dudutsai,2,Jellyfish,0
+Torsional Strain,2,Jlo,1
+Dj Mirror,0,Para,2
+Swissmiss,0,Tenshi,2
+Mattdotzeb,2,Yungbonezvillian,0
+Tangbang,0,Red,2
+Trilok,2,Owl,0
+Bigvegetabluntz,2,Dingus,0
+Rime,2,Gtown Tom,0
+Leet,2,Balco,0
+Arc,2,Bozo,0
+Edwin Dexter,2,Jsun,0
+Squible,2,Cake,0
+Refresh,2,Racer,0
+Bonk,2,Tofu Papi,0
+Poob,2,Ceeds,0
+Mr Tuesday,2,Hapless Hero,0
+Wind,2,Pyro,0
+Mcem,2,Zeus,1
+Mafia,2,Brisenburg,0
+Messiah,1,Blitzsm,2
+Mr Lemon,2,Vudoo,0
+Blahyay,2,Slag,0
+Klap$,2,Ec Joey,0
+Falcomaster827,2,Batsox The Realest Luigi,0
+Dudutsai,2,Torsional Strain,1
+Para,2,Tenshi,0
+Mattdotzeb,2,Red,1
+Trilok,1,Bigvegetabluntz,2
+Rime,2,Leet,0
+Arc,0,Edwin Dexter,2
+Squible,2,Refresh,0
+Bonk,1,Poob,2
+Wind,2,Mcem,0
+Mafia,2,Blitzsm,0
+Mr Lemon,2,Blahyay,0
+Klap$,2,Falcomaster827,0
+Dudutsai,2,Para,0
+Mattdotzeb,0,Bigvegetabluntz,2
+Rime,2,Edwin Dexter,0
+Squible,2,Poob,0
+Mr Tuesday,2,Wind,1
+Mafia,2,Mr Lemon,1
+Klap$,2,Dudutsai,0
+Bigvegetabluntz,0,Rime,2
+Squible,2,Mr Tuesday,0
+Mafia,2,Klap$,0
+Rime,1,Squible,2
+Mafia,3,Squible,1
+Mafia,3,Klap$,0
+Zeus,2,Pink,1
+Veggie Tales,2,Mono,1
+Hapless Hero,2,Dr Noise Waters,1
+Ceeds,2,Bsac,0
+Racer,2,Moop,0
+Jsun,0,Dis,2
+Balco,0,Shouhei,2
+Dingus,0,Free,2
+Tangbang,2,Ganreizu,1
+Swissmiss,2,Tbgd,0
+Jlo,2,Coldo,0
+Jellyfish,2,Spacecadet,0
+Nicketh,0,Cat,2
+Girthquake,2,Wreck,0
+Pj,2,Jam,0
+Lurogmz,2,Fluff,0
+Neft,2,Pause,0
+Metlwing,2,Fresh Milk,0
+Pyro,0,Zeus,2
+Veggie Tales,2,Hapless Hero,0
+Tofu Papi,0,Ceeds,2
+Cake,0,Racer,2
+Bozo,0,Dis,2
+Gtown Tom,2,Shouhei,0
+Owl,0,Free,2
+Yungbonezvillian,2,Tangbang,1
+Dj Mirror,0,Swissmiss,2
+Jlo,2,Jellyfish,1
+Seabass,2,Cat,1
+Grimm,2,Girthquake,0
+Flysloth,0,Pj,2
+Feelings,2,Lurogmz,0
+Koga,1,Neft,2
+Cranberry,1,Metlwing,2
+Tenshi,2,Zeus,1
+Torsional Strain,2,Veggie Tales,0
+Batsox The Realest Luigi,2,Ceeds,0
+Ec Joey,2,Racer,1
+Slag,2,Dis,0
+Vudoo,2,Gtown Tom,1
+Messiah,0,Free,2
+Brisenburg,0,Yungbonezvillian,2
+Mcem,0,Swissmiss,2
+Bonk,2,Seabass,1
+Refresh,2,Grimm,1
+Arc,2,Pj,0
+Leet,2,Feelings,1
+Trilok,2,Neft,0
+Red,1,Metlwing,2
+Tenshi,0,Torsional Strain,2
+Batsox The Realest Luigi,1,Ec Joey,2
+Slag,1,Vudoo,2
+Free,1,Yungbonezvillian,2
+Swissmiss,2,Jlo,1
+Bonk,2,Refresh,0
+Arc,2,Leet,1
+Trilok,2,Metlwing,0
+Mattdotzeb,0,Torsional Strain,2
+Edwin Dexter,2,Ec Joey,1
+Poob,2,Vudoo,0
+Wind,2,Yungbonezvillian,0
+Blitzsm,2,Swissmiss,1
+Blahyay,1,Bonk,2
+Falcomaster827,0,Arc,2
+Para,0,Trilok,2
+Torsional Strain,2,Edwin Dexter,1
+Poob,2,Wind,1
+Blitzsm,2,Bonk,1
+Arc,2,Trilok,0
+Mr Lemon,2,Torsional Strain,0
+Dudutsai,2,Poob,0
+Bigvegetabluntz,2,Blitzsm,0
+Mr Tuesday,2,Arc,1
+Mr Lemon,2,Dudutsai,1
+Bigvegetabluntz,1,Mr Tuesday,2
+Rime,2,Mr Lemon,0
+Klap$,2,Mr Tuesday,0
+Rime,0,Klap$,2
+Squible,1,Klap$,3

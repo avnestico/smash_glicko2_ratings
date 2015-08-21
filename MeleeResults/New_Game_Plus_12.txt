@@ -1,0 +1,192 @@
+Clam,0,Snowweiner,2
+The Yak,0,Sac,2
+Captain Smuckers,2,Manny,0
+Ellen Pao,0,Eman,2
+Takyon,2,Stoc,0
+C-Stick Fibrosis,0,Ward,2
+Anro,0,Funk,2
+Falserra,0,Mafia.20Eggseggs,2
+Kunai,2,Gospel,0
+Wreckcity,2,Daddy,0
+Pk,2,Sealand,0
+Shkshk,2,Coldo,0
+Dylnobu,0,Flambo,2
+Boy,2,Primer,0
+Nfreak,2,Spencer,0
+Villmatic,2,Malo,0
+Yungbonezvillain,2,Deadpigeon,0
+R00,2,Swance,0
+Pink,2,Kob,0
+Elicik,0,Blinky,2
+Maso,2,Ultramarine,0
+Xftu,0,Donniecash,2
+Nate,0,Soke,2
+Mort,2,Yung Coolatta,0
+Oversteps,2,Label,0
+Blazingsparky,0,Sudz,2
+Girthquake,2,Mao,0
+Ogtyx,0,Ross,2
+Seaghost,2,Dajj,0
+Gbaby6,0,Mcem,2
+Sleisl,2,Andrew,1
+-1,0,Dovienya,2
+Jlo,2,Austin,0
+Mafia,2,Snowweiner,0
+Sac,0,Captain Smuckers,2
+Batsox,2,Eman,1
+Metlwing,2,Takyon,0
+Sora,2,Ward,0
+Slag,2,Funk,0
+Dudutsai,2,Mafia.20Eggseggs,0
+Gtea,2,Kunai,0
+Mr Lemon,2,Wreckcity,0
+Gtown_Tom,0,Pk,2
+Blitzsm,2,Shkshk,0
+Hazard,2,Flambo,0
+Kyu Puff,2,Boy,0
+Hea7,2,Nfreak,0
+Kazaam,2,Villmatic,1
+Brisenberg,2,Yungbonezvillain,0
+Tian,2,R00,0
+Para,1,Pink,2
+Makari,0,Blinky,2
+Xpilot,2,Maso,0
+Bvb,2,Donniecash,0
+Null,2,Soke,0
+Mr Tuesday,2,Mort,0
+Stickman,2,Oversteps,1
+Squible,2,Sudz,0
+Spiff,2,Girthquake,0
+Blahyay,2,Ross,0
+Swissmiss,2,Seaghost,1
+Rime,2,Mcem,0
+Pj,2,Sleisl,0
+Trilok,2,Dovienya,0
+Colins Fuckboy,2,Jlo,1
+Mafia,0,Captain Smuckers,2
+Batsox,0,Metlwing,2
+Sora,2,Slag,0
+Dudutsai,2,Gtea,1
+Mr Lemon,2,Pk,0
+Blitzsm,2,Hazard,0
+Kyu Puff,2,Hea7,0
+Kazaam,2,Brisenberg,1
+Tian,2,Pink,0
+Blinky,1,Xpilot,2
+Bvb,2,Null,0
+Mr Tuesday,2,Stickman,0
+Squible,2,Spiff,0
+Blahyay,2,Swissmiss,1
+Rime,1,Pj,2
+Trilok,2,Colins Fuckboy,0
+Captain Smuckers,2,Metlwing,0
+Sora,0,Dudutsai,2
+Mr Lemon,2,Blitzsm,0
+Kyu Puff,2,Kazaam,1
+Tian,2,Xpilot,0
+Bvb,0,Mr Tuesday,2
+Squible,2,Blahyay,0
+Pj,2,Trilok,0
+Captain Smuckers,2,Dudutsai,0
+Mr Lemon,0,Kyu Puff,2
+Tian,2,Mr Tuesday,0
+Squible,2,Pj,0
+Captain Smuckers,2,Kyu Puff,0
+Tian,1,Squible,2
+Captain Smuckers,3,Squible,0
+Captain Smuckers,3,Squible,1
+The Yak,2,Manny,0
+Jlo,2,Clam,0
+Dovienya,0,The Yak,2
+Sleisl,2,Ellen Pao,0
+Mcem,2,Stoc,0
+Seaghost,0,C-Stick Fibrosis,2
+Ross,2,Anro,0
+Girthquake,2,Falserra,0
+Sudz,0,Gospel,2
+Oversteps,2,Daddy,0
+Mort,2,Sealand,1
+Soke,2,Coldo,0
+Donniecash,2,Dylnobu,1
+Maso,0,Primer,2
+Makari,2,Spencer,0
+Para,2,Malo,0
+R00,2,Deadpigeon,0
+Yungbonezvillain,2,Swance,0
+Villmatic,2,Kob,0
+Nfreak,2,Elicik,0
+Boy,2,Ultramarine,0
+Flambo,2,Xftu,0
+Shkshk,2,Nate,0
+Gtown_Tom,2,Yung Coolatta,0
+Wreckcity,2,Label,1
+Kunai,2,Blazingsparky,0
+Mafia.20Eggseggs,2,Mao,1
+Funk,2,Ogtyx,1
+Ward,2,Dajj,0
+Takyon,0,Gbaby6,2
+Eman,2,Andrew,1
+Sac,2,-1,0
+Snowweiner,2,Austin,0
+Jlo,1,The Yak,2
+Sleisl,0,Mcem,2
+C-Stick Fibrosis,1,Ross,2
+Girthquake,2,Gospel,0
+Oversteps,2,Mort,0
+Soke,0,Donniecash,2
+Primer,0,Makari,2
+Para,2,R00,0
+Yungbonezvillain,2,Villmatic,0
+Nfreak,0,Boy,2
+Flambo,2,Shkshk,0
+Gtown_Tom,1,Wreckcity,2
+Kunai,2,Mafia.20Eggseggs,0
+Funk,0,Ward,2
+Gbaby6,1,Eman,2
+Sac,2,Snowweiner,0
+Brisenberg,0,The Yak,2
+Hea7,2,Mcem,1
+Hazard,2,Ross,0
+Pk,1,Girthquake,2
+Gtea,0,Oversteps,2
+Slag,2,Donniecash,1
+Batsox,0,Makari,2
+Mafia,2,Para,0
+Colins Fuckboy,2,Yungbonezvillain,0
+Rime,2,Boy,0
+Swissmiss,2,Flambo,0
+Spiff,0,Wreckcity,2
+Stickman,0,Kunai,2
+Null,2,Ward,0
+Blinky,2,Eman,0
+Pink,2,Sac,0
+The Yak,0,Hea7,2
+Hazard,0,Girthquake,2
+Oversteps,2,Slag,0
+Makari,0,Mafia,2
+Colins Fuckboy,1,Rime,2
+Swissmiss,0,Wreckcity,2
+Kunai,0,Null,2
+Blinky,2,Pink,1
+Xpilot,1,Hea7,2
+Bvb,2,Girthquake,1
+Blahyay,0,Oversteps,2
+Trilok,0,Mafia,2
+Metlwing,0,Rime,2
+Sora,2,Wreckcity,0
+Blitzsm,1,Null,2
+Kazaam,2,Blinky,0
+Hea7,0,Bvb,2
+Oversteps,0,Mafia,2
+Rime,1,Sora,2
+Null,0,Kazaam,2
+Dudutsai,1,Bvb,2
+Mr Lemon,2,Mafia,1
+Mr Tuesday,1,Sora,2
+Pj,1,Kazaam,2
+Bvb,1,Mr Lemon,2
+Sora,0,Kazaam,2
+Tian,2,Mr Lemon,1
+Kyu Puff,2,Kazaam,1
+Tian,1,Kyu Puff,2
+Squible,3,Kyu Puff,0

@@ -1,0 +1,62 @@
+Vanz,2,Lego,0
+Nyquil,2,Stkf,0
+Sir Rocko,2,Azlan,0
+Fiya,2,A-On,0
+Captain Smuckers,2,B3N,0
+Hectohertz,2,Sammo,0
+Son2,2,Koro?,0
+Vino,2,Ghetto Pussy,0
+Swedish Delight,2,Manwithfork,0
+Young,0,Doom,2
+Knut,2,Dizzkidboogie,1
+B-War,2,Kevorkian,0
+G$,2,Bluntmaster,0
+Tank,0,Wawa,2
+T.Webb,2,Patriot,0
+Yedi,2,Boiko,0
+Vanz,2,Nyquil,0
+Sir Rocko,0,Fiya,2
+Captain Smuckers,2,Hectohertz,0
+Son2,0,Vino,2
+Swedish Delight,2,Doom,0
+Knut,2,B-War,0
+G$,2,Wawa,0
+T.Webb,2,Yedi,0
+Vanz,2,Fiya,0
+Captain Smuckers,1,Vino,2
+Swedish Delight,2,Knut,0
+G$,0,T.Webb,2
+Vanz,2,Vino,0
+Swedish Delight,2,T.Webb,0
+Vanz,2,Swedish Delight,3
+Swedish Delight,3,Captain Smuckers,0
+Lego,0,Stkf,2
+Azlan,2,A-On,1
+B3N,2,Sammo,0
+Koro?,1,Ghetto Pussy,2
+Manwithfork,2,Young,1
+Dizzkidboogie,2,Kevorkian,0
+Bluntmaster,2,Tank,0
+Patriot,1,Boiko,2
+Yedi,2,Stkf,1
+Wawa,2,Azlan,1
+B-War,2,B3N,0
+Doom,2,Ghetto Pussy,1
+Son2,2,Manwithfork,0
+Hectohertz,0,Dizzkidboogie,2
+Sir Rocko,1,Bluntmaster,2
+Nyquil,2,Boiko,1
+Yedi,2,Wawa,0
+B-War,0,Doom,2
+Son2,0,Dizzkidboogie,2
+Bluntmaster,0,Nyquil,2
+Captain Smuckers,2,Yedi,0
+Fiya,1,Doom,2
+G$,0,Dizzkidboogie,2
+Knut,2,Nyquil,1
+Captain Smuckers,2,Doom,0
+Dizzkidboogie,2,Knut,1
+T.Webb,0,Captain Smuckers,2
+Vino,1,Dizzkidboogie,2
+Captain Smuckers,3,Dizzkidboogie,2
+Vanz,2,Captain Smuckers,3

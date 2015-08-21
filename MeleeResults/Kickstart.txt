@@ -1,0 +1,62 @@
+Professor Pro,2,Hoorayforjay,0
+Brtarolg,2,Ac,0
+R23,2,Sonike,0
+Ryan S,2,Beanz,0
+Vanity Angel,2,Powe,0
+X1,2,Chilliconcarnage,1
+Mahie,2,Soyb,0
+Hao,0,Shufu,2
+Tekk,2,Bungle,0
+Unreal,2,Luigimitsu,0
+Deathgazer,2,Leaf,0
+Frenzy,2,Sylveon,0
+Overtriforce,2,23,0
+Jam,2,Manyula,0
+Dev,2,Kazewolf,0
+Modest Major,2,Tfu,0
+Professor Pro,2,Brtarolg,0
+R23,2,Ryan S,0
+Vanity Angel,2,X1,0
+Mahie,2,Shufu,0
+Tekk,2,Unreal,0
+Deathgazer,2,Frenzy,0
+Overtriforce,2,Jam,0
+Dev,2,Modest Major,0
+Professor Pro,3,R23,0
+Vanity Angel,3,Mahie,0
+Tekk,3,Deathgazer,0
+Overtriforce,3,Dev,0
+Professor Pro,3,Vanity Angel,0
+Tekk,1,Overtriforce,3
+Hoorayforjay,1,Ac,2
+Sonike,2,Beanz,0
+Powe,0,Chilliconcarnage,2
+Soyb,0,Hao,2
+Bungle,0,Luigimitsu,2
+Leaf,1,Sylveon,2
+23,0,Manyula,2
+Kazewolf,1,Tfu,2
+Modest Major,0,Ac,2
+Jam,2,Sonike,0
+Frenzy,2,Chilliconcarnage,0
+Unreal,2,Hao,0
+Shufu,1,Luigimitsu,2
+X1,2,Sylveon,0
+Ryan S,2,Manyula,1
+Brtarolg,2,Tfu,0
+Ac,1,Jam,2
+Frenzy,0,Unreal,2
+Luigimitsu,0,X1,2
+Ryan S,0,Brtarolg,2
+Mahie,3,Jam,0
+R23,1,Unreal,3
+Dev,3,X1,0
+Deathgazer,3,Brtarolg,0
+Mahie,3,Unreal,0
+Dev,3,Deathgazer,0
+Tekk,3,Mahie,0
+Vanity Angel,1,Dev,3
+Professor Pro,3,Overtriforce,0
+Tekk,3,Dev,0
+Overtriforce,3,Tekk,1
+Professor Pro,3,Overtriforce,0

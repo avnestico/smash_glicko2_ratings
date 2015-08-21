@@ -1,0 +1,95 @@
+Caup,2,Rudy,0
+Michael Gray,2,Binx,0
+Datman,2,Doc Brown,0
+Goku,2,Zaney,0
+Cloud,0,Fastestrock,2
+Esperanto,2,Smashingturnips,0
+Nova,2,Just Andrew,0
+Gas$,2,T,0
+Spankthatdill,2,Cosine,1
+Een,2,Rupture,0
+Dbag,0,Robo-Ky,2
+Sheikscrub,2,Trevor,0
+Bravo,1,Type1,2
+Moonshine (Polarity),2,Towlie,0
+Man Twin,1,Dublat,2
+Mahou Man Sam,2,Seemsgood,0
+S0Ft,2,Caup,0
+Dashdancedan,2,Michael Gray,0
+Op,2,Datman,0
+Fullmetal,2,Goku,0
+Flaminroy,2,Fastestrock,0
+Kpan,2,Esperanto,0
+Druggedfox,2,Nova,0
+Rum,2,Gas$,1
+Nicaboy,2,Spankthatdill,0
+Tbag,2,Een,1
+Rj,2,Robo-Ky,0
+Gawes,2,Sheikscrub,0
+Beg4More,2,Type1,0
+Meleebro (Dab),2,Moonshine (Polarity),0
+Pengie,2,Dublat,0
+Omega,2,Mahou Man Sam,1
+S0Ft,2,Dashdancedan,0
+Op,0,Fullmetal,2
+Flaminroy,0,Kpan,2
+Druggedfox,2,Rum,0
+Nicaboy,2,Tbag,0
+Rj,1,Gawes,2
+Beg4More,2,Meleebro (Dab),0
+Pengie,2,Omega,0
+S0Ft,2,Fullmetal,1
+Kpan,0,Druggedfox,2
+Nicaboy,2,Gawes,0
+Beg4More,2,Pengie,1
+S0Ft,3,Druggedfox,0
+Nicaboy,0,Beg4More,3
+S0Ft,3,Beg4More,2
+S0Ft,0,Druggedfox,3
+Druggedfox,3,S0Ft,2
+Mahou Man Sam,2,Rudy,0
+Dublat,2,Binx,0
+Moonshine (Polarity),2,Doc Brown,0
+Type1,2,Zaney,0
+Sheikscrub,2,Cloud,0
+Robo-Ky,2,Smashingturnips,1
+Een,2,Just Andrew,0
+Spankthatdill,0,T,2
+Gas$,2,Cosine,0
+Nova,2,Rupture,0
+Esperanto,2,Dbag,0
+Fastestrock,2,Trevor,0
+Goku,1,Bravo,2
+Datman,0,Towlie,2
+Michael Gray,1,Man Twin,2
+Caup,2,Seemsgood,0
+Mahou Man Sam,1,Dublat,2
+Moonshine (Polarity),2,Type1,1
+Sheikscrub,2,Robo-Ky,0
+Een,2,T,0
+Gas$,0,Nova,2
+Esperanto,2,Fastestrock,0
+Bravo,2,Towlie,0
+Man Twin,2,Caup,0
+Rum,0,Dublat,2
+Flaminroy,2,Moonshine (Polarity),0
+Op,2,Sheikscrub,0
+Dashdancedan,0,Een,2
+Omega,2,Nova,0
+Meleebro (Dab),2,Esperanto,0
+Rj,2,Bravo,1
+Tbag,2,Man Twin,0
+Dublat,0,Flaminroy,2
+Op,1,Een,2
+Omega,1,Meleebro (Dab),2
+Rj,2,Tbag,0
+Gawes,1,Flaminroy,2
+Pengie,2,Een,0
+Fullmetal,1,Meleebro (Dab),2
+Kpan,1,Rj,2
+Flaminroy,0,Pengie,2
+Meleebro (Dab),2,Rj,0
+Druggedfox,2,Pengie,0
+Nicaboy,2,Meleebro (Dab),1
+Druggedfox,3,Nicaboy,2
+Beg4More,1,Druggedfox,3

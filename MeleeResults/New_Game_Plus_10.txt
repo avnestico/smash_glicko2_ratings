@@ -1,0 +1,182 @@
+Daddy,0,Pk,2
+Fang,2,Dis,0
+Leerektyle Dysfunction,2,Flambo,0
+Green Jinjo,1,Sealand,2
+Phony,0,Seaghost,2
+Gusherz,2,Ultra Marine,1
+Moo,2,Coldo,0
+Gbaby6,1,Boy,2
+Lyon,2,Xanx,0
+Null,2,Stromboli,0
+Neft,2,Tenshi,1
+Dovienya,1,Thunderstorm,2
+Broth Chiler,2,Dankasswondergimps,0
+Wx,2,Niko,0
+Ross,2,Denny'S Grand Slam Breakfast,0
+C-Stick Fibrosis,2,Ron,0
+Hazard,2,Mr Jones,0
+Ant,1,Cat,2
+Wrek,2,Stoc,0
+Steel Kangaroo,2,Icki,0
+Pj,2,Gerth,0
+Norp,0,Sweets,2
+Bullfrog,2,Exclusive,0
+Q,2,Pickles,0
+Label,2,Notparis,0
+Swayo,2,Clam,0
+Pink,2,Brohad,0
+Gtown_Tom,2,Bioeye,0
+Slox,2,Pk,0
+Spooky Ghost,2,Girthquake,1
+Blitzsm,1,Fang,2
+Kazaam,2,Leerektyle Dysfunction,1
+Bvb,2,Sealand,0
+Cashbags Fatstackington,2,Seaghost,0
+Mr Lemon,2,Gusherz,0
+Makari,2,Moo,1
+Klaps,2,Boy,0
+Swissmiss,0,Para,2
+Mr Tuesday,2,Lyon,0
+R2Dliu,2,Null,0
+Tian,2,Neft,0
+Combatcoldcuts,0,Thunderstorm,2
+Dudutsai,2,Broth Chiler,0
+Oversteps,0,Wx,2
+Crush,2,Ross,0
+Brisenberg,2,Pewu,0
+Trilok,2,C-Stick Fibrosis,0
+Psi,2,Hazard,0
+Hart,2,Cat,0
+Bugatti,2,Wrek,0
+Rime,2,Steel Kangaroo,0
+Blahyay,2,Pj,1
+Mattdotzeb,2,Sweets,0
+Gtea,2,Mcem,0
+Noodles,2,Bullfrog,0
+Flexed,2,Q,0
+Bown,2,Label,0
+Metlwing,2,Swayo,0
+Kyu Puff,2,Pink,0
+Sloth Bear,0,Gtown_Tom,2
+Slox,2,Spooky Ghost,0
+Fang,1,Kazaam,2
+Bvb,2,Cashbags Fatstackington,0
+Mr Lemon,2,Makari,0
+Klaps,2,Para,0
+Mr Tuesday,0,R2Dliu,2
+Tian,2,Thunderstorm,0
+Dudutsai,2,Wx,0
+Crush,2,Brisenberg,0
+Trilok,2,Psi,1
+Hart,2,Bugatti,0
+Rime,2,Blahyay,0
+Mattdotzeb,2,Gtea,0
+Noodles,1,Flexed,2
+Bown,2,Metlwing,0
+Kyu Puff,2,Gtown_Tom,0
+Slox,2,Kazaam,1
+Bvb,2,Mr Lemon,1
+Klaps,0,R2Dliu,2
+Tian,2,Dudutsai,1
+Crush,2,Trilok,0
+Hart,2,Rime,0
+Mattdotzeb,2,Flexed,0
+Bown,0,Kyu Puff,2
+Slox,2,Bvb,0
+R2Dliu,0,Tian,2
+Crush,2,Hart,0
+Mattdotzeb,0,Kyu Puff,2
+Slox,2,Tian,0
+Crush,2,Kyu Puff,0
+Slox,3,Crush,2
+Slox,3,Crush,2
+Sloth Bear,2,Daddy,0
+Swayo,0,Dis,2
+Label,1,Flambo,2
+Q,2,Green Jinjo,0
+Bullfrog,2,Phony,0
+Mcem,2,Ultra Marine,0
+Sweets,2,Coldo,0
+Pj,2,Gbaby6,1
+Wrek,2,Xanx,0
+Cat,2,Stromboli,0
+Hazard,2,Tenshi,1
+C-Stick Fibrosis,1,Dovienya,2
+Pewu,2,Dankasswondergimps,0
+Ross,2,Niko,0
+Oversteps,2,Denny'S Grand Slam Breakfast,0
+Combatcoldcuts,2,Ron,0
+Neft,2,Mr Jones,0
+Null,2,Ant,1
+Lyon,2,Stoc,0
+Swissmiss,2,Icki,0
+Boy,2,Gerth,1
+Moo,2,Norp,0
+Seaghost,2,Exclusive,0
+Sealand,2,Pickles,0
+Leerektyle Dysfunction,2,Notparis,0
+Blitzsm,2,Clam,0
+Girthquake,2,Brohad,0
+Pk,2,Bioeye,0
+Pink,0,Sloth Bear,2
+Dis,2,Flambo,1
+Q,2,Bullfrog,1
+Mcem,2,Sweets,0
+Steel Kangaroo,0,Pj,2
+Wrek,1,Cat,2
+Hazard,0,Dovienya,2
+Pewu,1,Ross,2
+Broth Chiler,0,Oversteps,2
+Combatcoldcuts,2,Neft,0
+Null,2,Lyon,0
+Swissmiss,1,Boy,2
+Gusherz,0,Moo,2
+Seaghost,2,Sealand,0
+Leerektyle Dysfunction,0,Blitzsm,2
+Girthquake,0,Pk,2
+Wx,0,Sloth Bear,2
+Thunderstorm,2,Dis,0
+Mr Tuesday,2,Q,0
+Para,2,Mcem,0
+Makari,2,Pj,0
+Cashbags Fatstackington,2,Cat,0
+Fang,2,Dovienya,0
+Spooky Ghost,2,Ross,1
+Gtown_Tom,2,Oversteps,1
+Metlwing,2,Combatcoldcuts,1
+Noodles,2,Null,0
+Gtea,2,Boy,0
+Blahyay,2,Moo,0
+Bugatti,2,Seaghost,0
+Psi,2,Blitzsm,0
+Brisenberg,2,Pk,1
+Sloth Bear,2,Thunderstorm,0
+Mr Tuesday,2,Para,1
+Makari,0,Cashbags Fatstackington,2
+Fang,0,Spooky Ghost,2
+Gtown_Tom,0,Metlwing,2
+Noodles,2,Gtea,0
+Blahyay,2,Bugatti,1
+Psi,2,Brisenberg,0
+Trilok,2,Sloth Bear,0
+Rime,2,Mr Tuesday,0
+Flexed,2,Cashbags Fatstackington,0
+Bown,2,Spooky Ghost,0
+Kazaam,0,Metlwing,2
+Mr Lemon,2,Noodles,0
+Klaps,2,Blahyay,0
+Dudutsai,2,Psi,1
+Trilok,0,Rime,2
+Flexed,1,Bown,2
+Metlwing,0,Mr Lemon,2
+Klaps,0,Dudutsai,2
+Bvb,0,Rime,2
+R2Dliu,0,Bown,2
+Hart,1,Mr Lemon,2
+Mattdotzeb,0,Dudutsai,2
+Rime,2,Bown,1
+Mr Lemon,2,Dudutsai,1
+Kyu Puff,0,Rime,2
+Tian,2,Mr Lemon,1
+Rime,0,Tian,2
+Crush,3,Tian,1

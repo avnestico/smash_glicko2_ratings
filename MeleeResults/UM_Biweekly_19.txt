@@ -1,0 +1,176 @@
+Bad Horse,2,Null,0
+Datnero,2,Original Bear,0
+Varisia,2,Radikll,0
+Purpshoe,2,Tequila,0
+Rug,0,Hunt,2
+Jakpox,1,Joka,2
+Dannmannn,0,Jkow,2
+Mikeybaboxp,0,Wok,2
+Ueramos,1,Q,2
+Beatz,2,Rob,1
+Adknight,2,Notice Me Juggle-Senpai,1
+Mascolino,0,Only Young Link,2
+Migs,0,Carnage,2
+Ness,2,Eta,0
+Ryangg,2,Late!,0
+Jake,2,Pokechampred,0
+Jud,0,Service,2
+Jt,0,Last Chance Ganon,2
+American Leffeb,2,Treezy,0
+Jermaine,2,Maskgrinder,0
+Karils,2,Kp,0
+Led Free,2,Hikaritenchi,0
+Ciezi,0,Thechinesenoob,2
+Npv,2,Design,0
+Cobby,0,Wrenches,2
+Kjh,2,Bad Horse,0
+Mingee My Glorious God Who 3-0'D Me,2,Charlie Harper,0
+Russell,2,Datnero,0
+Iron,2,Varisia,0
+Mb-Smash,2,Purpshoe,0
+Rodohk,1,Hunt,2
+Paper,2,Joka,0
+Garzal,2,Jkow,0
+Yoyo,2,Wok,0
+Dean,0,Knight,2
+I4N,2,Q,0
+Will,2,Beatz,0
+Beach,2,Adknight,0
+Mojo,2,Rach,0
+Ryejew,2,Only Young Link,0
+Klub,2,Carnage,0
+Kalamazhu,2,Ness,0
+Mingee,2,Sheep,0
+Crip,2,Ryangg,0
+Rokij,2,Jake,0
+Anther,2,Service,0
+Heartstrings,2,Pronotes,0
+1Der,2,Last Chance Ganon,0
+Notkain,2,American Leffeb,0
+Juggleguy,2,Jermaine,0
+H2,2,Roytheroyalboy,1
+Lain,2,Karils,0
+Danklouie,2,Led Free,0
+Tm,2,Thechinesenoob,0
+Nutsack,2,Amir,0
+Butch G,2,Npv,0
+Nexic,2,Wrenches,0
+Kjh,2,Mingee My Glorious God Who 3-0'D Me,0
+Russell,2,Iron,0
+Mb-Smash,2,Hunt,0
+Paper,2,Garzal,0
+Yoyo,2,Knight,0
+I4N,1,Will,2
+Beach,2,Mojo,1
+Ryejew,0,Klub,2
+Kalamazhu,2,Mingee,0
+Crip,0,Rokij,2
+Anther,2,Heartstrings,0
+1Der,2,Notkain,0
+Juggleguy,2,H2,0
+Lain,2,Danklouie,1
+Tm,2,Nutsack,0
+Butch G,2,Nexic,0
+Kjh,2,Russell,0
+Mb-Smash,2,Paper,0
+Yoyo,2,Will,1
+Beach,2,Klub,0
+Kalamazhu,2,Rokij,0
+Anther,2,1Der,0
+Juggleguy,2,Lain,1
+Tm,2,Butch G,1
+Kjh,2,Mb-Smash,0
+Yoyo,2,Beach,0
+Kalamazhu,1,Anther,2
+Juggleguy,2,Tm,0
+Kjh,2,Yoyo,0
+Anther,2,Juggleguy,0
+Kjh,2,Anther,0
+Kjh,2,Kalamazhu,0
+Wrenches,2,Null,0
+Amir,2,Original Bear,0
+Thechinesenoob,2,Radikll,0
+Led Free,2,Tequila,0
+Karils,2,Rug,1
+Roytheroyalboy,2,Jakpox,0
+Jermaine,2,Dannmannn,0
+American Leffeb,2,Mikeybaboxp,0
+Pronotes,0,Ueramos,2
+Service,2,Rob,0
+Jake,0,Notice Me Juggle-Senpai,2
+Sheep,2,Mascolino,0
+Ness,2,Migs,0
+Carnage,2,Eta,0
+Rach,1,Late!,2
+Adknight,2,Pokechampred,0
+Beatz,1,Jud,2
+Dean,2,Jt,0
+Wok,2,Treezy,0
+Jkow,2,Maskgrinder,0
+Rodohk,2,Kp,0
+Purpshoe,1,Hikaritenchi,2
+Varisia,2,Ciezi,0
+Charlie Harper,2,Design,0
+Bad Horse,2,Cobby,0
+Npv,1,Wrenches,2
+Amir,2,Thechinesenoob,0
+Led Free,2,Karils,1
+Roytheroyalboy,2,Jermaine,0
+Last Chance Ganon,0,American Leffeb,2
+Ueramos,0,Service,2
+Ryangg,2,Notice Me Juggle-Senpai,1
+Sheep,2,Ness,0
+Only Young Link,2,Carnage,0
+Late!,0,Adknight,2
+Q,0,Jud,2
+Dean,0,Wok,2
+Joka,2,Jkow,0
+Rodohk,2,Hikaritenchi,0
+Datnero,2,Varisia,0
+Charlie Harper,1,Bad Horse,2
+Ryejew,2,Wrenches,0
+Mojo,2,Amir,1
+I4N,2,Led Free,0
+Knight,0,Roytheroyalboy,2
+Garzal,2,American Leffeb,0
+Hunt,2,Service,0
+Iron,2,Ryangg,1
+Mingee My Glorious God Who 3-0'D Me,2,Sheep,1
+Nexic,2,Only Young Link,0
+Nutsack,2,Adknight,0
+Danklouie,2,Jud,0
+H2,2,Wok,0
+Notkain,1,Joka,2
+Heartstrings,2,Rodohk,0
+Crip,2,Datnero,0
+Mingee,2,Bad Horse,0
+Ryejew,2,Mojo,1
+I4N,2,Roytheroyalboy,1
+Garzal,0,Hunt,2
+Iron,2,Mingee My Glorious God Who 3-0'D Me,0
+Nexic,2,Nutsack,0
+Danklouie,1,H2,2
+Joka,0,Heartstrings,2
+Crip,2,Mingee,0
+Rokij,2,Ryejew,0
+1Der,2,I4N,0
+Lain,2,Hunt,0
+Butch G,2,Iron,0
+Russell,2,Nexic,0
+Paper,2,H2,0
+Will,2,Heartstrings,1
+Klub,1,Crip,2
+Rokij,0,1Der,2
+Lain,2,Butch G,0
+Russell,0,Paper,2
+Will,0,Crip,2
+Mb-Smash,2,1Der,1
+Beach,2,Lain,1
+Kalamazhu,2,Paper,0
+Tm,2,Crip,1
+Mb-Smash,2,Beach,0
+Kalamazhu,2,Tm,1
+Juggleguy,2,Mb-Smash,0
+Yoyo,0,Kalamazhu,2
+Juggleguy,1,Kalamazhu,2
+Anther,0,Kalamazhu,2

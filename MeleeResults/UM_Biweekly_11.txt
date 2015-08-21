@@ -1,0 +1,157 @@
+Stif The Wobblemaster,2,Top Pomperpopopop,0
+Karils,2,Improve_,0
+Shinsuyavi,2,Wham,0
+Pronotes,0,Skate,2
+Ness,0,Red Hat Pat,2
+Stif,2,Hikaritenchi,0
+G1,0,Indy,2
+Mars,0,Rach,2
+Bertier,0,Yoshi Brothers,2
+401Weiners,2,Mobius,0
+Jaye,2,Greasy,0
+Knight,0,Jecht,2
+Tilt,2,Joka,0
+Mr. Steal Yo Gurl,2,Stem,0
+Bran,0,Kuma,2
+Duck,2,Stif The Wobblemaster,0
+Red Xiii,2,Pono,0
+Heartstrings,2,Noon,0
+Nexic,2,Magicscrumpy,0
+Ryejew,2,Karils,0
+Strong Arm,0,Math,2
+Fendricklamar,2,Shinsuyavi,0
+Psythr,2,The Succ,0
+Juggleguy,2,Skate,0
+Prek,0,Amir,2
+Rasto,2,Red Hat Pat,0
+Minorthreat,2,Sheep,0
+Paper,2,Stif,0
+Yoyosucks248,2,Ace,0
+Iron,2,Indy,0
+Criphood,2,Shanahan,0
+Kjh,2,Rach,0
+Wok,2,Monk,0
+Cam,2,Yoshi Brothers,0
+I4N,2,Pancake Jake,0
+Yoyo,2,401Weiners,0
+Rodohk,2,Master Mcgee,0
+The Oak,2,Jaye,0
+Quang,2,Cobby,0
+Kalamazhu,2,Jecht,0
+The Brons Kneecap,2,Burd,0
+Thugz,0,Tilt,2
+Morsecode762,2,Chardcore,0
+Ju4N,2,Mr. Steal Yo Gurl,0
+Jermaine,2,Djinn,0
+Butch G,2,Kuma,0
+Jorb,2,Strooper,0
+Duck,2,Red Xiii,0
+Heartstrings,0,Nexic,2
+Ryejew,2,Math,0
+Fendricklamar,2,Psythr,0
+Juggleguy,2,Amir,0
+Rasto,2,Minorthreat,0
+Paper,2,Yoyosucks248,0
+Iron,0,Criphood,2
+Kjh,2,Wok,0
+Cam,2,I4N,0
+Yoyo,2,Rodohk,0
+The Oak,0,Quang,2
+Kalamazhu,2,The Brons Kneecap,0
+Tilt,0,Morsecode762,2
+Ju4N,2,Jermaine,0
+Butch G,2,Jorb,0
+Duck,2,Nexic,0
+Ryejew,0,Fendricklamar,2
+Juggleguy,2,Rasto,0
+Paper,2,Criphood,0
+Kjh,2,Cam,0
+Yoyo,0,Quang,2
+Kalamazhu,2,Morsecode762,0
+Ju4N,2,Butch G,0
+Duck,2,Fendricklamar,0
+Juggleguy,2,Paper,0
+Kjh,2,Quang,0
+Kalamazhu,2,Ju4N,0
+Duck,2,Juggleguy,0
+Kjh,0,Kalamazhu,2
+Duck,2,Kalamazhu,0
+Duck,0,Kalamazhu,2
+Duck,0,Kalamazhu,2
+Strooper,0,Top Pomperpopopop,2
+Chardcore,2,Improve_,0
+Burd,0,Wham,2
+Cobby,2,Pronotes,0
+Master Mcgee,0,Ness,2
+Pancake Jake,2,Hikaritenchi,0
+Monk,2,G1,0
+Shanahan,2,Mars,0
+Ace,2,Bertier,0
+Sheep,2,Mobius,0
+Prek,0,Greasy,2
+The Succ,0,Knight,2
+Strong Arm,0,Joka,2
+Magicscrumpy,2,Stem,0
+Pono,2,Bran,0
+Kuma,2,Top Pomperpopopop,0
+Djinn,2,Mr. Steal Yo Gurl,0
+Thugz,2,Chardcore,0
+Jecht,2,Wham,0
+Jaye,2,Cobby,0
+401Weiners,2,Ness,0
+Yoshi Brothers,2,Pancake Jake,0
+Rach,0,Monk,2
+Indy,0,Shanahan,2
+Stif,0,Ace,2
+Red Hat Pat,0,Sheep,2
+Skate,0,Greasy,2
+Shinsuyavi,0,Knight,2
+Karils,0,Joka,2
+Noon,0,Magicscrumpy,2
+Stif The Wobblemaster,2,Pono,0
+Iron,2,Kuma,0
+Yoyosucks248,2,Djinn,0
+Minorthreat,0,Thugz,2
+Amir,0,Jecht,2
+Psythr,2,Jaye,0
+Math,0,401Weiners,2
+Heartstrings,2,Yoshi Brothers,0
+Red Xiii,0,Monk,2
+Jorb,2,Shanahan,0
+Jermaine,0,Ace,2
+Tilt,2,Sheep,0
+The Brons Kneecap,2,Greasy,0
+The Oak,0,Knight,2
+Rodohk,0,Joka,2
+I4N,0,Magicscrumpy,2
+Wok,0,Stif The Wobblemaster,2
+Iron,2,Yoyosucks248,0
+Thugz,2,Jecht,0
+Psythr,2,401Weiners,0
+Heartstrings,2,Monk,0
+Jorb,2,Ace,0
+Tilt,2,The Brons Kneecap,0
+Knight,0,Joka,2
+Magicscrumpy,0,Stif The Wobblemaster,2
+Cam,2,Iron,0
+Yoyo,2,Thugz,0
+Morsecode762,2,Psythr,0
+Butch G,2,Heartstrings,0
+Nexic,0,Jorb,2
+Ryejew,2,Tilt,0
+Rasto,2,Joka,0
+Criphood,0,Stif The Wobblemaster,2
+Cam,0,Yoyo,2
+Morsecode762,0,Butch G,2
+Jorb,0,Ryejew,2
+Rasto,0,Stif The Wobblemaster,2
+Fendricklamar,0,Yoyo,2
+Paper,2,Butch G,0
+Quang,0,Ryejew,2
+Ju4N,0,Stif The Wobblemaster,2
+Yoyo,0,Paper,2
+Ryejew,2,Stif The Wobblemaster,0
+Kjh,2,Paper,0
+Juggleguy,2,Ryejew,0
+Kjh,2,Juggleguy,0
+Kalamazhu,2,Kjh,0

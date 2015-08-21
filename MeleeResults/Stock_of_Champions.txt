@@ -1,0 +1,181 @@
+Duck,2,Mules,0
+Mb-Smash,2,Dre,0
+Kjh,2,Tm,0
+Paper,2,Rasto,0
+Prince Abu,2,Hellsing,0
+Russell,2,Ginger,0
+Juggleguy,2,Skigh,0
+Kalamazhu,2,Nexic,0
+Duck,2,Mb-Smash,0
+Kjh,2,Paper,0
+Prince Abu,2,Russell,0
+Juggleguy,2,Kalamazhu,0
+Duck,0,Kjh,2
+Prince Abu,0,Juggleguy,2
+Kjh,2,Juggleguy,0
+Kjh,2,Duck,0
+Mules,2,Dre,0
+Tm,2,Rasto,0
+Hellsing,0,Ginger,2
+Skigh,2,Nexic,0
+Kalamazhu,2,Mules,0
+Russell,0,Tm,2
+Paper,0,Ginger,2
+Mb-Smash,2,Skigh,0
+Kalamazhu,2,Tm,0
+Ginger,2,Mb-Smash,0
+Duck,2,Kalamazhu,0
+Prince Abu,0,Ginger,2
+Duck,2,Ginger,0
+Juggleguy,0,Duck,2
+Clickclack,2,Ham,0
+Yams,2,Llama,0
+Shabby,0,Jok3R,2
+Action Master,0,Cop Crusher,2
+Bdubs,2,Caocao,0
+Tron,2,Classywolfman,0
+Duck,2,Clickclack,0
+Skey,2,Mars,0
+Mules,2,Yams,0
+Will,2,Jok3R,0
+Mb-Smash,2,Cop Crusher,0
+Egg,2,Eliteucantbeat,0
+Dre,2,Bdubs,0
+Thugz,2,Tron,0
+Duck,2,Skey,0
+Mules,0,Will,2
+Mb-Smash,2,Egg,0
+Dre,0,Thugz,2
+Duck,2,Will,0
+Mb-Smash,2,Thugz,0
+Tron,2,Ham,0
+Cop Crusher,2,Shabby,0
+Jok3R,0,Action Master,2
+Mars,2,Caocao,0
+Clickclack,2,Classywolfman,0
+Tron,2,Bdubs,0
+Eliteucantbeat,0,Cop Crusher,2
+Action Master,2,Yams,0
+Mars,2,Clickclack,0
+Mules,2,Tron,0
+Skey,2,Cop Crusher,0
+Dre,2,Action Master,0
+Egg,2,Mars,0
+Mules,2,Skey,0
+Dre,2,Egg,0
+Thugz,0,Mules,2
+Will,0,Dre,2
+Brdwthacgr,0,Zazu,2
+Doctorj,0,Plasma193,2
+Fashp,2,Ron Diesel,0
+Skraaaaa,2,Reince,0
+Strooper,0,Nuggz,2
+Dio,0,The Succ,2
+Kjh,2,Zazu,0
+Hunt,2,Meowvalent,0
+Rasto,2,Plasma193,0
+Heartstrings,2,Fashp,0
+Tm,2,Skraaaaa,0
+Tilt,2,Mikefugazi,0
+Paper,2,Nuggz,0
+Quang,2,The Succ,0
+Kjh,2,Hunt,0
+Rasto,2,Heartstrings,0
+Tm,2,Tilt,0
+Paper,2,Quang,0
+Kjh,2,Rasto,0
+Tm,0,Paper,2
+The Succ,2,Brdwthacgr,0
+Mikefugazi,2,Doctorj,0
+Skraaaaa,2,Ron Diesel,0
+Fashp,2,Reince,0
+Meowvalent,2,Strooper,0
+Zazu,2,Dio,0
+The Succ,2,Nuggz,0
+Mikefugazi,0,Skraaaaa,2
+Fashp,2,Plasma193,0
+Meowvalent,0,Zazu,2
+Heartstrings,2,The Succ,0
+Hunt,2,Skraaaaa,0
+Quang,2,Fashp,0
+Tilt,0,Zazu,2
+Heartstrings,2,Hunt,0
+Quang,2,Zazu,0
+Tm,2,Heartstrings,0
+Rasto,2,Quang,0
+Dad,2,Notkain,0
+Artun,0,Wham,2
+Psycho Waffles,2,Genji,0
+Amir,2,Eieio,0
+Bad Horse,2,Kuma,0
+Hikaritenchi,0,Indy,2
+Prince Abu,2,Dad,0
+Rodohk,0,Gum,2
+Fendricklamar,2,Wham,0
+Nutsack,2,Psycho Waffles,0
+Ginger,2,Amir,0
+Mojo,2,Adknight,0
+Hellsing,2,Bad Horse,0
+Russell,2,Indy,0
+Prince Abu,2,Gum,0
+Fendricklamar,2,Nutsack,0
+Ginger,2,Mojo,0
+Hellsing,0,Russell,2
+Prince Abu,2,Fendricklamar,0
+Ginger,0,Russell,2
+Indy,0,Notkain,2
+Adknight,2,Artun,0
+Amir,2,Genji,0
+Psycho Waffles,2,Eieio,0
+Rodohk,2,Kuma,0
+Dad,2,Hikaritenchi,0
+Notkain,2,Bad Horse,0
+Adknight,2,Amir,0
+Psycho Waffles,2,Wham,0
+Rodohk,2,Dad,0
+Nutsack,0,Notkain,2
+Gum,2,Adknight,0
+Hellsing,2,Psycho Waffles,0
+Mojo,2,Rodohk,0
+Notkain,0,Gum,2
+Hellsing,2,Mojo,0
+Ginger,2,Gum,0
+Fendricklamar,0,Hellsing,2
+Rapatap,2,Oven,0
+Woosh,0,Psythr,2
+Shinsuyavi,2,Mazoku,0
+Quail,0,Ricechrispy,2
+Design,2,Mufasa,0
+Red Xiii,2,Greasy,0
+Kalamazhu,2,Rapatap,0
+Supadragonyoshi,2,The Brons Kneecap,0
+Iron,2,Psythr,0
+Nexic,2,Shinsuyavi,0
+Juggleguy,2,Ricechrispy,0
+Cho,2,Espi,0
+Skigh,2,Design,0
+Criphood,2,Red Xiii,0
+Kalamazhu,2,Supadragonyoshi,0
+Iron,0,Nexic,2
+Juggleguy,2,Cho,0
+Skigh,2,Criphood,0
+Kalamazhu,2,Nexic,0
+Juggleguy,2,Skigh,0
+Red Xiii,0,Oven,2
+Espi,0,Woosh,2
+Ricechrispy,2,Mazoku,0
+Shinsuyavi,2,Quail,0
+The Brons Kneecap,2,Mufasa,0
+Rapatap,2,Greasy,0
+Oven,2,Design,0
+Woosh,0,Ricechrispy,2
+Shinsuyavi,0,Psythr,2
+The Brons Kneecap,2,Rapatap,0
+Iron,2,Oven,0
+Supadragonyoshi,0,Ricechrispy,2
+Criphood,2,Psythr,0
+Cho,2,The Brons Kneecap,0
+Iron,2,Ricechrispy,0
+Criphood,2,Cho,0
+Skigh,2,Iron,0
+Nexic,2,Criphood,0

@@ -1,0 +1,58 @@
+Modest Major,1,Frenzy,2
+Unreal,2,Weeg,0
+X1,2,Monty,1
+Deathgazer,2,Manyula,0
+Beans,2,Jjlinyard,1
+Alpha Dash,2,Meamking,0
+Ac_Anon,2,Appreciate Art-Us,0
+Hoorayforjay,1,Shufu,2
+Brtarolg,2,Draz,0
+Jam,2,Hylian Reaper,0
+Mahie,2,Lorenzo,0
+Jomo,0,Haotwo,2
+R23,2,Biss,0
+Matt Smith,2,Oytun,0
+Professor Pro,2,Frenzy,0
+Unreal,2,X1,1
+Deathgazer,2,Beans,0
+Alpha Dash,2,Ac_Anon,1
+Vanity Angel,2,Shufu,0
+Brtarolg,0,Jam,2
+Mahie,2,Haotwo,0
+R23,2,Matt Smith,0
+Professor Pro,3,Unreal,0
+Deathgazer,1,Alpha Dash,3
+Vanity Angel,3,Jam,0
+Mahie,3,R23,1
+Professor Pro,3,Alpha Dash,1
+Vanity Angel,3,Mahie,1
+Weeg,2,Monty,0
+Manyula,2,Jjlinyard,1
+Meamking,2,Appreciate Art-Us,0
+Draz,2,Hylian Reaper,1
+Lorenzo,0,Jomo,2
+Biss,0,Oytun,2
+Matt Smith,0,Modest Major,2
+Haotwo,2,Weeg,0
+Brtarolg,2,Manyula,0
+Shufu,2,Meamking,1
+Ac_Anon,0,Hoorayforjay,2
+Beans,2,Draz,0
+X1,1,Jomo,2
+Frenzy,2,Oytun,0
+Modest Major,0,Haotwo,2
+Brtarolg,2,Shufu,0
+Hoorayforjay,2,Beans,1
+Jomo,2,Frenzy,1
+Deathgazer,3,Haotwo,2
+Unreal,3,Brtarolg,1
+R23,3,Hoorayforjay,0
+Jam,3,Jomo,0
+Deathgazer,3,Unreal,2
+R23,3,Jam,2
+Mahie,3,Deathgazer,0
+Alpha Dash,1,R23,3
+Professor Pro,3,Vanity Angel,1
+Mahie,3,R23,2
+Vanity Angel,3,Mahie,2
+Professor Pro,3,Vanity Angel,2
