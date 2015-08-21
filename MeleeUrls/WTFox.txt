@@ -1,3 +1,3 @@
-http://wiki.teamliquid.net/smash/index.php?title=WTFox&section=T-1&action=edit
-http://wiki.teamliquid.net/smash/index.php?title=WTFox/Singles_Bracket&action=edit
-http://wiki.teamliquid.net/smash/index.php?title=WTFox/Singles_Pools&action=edit
+http://wiki.teamliquid.net/smash/WTFox&section=T-1
+http://wiki.teamliquid.net/smash/WTFox/Singles_Bracket
+http://wiki.teamliquid.net/smash/WTFox/Singles_Pools

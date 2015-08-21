@@ -242,6 +242,16 @@ Example: ProcessRankings(['Beast V', 'Paragon 2015', 'Apex 2015'], 'Melee')"""
             DummyPerson.did_not_compete()
             Dict[Person] = [DummyPerson.rating, min(DummyPerson.rd, DefaultRD), DummyPerson.vol, Dict[Person][3], Dict[Person][4]]
 
+    #rank_person("Swedish Delight")
+
+
+def rank_person(name):
+    try:
+        PersonRankings(name.title())
+    except:
+        pass
+
+
 def PadLeft(s, Len, Padding = '0'):
     """Pads s on the left with Padding to length Len.
 s: a string.

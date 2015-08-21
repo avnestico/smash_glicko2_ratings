@@ -70,5 +70,5 @@ http://apex2015melee.challonge.com/I13
 http://apex2015melee.challonge.com/I14
 http://apex2015melee.challonge.com/I15
 http://apex2015melee.challonge.com/I16
-http://wiki.teamliquid.net/smash/index.php?title=Apex_2015/Singles_Winners&action=edit
-http://wiki.teamliquid.net/smash/index.php?title=Apex_2015/Singles_Losers&action=edit
+http://wiki.teamliquid.net/smash/Apex_2015/Singles_Winners
+http://wiki.teamliquid.net/smash/Apex_2015/Singles_Losers

@@ -119,11 +119,18 @@ def normalize_names(line):
 
 
 def remove_pools(string):
-    string = re.sub("(?:\(|\[)(?:P|)\d+(?:|(?:/:-)\d+)(?:\)|\])", "", string).strip()
-    string = re.sub("(?:|\[)P\d+(?:/|-)\d+(?:\]|)", "", string).strip()
-    string = re.sub("(?:|\[)[A-Z]\d+\.\d(?:\]|)", "", string).strip()
+    # Things to remove:
+    # Anything inside square brackets
+    string = re.sub("\[.*\]", "", string).strip()
+    # P2/2, (P2-2), etc.
+    string = re.sub("\((?:P|)\d+(?:|(?:/:|-)\d+)\)", "", string).strip()
+    # A2.2, B2.2, etc.
+    string = re.sub("[A-Z]\d+\.\d", "", string).strip()
+    # (Wave 2), (Wave2), etc.
     string = re.sub("\(Wave(?: |)\d\)", "", string).strip()
+    # (S2 P2), etc.
     string = re.sub("\(S\d+ P\d+\)", "", string).strip()
+    # (Setup), (Unpaid), etc.
     string = re.sub("\((?:Setup|Unpaid|Forfeit|Dq)\)", "", string).strip()
     return string
 
@@ -301,7 +308,7 @@ def ensure_dir_exists(folder):
 def get_tournaments(filename, url_folder):
     """Returns an ordered dict of tournaments where each tournament's value is a list of its bracket urls."""
     tournaments = collections.OrderedDict([])
-    with open(filename, "r", encoding="utf-8-sig") as file:
+    with open(filename, "r", encoding="ISO-8859-1") as file:
         for line in file:
             is_date = check_if_date(line)
             if not is_date:
@@ -313,7 +320,7 @@ def get_tournaments(filename, url_folder):
 def get_tournament_urls(filename, url_folder):
     """Reads a text file of urls and converts it to a list."""
     urls = []
-    with open(get_filename(url_folder, filename), "r", encoding="utf-8-sig") as file:
+    with open(get_filename(url_folder, filename), "r", encoding="ISO-8859-1") as file:
         for line in file:
             line = line.strip()
             urls.append(line)
@@ -373,7 +380,7 @@ def process_game_by_date(game):
     print("Processing " + game + "...")
     date_file, url_folder, result_folder = get_game_folders(game)
     tournaments = []
-    with open(date_file, 'r', encoding="utf-8-sig") as f:
+    with open(date_file, 'r', encoding="ISO-8859-1") as f:
         content = f.readlines()
         for line in content:
             line = line.strip()
