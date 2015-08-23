@@ -1,0 +1,184 @@
+Me,0,@Sdashkon,2
+Saba,2,Margrave,0
+Sabelan,2,H4Wk,0
+Zander,2,Colbydude,0
+Sajeel,1,Bhb,2
+Ethan,2,Huggermugger,1
+Charlezard,2,Frank,0
+Michael,2,Stu,0
+Bensw,2,Egg Salad,0
+Ixxt,0,Hsu Chef,2
+Treechen,2,Vato,0
+Csu Ebeer,2,Todote,0
+Golf,2,Yuen,0
+Peggle Master,2,Tung,0
+Elementalpenguin,0,Glee,2
+Nash,0,Volvo,2
+Monkey Jack,2,Higgins,1
+Lexshy,2,Lt. Dan,0
+Mental Djent,0,Supreme,2
+Kyrios,2,Erik,0
+Wassabi,1,Roochi,2
+Dr. Jwnz,2,Chris Lee,0
+Rick The Fox,2,Vankulture,0
+Atrioc,2,Spoondolf,0
+Play4Fun,2,Heliodoxy,1
+Wiz,1,Dolla Bill Bill,2
+Horse,0,Method,2
+Stephen,0,White Guilt,2
+Dank,2,Vic,0
+Grant Cush,0,Spevak,2
+Sfat,2,@Sdashkon,0
+Schwiebs,0,Groovy Green Hat,2
+Weedlord,2,Saba,0
+Boback,2,Sabelan,0
+Dr. Z,2,Zander,0
+Runescape,2,Bhb,0
+Moose,2,Ethan,0
+Chris Best,2,Charlezard,0
+Laudandus,2,Michael,0
+Bertbusdriver,2,Bensw,0
+Zeldafreak,2,Hsu Chef,0
+Warwick Foe,2,Treechen,0
+Alan,2,Csu Ebeer,0
+Grouch,2,Golf,0
+Snap,2,Peggle Master,0
+Pikminbutdeadly,2,Glee,0
+Pewpewu,2,Volvo,0
+Sharkboi,1,Tranmobile,2
+Crush,2,Monkey Jack,0
+Sailor Moon 420,2,Lexshy,0
+Gar,2,Supreme,0
+Zane,2,Kyrios,0
+Germ,2,Roochi,0
+Yamaneko,2,Dr. Jwnz,1
+Shroomed,2,Rick The Fox,0
+Suzarya,2,Atrioc,1
+Kenney,2,Play4Fun,0
+Pilau Ahi,2,Dolla Bill Bill,1
+L,2,Method,0
+Grandma'S Cleavage,0,White Guilt,2
+Ycz,2,Dank,0
+Skeeter,2,Spevak,0
+Sfat,2,Groovy Green Hat,0
+Weedlord,0,Boback,2
+Dr. Z,2,Runescape,0
+Moose,2,Chris Best,1
+Laudandus,2,Bertbusdriver,0
+Zeldafreak,1,Warwick Foe,2
+Alan,2,Grouch,0
+Snap,2,Pikminbutdeadly,0
+Pewpewu,2,Tranmobile,0
+Crush,2,Sailor Moon 420,0
+Gar,2,Zane,0
+Germ,2,Yamaneko,0
+Shroomed,2,Suzarya,0
+Kenney,2,Pilau Ahi,0
+L,2,White Guilt,0
+Ycz,2,Skeeter,0
+Sfat,2,Boback,1
+Dr. Z,2,Moose,1
+Laudandus,2,Warwick Foe,0
+Alan,2,Snap,0
+Pewpewu,2,Crush,0
+Gar,2,Germ,0
+Shroomed,2,Kenney,0
+L,2,Ycz,0
+Sfat,2,Dr. Z,0
+Laudandus,2,Alan,1
+Pewpewu,2,Gar,0
+Shroomed,2,L,0
+Sfat,2,Laudandus,1
+Pewpewu,2,Shroomed,1
+Sfat,3,Pewpewu,0
+Sfat,3,Pewpewu,1
+Spevak,2,Me,0
+Grandma'S Cleavage,2,Margrave,0
+Method,2,H4Wk,0
+Dolla Bill Bill,2,Colbydude,0
+Play4Fun,2,Sajeel,0
+Atrioc,2,Huggermugger,0
+Rick The Fox,2,Frank,0
+Dr. Jwnz,2,Stu,0
+Roochi,2,Egg Salad,0
+Kyrios,2,Ixxt,0
+Supreme,2,Vato,0
+Lexshy,2,Todote,0
+Monkey Jack,2,Yuen,0
+Sharkboi,2,Tung,0
+Volvo,2,Elementalpenguin,0
+Glee,2,Nash,0
+Golf,2,Higgins,0
+Csu Ebeer,1,Lt. Dan,2
+Treechen,2,Mental Djent,0
+Hsu Chef,2,Erik,0
+Bensw,1,Wassabi,2
+Michael,2,Chris Lee,0
+Charlezard,2,Vankulture,0
+Ethan,2,Spoondolf,0
+Bhb,2,Heliodoxy,0
+Zander,2,Wiz,1
+Saba,2,Stephen,0
+Schwiebs,2,Vic,1
+@Sdashkon,1,Grant Cush,2
+Dank,2,Spevak,0
+Grandma'S Cleavage,2,Method,0
+Dolla Bill Bill,2,Play4Fun,0
+Atrioc,2,Rick The Fox,0
+Dr. Jwnz,1,Roochi,2
+Kyrios,2,Supreme,1
+Lexshy,2,Monkey Jack,0
+Sharkboi,0,Volvo,2
+Glee,2,Peggle Master,0
+Golf,2,Lt. Dan,0
+Treechen,0,Hsu Chef,2
+Wassabi,1,Michael,2
+Charlezard,0,Ethan,2
+Bhb,2,Zander,0
+Sabelan,0,Saba,2
+Schwiebs,0,Grant Cush,2
+Pikminbutdeadly,2,Dank,1
+Grouch,2,Grandma'S Cleavage,0
+Zeldafreak,2,Dolla Bill Bill,0
+Bertbusdriver,0,Atrioc,2
+Chris Best,2,Roochi,0
+Runescape,2,Kyrios,0
+Weedlord,2,Lexshy,0
+Groovy Green Hat,2,Volvo,0
+Skeeter,2,Glee,0
+White Guilt,2,Golf,0
+Pilau Ahi,2,Hsu Chef,0
+Suzarya,1,Michael,2
+Yamaneko,2,Ethan,0
+Zane,2,Bhb,1
+Sailor Moon 420,2,Saba,0
+Tranmobile,2,Grant Cush,1
+Pikminbutdeadly,1,Grouch,2
+Zeldafreak,2,Atrioc,0
+Chris Best,2,Runescape,0
+Weedlord,1,Groovy Green Hat,2
+Skeeter,0,White Guilt,2
+Pilau Ahi,2,Michael,0
+Yamaneko,2,Zane,0
+Sailor Moon 420,2,Tranmobile,1
+Crush,2,Grouch,0
+Germ,2,Zeldafreak,0
+Kenney,2,Chris Best,0
+Ycz,1,Groovy Green Hat,2
+Boback,2,White Guilt,1
+Moose,2,Pilau Ahi,0
+Warwick Foe,2,Yamaneko,0
+Snap,2,Sailor Moon 420,0
+Crush,2,Germ,0
+Kenney,2,Groovy Green Hat,0
+Boback,0,Moose,2
+Warwick Foe,2,Snap,0
+Dr. Z,1,Crush,2
+Alan,2,Kenney,1
+Gar,0,Moose,2
+L,2,Warwick Foe,0
+Crush,0,Alan,2
+Moose,2,L,1
+Laudandus,1,Moose,2
+Alan,0,Moose,2
+Pewpewu,3,Moose,1

@@ -1,0 +1,142 @@
+Winky Kyle,2,Fairly Dairing,0
+Willis,2,Nooz,0
+Ned,2,Snug,1
+Wardong,2,Kramer,1
+Danielc,2,Mance Steel,0
+Flake,2,Jerz,0
+Zander,0,Carcosa,2
+Samg,0,Dj Swerve,2
+Monkeyjack,2,Bhb,1
+Dliu,0,Snap,2
+Sfat,2,Winky Kyle,0
+Elementalpenguin,2,Von,0
+Truedong,2,Mari,0
+Crimsonblur,2,Ethan,0
+Ycz,2,Willis,0
+Turok,2,Robin Hood,0
+Germ,2,Treechen,0
+Erik,2,Ramza,0
+Brandon,2,Ned,0
+Royce,0,Hatcrab,2
+Rocky,2,Kneesus Christ,0
+The Grime Reaper,2,Heliodoxy,0
+Ralph,2,Wardong,0
+Pimp Jong Illest,1,Muttnik,2
+Weedlord,2,Danielc,0
+Vankulture,0,Thighblaster,2
+Shroomed,2,Kestrel,0
+Boback,2,Owen,0
+Groovy Green Hat,2,Nmshittier,0
+Dr. Z,2,Flake,0
+Fsu,2,Suck,1
+Nhat,2,Carcosa,0
+Grandma'S Cleavage,1,Anthony,2
+Azusa,2,Dj Swerve,0
+Golf,2,Huggermugger,0
+Danny Paguiao,2,Vegas,0
+Yamaneko,2,Mental Djent,0
+Alan,2,Monkeyjack,0
+Flytaka,2,Charles,0
+Chris Best,2,Snap,0
+Skeeter,2,Brunson,0
+Sfat,2,Elementalpenguin,0
+Truedong,1,Crimsonblur,2
+Ycz,2,Turok,0
+Germ,2,Erik,0
+Brandon,2,Hatcrab,0
+Rocky,2,The Grime Reaper,0
+Ralph,2,Muttnik,0
+Weedlord,2,Thighblaster,0
+Shroomed,2,Clubs,0
+Boback,0,Groovy Green Hat,2
+Dr. Z,2,Fsu,0
+Nhat,2,Anthony,0
+Azusa,2,Golf,0
+Danny Paguiao,2,Yamaneko,0
+Alan,2,Flytaka,0
+Chris Best,1,Skeeter,2
+Sfat,2,Crimsonblur,0
+Ycz,1,Germ,2
+Brandon,2,Rocky,0
+Ralph,0,Weedlord,2
+Shroomed,2,Groovy Green Hat,0
+Dr. Z,0,Nhat,2
+Azusa,2,Danny Paguiao,0
+Alan,2,Skeeter,0
+Sfat,2,Germ,0
+Brandon,2,Weedlord,0
+Shroomed,2,Nhat,0
+Azusa,2,Alan,0
+Sfat,2,Brandon,0
+Shroomed,2,Azusa,0
+Sfat,3,Shroomed,1
+Brunson,0,Fairly Dairing,2
+Grandma'S Cleavage,2,Snug,0
+Nmshittier,1,Kramer,2
+Heliodoxy,2,Jerz,1
+Royce,2,Zander,0
+Ramza,2,Samg,0
+Ethan,2,Bhb,0
+Von,2,Dliu,0
+Snap,2,Fairly Dairing,0
+Charles,2,Monkeyjack,0
+Vegas,2,Mental Djent,0
+Dj Swerve,0,Huggermugger,2
+Carcosa,0,Grandma'S Cleavage,2
+Suck,0,Flake,2
+Owen,2,Kramer,0
+Kestrel,2,Mance Steel,0
+Danielc,2,Vankulture,0
+Pimp Jong Illest,0,Wardong,2
+Kneesus Christ,2,Heliodoxy,0
+Ned,0,Royce,2
+Treechen,1,Ramza,2
+Robin Hood,2,Willis,1
+Mari,1,Ethan,2
+Winky Kyle,0,Von,2
+Thighblaster,0,Snap,2
+Muttnik,1,Charles,2
+The Grime Reaper,2,Vegas,1
+Hatcrab,2,Huggermugger,0
+Erik,2,Grandma'S Cleavage,1
+Turok,2,Flake,0
+Truedong,2,Owen,0
+Elementalpenguin,0,Kestrel,2
+Chris Best,2,Danielc,0
+Flytaka,0,Wardong,2
+Yamaneko,2,Kneesus Christ,0
+Golf,2,Royce,0
+Anthony,2,Ramza,1
+Fsu,2,Robin Hood,0
+Boback,2,Ethan,0
+Clubs,0,Von,2
+Snap,2,Charles,0
+The Grime Reaper,2,Hatcrab,1
+Erik,2,Turok,0
+Truedong,2,Kestrel,0
+Chris Best,1,Wardong,2
+Yamaneko,2,Golf,1
+Anthony,0,Fsu,2
+Boback,2,Von,0
+Groovy Green Hat,2,Snap,0
+Dr. Z,2,The Grime Reaper,0
+Danny Paguiao,1,Erik,2
+Skeeter,2,Truedong,1
+Crimsonblur,2,Wardong,1
+Ycz,2,Yamaneko,1
+Rocky,2,Fsu,0
+Ralph,2,Boback,1
+Groovy Green Hat,1,Dr. Z,2
+Erik,1,Skeeter,2
+Crimsonblur,0,Ycz,2
+Rocky,1,Ralph,2
+Germ,1,Dr. Z,2
+Weedlord,2,Skeeter,1
+Nhat,0,Ycz,2
+Alan,1,Ralph,2
+Dr. Z,2,Weedlord,1
+Ycz,2,Ralph,0
+Azusa,2,Dr. Z,0
+Brandon,2,Ycz,0
+Azusa,2,Brandon,1
+Shroomed,3,Azusa,2

@@ -1,0 +1,128 @@
+Black Light Attack,2,Sabelan,0
+Shroomed,2,Black Light Attack,0
+Treechen,1,Ethan,2
+Snap,2,Bug Deal,0
+Baise,2,Holz!,0
+Nmw,2,Phishy,0
+Golf,2,Allpain,0
+Mr. B,2,Clumsy,0
+Smoke2Pesos,2,Octobear,0
+Azusa,2,El Cancél,0
+Bensw,0,Ted,2
+Boback,2,Flake,0
+Royce,2,Marloda,0
+Alan,2,Moose,0
+Atrioc,2,Big Daddy Josh,0
+Germ,2,Chris,0
+Grandma'S Cleavage,2,Mooki,1
+Brandon,2,Danimals,0
+Elementalpenguin,2,Charles,0
+Kwan,2,Blows,0
+Violence,0,Neutroni,2
+Ralph,2,Chris Best,0
+Warwick Foe,2,50 Shades Of J,0
+Ycz,2,Unagi,0
+2Jabjames,2,Choi,1
+Lord,2,Force Talk,0
+Tiamat,1,Gk Infinity,2
+Mikkuz,2,Crae,0
+Imyt,2,Kenyaboy,0
+Gar,2,Savo,1
+@Sdashkon,0,Sk_Combo,2
+Nhat,2,Dr. Jwns,0
+Yamaneko,2,Flan,0
+Shroomed,2,Ethan,0
+Snap,2,Baise,1
+Nmw,2,Golf,0
+Mr. B,2,Smoke2Pesos,1
+Azusa,2,Ted,0
+Boback,2,Royce,1
+Alan,2,Atrioc,0
+Germ,2,Grandma'S Cleavage,0
+Brandon,2,Elementalpenguin,0
+Kwan,2,Neutroni,0
+Ralph,2,Warwick Foe,1
+Ycz,2,2Jabjames,0
+Lord,2,Gk Infinity,0
+Mikkuz,2,Imyt,1
+Gar,2,Sk_Combo,0
+Nhat,2,Yamaneko,0
+Shroomed,0,Snap,2
+Nmw,2,Mr. B,1
+Azusa,2,Boback,0
+Alan,2,Germ,0
+Brandon,2,Kwan,0
+Ralph,0,Ycz,2
+Lord,2,Mikkuz,1
+Gar,2,Nhat,0
+Snap,2,Nmw,1
+Azusa,2,Alan,0
+Brandon,2,Ycz,1
+Lord,2,Gar,0
+Snap,0,Azusa,3
+Brandon,1,Lord,3
+Azusa,3,Lord,1
+Azusa,2,Alan,0
+Flan,0,Sabelan,2
+Dr. Jwns,1,Sabelan,2
+@Sdashkon,0,Savo,2
+Kenyaboy,0,Crae,2
+Tiamat,2,Force Talk,1
+Choi,2,Unagi,0
+50 Shades Of J,0,Chris Best,2
+Violence,2,Blows,0
+Charles,0,Danimals,2
+Mooki,2,Chris,0
+Big Daddy Josh,1,Moose,2
+Marloda,0,Flake,2
+Bensw,1,El Cancél,2
+Octobear,2,Clumsy,0
+Allpain,2,Phishy,0
+Holz!,0,Bug Deal,2
+Treechen,1,Black Light Attack,2
+Grandma'S Cleavage,2,Sabelan,0
+Atrioc,0,Savo,2
+Royce,2,Crae,0
+Ted,0,Tiamat,2
+Smoke2Pesos,2,Choi,0
+Golf,2,Chris Best,1
+Baise,0,Violence,2
+Ethan,1,Danimals,2
+Yamaneko,2,Mooki,0
+Sk_Combo,0,Moose,2
+Imyt,2,Flake,0
+Gk Infinity,2,El Cancél,0
+2Jabjames,2,Octobear,0
+Warwick Foe,2,Allpain,1
+Neutroni,2,Bug Deal,0
+Elementalpenguin,2,Black Light Attack,1
+Grandma'S Cleavage,0,Savo,2
+Royce,2,Tiamat,0
+Smoke2Pesos,2,Golf,0
+Violence,2,Danimals,0
+Yamaneko,2,Moose,0
+Imyt,1,Gk Infinity,2
+2Jabjames,0,Warwick Foe,2
+Neutroni,2,Elementalpenguin,0
+Kwan,2,Savo,0
+Ralph,2,Royce,0
+Mikkuz,2,Smoke2Pesos,0
+Nhat,2,Violence,0
+Shroomed,2,Yamaneko,0
+Mr. B,2,Gk Infinity,0
+Boback,2,Warwick Foe,1
+Germ,0,Neutroni,2
+Kwan,2,Ralph,1
+Mikkuz,0,Nhat,2
+Shroomed,0,Mr. B,2
+Boback,0,Neutroni,2
+Nmw,2,Kwan,1
+Alan,2,Nhat,0
+Ycz,0,Mr. B,2
+Gar,2,Neutroni,1
+Nmw,0,Alan,2
+Mr. B,0,Gar,2
+Brandon,0,Alan,2
+Snap,0,Gar,2
+Alan,3,Gar,1
+Lord,1,Alan,3

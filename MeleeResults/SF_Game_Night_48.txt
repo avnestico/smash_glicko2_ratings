@@ -1,0 +1,158 @@
+Kyrios,2,Geen,0
+Mari,2,Jame,0
+Zander,2,Lauren,0
+Suck,0,Daybreak,2
+Melkor,0,Stu,2
+6669,2,Spevak,0
+Mental Djent,2,Holz!,0
+Keith,2,Grandma'S Penis,0
+Dank,1,Alaskan Bullworm,2
+Charles,1,The Other Nima,2
+Darken,2,Nani,0
+Skygazer,0,Pegglemaster,2
+Ernest,2,John,0
+Janet,2,Hugger Mugger,0
+Sabelan,2,Unagi,1
+Ryan,0,The Funky Collider,2
+Shroomed,2,Kyrios,0
+Irish,1,Ghettotastic,2
+Zeldafreak,2,Mari,0
+Boback,2,Omar,0
+Ralph,2,Zander,0
+Grandma'S Cleavage,2,Ethan,0
+Bertbusdriver,0,Daybreak,2
+Danny Paquiao,0,Dr. Jwnz,2
+Brandon,2,Stu,0
+The Grime Reaper,2,Chris Best,1
+Mikkuz,2,6669,0
+Zoap,1,Somatose,2
+Azusa,2,Mental Djent,0
+Wardong,2,Hatcrab,0
+Ycz,2,Keith,0
+Rocky,2,Glee,0
+Sfat,2,Alaskan Bullworm,0
+Sheen,2,Ghidorah,0
+Snap,2,The Other Nima,0
+Bluefoxxt,2,Ponkapa,0
+Alan,2,Darken,0
+Arcadia,2,Treechen,0
+Nmw,2,Pegglemaster,0
+Imyt,2,Drewgong,0
+Laudandus,2,Ernest,0
+Skeeter,2,Soccermom69,1
+Doyoung2Win,2,Janet,1
+Weedlord,2,Minohaxor,0
+Dizzkidboogie,2,Sabelan,0
+Yamaneko,2,Elemental Penguin,0
+Mr. Brandandorf,2,The Funky Collider,0
+Pikminbutdeadly,2,Sd @Sdashkon,0
+Shroomed,2,Ghettotastic,0
+Zeldafreak,2,Boback,0
+Ralph,2,Grandma'S Cleavage,0
+Daybreak,2,Dr. Jwnz,1
+Brandon,2,The Grime Reaper,0
+Mikkuz,2,Somatose,0
+Azusa,2,Wardong,0
+Ycz,1,Rocky,2
+Sfat,2,Sheen,0
+Snap,2,Bluefoxxt,1
+Alan,2,Arcadia,1
+Nmw,2,Imyt,1
+Laudandus,2,Skeeter,0
+Doyoung2Win,2,Weedlord,0
+Dizzkidboogie,2,Yamaneko,0
+Mr. Brandandorf,2,Pikminbutdeadly,0
+Shroomed,2,Zeldafreak,0
+Ralph,2,Daybreak,0
+Brandon,2,Mikkuz,1
+Azusa,2,Rocky,0
+Sfat,2,Snap,0
+Alan,2,Nmw,0
+Laudandus,2,Doyoung2Win,0
+Dizzkidboogie,2,Mr. Brandandorf,1
+Shroomed,2,Ralph,0
+Brandon,0,Azusa,2
+Sfat,2,Alan,0
+Laudandus,1,Dizzkidboogie,2
+Shroomed,0,Azusa,2
+Sfat,2,Dizzkidboogie,1
+Azusa,2,Sfat,0
+Azusa,1,Sfat,2
+Sfat,2,Azusa,0
+Sd @Sdashkon,2,Geen,0
+Elemental Penguin,2,Jame,0
+Minohaxor,2,Lauren,0
+Soccermom69,2,Suck,0
+Drewgong,2,Melkor,0
+Treechen,1,Spevak,2
+Ponkapa,0,Holz!,2
+Ghidorah,2,Grandma'S Penis,0
+Glee,0,Dank,2
+Hatcrab,2,Charles,0
+Zoap,2,Nani,0
+Chris Best,2,Skygazer,0
+Danny Paquiao,2,John,0
+Ethan,2,Hugger Mugger,1
+Irish,2,Ryan,0
+The Funky Collider,1,Sd @Sdashkon,2
+Sabelan,2,Elemental Penguin,1
+Janet,2,Minohaxor,0
+Ernest,0,Soccermom69,2
+Pegglemaster,0,Drewgong,2
+Darken,0,Spevak,2
+The Other Nima,1,Holz!,2
+Alaskan Bullworm,0,Ghidorah,2
+Keith,0,Dank,2
+Mental Djent,0,Hatcrab,2
+6669,0,Zoap,2
+Stu,0,Chris Best,2
+Bertbusdriver,0,Danny Paquiao,2
+Zander,1,Ethan,2
+Mari,2,Unagi,0
+Kyrios,0,Irish,2
+Ycz,2,Sd @Sdashkon,0
+Wardong,2,Sabelan,0
+Somatose,0,Janet,2
+The Grime Reaper,2,Soccermom69,1
+Dr. Jwnz,0,Drewgong,2
+Grandma'S Cleavage,2,Spevak,1
+Boback,2,Holz!,0
+Ghettotastic,0,Ghidorah,2
+Pikminbutdeadly,2,Dank,0
+Yamaneko,2,Hatcrab,0
+Weedlord,0,Zoap,2
+Skeeter,0,Chris Best,2
+Imyt,2,Danny Paquiao,0
+Arcadia,2,Ethan,0
+Bluefoxxt,2,Mari,0
+Sheen,2,Irish,0
+Ycz,2,Wardong,0
+Janet,2,The Grime Reaper,1
+Drewgong,2,Grandma'S Cleavage,1
+Boback,0,Ghidorah,2
+Pikminbutdeadly,2,Yamaneko,1
+Zoap,1,Chris Best,2
+Imyt,1,Arcadia,2
+Bluefoxxt,2,Sheen,1
+Snap,2,Ycz,1
+Nmw,2,Janet,0
+Doyoung2Win,0,Drewgong,2
+Mr. Brandandorf,2,Ghidorah,0
+Zeldafreak,2,Pikminbutdeadly,1
+Daybreak,2,Chris Best,0
+Mikkuz,2,Arcadia,1
+Rocky,2,Bluefoxxt,0
+Snap,0,Nmw,2
+Drewgong,0,Mr. Brandandorf,2
+Zeldafreak,2,Daybreak,0
+Mikkuz,0,Rocky,2
+Ralph,2,Nmw,1
+Brandon,2,Mr. Brandandorf,0
+Alan,2,Zeldafreak,1
+Laudandus,2,Rocky,1
+Ralph,2,Brandon,1
+Alan,0,Laudandus,2
+Dizzkidboogie,2,Ralph,0
+Shroomed,1,Laudandus,2
+Dizzkidboogie,1,Laudandus,2
+Sfat,2,Laudandus,0

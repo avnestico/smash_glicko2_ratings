@@ -1,0 +1,166 @@
+Untitled,2,Nope,0
+Menohaxor,0,Dolla Bill Bill,2
+Mari,2,Vato,0
+Holz!,2,Kyrios,0
+Unagi,0,Foxlisk,2
+Radiowar,2,Stu,0
+Anthony,2,Dustin,0
+Sharkboi,2,Zoo,0
+Pikablu,2,Mental Djent,0
+Wassabi,2,Tanooki,0
+Xavier,1,Sajeel,2
+Hsk,2,Cairo,1
+Alaric,2,Lvl6Zubat,1
+Huggermugger,2,Boandrew,1
+Vic,2,Melkor,0
+Thugz,2,Wiz,1
+@Sdashkon,1,Bad Goy,2
+Charlezard,2,Mr. Wu,1
+Kidney,2,Vankulture,1
+Dba,2,Faux,0
+Pewpewu,2,Untitled,0
+L Tigre,2,Atrioc,0
+Nhat,2,Dolla Bill Bill,0
+Mikkuz,2,Mari,0
+Robcash$Berto,2,Holz!,1
+Hello Kitty Sage,2,Spevak,1
+Llllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll,2,Foxlisk,0
+Yoshi,2,Miguel,1
+Azusa,2,Radiowar,0
+Wardong,2,Golf,0
+Ycz,2,Anthony,0
+Puff2Jointz,1,Sharkboi,2
+Alan,2,Pikablu,0
+Chris Best,1,2Rk,2
+Moose,2,Wassabi,0
+Mackadotious,2,Dr. Jwnz,0
+Sfat,2,Sajeel,0
+Runescape,2,Hatcrab,0
+Lunin,2,Hsk,0
+Weedlord,2,Alaric,0
+Silentspectre,2,Huggermugger,0
+Danny Pacquiao,2,Glee,0
+Gar,2,Vic,0
+Boback,2,Bensw,0
+Shroomed,2,Thugz,0
+Skeeter,2,Suzy420,0
+Mr. Brandandorf,2,Bad Goy,0
+Zeldafreak,2,Charlezard,0
+Ralph,2,Kidney,0
+Crimsonblur,2,Ethan,0
+Nmw,2,Dba,0
+Imwhitey,2,Owen,0
+Pewpewu,2,L Tigre,0
+Nhat,0,Mikkuz,2
+Robcash$Berto,2,Hello Kitty Sage,0
+Llllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll,1,Yoshi,2
+Azusa,2,Wardong,0
+Ycz,2,Sharkboi,0
+Alan,2,2Rk,0
+Moose,2,Mackadotious,0
+Sfat,1,Runescape,2
+Lunin,2,Weedlord,0
+Silentspectre,2,Danny Pacquiao,0
+Gar,2,Boback,0
+Shroomed,2,Skeeter,0
+Mr. Brandandorf,0,Zeldafreak,2
+Ralph,2,Crimsonblur,0
+Nmw,2,Imwhitey,0
+Pewpewu,2,Mikkuz,0
+Robcash$Berto,1,Yoshi,2
+Azusa,2,Ycz,0
+Alan,0,Moose,2
+Runescape,0,Lunin,2
+Silentspectre,2,Gar,1
+Shroomed,2,Zeldafreak,0
+Ralph,2,Nmw,1
+Pewpewu,2,Yoshi,0
+Azusa,1,Moose,2
+Lunin,1,Silentspectre,2
+Shroomed,2,Ralph,0
+Pewpewu,2,Moose,0
+Silentspectre,1,Shroomed,2
+Pewpewu,2,Shroomed,0
+Pewpewu,3,Sfat,1
+Owen,2,Nope,0
+Ethan,0,Menohaxor,2
+Kidney,0,Vato,2
+Charlezard,2,Kyrios,0
+Suzy420,2,Unagi,0
+Bensw,2,Stu,0
+Glee,2,Dustin,1
+Huggermugger,2,Zoo,0
+Alaric,2,Mental Djent,0
+Hatcrab,2,Tanooki,0
+Dr. Jwnz,2,Xavier,0
+Chris Best,2,Cairo,0
+Pikablu,0,Lvl6Zubat,2
+Puff2Jointz,2,Boandrew,0
+Golf,2,Melkor,0
+Miguel,2,Wiz,1
+Spevak,2,@Sdashkon,1
+Holz!,0,Mr. Wu,2
+Mari,2,Vankulture,0
+Atrioc,2,Faux,0
+Dba,0,Owen,2
+Menohaxor,2,Vato,0
+Bad Goy,0,Charlezard,2
+Thugz,2,Suzy420,1
+Vic,0,Bensw,2
+Glee,2,Huggermugger,1
+Hsk,2,Alaric,1
+Sajeel,0,Hatcrab,2
+Wassabi,2,Dr. Jwnz,0
+Chris Best,2,Lvl6Zubat,0
+Anthony,1,Puff2Jointz,2
+Radiowar,2,Golf,1
+Foxlisk,1,Miguel,2
+Spevak,2,Mr. Wu,0
+Dolla Bill Bill,2,Mari,0
+Untitled,0,Atrioc,2
+Mackadotious,2,Owen,0
+2Rk,2,Menohaxor,0
+Sharkboi,2,Charlezard,1
+Wardong,2,Thugz,1
+Llllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll,2,Bensw,0
+Hello Kitty Sage,2,Glee,0
+Nhat,2,Hsk,0
+L Tigre,2,Hatcrab,0
+Imwhitey,2,Wassabi,0
+Crimsonblur,2,Chris Best,1
+Mr. Brandandorf,0,Puff2Jointz,2
+Skeeter,2,Radiowar,0
+Boback,2,Miguel,0
+Danny Pacquiao,2,Spevak,0
+Weedlord,2,Dolla Bill Bill,0
+Sfat,2,Atrioc,0
+Mackadotious,0,2Rk,2
+Sharkboi,2,Wardong,1
+Llllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll,2,Hello Kitty Sage,0
+Nhat,2,L Tigre,1
+Imwhitey,0,Crimsonblur,2
+Puff2Jointz,2,Skeeter,1
+Boback,0,Danny Pacquiao,2
+Weedlord,0,Sfat,2
+Runescape,2,2Rk,0
+Gar,2,Sharkboi,1
+Zeldafreak,2,Llllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll,0
+Nmw,2,Nhat,0
+Mikkuz,2,Crimsonblur,1
+Robcash$Berto,2,Puff2Jointz,0
+Ycz,2,Danny Pacquiao,0
+Alan,0,Sfat,2
+Runescape,0,Gar,2
+Zeldafreak,0,Nmw,2
+Mikkuz,0,Robcash$Berto,2
+Ycz,0,Sfat,2
+Yoshi,2,Gar,1
+Azusa,2,Nmw,1
+Lunin,1,Robcash$Berto,2
+Ralph,0,Sfat,2
+Yoshi,0,Azusa,2
+Robcash$Berto,0,Sfat,2
+Silentspectre,0,Azusa,2
+Moose,0,Sfat,2
+Azusa,0,Sfat,2
+Shroomed,0,Sfat,2

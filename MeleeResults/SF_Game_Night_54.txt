@@ -1,0 +1,181 @@
+Zander,2,Monkeyjack,1
+Elementalpenguin,2,Stan,0
+Madgood,0,Vankulture,2
+Html,0,Clubs,2
+Mental Djent,2,Saomitch,0
+Rickthefox,1,Cal,2
+Huggermugger,2,Mr. Nasty,0
+Sexy,2,Glasses,0
+Zane,2,Flex,0
+Nooch Milk Hotel,0,Jame,2
+Intimidator,0,Dickboy94,2
+Aroic,0,Wiz,2
+Wassabi,0,Menohaxor,2
+Charlezard,2,Bananahammock,0
+Cheapskates,0,Vincent,2
+Ara,2,Sajeel,0
+Clouded Cloud,2,Bk,0
+H$,0,Lightweight Nate,2
+Bison,0,Soda,2
+Alaric,1,Thugz,2
+Kidney,2,Sd King,0
+Anthony,2,Gotemm,0
+Heliodoxy,2,Moox,0
+Vic,2,Xavier,0
+Verboten,1,Bhb,2
+Sabelan,2,Rhoa,0
+Chuck Lee,2,Hawk,0
+@Sdashkon,2,Erik,1
+Reverb,0,Spiff,2
+Pewpewu,2,Zander,0
+Groovy Green Hat,2,Jb,0
+Mr. Brandandorf,2,Vankulture,0
+Stab,2,Clubs,0
+Grandma'S Cleavage,2,Mental Djent,0
+Ralph,2,Cal,0
+Yamaneko,2,Huggermugger,0
+Laudandus,2,Sexy,0
+Ghettotastic,1,Zane,2
+L,2,Jame,0
+Boback,2,Dickboy94,0
+Azusa,2,Wiz,0
+Royce,2,Menohaxor,0
+Berto,2,Charlezard,1
+Sage,2,Vincent,0
+Sfat,2,Ara,0
+Bertbusdriver,0,Goose,2
+Ycz,2,Clouded Cloud,0
+Nhat,2,Lightweight Nate,0
+Moose,2,Soda,0
+Skeeter,0,Thugz,2
+Alan,2,Kidney,0
+Chris Worst,2,Anthony,0
+Shroomed,2,Heliodoxy,0
+Runescape,0,Golf,2
+Gar,2,Vic,0
+Weedlord,2,Bhb,0
+Dizzkidboogie,2,Sabelan,0
+Hostility,2,Chuck Lee,1
+Reason,2,@Sdashkon,1
+Imyt,2,Spiff,0
+Pewpewu,2,Groovy Green Hat,0
+Elementalpenguin,0,Mr. Brandandorf,2
+Stab,2,Grandma'S Cleavage,0
+Ralph,2,Yamaneko,0
+Laudandus,2,Zane,0
+L,2,Boback,0
+Azusa,2,Royce,0
+Berto,2,Sage,1
+Sfat,2,Goose,1
+Ycz,2,Nhat,1
+Moose,2,Thugz,1
+Alan,2,Chris Worst,0
+Shroomed,2,Golf,0
+Gar,2,Weedlord,0
+Dizzkidboogie,2,Hostility,0
+Reason,2,Imyt,0
+Pewpewu,2,Mr. Brandandorf,0
+Stab,2,Ralph,1
+Laudandus,0,L,2
+Azusa,2,Berto,1
+Sfat,2,Ycz,1
+Moose,2,Alan,0
+Shroomed,2,Gar,0
+Dizzkidboogie,2,Reason,1
+Pewpewu,2,Stab,1
+L,0,Azusa,2
+Sfat,1,Moose,2
+Shroomed,2,Dizzkidboogie,0
+Pewpewu,2,Azusa,0
+Moose,0,Shroomed,2
+Pewpewu,2,Shroomed,3
+Shroomed,1,Pewpewu,2
+Pewpewu,1,Shroomed,2
+Spiff,2,Monkeyjack,0
+Chuck Lee,2,Stan,0
+Sabelan,2,Madgood,0
+Vic,2,Saomitch,0
+Runescape,2,Rickthefox,1
+Heliodoxy,2,Mr. Nasty,0
+Anthony,2,Glasses,0
+Kidney,0,Flex,2
+Skeeter,2,Nooch Milk Hotel,0
+Soda,2,Intimidator,1
+Lightweight Nate,2,Aroic,0
+Bertbusdriver,2,Bananahammock,0
+Ara,2,Cheapskates,0
+Vincent,2,Sajeel,0
+Menohaxor,2,Bk,0
+Wiz,2,H$,0
+Dickboy94,2,Bison,0
+Jame,0,Alaric,2
+Ghettotastic,2,Sd King,0
+Sexy,0,Gotemm,2
+Huggermugger,2,Moox,0
+Mental Djent,0,Xavier,2
+Clubs,2,Verboten,0
+Vankulture,2,Rhoa,0
+Jb,2,Erik,0
+Zander,2,Reverb,0
+@Sdashkon,0,Spiff,2
+Chuck Lee,2,Sabelan,0
+Bhb,0,Vic,2
+Runescape,2,Heliodoxy,0
+Anthony,2,Flex,1
+Skeeter,2,Soda,1
+Lightweight Nate,0,Wassabi,2
+Bertbusdriver,1,Ara,2
+Charlezard,2,Vincent,1
+Menohaxor,0,Wiz,2
+Dickboy94,2,Alaric,1
+Ghettotastic,2,Gotemm,1
+Cal,0,Huggermugger,2
+Xavier,0,Clubs,2
+Vankulture,0,Hawk,2
+Jb,2,Zander,0
+Sage,2,Spiff,0
+Royce,1,Chuck Lee,2
+Boback,2,Vic,0
+Zane,1,Runescape,2
+Yamaneko,2,Anthony,0
+Grandma'S Cleavage,0,Skeeter,2
+Elementalpenguin,2,Wassabi,1
+Groovy Green Hat,2,Ara,0
+Imyt,2,Charlezard,0
+Hostility,2,Wiz,0
+Weedlord,2,Dickboy94,0
+Golf,2,Ghettotastic,0
+Chris Worst,2,Huggermugger,1
+Thugz,2,Clubs,0
+Nhat,2,Hawk,0
+Goose,2,Jb,0
+Sage,2,Chuck Lee,1
+Boback,2,Runescape,0
+Yamaneko,2,Skeeter,1
+Elementalpenguin,0,Groovy Green Hat,4
+Imyt,0,Hostility,2
+Weedlord,2,Golf,0
+Chris Worst,2,Thugz,1
+Nhat,0,Goose,2
+Ycz,2,Sage,1
+Alan,2,Boback,0
+Gar,2,Yamaneko,0
+Reason,2,Groovy Green Hat,0
+Mr. Brandandorf,2,Hostility,0
+Ralph,2,Weedlord,0
+Laudandus,2,Chris Worst,0
+Berto,1,Goose,2
+Ycz,0,Alan,2
+Gar,2,Reason,1
+Mr. Brandandorf,0,Ralph,2
+Laudandus,2,Goose,0
+Stab,2,Alan,1
+L,2,Gar,1
+Sfat,2,Ralph,1
+Dizzkidboogie,2,Laudandus,1
+Stab,0,L,2
+Sfat,1,Dizzkidboogie,2
+Moose,2,L,0
+Azusa,2,Dizzkidboogie,1
+Moose,0,Azusa,2
+Pewpewu,2,Azusa,0

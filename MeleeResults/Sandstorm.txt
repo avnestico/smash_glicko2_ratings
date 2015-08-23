@@ -14,6 +14,7 @@ Mew2King,0,Scape,2
 Glitch,2,Tfs_,0
 Gahtzu,2,Bacon,0
 Silly Kyle,2,Ivan,0
+Mang0,2,Spank,0
 Trahh,1,Nerin,2
 Okamibw,2,W,0
 Medz,2,Hard,0

@@ -1,0 +1,189 @@
+Chris Pinion,0,Meep,2
+Royce,2,Tide,0
+Zander,2,Karma,1
+Roochi,2,Snug,0
+Jourdan,2,Mental Djent,0
+#Impeachowen,2,-Daniel-,0
+Sabelan,0,Hoof,2
+Dr. Jwnz,2,Fastest Rock,1
+Koops,2,Sdking,0
+Irish,2,Ducky,0
+Holz!,1,Peggle Master,2
+Widlar,2,Dj Swerve,1
+Me,1,Dba,2
+Deep,2,Porty,0
+Charles,0,Thezerofareal,2
+J.P,1,Muttnik,2
+Sword Play,0,Fluke,2
+Ghettotastic,0,Anthony,2
+Blacklightattack,2,Jax,0
+Soke,2,Ned,0
+Ernest,2,Clubs,1
+Elementalpenguin,0,Flytaka,2
+Bison,0,Cgw,2
+Ethan,2,Tysonz,0
+Hhlink,0,Madgood,2
+Schwiebs,2,Jv,0
+Sammy,2,Nmh,0
+Pimp Jong Illest,2,Samg,0
+Nash,2,Brunson,0
+Huggermugger,2,Big Huge Man,0
+Dark Silence,2,Pat,0
+Tranmobile,2,Fordacious,0
+Shroomed,2,Meep,0
+Ghidorah,2,Royce,1
+Ahmad,2,Zander,0
+Imyt,2,Roochi,1
+Tang,2,Jourdan,0
+Snacks,1,#Impeachowen,2
+Replicate,2,Hoof,0
+Kuma,2,Dr. Jwnz,0
+Nmw,2,Koops,0
+Sharkboi,2,Irish,0
+Weedlord,2,Peggle Master,0
+Yamaneko,2,Widlar,1
+Gar,2,Dba,0
+Golf,2,Deep,0
+Bardull,2,Thezerofareal,0
+Skeeter,2,Muttnik,0
+Moose,2,Fluke,0
+Miguel,2,Anthony,0
+Boback,2,Blacklightattack,0
+Chris Best,2,Soke,0
+Ky,2,Ernest,0
+Pokemonmasterirl,2,Flytaka,1
+Snap,2,Cgw,0
+Erik,2,Ethan,1
+Alan,2,Madgood,0
+Magikarp,1,Schwiebs,2
+The__Cheese,2,Sammy,0
+Myko,0,Pimp Jong Illest,2
+Ycz,2,Nash,0
+Grandma'S Cleavage,2,Huggermugger,0
+Goose,2,Dark Silence,0
+Warwick Foe,2,Tranmobile,0
+Shroomed,2,Ghidorah,0
+Ahmad,2,Imyt,0
+Tang,2,#Impeachowen,0
+Replicate,2,Kuma,0
+Nmw,2,Sharkboi,1
+Weedlord,1,Yamaneko,2
+Gar,2,Golf,0
+Bardull,2,Skeeter,0
+Moose,2,Miguel,0
+Boback,1,Chris Best,2
+Ky,2,Pokemonmasterirl,0
+Snap,2,Erik,0
+Alan,2,Schwiebs,0
+The__Cheese,2,Pimp Jong Illest,1
+Ycz,2,Grandma'S Cleavage,1
+Goose,2,Warwick Foe,1
+Shroomed,2,Ahmad,1
+Tang,2,Replicate,0
+Nmw,2,Yamaneko,0
+Gar,2,Bardull,0
+Moose,2,Chris Best,0
+Ky,2,Snap,1
+Alan,2,The__Cheese,1
+Ycz,2,Goose,0
+Shroomed,2,Tang,0
+Nmw,0,Gar,2
+Moose,2,Ky,1
+Alan,2,Ycz,0
+Shroomed,2,Gar,0
+Moose,1,Alan,2
+Shroomed,2,Alan,0
+Shroomed,1,Moose,2
+Moose,1,Shroomed,2
+Dark Silence,2,Tide,0
+Huggermugger,2,Karma,0
+Nash,0,Snug,2
+Myko,2,Mental Djent,0
+Sammy,2,-Daniel-,0
+Magikarp,2,Sabelan,0
+Madgood,0,Fastest Rock,2
+Ethan,2,Sdking,0
+Cgw,2,Ducky,0
+Flytaka,2,Holz!,0
+Ernest,2,Dj Swerve,0
+Soke,2,Me,0
+Blacklightattack,2,Porty,0
+Anthony,2,Charles,0
+Fluke,2,J.P,1
+Muttnik,2,Sword Play,0
+Thezerofareal,1,Ghettotastic,2
+Deep,2,Jax,0
+Dba,1,Ned,2
+Widlar,2,Clubs,1
+Peggle Master,1,Elementalpenguin,2
+Irish,2,Bison,0
+Koops,0,Tysonz,2
+Hoof,2,Jv,0
+Snacks,2,Nmh,0
+Jourdan,2,Samg,0
+Roochi,2,Brunson,0
+Zander,2,Big Huge Man,0
+Royce,2,Pat,0
+Meep,0,Fordacious,2
+Tranmobile,2,Dark Silence,0
+Huggermugger,2,Snug,0
+Myko,2,Sammy,0
+Magikarp,2,Fastest Rock,1
+Ethan,0,Cgw,2
+Flytaka,2,Ernest,0
+Soke,0,Blacklightattack,2
+Anthony,1,Fluke,2
+Muttnik,0,Ghettotastic,2
+Deep,2,Ned,0
+Widlar,0,Elementalpenguin,2
+Irish,2,Tysonz,0
+Dr. Jwnz,1,Hoof,2
+Snacks,1,Jourdan,2
+Roochi,2,Zander,1
+Royce,2,Fordacious,0
+Skeeter,2,Tranmobile,0
+Golf,0,Huggermugger,2
+Weedlord,2,Myko,0
+Sharkboi,0,Magikarp,2
+Kuma,2,Cgw,0
+#Impeachowen,2,Flytaka,1
+Imyt,2,Blacklightattack,1
+Ghidorah,2,Fluke,1
+Warwick Foe,2,Ghettotastic,0
+Grandma'S Cleavage,2,Deep,0
+Pimp Jong Illest,2,Elementalpenguin,0
+Schwiebs,2,Irish,0
+Erik,1,Hoof,2
+Pokemonmasterirl,0,Jourdan,2
+Boback,1,Roochi,2
+Miguel,0,Royce,2
+Skeeter,2,Huggermugger,0
+Weedlord,2,Magikarp,0
+Kuma,2,#Impeachowen,0
+Imyt,0,Ghidorah,2
+Warwick Foe,1,Grandma'S Cleavage,2
+Pimp Jong Illest,2,Schwiebs,0
+Hoof,2,Jourdan,0
+Roochi,2,Royce,0
+Chris Best,2,Skeeter,0
+Snap,0,Weedlord,2
+The__Cheese,2,Kuma,1
+Goose,2,Ghidorah,0
+Ahmad,2,Grandma'S Cleavage,0
+Replicate,2,Pimp Jong Illest,0
+Yamaneko,2,Hoof,0
+Bardull,2,Roochi,0
+Chris Best,0,Weedlord,2
+The__Cheese,1,Goose,2
+Ahmad,1,Replicate,2
+Yamaneko,0,Bardull,2
+Tang,2,Weedlord,0
+Nmw,1,Goose,2
+Ky,0,Replicate,2
+Ycz,0,Bardull,2
+Tang,1,Goose,2
+Replicate,2,Bardull,0
+Moose,2,Goose,0
+Gar,1,Replicate,2
+Moose,2,Replicate,0
+Alan,0,Moose,2

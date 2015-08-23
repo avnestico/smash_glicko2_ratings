@@ -1,0 +1,125 @@
+Sfat,2,Tanuki,0
+Bflat,0,Bobby Siege,2
+Boback,0,Erik,2
+The__Cheese,2,Unagi,0
+Delphiki,2,Chrisbest,0
+Pikminbutdeadly,2,Dirk,0
+Nmw,2,Horsethebear,0
+Skeeter,2,Shiv,0
+Silentspectre,2,Carlos,0
+Rickshaw,2,Spevak,0
+Hydrokirby,2,Sabelan,0
+Bassel,2,Charles,0
+Bizzarro Flame,2,Big Sean,0
+Lay,0,Glee,2
+Mr. B,2,Ramenchu,0
+Imyt,2,Bensw,0
+Shroomed,2,Cool Runnings,0
+Dacidbro,2,Nando,0
+Snap,2,Pewpewtwo,0
+Gar,2,Anthony,0
+Grandma'S Cleavage,1,Madj,2
+Ralph,2,Combo,0
+Illiterate,2,Black Light Attack,0
+Alan,2,Suck,1
+B C Curtis,0,Mako,2
+Mikkuz,2,Holz!,0
+Royce,2,Lazy,1
+Ky,2,Hostility,1
+Laydie,2,Centari,0
+Tang,2,Ian,0
+Yamaneko,2,Atrioc,0
+Sfat,2,Bobby Siege,0
+Erik,0,The__Cheese,2
+Delphiki,2,Pikminbutdeadly,0
+Nmw,2,Skeeter,0
+Silentspectre,2,Rickshaw,0
+Hydrokirby,0,Bassel,2
+Bizzarro Flame,2,Glee,0
+Mr. B,2,Imyt,0
+Shroomed,2,Dacidbro,0
+Snap,2,Luis,0
+Gar,2,Madj,0
+Ralph,2,Illiterate,0
+Alan,2,Mako,0
+Mikkuz,2,Royce,0
+Ky,2,Laydie,0
+Tang,2,Yamaneko,0
+Sfat,2,The__Cheese,1
+Delphiki,0,Nmw,2
+Silentspectre,2,Bassel,0
+Bizzarro Flame,2,Mr. B,0
+Shroomed,2,Snap,0
+Gar,0,Ralph,2
+Alan,2,Mikkuz,0
+Ky,0,Tang,2
+Sfat,2,Nmw,0
+Silentspectre,1,Bizzarro Flame,2
+Shroomed,2,Ralph,0
+Alan,0,Tang,2
+Sfat,3,Bizzarro Flame,2
+Shroomed,3,Tang,0
+Sfat,3,Shroomed,2
+Sfat,1,Shroomed,3
+Shroomed,1,Sfat,3
+Tanuki,1,Bflat,2
+Boback,2,Unagi,0
+Chrisbest,2,Dirk,0
+Horsethebear,0,Shiv,2
+Carlos,2,Spevak,1
+Sabelan,2,Charles,1
+Big Sean,0,Lay,2
+Ramenchu,0,Bensw,2
+Cool Runnings,2,Nando,1
+Anthony,0,Grandma'S Cleavage,2
+Combo,0,Black Light Attack,2
+Suck,2,B C Curtis,0
+Holz!,1,Lazy,2
+Hostility,2,Centari,0
+Ian,0,Atrioc,2
+Yamaneko,2,Bflat,0
+Laydie,1,Boback,2
+Royce,2,Chrisbest,0
+Mako,0,Shiv,2
+Illiterate,2,Carlos,1
+Madj,2,Sabelan,0
+Luis,2,Lay,0
+Dacidbro,0,Bensw,2
+Imyt,2,Cool Runnings,0
+Glee,2,Pewpewtwo,0
+Hydrokirby,2,Grandma'S Cleavage,0
+Rickshaw,2,Black Light Attack,0
+Skeeter,2,Suck,1
+Pikminbutdeadly,2,Lazy,0
+Erik,0,Hostility,2
+Bobby Siege,2,Atrioc,1
+Yamaneko,2,Boback,1
+Royce,2,Shiv,0
+Illiterate,0,Madj,2
+Luis,2,Bensw,0
+Imyt,2,Glee,1
+Hydrokirby,2,Rickshaw,1
+Skeeter,2,Pikminbutdeadly,0
+Hostility,2,Bobby Siege,0
+Mr. B,2,Yamaneko,0
+Bassel,2,Royce,0
+Delphiki,2,Madj,1
+The__Cheese,2,Luis,0
+Ky,2,Imyt,0
+Mikkuz,2,Hydrokirby,0
+Gar,2,Skeeter,0
+Snap,2,Hostility,1
+Mr. B,2,Bassel,0
+Delphiki,2,The__Cheese,1
+Ky,1,Mikkuz,2
+Gar,2,Snap,1
+Ralph,2,Mr. B,1
+Alan,2,Delphiki,0
+Nmw,0,Mikkuz,2
+Silentspectre,0,Gar,2
+Ralph,1,Alan,2
+Mikkuz,2,Gar,1
+Bizzarro Flame,0,Alan,2
+Tang,2,Mikkuz,0
+Alan,1,Tang,3
+Shroomed,3,Tang,1

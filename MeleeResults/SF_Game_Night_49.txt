@@ -1,0 +1,135 @@
+Ike,0,Captain Kracker,2
+Heliodoxy,0,Macarudy,2
+Hugger Mugger,2,Pedro,0
+Nope,2,Pat,0
+Pewpewu,2,Captain Kracker,0
+Dr. Grin,1,Erik,2
+Zeldafreak,2,Anthony,0
+Moose,2,Suck,0
+Silentspectre,2,Boandrew,0
+Skeeter,2,Cyko,0
+Dr. Z,2,Zander,0
+Zoap,0,Mkan,2
+Shroomed,2,Macarudy,0
+Bertbusdriver,0,J Lee,2
+Ycz,2,Charles,0
+Sunny,2,Elemental Penguin,0
+Azusa,2,Evan,0
+Zane,2,Suzarya,0
+Germ,2,Nmh,0
+Yamaneko,2,Treechen,0
+Sfat,2,Hugger Mugger,0
+Drewgong,2,Sharkboi,0
+Bob$,2,Stu,0
+Weedlord,2,Muttnik,0
+Alan,2,Brian,0
+Wardong,2,Spevak,0
+Nmw,2,Wassabi,0
+Grandma'S Cleavage,2,Ethan,0
+Dani'S Boyfriend,2,Nope,0
+Ghettotastic,0,Hatcrab,2
+Boback,2,Joseki,0
+Hectohertz,2,Menohaxor,0
+Laudandus,2,Flan,0
+Chris Best,2,Glee,0
+Mr. Brandandorf,2,Mental Djent,0
+Aiden,2,Dani'S Roommate,0
+Pewpewu,2,Erik,0
+Zeldafreak,1,Moose,2
+Silentspectre,2,Skeeter,0
+Dr. Z,2,Mkan,0
+Shroomed,2,J Lee,0
+Ycz,1,Sunny,2
+Azusa,2,Zane,0
+Germ,2,Yamaneko,0
+Sfat,2,Drewgong,0
+Bob$,1,Weedlord,2
+Alan,2,Wardong,1
+Nmw,2,Grandma'S Cleavage,0
+Dani'S Boyfriend,2,Hatcrab,0
+Boback,2,Hectohertz,0
+Laudandus,2,Chris Best,0
+Mr. Brandandorf,1,Aiden,2
+Pewpewu,2,Moose,1
+Silentspectre,2,Dr. Z,1
+Shroomed,2,Sunny,0
+Azusa,2,Germ,0
+Sfat,2,Weedlord,0
+Alan,2,Nmw,1
+Dani'S Boyfriend,2,Boback,1
+Laudandus,2,Aiden,0
+Pewpewu,2,Silentspectre,0
+Shroomed,2,Azusa,0
+Sfat,2,Alan,1
+Dani'S Boyfriend,0,Laudandus,2
+Pewpewu,3,Shroomed,0
+Sfat,3,Laudandus,0
+Pewpewu,3,Sfat,2
+Pewpewu,2,Sfat,3
+Sfat,3,Pewpewu,0
+Dani'S Roommate,2,Ike,0
+Ethan,2,Heliodoxy,1
+Treechen,2,Pedro,0
+Zoap,2,Pat,0
+Mental Djent,0,Dani'S Roommate,2
+Glee,2,Flan,0
+Menohaxor,2,Joseki,0
+Ghettotastic,2,Nope,0
+Wassabi,2,Ethan,0
+Spevak,2,Brian,0
+Muttnik,2,Stu,0
+Sharkboi,2,Hugger Mugger,0
+Nmh,0,Treechen,2
+Suzarya,2,Evan,1
+Elemental Penguin,2,Charles,1
+Bertbusdriver,0,Macarudy,2
+Zander,0,Zoap,2
+Cyko,2,Boandrew,0
+Suck,1,Anthony,2
+Dr. Grin,2,Captain Kracker,0
+Yamaneko,2,Dani'S Roommate,0
+Zane,2,Glee,0
+Ycz,2,Menohaxor,0
+J Lee,2,Ghettotastic,0
+Mkan,2,Wassabi,1
+Skeeter,2,Spevak,0
+Zeldafreak,2,Muttnik,0
+Erik,2,Sharkboi,1
+Mr. Brandandorf,2,Treechen,0
+Chris Best,2,Suzarya,0
+Hectohertz,2,Elemental Penguin,1
+Hatcrab,2,Macarudy,1
+Grandma'S Cleavage,0,Zoap,2
+Wardong,2,Cyko,0
+Bob$,2,Anthony,0
+Drewgong,0,Dr. Grin,2
+Yamaneko,2,Zane,1
+Ycz,2,J Lee,0
+Mkan,0,Skeeter,2
+Zeldafreak,2,Erik,0
+Mr. Brandandorf,2,Chris Best,1
+Hectohertz,2,Hatcrab,0
+Zoap,2,Wardong,0
+Bob$,2,Dr. Grin,1
+Weedlord,2,Yamaneko,1
+Nmw,2,Ycz,1
+Boback,1,Skeeter,2
+Aiden,0,Zeldafreak,2
+Moose,2,Mr. Brandandorf,0
+Dr. Z,2,Hectohertz,0
+Sunny,2,Zoap,0
+Germ,0,Bob$,2
+Weedlord,0,Nmw,2
+Skeeter,0,Zeldafreak,2
+Moose,2,Dr. Z,1
+Sunny,0,Bob$,2
+Silentspectre,2,Nmw,1
+Azusa,2,Zeldafreak,0
+Alan,0,Moose,2
+Dani'S Boyfriend,2,Bob$,0
+Silentspectre,0,Azusa,2
+Moose,0,Dani'S Boyfriend,2
+Laudandus,2,Azusa,0
+Shroomed,2,Dani'S Boyfriend,0
+Laudandus,1,Shroomed,3
+Sfat,3,Shroomed,1

@@ -1,0 +1,130 @@
+Tt,1,Suck,2
+Holz!,2,401K,0
+Rooplee,2,Flan,1
+Dr. Jwns,2,Zop,0
+Sfat,2,Suck,0
+J.P,2,Ben H,1
+D1,2,Allpain,0
+Boback,2,Cactus,0
+Silentspectre,2,Shoop,0
+Papa Izzy,2,Sabelan,0
+Dr. Z,2,Scourge,0
+Grandma'S Cleavage,2,Bo,0
+Brandon,2,Karl,0
+Yamaneko,2,Deep,0
+Ycz,2,Dacidbro,0
+Sweaty Murphy,2,Schwiebs,0
+Bizzarro Flame,2,Holz!,0
+Ghidorah,2,Erik,1
+Germ,2,Choi,0
+Bobby Siege,2,Tsex,0
+Shroomed,2,Rooplee,0
+Pavocado,2,Atrioc,1
+Blur,2,Charles,0
+Barpr,2,Scottum,0
+L,2,Tanuki,0
+Imyt,1,Pokemonmasterirl,2
+Gar,2,Kato,0
+Neo,2,Mali,0
+Alan,2,Dr. Jwns,0
+Centari,2,Black Light Attack,0
+Snap,0,Narfnator,2
+Sunny,2,Lumancer,0
+Ky,2,Evan,0
+Skeeter,2,Chris Best,1
+Mr. B,2,Will,0
+Ragingcherry,2,Nes,0
+Sfat,2,J.P,0
+D1,2,Boback,0
+Silentspectre,2,Papa Izzy,0
+Dr. Z,2,Grandma'S Cleavage,0
+Brandon,2,Yamaneko,0
+Ycz,2,Sweaty Murphy,0
+Bizzarro Flame,2,Ghidorah,0
+Germ,2,Bobby Siege,0
+Shroomed,2,Pavocado,0
+Blur,0,Barpr,2
+L,2,Pokemonmasterirl,0
+Gar,2,Neo,0
+Alan,2,Centari,0
+Narfnator,0,Sunny,2
+Ky,2,Skeeter,0
+Mr. B,2,Ragingcherry,0
+Sfat,2,D1,0
+Silentspectre,2,Dr. Z,0
+Brandon,2,Ycz,0
+Bizzarro Flame,2,Germ,0
+Shroomed,2,Barpr,0
+L,2,Gar,0
+Alan,2,Sunny,0
+Ky,2,Mr. B,0
+Sfat,2,Silentspectre,1
+Brandon,2,Bizzarro Flame,1
+Shroomed,2,L,0
+Alan,2,Ky,0
+Sfat,3,Brandon,2
+Shroomed,3,Alan,1
+Sfat,3,Shroomed,2
+Sfat,2,Shroomed,1
+Nes,0,Tt,2
+Mali,2,Pewpewtwo,0
+Tsex,0,Flan,2
+Bo,2,Zop,1
+Will,2,Tt,1
+Chris Best,2,Evan,0
+Lumancer,0,Snap,2
+Black Light Attack,0,Dr. Jwns,2
+Imyt,2,Tanuki,0
+Charles,2,Scottum,0
+Atrioc,2,Rooplee,0
+Choi,2,Flan,0
+Erik,2,Holz!,0
+Schwiebs,2,Dacidbro,0
+Deep,2,Karl,1
+Sabelan,2,Shoop,0
+Allpain,2,Cactus,1
+Ben H,2,Suck,1
+Bobby Siege,0,Will,2
+Ghidorah,1,Chris Best,2
+Sweaty Murphy,0,Snap,2
+Yamaneko,2,Dr. Jwns,0
+Grandma'S Cleavage,2,Mali,0
+Papa Izzy,2,Imyt,0
+Boback,2,Charles,1
+J.P,0,Atrioc,2
+Ragingcherry,2,Choi,0
+Skeeter,2,Erik,0
+Narfnator,2,Schwiebs,1
+Centari,0,Deep,2
+Pokemonmasterirl,2,Sabelan,0
+Blur,2,Allpain,0
+Pavocado,2,Ben H,1
+Will,1,Chris Best,2
+Snap,1,Yamaneko,2
+Grandma'S Cleavage,0,Papa Izzy,2
+Boback,2,Atrioc,1
+Ragingcherry,0,Skeeter,2
+Narfnator,2,Deep,1
+Bo,0,Pokemonmasterirl,2
+Blur,2,Pavocado,0
+Barpr,2,Chris Best,0
+Gar,2,Yamaneko,0
+Sunny,2,Papa Izzy,0
+Mr. B,2,Boback,0
+D1,2,Skeeter,1
+Dr. Z,2,Narfnator,0
+Ycz,2,Pokemonmasterirl,0
+Germ,2,Blur,0
+Barpr,1,Gar,2
+Sunny,2,Mr. B,0
+D1,1,Dr. Z,2
+Ycz,0,Germ,2
+Silentspectre,2,Gar,1
+Bizzarro Flame,2,Sunny,0
+L,1,Dr. Z,2
+Ky,0,Germ,2
+Dr. Z,1,Germ,2
+Alan,2,Silentspectre,0
+Brandon,2,Germ,0
+Alan,2,Brandon,3
+Shroomed,2,Brandon,0

@@ -1,0 +1,125 @@
+Shroomed,2,Boots,0
+Frotaz,2,Alaskan Bullworm,1
+Weedlord,2,Fatal39,0
+Imyt,2,Superskeetbro,0
+Gar,2,Higgins,0
+Erik,2,Evan,1
+Ralph,2,Nope,0
+Bertbusdriver,1,Drug Money,2
+Silentspectre,2,Kai,0
+Pavocado,1,Irish,2
+Hectohertz,2,Dowopbamboom,0
+Yamaneko,2,Bugdeal,0
+L,2,Jake,0
+Geekliftus,2,Fred Durst Lover 69,0
+Ycz,2,Hot_Dogg,1
+Skeeter,2,Flan,0
+Brandon,2,Dink,0
+Chris Best,2,Octobear,1
+Sage,2,Snows,0
+Grandma'S Cleavage,2,Allpain,1
+Mr. B,2,Hood,0
+Drewgong,2,Charles,0
+Germ,2,Stevie B,0
+Wavebringer,2,Dr. Jwns,0
+Alan,2,Mkan,0
+Centari,2,Nando,0
+Boback,2,L@Nk,0
+Oxy_Oops,2,Sabelan,1
+Nmw,2,Nb2,0
+Elemental Penguin,1,Atrioc,2
+Delphiki,2,Tresnor,0
+Jp,2,Elcancell,0
+Shroomed,2,Frotaz,1
+Weedlord,2,Imyt,0
+Gar,2,Erik,0
+Ralph,2,Drug Money,0
+Silentspectre,2,Irish,0
+Hectohertz,2,Yamaneko,0
+L,2,Geekliftus,0
+Ycz,2,Skeeter,0
+Brandon,2,Chris Best,0
+Sage,2,Grandma'S Cleavage,1
+Mr. B,2,Drewgong,0
+Germ,2,Wavebringer,1
+Alan,2,Centari,0
+Boback,2,Oxy_Oops,0
+Nmw,2,Atrioc,0
+Delphiki,2,Jp,0
+Shroomed,2,Weedlord,0
+Gar,0,Ralph,2
+Silentspectre,2,Hectohertz,0
+L,0,Ycz,2
+Brandon,2,Sage,0
+Mr. B,0,Germ,2
+Alan,2,Boback,1
+Nmw,2,Delphiki,0
+Shroomed,1,Ralph,2
+Silentspectre,2,Ycz,0
+Brandon,2,Germ,1
+Alan,2,Nmw,0
+Ralph,2,Silentspectre,3
+Silentspectre,2,Brandon,3
+Brandon,3,Silentspectre,0
+Boots,0,Alaskan Bullworm,2
+Fatal39,2,Superskeetbro,1
+Higgins,0,Evan,2
+Nope,0,Bertbusdriver,2
+Kai,0,Pavocado,2
+Dowopbamboom,1,Bugdeal,2
+Jake,0,Fred Durst Lover 69,2
+Hot_Dogg,2,Flan,0
+Dink,0,Octobear,2
+Snows,2,Allpain,0
+Hood,2,Charles,0
+Stevie B,1,Dr. Jwns,2
+Mkan,2,Nando,0
+L@Nk,1,Sabelan,2
+Nb2,2,Elemental Penguin,1
+Tresnor,0,Elcancell,2
+Jp,0,Alaskan Bullworm,2
+Atrioc,2,Fatal39,0
+Oxy_Oops,0,Evan,2
+Centari,0,Bertbusdriver,2
+Wavebringer,2,Pavocado,0
+Drewgong,2,Bugdeal,0
+Grandma'S Cleavage,2,Fred Durst Lover 69,0
+Chris Best,1,Hot_Dogg,2
+Skeeter,2,Octobear,1
+Geekliftus,2,Snows,0
+Yamaneko,2,Hood,1
+Irish,1,Dr. Jwns,2
+Drug Money,2,Mkan,0
+Erik,2,Sabelan,1
+Imyt,2,Nb2,0
+Frotaz,2,Elcancell,0
+Alaskan Bullworm,0,Atrioc,2
+Evan,1,Bertbusdriver,2
+Wavebringer,2,Drewgong,1
+Grandma'S Cleavage,2,Hot_Dogg,1
+Skeeter,1,Geekliftus,2
+Yamaneko,2,Dr. Jwns,0
+Drug Money,0,Erik,2
+Imyt,0,Frotaz,2
+L,2,Atrioc,0
+Hectohertz,2,Bertbusdriver,0
+Gar,2,Wavebringer,0
+Weedlord,2,Grandma'S Cleavage,0
+Delphiki,2,Geekliftus,1
+Boback,2,Yamaneko,0
+Mr. B,2,Erik,1
+Sage,0,Frotaz,2
+L,2,Hectohertz,0
+Gar,2,Weedlord,0
+Delphiki,2,Boback,0
+Mr. B,0,Frotaz,2
+Germ,2,L,1
+Nmw,0,Gar,2
+Shroomed,2,Delphiki,0
+Ycz,2,Frotaz,1
+Germ,0,Gar,2
+Shroomed,2,Ycz,0
+Ralph,2,Gar,0
+Alan,0,Shroomed,2
+Ralph,0,Shroomed,2
+Silentspectre,3,Shroomed,1

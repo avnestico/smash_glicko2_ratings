@@ -53,6 +53,7 @@ Mang0,3,Shroomed,0
 Mew2King,0,Hungrybox,3
 Lucky,1,Mang0,3
 Sfat,2,Hungrybox,3
+Fly Amanita,3,Axe,2
 Mang0,3,Hungrybox,0
 Axe,1,Mang0,3
 Fly Amanita,0,Mang0,6

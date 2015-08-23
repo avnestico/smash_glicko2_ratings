@@ -596,6 +596,7 @@ Holden,0,Cell,2
 Darkatma,2,Robert Reyes,0
 Benjamin Sarabia,2,Cell,0
 Robert Reyes,2,Benjamin Sarabia,0
+Wattson,2,Phantom,0
 Mo5T,0,Garlic,2
 Lord,2,Tsick,0
 Jelly Biscuits,2,Jams,0
@@ -3380,6 +3381,7 @@ Santiago,2,Darkatma,0
 Leffen,2,Sergio Rodriguez,0
 Dj Nintendo,0,Zhu,2
 Emukiller,0,Vish,2
+Coffeeblack,0,Kpan,2
 Lucky,2,Smashg0D,0
 Cactuar,2,Squid,0
 Nintendude,1,Connorthekid,2
@@ -3507,6 +3509,7 @@ Plup,2,Wizzrobe,0
 Village Mascot,0,Metal Reeper,2
 Dr. Grin,0,Anjo,2
 Robert Reyes,0,Garlic,2
+Andymosity,0,Chip,2
 Glitchbird,2,Strain,0
 Mr. Ii,2,Boback,0
 Eliott,0,Ministry,2

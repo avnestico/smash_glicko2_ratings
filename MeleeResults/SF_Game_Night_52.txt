@@ -1,0 +1,190 @@
+Chuck Lee,2,Todote,0
+Runescape,2,Pennysalem,0
+Tranmobile,2,Sajeel,0
+Wrax,2,Ducky,0
+Sunny,2,Michael,1
+2Rk,2,Beetle,0
+Sabelan,2,Zander,1
+Golf,0,Mari,2
+Chris Best,2,Ultimatemuffin,0
+Grandma'S Cleavage,2,Earl,0
+Toiyaa,2,Rick The Fox,1
+Ethan,2,Pat,0
+Krustykurt,2,Milk,0
+Skeeter,2,Flex,0
+Spevak,2,Mariopartywithbeer,0
+Hatcrab,2,Chaz,0
+Michaelmichaelmotorcycle,2,Allpain,0
+Sharkboi,2,Pancakehands,0
+Wardong,2,James,0
+Dr. Jwnz,2,Kidney,1
+Atrioc,2,Heliodoxy,0
+Stu,1,Haro,2
+Drewgong,2,Anthony,0
+Benny,2,Mental Djent,0
+The Grime Reaper,2,Supreme,0
+Nope,0,Evan,2
+Yamaneko,2,Mr. Cz,0
+Datsun,2,Dazy,0
+Charlezard,2,Ivan,0
+Irish,2,Criminal Abuse,0
+Wassabi,2,Holz!,1
+Suzarya,2,Fax,0
+Glee,2,Vic,1
+Ghettotastic,1,Method,2
+Pewpewu,2,Chuck Lee,0
+Hsuchef,0,Runescape,2
+Snap,2,Tranmobile,0
+Zeldafreak,2,Wrax,0
+Darrell,2,Sunny,0
+Van Hellsing,0,2Rk,2
+Gar,2,Sabelan,0
+Mackadotious,2,Mari,0
+Azusa,2,Huggermugger,0
+Chris Best,2,Grandma'S Cleavage,0
+Germ,2,Toiyaa,0
+Kenney,2,Ethan,0
+Lord,2,Krustykurt,0
+Dr. Grin,2,Skeeter,0
+Ky,2,Spevak,0
+Weedlord,2,Hatcrab,0
+Shroomed,2,Michaelmichaelmotorcycle,0
+Sharkboi,2,Wardong,1
+Mr. Brandandorf,2,Dr. Jwnz,1
+Doyoung2Win,2,Atrioc,0
+L,2,Haro,0
+Boback,2,Drewgong,0
+Nmw,2,Benny,0
+Puff2Jointz,0,The Grime Reaper,2
+Brandon,2,Evan,0
+Yamaneko,1,Datsun,2
+Ycz,2,Charlezard,0
+Nhat,2,Irish,0
+Alan,2,Wassabi,0
+Ahmad,2,Suzarya,1
+Dr. Z,2,Glee,0
+Handsome Anson,2,Method,0
+Pewpewu,2,Runescape,0
+Snap,1,Zeldafreak,2
+Darrell,2,2Rk,1
+Gar,0,Mackadotious,2
+Azusa,2,Chris Best,1
+Germ,0,Kenney,2
+Lord,2,Dr. Grin,0
+Ky,2,Weedlord,0
+Shroomed,2,Sharkboi,1
+Mr. Brandandorf,2,Doyoung2Win,0
+L,2,Boback,0
+Nmw,2,The Grime Reaper,0
+Brandon,2,Datsun,0
+Ycz,2,Nhat,1
+Alan,2,Ahmad,0
+Dr. Z,2,Handsome Anson,0
+Pewpewu,2,Zeldafreak,0
+Darrell,2,Mackadotious,0
+Azusa,2,Kenney,0
+Lord,2,Ky,0
+Shroomed,2,Mr. Brandandorf,0
+L,2,Nmw,0
+Brandon,2,Ycz,1
+Alan,2,Dr. Z,0
+Pewpewu,2,Darrell,1
+Azusa,0,Lord,2
+Shroomed,2,L,0
+Brandon,2,Alan,1
+Pewpewu,2,Lord,1
+Shroomed,2,Brandon,1
+Pewpewu,1,Shroomed,2
+Shroomed,2,Pewpewu,0
+Ultimatemuffin,1,Earl,2
+Mr. Cz,0,Dazy,2
+Method,2,Todote,0
+Glee,2,Pennysalem,1
+Suzarya,2,Sajeel,0
+Wassabi,2,Ducky,0
+Irish,2,Michael,1
+Charlezard,2,Beetle,0
+Yamaneko,2,Zander,0
+Evan,1,Golf,2
+Benny,2,Earl,0
+Drewgong,2,Rick The Fox,0
+Haro,2,Pat,0
+Atrioc,2,Milk,0
+Dr. Jwnz,2,Flex,0
+Wardong,2,Mariopartywithbeer,0
+Michaelmichaelmotorcycle,2,Chaz,0
+Hatcrab,2,Allpain,0
+Spevak,2,James,0
+Skeeter,2,Kidney,0
+Krustykurt,2,Heliodoxy,0
+Ethan,2,Stu,0
+Toiyaa,2,Anthony,0
+Grandma'S Cleavage,2,Mental Djent,0
+Huggermugger,2,Supreme,1
+Mari,2,Nope,1
+Sabelan,2,Dazy,0
+Van Hellsing,2,Ivan,0
+Sunny,1,Criminal Abuse,2
+Wrax,2,Holz!,0
+Hsuchef,1,Vic,2
+Chuck Lee,2,Ghettotastic,1
+Method,2,Glee,0
+Suzarya,2,Wassabi,0
+Irish,1,Charlezard,2
+Yamaneko,1,Golf,2
+Puff2Jointz,0,Benny,2
+Drewgong,2,Haro,0
+Atrioc,1,Dr. Jwnz,2
+Wardong,2,Michaelmichaelmotorcycle,0
+Hatcrab,2,Spevak,0
+Skeeter,2,Krustykurt,0
+Ethan,1,Toiyaa,2
+Grandma'S Cleavage,2,Huggermugger,1
+Mari,0,Sabelan,2
+Van Hellsing,2,Criminal Abuse,0
+Vic,2,Chuck Lee,0
+Weedlord,2,Method,0
+Dr. Grin,1,Suzarya,2
+Germ,2,Charlezard,0
+Chris Best,2,Golf,0
+Gar,2,Benny,0
+2Rk,2,Drewgong,1
+Snap,2,Dr. Jwnz,0
+Runescape,1,Wardong,2
+Handsome Anson,2,Hatcrab,0
+Ahmad,1,Skeeter,2
+Nhat,2,Toiyaa,0
+Datsun,0,Grandma'S Cleavage,2
+The Grime Reaper,2,Sabelan,0
+Boback,0,Van Hellsing,2
+Sharkboi,2,Vic,0
+Weedlord,2,Suzarya,0
+Germ,2,Chris Best,0
+Gar,2,2Rk,0
+Snap,2,Wardong,1
+Handsome Anson,2,Skeeter,0
+Nhat,2,Grandma'S Cleavage,0
+The Grime Reaper,0,Van Hellsing,2
+Wrax,2,Sharkboi,0
+Mr. Brandandorf,2,Weedlord,1
+Nmw,2,Germ,0
+Ycz,0,Gar,2
+Dr. Z,1,Snap,2
+Zeldafreak,2,Handsome Anson,1
+Mackadotious,0,Nhat,2
+Kenney,1,Van Hellsing,2
+Ky,2,Wrax,0
+Mr. Brandandorf,0,Nmw,2
+Gar,2,Snap,0
+Zeldafreak,2,Nhat,0
+Van Hellsing,0,Ky,2
+Darrell,1,Nmw,2
+Azusa,2,Gar,0
+L,2,Zeldafreak,1
+Alan,0,Ky,2
+Nmw,2,Azusa,1
+L,2,Ky,0
+Brandon,2,Nmw,0
+Lord,2,L,0
+Brandon,0,Lord,2
+Pewpewu,2,Lord,0

@@ -67,9 +67,11 @@ Syix,0,Nameless Joe,2
 Kpan,2,Bhoogs,0
 Raisin,2,Professor Poonanny,0
 Wal,1,Silenceghost,2
+Scud,2,Lotek Tmon,0
 Abate,2,Yamaneko,0
 Osvg Spicy Waruibui,0,Tgl Shamunt,2
 Eikelmannrus,2,Nopo Xeno,0
+Bakido,0,Panda Jaws,2
 Twitch,2,Bootythrill,0
 Nameless Joe,0,Dr. Acula,2
 Kpan,2,Raisin,0
@@ -614,6 +616,7 @@ Captain Crunch,2,Flying Pikachu,0
 S2J,2,Druggedfox,0
 Milkman,2,Captain Crunch,1
 Druggedfox,2,Milkman,0
+Tfs Parker,2,Miggs,0
 Moody,0,Pleb,2
 Fresh Prince,2,Tilt,0
 Eliott Vuelta,2,M'Eleedy Andrew Vallejo,0

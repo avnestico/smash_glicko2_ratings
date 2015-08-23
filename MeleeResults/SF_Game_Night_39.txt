@@ -1,0 +1,129 @@
+Kenyaboy,0,Sharkboy,2
+Kelso,0,Tatoo,2
+Mari,2,My Lumpia Is Good,0
+Sfat,2,Sharkboy,0
+Ghidorah,2,Grandma'S Cleavage,1
+Delphiki,2,Charles,1
+Ycz,2,Sabelan,0
+Silentspectre,2,Eggsalad,0
+Baise,2,Hsk,1
+Bizzarro Flame,2,Slash,0
+Sage,2,Milk,0
+Azusa,2,Uareanoob,0
+Germ,2,Zander,0
+Snap,2,Shrimp Fried Rice,0
+Brandon,2,Bilf,0
+Yamaneko,2,Alaric,1
+Nmw,2,Obi,0
+Crimson Blur,2,Ethan,0
+Shroomed,2,Tatoo,0
+Atrioc,0,Soccermom69,2
+Gar,2,Eric Sigh,0
+Mr. B,2,Dacidbro,0
+Alan,2,Joev,0
+Imyt,2,Chris Best,1
+Dr. Z,2,Syllidian,0
+Boback,2,Ramenchu,0
+Macd,2,Mari,0
+Pikminbutdeadly,2,Irish,0
+Lunin,2,Cookie,0
+Replicate,2,Dr. Jwns,0
+Laudandus,2,Vato,0
+Frotaz,2,Eren'S Mom,0
+Moose,2,Hotchocolate,0
+Sunny,2,Dr. Grin,0
+Sfat,2,Ghidorah,0
+Delphiki,0,Ycz,2
+Silentspectre,2,Baise,0
+Bizzarro Flame,2,Sage,0
+Azusa,2,Centari,0
+Germ,2,Snap,0
+Brandon,2,Yamaneko,0
+Nmw,2,Crimson Blur,0
+Shroomed,2,Soccermom69,0
+Gar,2,Mr. B,0
+Alan,1,Imyt,2
+Dr. Z,0,Boback,2
+Macd,2,Pikminbutdeadly,1
+Lunin,2,Replicate,1
+Laudandus,2,Frotaz,0
+Moose,2,Sunny,1
+Sfat,2,Ycz,1
+Silentspectre,0,Bizzarro Flame,2
+Azusa,2,Germ,0
+Brandon,2,Nmw,0
+Shroomed,2,Gar,0
+Imyt,2,Boback,1
+Macd,2,Lunin,1
+Laudandus,2,Moose,1
+Sfat,2,Bizzarro Flame,1
+Azusa,0,Brandon,2
+Shroomed,2,Imyt,0
+Macd,2,Laudandus,0
+Sfat,3,Brandon,1
+Shroomed,1,Macd,3
+Sfat,2,Macd,3
+Macd,0,Sfat,3
+Sfat,3,Macd,0
+Dr. Grin,2,Kenyaboy,0
+Ethan,2,Kelso,0
+Milk,1,My Lumpia Is Good,2
+Hotchocolate,0,Dr. Grin,2
+Eren'S Mom,2,Vato,0
+Dr. Jwns,1,Cookie,2
+Irish,1,Mari,2
+Ramenchu,2,Syllidian,0
+Chris Best,2,Joev,0
+Dacidbro,2,Eric Sigh,1
+Atrioc,2,Tatoo,0
+Obi,0,Ethan,2
+Alaric,0,Bilf,2
+Shrimp Fried Rice,0,Zander,2
+Slash,1,My Lumpia Is Good,2
+Hsk,2,Eggsalad,0
+Sabelan,1,Charles,2
+Grandma'S Cleavage,2,Sharkboy,0
+Crimson Blur,1,Dr. Grin,2
+Yamaneko,2,Eren'S Mom,0
+Snap,2,Cookie,0
+Centari,2,Mari,1
+Baise,2,Chris Best,0
+Delphiki,2,Dacidbro,1
+Ghidorah,0,Atrioc,2
+Sunny,2,Ethan,1
+Frotaz,2,Bilf,0
+Replicate,2,Zander,0
+Pikminbutdeadly,2,Uareanoob,0
+Dr. Z,2,My Lumpia Is Good,0
+Alan,2,Hsk,0
+Mr. B,2,Charles,0
+Soccermom69,2,Grandma'S Cleavage,0
+Dr. Grin,0,Yamaneko,2
+Snap,2,Centari,0
+Ramenchu,0,Baise,2
+Delphiki,2,Atrioc,0
+Sunny,2,Frotaz,1
+Replicate,2,Pikminbutdeadly,0
+Dr. Z,0,Alan,2
+Mr. B,2,Soccermom69,0
+Gar,2,Yamaneko,1
+Boback,0,Snap,2
+Lunin,2,Baise,0
+Moose,2,Delphiki,0
+Ycz,0,Sunny,2
+Silentspectre,0,Replicate,2
+Germ,1,Alan,2
+Nmw,2,Mr. B,1
+Gar,2,Snap,0
+Lunin,2,Moose,1
+Sunny,0,Replicate,2
+Bizzarro Flame,1,Gar,2
+Azusa,2,Lunin,0
+Imyt,0,Replicate,2
+Laudandus,2,Nmw,0
+Gar,1,Azusa,2
+Replicate,1,Laudandus,2
+Shroomed,2,Azusa,1
+Brandon,1,Laudandus,2
+Shroomed,3,Laudandus,1
+Sfat,3,Shroomed,1

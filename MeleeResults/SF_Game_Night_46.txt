@@ -1,0 +1,137 @@
+Mali,0,Anthony,2
+Bensw,1,Hatcrab,2
+Danny Paguiao,2,Veosus,0
+Nash,1,Horse,2
+Will,2,John,0
+Hellabryan,2,Sinwave925,1
+Sfat,2,Anthony,0
+Jayford,2,Spevak,0
+Baise,2,Colin,0
+Imyt,2,Ostrich Glue,1
+Nmw,2,Milk,0
+Atrioc,2,Chris Lee,0
+Tang,2,Sabelan,1
+Bobby Siege,2,Somatose,0
+Brandon,2,Hatcrab,0
+Bertbusdriver,2,Ethan,0
+Frotaz,2,Untitled,1
+Yamaneko,2,Ashkon,0
+Lord,2,Danny Paguiao,0
+Widler,0,Charles,2
+Nhat,2,Elemental Penguin,0
+Grandma'S Cleavage,2,Chuck Lee,1
+Shroomed,2,Horse,0
+Hsk,2,Glee,0
+Boback,2,Pkp,0
+Rocky,2,Grouch,0
+Ralph,2,Ernest,0
+Golf,2,Brogle,0
+Moose,2,Me,0
+Irish,1,Zem,2
+Laudandus,2,Will,0
+Chris Best,2,Thezerofareal,0
+Weedlord,2,Zander,0
+Groovy Green Hat,2,Holz!,0
+Alan,2,Hellabryan,0
+Tranmobile,2,Dr. Jwns,1
+Snap,2,Treechen,0
+Chibo,2,The Grime Reaper,0
+Sfat,2,Jayford,0
+Baise,2,Imyt,0
+Nmw,2,Atrioc,0
+Tang,2,Bobby Siege,0
+Frotaz,2,Yamaneko,0
+Lord,2,Charles,0
+Nhat,2,Grandma'S Cleavage,0
+Shroomed,2,Hsk,0
+Boback,2,Rocky,1
+Ralph,2,Golf,0
+Moose,2,Zem,0
+Laudandus,1,Chris Best,2
+Weedlord,2,Groovy Green Hat,0
+Alan,2,Tranmobile,0
+Snap,2,Chibo,0
+Sfat,2,Baise,0
+Nmw,0,Tang,2
+Brandon,2,Frotaz,0
+Lord,2,Nhat,1
+Shroomed,2,Boback,0
+Ralph,0,Moose,2
+Chris Best,2,Weedlord,0
+Alan,2,Snap,1
+Sfat,2,Tang,1
+Brandon,1,Lord,2
+Shroomed,2,Moose,0
+Chris Best,0,Alan,2
+Sfat,2,Lord,3
+Shroomed,3,Alan,0
+Lord,1,Shroomed,3
+Shroomed,1,Sfat,3
+Sfat,3,Shroomed,0
+The Grime Reaper,2,Mali,0
+Irish,2,Bensw,1
+Grouch,2,Veosus,0
+Chuck Lee,2,Nash,0
+Somatose,2,John,0
+Ostrich Glue,2,Sinwave925,0
+Treechen,0,The Grime Reaper,2
+Dr. Jwns,2,Hellabryan,0
+Holz!,0,Zander,2
+Thezerofareal,2,Will,0
+Me,2,Irish,0
+Brogle,0,Ernest,2
+Pkp,0,Grouch,2
+Glee,2,Horse,0
+Elemental Penguin,0,Chuck Lee,2
+Widler,0,Danny Paguiao,2
+Ashkon,0,Untitled,2
+Ethan,1,Hatcrab,2
+Sabelan,2,Somatose,1
+Chris Lee,0,Milk,2
+Colin,0,Ostrich Glue,2
+Spevak,2,Anthony,0
+Grandma'S Cleavage,0,The Grime Reaper,2
+Charles,0,Dr. Jwns,2
+Yamaneko,2,Zander,0
+Bertbusdriver,2,Thezerofareal,1
+Bobby Siege,2,Me,1
+Atrioc,1,Ernest,2
+Imyt,1,Grouch,2
+Jayford,0,Glee,2
+Chibo,1,Chuck Lee,2
+Tranmobile,0,Danny Paguiao,2
+Groovy Green Hat,2,Untitled,0
+Laudandus,2,Hatcrab,0
+Zem,2,Sabelan,0
+Golf,2,Milk,0
+Rocky,2,Ostrich Glue,0
+Hsk,2,Spevak,0
+The Grime Reaper,2,Dr. Jwns,1
+Yamaneko,2,Bertbusdriver,1
+Bobby Siege,2,Ernest,0
+Grouch,2,Glee,0
+Chuck Lee,0,Danny Paguiao,2
+Groovy Green Hat,1,Laudandus,2
+Zem,0,Golf,2
+Rocky,2,Hsk,0
+Boback,1,The Grime Reaper,2
+Ralph,2,Yamaneko,0
+Weedlord,1,Bobby Siege,2
+Snap,2,Grouch,0
+Baise,1,Danny Paguiao,2
+Nmw,0,Laudandus,2
+Frotaz,2,Golf,0
+Nhat,0,Rocky,2
+The Grime Reaper,0,Ralph,2
+Bobby Siege,1,Snap,2
+Danny Paguiao,0,Laudandus,2
+Frotaz,2,Rocky,0
+Tang,1,Ralph,2
+Brandon,2,Snap,0
+Moose,2,Laudandus,0
+Chris Best,1,Frotaz,2
+Ralph,1,Brandon,2
+Moose,2,Frotaz,0
+Sfat,2,Moose,0
+Brandon,1,Sfat,3
+Lord,2,Sfat,3

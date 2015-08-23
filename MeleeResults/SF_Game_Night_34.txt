@@ -1,0 +1,157 @@
+Black Swan,0,Sabo,2
+Eternal,0,Hostility,2
+Dr. Jwns,2,Kolas,0
+Sabelan,1,Octobear,2
+Ted,2,Nanz,0
+Danielc,2,Stu,1
+Charles,2,Gooby,1
+Velox,0,Ethan,2
+Pewpewtwo,0,Curt,2
+Unagi,2,Jeff Chen,0
+Holz!,2,401K,0
+Dacidbro,1,Dickboy94,2
+Bo,1,Uareanoob,2
+Gustavo,2,Narfnator,1
+Centari,2,Will,1
+Hurl,0,Rabit,2
+Rickthefox,1,Stax,2
+Shroomed,2,Sabo,0
+Grandma'S Cleavage,2,Zane,0
+Mikkuz,0,Hostility,2
+Bardull,2,Dr. Jwns,0
+L,2,Octobear,0
+Sage,2,Bensw,0
+Phil,2,Ted,0
+Gme,2,Higgins,0
+Alan,2,Danielc,0
+Skeeter,2,Enjoiful,0
+Delphiki,2,Charles,0
+Boback,2,Smish,0
+Brandon,2,Ethan,0
+Yamaneko,2,Ghidorah,1
+Nmw,2,Bugdeal,1
+Paul Chen,2,Sharkboy,0
+Pewpewu,2,Curt,0
+Illiterate,1,Syphi,2
+Snap,2,Unagi,0
+Hydrokirby,2,Holz!,0
+Bizzarro Flame,2,Dickboy94,0
+Weedlord,2,Atrioc,0
+Gar,2,Uareanoob,0
+Luis,2,Tiamat,0
+Toph,2,Gustavo,0
+Ewc,0,Madj,2
+Mr. B,2,Centari,0
+Silentspectre,2,Rabit,0
+Imyt,2,Ramenchu,0
+Scar,2,Stax,0
+Royce,2,Erik,1
+Shroomed,2,Grandma'S Cleavage,1
+Hostility,1,Bardull,2
+L,2,Sage,0
+Phil,2,Gme,0
+Alan,2,Skeeter,0
+Delphiki,2,Boback,0
+Brandon,2,Yamaneko,0
+Nmw,2,Paul Chen,0
+Pewpewu,2,Syphi,0
+Snap,0,Hydrokirby,2
+Bizzarro Flame,2,Weedlord,0
+Gar,2,Luis,0
+Toph,2,Madj,1
+Mr. B,2,Bassel,0
+Silentspectre,2,Imyt,0
+Scar,2,Royce,0
+Shroomed,2,Bardull,1
+L,2,Phil,0
+Alan,2,Delphiki,0
+Brandon,2,Nmw,0
+Pewpewu,2,Hydrokirby,0
+Bizzarro Flame,2,Gar,1
+Toph,2,Mr. B,0
+Silentspectre,0,Scar,2
+Shroomed,2,L,1
+Alan,0,Brandon,2
+Pewpewu,1,Bizzarro Flame,2
+Toph,2,Scar,0
+Shroomed,1,Brandon,2
+Bizzarro Flame,2,Toph,1
+Brandon,1,Bizzarro Flame,2
+Bizzarro Flame,0,Pewpewu,2
+Pewpewu,2,Bizzarro Flame,1
+Erik,2,Black Swan,0
+Ramenchu,0,Eternal,2
+Rabit,2,Kolas,0
+Ewc,2,Nanz,1
+Tiamat,2,Stu,0
+Atrioc,2,Gooby,0
+Holz!,2,Velox,0
+Sharkboy,2,Pewpewtwo,0
+Ghidorah,2,Jeff Chen,1
+Smish,2,Dacidbro,1
+Enjoiful,2,Bo,0
+Higgins,0,Narfnator,2
+Bensw,0,Will,2
+Dr. Jwns,2,Hurl,0
+Zane,2,Rickthefox,0
+Stax,0,Erik,2
+Eternal,2,Rabit,0
+Centari,2,Sabelan,0
+Gustavo,2,Ewc,0
+Uareanoob,0,Tiamat,2
+Dickboy94,1,Atrioc,2
+Unagi,2,Holz!,0
+Curt,0,Illiterate,2
+Bugdeal,0,Sharkboy,2
+Ghidorah,2,Ethan,0
+Charles,0,Smish,2
+Danielc,0,Enjoiful,2
+Ted,0,Narfnator,2
+Octobear,1,Will,2
+Mikkuz,2,Dr. Jwns,0
+Sabo,2,Zane,0
+Paul Chen,2,Erik,0
+Yamaneko,2,Eternal,0
+Boback,1,Centari,2
+Skeeter,0,Gustavo,2
+Gme,2,Tiamat,0
+Sage,2,Atrioc,0
+Hostility,2,Unagi,0
+Grandma'S Cleavage,2,Illiterate,0
+Royce,1,Sharkboy,2
+Imyt,0,Ghidorah,2
+Bassel,1,Smish,2
+Madj,2,Enjoiful,0
+Luis,2,Narfnator,0
+Weedlord,2,Will,0
+Snap,0,Mikkuz,2
+Syphi,1,Sabo,2
+Paul Chen,2,Yamaneko,0
+Centari,0,Gustavo,2
+Gme,2,Sage,0
+Hostility,0,Grandma'S Cleavage,2
+Sharkboy,2,Ghidorah,0
+Smish,2,Madj,1
+Luis,2,Weedlord,0
+Mikkuz,2,Sabo,1
+Hydrokirby,2,Paul Chen,0
+Gar,2,Gustavo,0
+Mr. B,2,Gme,1
+Silentspectre,2,Grandma'S Cleavage,0
+Bardull,2,Sharkboy,0
+Phil,2,Smish,1
+Delphiki,1,Luis,2
+Hydrokirby,2,Gar,0
+Mr. B,0,Silentspectre,2
+Bardull,2,Phil,0
+Luis,1,Mikkuz,2
+L,2,Hydrokirby,0
+Alan,1,Silentspectre,2
+Pewpewu,2,Bardull,0
+Scar,0,Mikkuz,2
+L,2,Silentspectre,1
+Pewpewu,2,Mikkuz,0
+Toph,0,L,2
+Shroomed,0,Pewpewu,2
+L,0,Pewpewu,2
+Brandon,0,Pewpewu,2

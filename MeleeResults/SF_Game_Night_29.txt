@@ -1,0 +1,128 @@
+Xmp,2,Winkie,0
+Zador,2,Atlas,0
+Shroomed,2,Xmp,0
+Atrioc,2,Fong,0
+Snap,2,Ikedota,0
+Pikminbutdeadly,2,Gohan,0
+Darrell,2,Nanz,0
+Tiamat,2,Coco,0
+Dr. Z,2,Skyler,0
+Spevak,0,Jeremy Lee,2
+Brandon,2,Babe,0
+Sabelan,1,Ethan,2
+Germ,2,Eggmode,0
+Bobbysiege,2,Oque,0
+Alan,2,Wicket,0
+@Sdashkon,0,Magnadx,2
+Ralph,2,Flake,0
+Bertbusdriver,2,Treechen,1
+Sfat,2,Zador,0
+Bensw,2,Charles,1
+Boback,2,The,0
+Imyt,2,Old Mcjohnald,0
+Toph,0,Grandma'S Cleavage,2
+Ghidorah,2,Gv,0
+Nhat,2,Chuck,0
+Glee,0,Sama,2
+Laudandus,2,Gamma,0
+Yamaneko,2,Holz,0
+Dizzkidboogie,2,Airwave,0
+Groovy Green Hat,2,Nest,0
+L,2,Dirk,0
+Elementalpenguin,2,Android,0
+Ycz,2,Bilf,0
+Bflat,1,Ghost,2
+Shroomed,2,Atrioc,0
+Snap,0,Pikminbutdeadly,2
+Darrell,2,Tiamat,0
+Dr. Z,2,Jeremy Lee,0
+Brandon,2,Ethan,0
+Germ,2,Bobbysiege,0
+Alan,2,Magnadx,0
+Ralph,2,Bertbusdriver,0
+Sfat,2,Bensw,0
+Boback,1,Imyt,2
+Grandma'S Cleavage,2,Ghidorah,0
+Nhat,2,Sama,0
+Laudandus,2,Yamaneko,0
+Dizzkidboogie,2,Groovy Green Hat,0
+L,2,Elementalpenguin,0
+Ycz,2,Ghost,1
+Shroomed,2,Pikminbutdeadly,0
+Darrell,2,Dr. Z,0
+Brandon,2,Germ,0
+Alan,0,Ralph,2
+Sfat,2,Imyt,0
+Grandma'S Cleavage,0,Nhat,2
+Laudandus,2,Dizzkidboogie,0
+L,0,Ycz,2
+Shroomed,2,Darrell,1
+Brandon,0,Ralph,2
+Sfat,2,Nhat,0
+Laudandus,2,Ycz,0
+Shroomed,3,Ralph,1
+Sfat,3,Laudandus,0
+Shroomed,0,Sfat,3
+Sfat,3,Shroomed,2
+Bflat,2,Winkie,0
+Treechen,2,Atlas,0
+Bilf,2,Bflat,1
+Android,0,Dirk,2
+Nest,0,Airwave,2
+Holz,2,Gamma,0
+Glee,2,Chuck,0
+Gv,0,Toph,2
+Old Mcjohnald,0,The,2
+Charles,2,Zador,0
+Flake,2,Treechen,1
+@Sdashkon,2,Wicket,0
+Oque,0,Eggmode,2
+Sabelan,2,Babe,0
+Spevak,2,Skyler,0
+Coco,0,Nanz,2
+Gohan,2,Ikedota,0
+Bertbusdriver,1,Bilf,2
+Magnadx,2,Dirk,1
+Bobbysiege,2,Airwave,0
+Ethan,2,Holz,0
+Jeremy Lee,2,Glee,0
+Tiamat,0,Toph,2
+Snap,2,The,0
+Atrioc,2,Charles,0
+Ghost,2,Flake,0
+Elementalpenguin,2,@Sdashkon,0
+Groovy Green Hat,2,Eggmode,0
+Yamaneko,2,Sabelan,0
+Sama,2,Spevak,0
+Ghidorah,2,Nanz,0
+Boback,2,Gohan,1
+Bensw,1,Xmp,2
+Bilf,2,Magnadx,0
+Bobbysiege,2,Ethan,0
+Jeremy Lee,0,Toph,2
+Ghost,2,Elementalpenguin,0
+Groovy Green Hat,2,Yamaneko,0
+Sama,2,Ghidorah,0
+Boback,2,Xmp,1
+Imyt,2,Bilf,0
+Grandma'S Cleavage,2,Bobbysiege,0
+Dizzkidboogie,0,Toph,2
+L,0,Snap,2
+Pikminbutdeadly,2,Ghost,0
+Dr. Z,2,Groovy Green Hat,0
+Germ,0,Sama,2
+Alan,2,Boback,0
+Imyt,2,Grandma'S Cleavage,1
+Toph,2,Snap,1
+Pikminbutdeadly,2,Dr. Z,1
+Sama,0,Alan,2
+Darrell,2,Imyt,0
+Brandon,2,Toph,1
+Nhat,2,Pikminbutdeadly,1
+Ycz,1,Alan,2
+Darrell,1,Brandon,2
+Nhat,2,Alan,0
+Laudandus,1,Brandon,2
+Ralph,2,Nhat,0
+Brandon,2,Ralph,0
+Shroomed,3,Brandon,1

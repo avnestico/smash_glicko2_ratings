@@ -1,0 +1,161 @@
+Zander,0,Huggermugger,2
+Elementalpenguin,0,6568,2
+Dave-Bot,0,Corleone,2
+El Cancell,2,Stan,0
+Holz!,2,Huinongman,0
+Reverb,0,Mental Djent,2
+Team Nick,2,Jame,0
+Sabelan,0,Fish,2
+Dolla Bill Bill,2,Fatal39,0
+Bern,2,Sajeel,0
+Nardis,2,Grandma'S Cleavage,0
+Ethan,2,Arch,0
+Mr. Thee,2,Ducky,0
+Monkeyjack,2,Edo,0
+Verboten,0,Maverick,2
+Dazy,0,Fiendish Dr. Wu,2
+Vato,0,Ned,2
+Drugmoney,2,Flex,0
+Pewpewu,2,Huggermugger,0
+Ghettotastic,1,Suzarya,2
+Boback,2,6568,0
+Chris Best,2,Corleone,0
+Gar,2,El Cancell,0
+Thegrimreaper,2,Tranmobile,0
+Nmw,2,Holz!,0
+Yamaneko,2,Hatcrab,0
+Azusa,2,Mental Djent,0
+Sharkboi,1,Schwiebs,2
+Nhat,2,Team Nick,0
+Danny Paguiao,2,Widler,0
+Ralph,2,Fish,0
+Ghidorah,2,J.P,0
+Lunin,2,Dolla Bill Bill,0
+Ahmad,2,Wassabi,0
+Sfat,2,Bern,0
+Mari,1,Enjoiful,2
+Weedlord,2,Nardis,1
+Groovygreenhat,2,Ethan,0
+Alan,2,Mr. Thee,0
+Erik,2,Atrioc,0
+Dr. Z,2,Monkeyjack,0
+Goose,2,Wiz,0
+Shroomed,2,Maverick,0
+Pimpjong Illest,1,Royce,2
+Snap,2,Fiendish Dr. Wu,0
+Imyt,2,Vic,1
+L,2,Ned,0
+Wardong,0,Golf,2
+Mr. B,2,Drugmoney,0
+Sage,2,Alaric,0
+Pewpewu,2,Suzarya,0
+Boback,0,Chris Best,2
+Gar,2,Thegrimreaper,0
+Nmw,2,Yamaneko,0
+Azusa,2,Schwiebs,0
+Nhat,1,Danny Paguiao,2
+Ralph,2,Ghidorah,0
+Lunin,2,Ahmad,0
+Sfat,2,Enjoiful,0
+Weedlord,2,Groovygreenhat,0
+Alan,2,Erik,0
+Dr. Z,2,Goose,0
+Shroomed,2,Royce,0
+Snap,2,Imyt,1
+L,2,Golf,0
+Mr. B,2,Sage,1
+Pewpewu,2,Chris Best,0
+Gar,0,Nmw,2
+Azusa,2,Danny Paguiao,0
+Ralph,2,Lunin,0
+Sfat,2,Weedlord,0
+Alan,0,Dr. Z,2
+Shroomed,2,Snap,0
+L,2,Mr. B,1
+Pewpewu,2,Nmw,0
+Azusa,2,Ralph,0
+Sfat,2,Dr. Z,0
+Shroomed,2,L,0
+Pewpewu,0,Azusa,2
+Sfat,2,Shroomed,0
+Azusa,1,Sfat,3
+Sfat,3,Shroomed,1
+Alaric,2,Zander,0
+Wardong,0,Elementalpenguin,2
+Ned,2,Dave-Bot,0
+Vic,2,Stan,0
+Pimpjong Illest,2,Huinongman,0
+Wiz,2,Reverb,0
+Atrioc,2,Jame,0
+Ethan,2,Sabelan,1
+Mari,2,Fatal39,0
+Wassabi,2,Sajeel,0
+J.P,0,Grandma'S Cleavage,2
+Fish,1,Arch,2
+Widler,2,Ducky,0
+Sharkboi,2,Edo,0
+Hatcrab,2,Verboten,0
+Tranmobile,1,Dazy,2
+Corleone,2,Vato,0
+Ghettotastic,2,Flex,0
+Drugmoney,2,Alaric,0
+Elementalpenguin,2,Ned,0
+Fiendish Dr. Wu,0,Vic,2
+Maverick,1,Pimpjong Illest,2
+Monkeyjack,0,Wiz,2
+Mr. Thee,0,Atrioc,2
+Nardis,2,Ethan,0
+Bern,1,Mari,2
+Dolla Bill Bill,2,Wassabi,0
+Grandma'S Cleavage,2,Arch,0
+Team Nick,2,Widler,1
+Mental Djent,0,Sharkboi,2
+El Cancell,2,Dazy,1
+6568,0,Corleone,2
+Huggermugger,0,Ghettotastic,2
+Ahmad,2,Drugmoney,0
+Ghidorah,0,Elementalpenguin,2
+Nhat,2,Vic,0
+Schwiebs,2,Pimpjong Illest,1
+Yamaneko,2,Wiz,1
+Thegrimreaper,1,Atrioc,2
+Boback,0,Nardis,2
+Suzarya,2,Mari,0
+Sage,0,Dolla Bill Bill,2
+Golf,0,Grandma'S Cleavage,2
+Imyt,0,Team Nick,2
+Royce,2,Sharkboi,1
+Goose,2,Hatcrab,0
+Erik,1,El Cancell,2
+Groovygreenhat,2,Corleone,1
+Enjoiful,0,Ghettotastic,2
+Ahmad,2,Elementalpenguin,0
+Nhat,2,Schwiebs,0
+Yamaneko,2,Atrioc,1
+Nardis,2,Suzarya,0
+Dolla Bill Bill,0,Grandma'S Cleavage,2
+Team Nick,0,Royce,2
+Goose,2,El Cancell,0
+Groovygreenhat,2,Ghettotastic,0
+Weedlord,1,Ahmad,2
+Alan,2,Nhat,1
+Snap,2,Yamaneko,1
+Mr. B,2,Nardis,0
+Chris Best,2,Grandma'S Cleavage,0
+Gar,2,Royce,1
+Danny Paguiao,1,Goose,2
+Lunin,2,Groovygreenhat,1
+Ahmad,0,Alan,2
+Snap,0,Mr. B,2
+Chris Best,0,Gar,2
+Goose,1,Lunin,2
+Nmw,2,Alan,0
+Ralph,2,Mr. B,0
+Dr. Z,2,Gar,1
+L,1,Lunin,2
+Nmw,1,Ralph,2
+Dr. Z,2,Lunin,1
+Shroomed,2,Ralph,1
+Pewpewu,2,Dr. Z,1
+Shroomed,2,Pewpewu,0
+Azusa,1,Shroomed,3

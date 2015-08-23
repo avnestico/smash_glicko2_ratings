@@ -1,0 +1,157 @@
+Holz!,0,Miguel,2
+Henry,0,Dj Si-Guy,2
+Hatcrab,2,Incronaut,1
+Fakes,0,Ethan,2
+Menohaxor,0,Bilf,2
+Vankulture,0,Untitled,2
+Ace,2,Vato,0
+Elemental Penguin,2,Rama,1
+Me,0,@Sdashkon,2
+Cruz,2,Brian,0
+Bad,2,Smyd,1
+Clark,0,Zygo,2
+Nash,0,Mari,2
+Alaric,2,Coco,0
+Danimals,2,Chuck Lee,0
+Grouch,2,Anthony,0
+Sfat,2,Miguel,0
+Groovy Green Hat,2,The Grime Reaper,0
+Delphiki,2,Dj Si-Guy,0
+Lunin,2,Zander,0
+Silentspectre,2,Hatcrab,0
+Yamaneko,2,Mental Djent,0
+Ralph-Senpai,2,Ethan,0
+Thecrimsonblur,2,Sabelan,0
+Laudandus,2,Bilf,0
+Bertbusdriver,0,Hostility,2
+Germ,2,Untitled,0
+Bluefoxxt,2,Charles,0
+Brandon,2,Ace,0
+Grandma'S Cleavage,0,Choy,2
+Mr. Brandandorf,2,Elemental Penguin,0
+Weedlord,2,Shitlord,0
+Shroomed,2,@Sdashkon,0
+Somatose,0,Drewgong,2
+Gar,2,Cruz,0
+Ycz,2,Evan,0
+Princess Bad Bitch,2,Bad,0
+Skeeter,2,Diq,0
+Phil,2,Zygo,0
+Omni,2,Dr. Jwns,0
+Zhu,2,Mari,0
+Soccermom69,2,Erik,1
+Robca$Hmoneyberto,2,Alaric,0
+Anson,2,Allpain,0
+Toph,2,Danimals,0
+Wardong,2,Ghettotastic,0
+Dizzkidboogie,2,Grouch,0
+Imyt,0,Dr. Grin,2
+Sfat,2,Groovy Green Hat,0
+Delphiki,2,Lunin,0
+Silentspectre,2,Yamaneko,0
+Ralph-Senpai,2,Thecrimsonblur,1
+Laudandus,2,Hostility,0
+Germ,2,Bluefoxxt,1
+Brandon,2,Choy,0
+Mr. Brandandorf,0,Weedlord,2
+Shroomed,2,Drewgong,0
+Gar,2,Ycz,0
+Princess Bad Bitch,2,Skeeter,0
+Phil,2,Omni,0
+Zhu,2,Soccermom69,0
+Robca$Hmoneyberto,2,Anson,0
+Toph,2,Wardong,0
+Dizzkidboogie,2,Dr. Grin,0
+Sfat,2,Delphiki,1
+Silentspectre,2,Ralph-Senpai,0
+Laudandus,2,Germ,0
+Brandon,2,Weedlord,0
+Shroomed,2,Gar,0
+Princess Bad Bitch,2,Phil,1
+Zhu,2,Robca$Hmoneyberto,0
+Toph,2,Dizzkidboogie,1
+Sfat,2,Silentspectre,0
+Laudandus,1,Brandon,2
+Shroomed,2,Princess Bad Bitch,0
+Zhu,2,Toph,0
+Sfat,2,Brandon,0
+Shroomed,0,Zhu,2
+Sfat,3,Zhu,1
+Imyt,2,Holz!,0
+Ghettotastic,2,Henry,1
+Allpain,1,Incronaut,2
+Erik,2,Fakes,0
+Dr. Jwns,1,Menohaxor,2
+Diq,0,Vankulture,2
+Evan,2,Vato,1
+Somatose,2,Rama,0
+Shitlord,1,Me,2
+Grandma'S Cleavage,2,Brian,0
+Charles,2,Smyd,0
+Bertbusdriver,2,Clark,0
+Sabelan,2,Nash,0
+Mental Djent,1,Coco,2
+Zander,0,Chuck Lee,2
+The Grime Reaper,2,Anthony,0
+Grouch,1,Imyt,2
+Danimals,0,Ghettotastic,2
+Alaric,2,Incronaut,0
+Mari,1,Erik,2
+Zygo,0,Menohaxor,2
+Bad,2,Vankulture,0
+Cruz,2,Evan,0
+@Sdashkon,1,Somatose,2
+Elemental Penguin,1,Me,2
+Ace,2,Grandma'S Cleavage,0
+Untitled,2,Charles,0
+Bilf,0,Bertbusdriver,2
+Ethan,0,Sabelan,2
+Hatcrab,2,Coco,0
+Dj Si-Guy,2,Chuck Lee,0
+Miguel,0,The Grime Reaper,2
+Mr. Brandandorf,2,Imyt,1
+Choy,1,Ghettotastic,2
+Bluefoxxt,2,Alaric,0
+Hostility,0,Erik,2
+Thecrimsonblur,2,Menohaxor,0
+Yamaneko,2,Bad,1
+Lunin,2,Cruz,0
+Groovy Green Hat,2,Somatose,0
+Dr. Grin,2,Me,0
+Wardong,0,Ace,2
+Anson,2,Untitled,1
+Soccermom69,2,Bertbusdriver,1
+Omni,2,Sabelan,0
+Skeeter,2,Hatcrab,0
+Ycz,2,Dj Si-Guy,0
+Drewgong,1,The Grime Reaper,2
+Mr. Brandandorf,2,Ghettotastic,0
+Bluefoxxt,2,Erik,0
+Thecrimsonblur,2,Yamaneko,1
+Lunin,2,Groovy Green Hat,1
+Dr. Grin,2,Ace,0
+Anson,2,Soccermom69,0
+Omni,2,Skeeter,0
+Ycz,2,The Grime Reaper,1
+Gar,1,Mr. Brandandorf,2
+Phil,1,Bluefoxxt,2
+Robca$Hmoneyberto,1,Thecrimsonblur,2
+Dizzkidboogie,2,Lunin,0
+Delphiki,2,Dr. Grin,1
+Ralph-Senpai,2,Anson,1
+Germ,0,Omni,2
+Weedlord,2,Ycz,1
+Mr. Brandandorf,2,Bluefoxxt,0
+Thecrimsonblur,0,Dizzkidboogie,2
+Delphiki,1,Ralph-Senpai,2
+Omni,0,Weedlord,2
+Silentspectre,0,Mr. Brandandorf,2
+Laudandus,2,Dizzkidboogie,0
+Princess Bad Bitch,2,Ralph-Senpai,0
+Toph,2,Weedlord,0
+Mr. Brandandorf,0,Laudandus,2
+Princess Bad Bitch,0,Toph,2
+Shroomed,2,Laudandus,0
+Brandon,2,Toph,0
+Shroomed,2,Brandon,1
+Zhu,0,Shroomed,2

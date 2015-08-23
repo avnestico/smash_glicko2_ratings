@@ -1,0 +1,155 @@
+Colin,2,Lauren,0
+Wiz,2,Doitforllc,0
+Holz!,2,Telmo,0
+Mental Djent,2,Nmh,0
+Ninjasteve,0,Chuck Lee,2
+@Sdashkon,2,Nani,0
+Sajeel,0,Kneesus Christ,2
+Pkp,0,Vanna Black,2
+Horse,0,Royce,2
+Lex Shy,2,Mach,1
+Dr. Jwnz,2,Ultimatemuffin,0
+Wassabi,2,Harvey Birdman,1
+I Like Macaroni,0,Omlet,2
+Loso,2,Stu,0
+Anthony,1,Thugz,2
+Silentwolf,2,Colin,0
+Atrioc,0,Bertbusdriver,2
+Hella,2,Walrus,0
+Yamaneko,2,Evan,0
+Dr. Z,2,Wiz,0
+Emanon,2,Danimals,1
+Mr. Brandandorf,2,Holz!,1
+Somatose,2,Glee,1
+Llllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll,2,Mental Djent,0
+Mkan,2,Ethan,1
+Weedlord,2,Chuck Lee,0
+]343[,2,Zander,0
+Robca$Hmoneyberto,2,@Sdashkon,0
+Yoshi,2,Mari,0
+Hectohertz,2,Kneesus Christ,0
+Drewgong,2,Charles,0
+Brandon,2,Vanna Black,0
+Golf,1,Suzy420,2
+Imwhitey,2,Royce,1
+Wardong,2,Flan,0
+Gar,2,Lex Shy,0
+Magnadx,2,Elemental Penguin,1
+Germ,2,Dr. Jwnz,0
+Chroma,2,Spevak,0
+Alan,2,Wassabi,0
+Wrax,2,Magikarp,0
+Xpilot,2,Omlet,0
+Chris Best,2,Wormwood,0
+Nmw,2,Loso,0
+Grouch,2,Toiya,0
+Ycz,2,Thugz,0
+Nardis,2,Bhb,0
+Silentwolf,2,Bertbusdriver,0
+Hella,0,Yamaneko,2
+Dr. Z,2,Emanon,1
+Mr. Brandandorf,2,Somatose,1
+Llllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll,2,Mkan,0
+Weedlord,2,]343[,1
+Robca$Hmoneyberto,2,Yoshi,0
+Hectohertz,2,Drewgong,1
+Brandon,2,Suzy420,0
+Imwhitey,2,Wardong,1
+Gar,2,Magnadx,0
+Germ,2,Chroma,0
+Alan,2,Wrax,0
+Xpilot,1,Chris Best,2
+Nmw,2,Grouch,0
+Ycz,2,Nardis,0
+Silentwolf,2,Yamaneko,0
+Dr. Z,2,Mr. Brandandorf,0
+Llllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll,2,Weedlord,0
+Robca$Hmoneyberto,2,Hectohertz,1
+Brandon,2,Imwhitey,0
+Gar,2,Germ,1
+Alan,2,Chris Best,1
+Nmw,2,Ycz,1
+Silentwolf,2,Dr. Z,0
+Llllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll,2,Robca$Hmoneyberto,1
+Brandon,0,Gar,2
+Alan,2,Nmw,0
+Silentwolf,3,Llllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll,2
+Gar,2,Alan,3
+Silentwolf,3,Alan,0
+Bhb,2,Lauren,0
+Wormwood,2,Doitforllc,0
+Magikarp,2,Telmo,0
+Spevak,2,Nmh,0
+Elemental Penguin,2,Ninjasteve,0
+Flan,2,Nani,1
+Golf,2,Sajeel,0
+Charles,2,Pkp,0
+Mari,2,Horse,0
+Zander,2,Mach,0
+Ethan,2,Ultimatemuffin,0
+Glee,2,Harvey Birdman,0
+Danimals,2,I Like Macaroni,0
+Evan,2,Stu,0
+Atrioc,2,Anthony,0
+Thugz,2,Bhb,0
+Toiya,2,Loso,1
+Omlet,2,Wormwood,0
+Wassabi,0,Magikarp,2
+Dr. Jwnz,2,Spevak,1
+Lex Shy,0,Elemental Penguin,2
+Royce,2,Flan,0
+Vanna Black,0,Golf,2
+Kneesus Christ,0,Charles,2
+@Sdashkon,2,Mari,1
+Chuck Lee,2,Zander,0
+Mental Djent,1,Ethan,2
+Holz!,0,Glee,2
+Wiz,2,Danimals,0
+Walrus,0,Evan,2
+Colin,0,Atrioc,2
+Drewgong,2,Thugz,0
+Yoshi,2,Toiya,0
+]343[,2,Omlet,1
+Mkan,1,Magikarp,2
+Somatose,2,Dr. Jwnz,1
+Emanon,2,Elemental Penguin,1
+Hella,2,Royce,0
+Bertbusdriver,0,Golf,2
+Nardis,2,Charles,0
+Grouch,2,@Sdashkon,0
+Xpilot,2,Chuck Lee,0
+Wrax,2,Ethan,0
+Chroma,2,Glee,0
+Magnadx,2,Wiz,1
+Wardong,2,Evan,0
+Suzy420,2,Atrioc,0
+Drewgong,0,Yoshi,2
+]343[,1,Magikarp,2
+Somatose,0,Emanon,2
+Hella,2,Golf,1
+Nardis,2,Grouch,0
+Xpilot,1,Wrax,2
+Chroma,2,Magnadx,0
+Wardong,2,Suzy420,0
+Imwhitey,2,Yoshi,1
+Germ,2,Magikarp,0
+Chris Best,2,Emanon,0
+Ycz,2,Hella,0
+Yamaneko,2,Nardis,1
+Mr. Brandandorf,2,Wrax,0
+Weedlord,2,Chroma,0
+Hectohertz,2,Wardong,0
+Imwhitey,2,Germ,0
+Chris Best,0,Ycz,2
+Yamaneko,1,Mr. Brandandorf,2
+Weedlord,1,Hectohertz,2
+Dr. Z,2,Imwhitey,1
+Robca$Hmoneyberto,2,Ycz,1
+Brandon,2,Mr. Brandandorf,0
+Nmw,2,Hectohertz,1
+Dr. Z,0,Robca$Hmoneyberto,2
+Brandon,0,Nmw,2
+Gar,1,Robca$Hmoneyberto,2
+Llllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll,2,Nmw,0
+Robca$Hmoneyberto,3,Llllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll,2
+Alan,0,Robca$Hmoneyberto,3
