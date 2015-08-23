@@ -46,15 +46,16 @@ def get_prev_saturday(date):
     return get_saturday(date, -1)
 
 
-def get_filename(name):
+def get_filename(name, prefix):
     """
     Takes the name of a tournament and points to its url file
     """
-    ensure_dir("MeleeUrls/")
+    folder = prefix + "Urls/"
+    ensure_dir(folder)
     name = name.strip()
     name = name.replace(":", "")
-    if not name.startswith("MeleeUrls/"):
-        name = "MeleeUrls/" + name
+    if not name.startswith(folder):
+        name = folder + name
     if not name.endswith(".txt"):
         name += ".txt"
     return name
@@ -69,7 +70,7 @@ def ensure_dir(f):
         os.makedirs(d)
 
 
-def add_tournaments(filename, date_filename):
+def add_tournaments(list_filename, date_filename, prefix):
     """
     Splits a list of dates, tournaments, and urls into a date-tournament list and a file for each tournament containing
     its urls.
@@ -77,7 +78,7 @@ def add_tournaments(filename, date_filename):
     safe_delete(date_filename)
     date = False
     tournament = False
-    with open(filename, "r", encoding="ISO-8859-1") as file:
+    with open(list_filename, "r", encoding="ISO-8859-1") as file:
         for line in file:
             line = line.strip()
             # Ignore blank and commented lines (% is the comment marker as some tournaments may be hashtags)
@@ -98,34 +99,45 @@ def add_tournaments(filename, date_filename):
             # If the line is not a url, it is the tournament name. Write this to the date file
             elif not line.startswith("http"):
                 tournament = line.strip()
-                safe_delete(get_filename(tournament))
+                safe_delete(get_filename(tournament, prefix))
                 with open(date_filename, "a", encoding="ISO-8859-1") as date_file:
                     date_file.write(line + "\n")
             # If the line is a url, write it to the tournament's url file.
             else:
-                with open(get_filename(tournament), "a", encoding="ISO-8859-1") as tournament_file:
+                with open(get_filename(tournament, prefix), "a", encoding="ISO-8859-1") as tournament_file:
                     tournament_file.write(line + "\n")
 
 
-def print_tournaments(filename):
+def print_tournaments(date_filename, list_filename, prefix):
     """
     Converts a date-tournament file back to a list file to ensure accuracy.
     Note that all dates in the new list will be Saturdays.
     """
     date = ""
-    with open(filename, "r", encoding="ISO-8859-1") as file:
+    is_first_line = True
+    safe_delete(list_filename)
+    with open(date_filename, "r", encoding="ISO-8859-1") as file:
         for line in file:
             line = line.strip()
             if get_date(line):
                 date = line
             else:
-                print("\n" + date)
-                print(line)
-                with open(get_filename(line), "r", encoding="ISO-8859-1") as tournament_file:
-                    for line in tournament_file:
-                        print(line.strip())
+                with open(list_filename, "a", encoding="ISO-8859-1") as list_file:
+                    if not is_first_line:
+                        list_file.write("\n")
+                    list_file.write(date + "\n" + line + "\n")
+                    with open(get_filename(line, prefix), "r", encoding="ISO-8859-1") as tournament_file:
+                        for url in tournament_file:
+                            list_file.write(url)
+                    is_first_line = False
+
+
+def update_files(prefix):
+    list_filename = prefix + "Tournaments.txt"
+    date_filename = prefix + "Dates.txt"
+    add_tournaments(list_filename, date_filename, prefix)
+    print_tournaments(date_filename, list_filename, prefix)
 
 
 if __name__ == "__main__":
-    add_tournaments("MeleeTournaments.txt", "MeleeDates.txt")
-    print_tournaments("MeleeDates.txt")
+    update_files("Melee")

@@ -45,6 +45,10 @@ http://wiki.teamliquid.net/smash/B.E.A.S.T_5/Singles_Winners
 NeoNebulous_Beta
 http://nebulous.challonge.com/neonebs
 
+2015-01-10
+SF_Game_Night_29
+http://showdowngg.challonge.com/SFGameNight29
+
 2015-01-17
 King_of_Garden_State
 http://challonge.com/KoGS_NJGaRPR
@@ -58,6 +62,10 @@ Paragon_2015
 http://wiki.teamliquid.net/smash/Paragon_2015&section=2
 http://wiki.teamliquid.net/smash/Paragon_2015/Singles_Top_64_Losers
 http://wiki.teamliquid.net/smash/Paragon_2015/Singles_Top_64_Winners
+
+2015-01-17
+SF_Game_Night_30
+http://showdowngg.challonge.com/SFGameNight30
 
 2015-01-24
 Dime_12
@@ -168,17 +176,13 @@ http://apex2015melee.challonge.com/I16
 http://wiki.teamliquid.net/smash/Apex_2015/Singles_Winners
 http://wiki.teamliquid.net/smash/Apex_2015/Singles_Losers
 
-%2015-01-31
-%Avalon_VII
-%(TIO Bracket, unable to scrape)
-
 2015-02-07
 Phantom_Circuit_Tournament_10
 http://challonge.com/SSBT10Singles
 
-%2015-02-14
-%NeoNebulous_1
-%(TIO Bracket, unable to scrape)
+2015-02-07
+SF_Game_Night_32
+http://showdowngg.challonge.com/SFGameNight32
 
 2015-02-21
 Great_Revival
@@ -195,6 +199,10 @@ http://gr.challonge.com/melee_C4
 2015-02-21
 McSmashter_4
 http://wiki.teamliquid.net/smash/McSmashter_4/Singles
+
+2015-02-21
+SF_Game_Night_34
+http://showdowngg.challonge.com/SFGameNight34
 
 2015-02-21
 SWEET_XVIII
@@ -241,6 +249,10 @@ http://challonge.com/SCMS8
 http://challonge.com/SCSMeleeTop16
 
 2015-02-28
+SF_Game_Night_35
+http://showdowngg.challonge.com/SFGameNight35
+
+2015-02-28
 Shots_Fired
 http://wiki.teamliquid.net/smash/Shots_Fired/Singles_Top_32
 
@@ -248,7 +260,7 @@ http://wiki.teamliquid.net/smash/Shots_Fired/Singles_Top_32
 Smash_Till_You_Crash_5
 http://wiki.teamliquid.net/smash/Smash_Till_You_Crash_5/Singles_Bracket
 
-2015-03-01
+2015-02-28
 Super_South_Bay_Sundays
 http://ssbs.challonge.com/ssbsmelee
 
@@ -314,6 +326,10 @@ NeoNebulous_6
 http://nebulous.challonge.com/neonebs6singles
 
 2015-03-21
+SF_Game_Night_37
+http://showdowngg.challonge.com/SFGameNight37
+
+2015-03-21
 SmashNest_4
 http://cacaw.challonge.com/SN4MeleePool1
 http://cacaw.challonge.com/SN4MeleePool2
@@ -364,6 +380,10 @@ http://wiki.teamliquid.net/smash/Legend_of_Melee/Singles_Bracket
 2015-03-28
 NeoNebulous_7
 http://nebulous.challonge.com/neonebs7pro
+
+2015-03-28
+SF_Game_Night_38
+http://showdowngg.challonge.com/SFGameNight38
 
 2015-03-28
 Winnipeg_Monthly_6
@@ -424,9 +444,9 @@ http://ncr2015.challonge.com/melee3
 http://ncr2015.challonge.com/melee4
 http://ncr2015.challonge.com/meleetop8
 
-%2015-04-04
-%Spring_Into_Action_15
-%(can’t find bracket)
+2015-04-04
+SF_Game_Night_39
+http://showdowngg.challonge.com/SFGameNight39
 
 2015-04-04
 SWEET_XX
@@ -441,6 +461,10 @@ http://wiki.teamliquid.net/smash/I'm_Not_Yelling!/Singles_Pools/Group_2
 2015-04-18
 Sandstorm
 http://wiki.teamliquid.net/smash/Sandstorm/Singles_Bracket
+
+2015-04-18
+SF_Game_Night_41
+http://showdowngg.challonge.com/SFGameNight41
 
 2015-04-25
 DrømmeLAN_4.5
@@ -510,19 +534,19 @@ http://wiki.teamliquid.net/smash/UBC_Cup/Singles_Bracket
 Beachin_Biweekly_15
 http://beachsmash.challonge.com/bb15
 
-2015-05-17
+2015-05-16
 Enthusiast_Gaming_Live
 http://wiki.teamliquid.net/smash/Enthusiast_Gaming_Live/Singles_Bracket
 
-2015-05-17
+2015-05-16
 My_B
 http://wiki.teamliquid.net/smash/My_B/Singles
 
-2015-05-12
+2015-05-16
 New_Game_Plus_3
 http://bigbluees.challonge.com/NGP3
 
-2015-05-17
+2015-05-16
 Otafest_Assault_3
 http://otafestassault3.challonge.com/MeleeBrPool1
 http://otafestassault3.challonge.com/MeleeBrPool2
@@ -546,7 +570,7 @@ http://otafestassault3.challonge.com/MeleeTop32
 Revelation_2
 http://wiki.teamliquid.net/smash/Revelation_2/Singles_Bracket
 
-2015-05-17
+2015-05-16
 UFEST_Melee_El_Salvador
 http://challonge.com/MeleeTournament2015SV
 
@@ -554,21 +578,17 @@ http://challonge.com/MeleeTournament2015SV
 Battle_Arena_Melbourne_7
 http://wiki.teamliquid.net/smash/Battle_Arena_Melbourne_7/Singles_Bracket
 
-2015-05-24
+2015-05-23
 Combo_Breaker_2015
 http://wiki.teamliquid.net/smash/Combo_Breaker_2015/Singles_Bracket
 
-2015-05-19
+2015-05-23
 New_Game_Plus_4
 http://bigbluees.challonge.com/NGP4
 
-2015-05-20
+2015-05-23
 UM_Biweekly_8
 http://michigansmash.challonge.com/umb8
-
-%2015-05-30
-%BAM_12
-%(Smash.gg bracket, unable to scrape)
 
 2015-05-30
 Dismantle
@@ -585,15 +605,19 @@ http://wiki.teamliquid.net/smash/Get_On_My_Level_2015/Singles_Pools/R
 Mass_Madness_Monthly_1
 http://bigbluees.challonge.com/MMM1Pro
 
-2015-05-26
+2015-05-30
 New_Game_Plus_5
 http://bigbluees.challonge.com/NGP5
 
-2015-05-27
+2015-05-30
+SF_Game_Night_46
+http://showdowngg.challonge.com/SFGameNight46
+
+2015-05-30
 UM_Biweekly_9
 http://michigansmash.challonge.com/umb9
 
-2015-06-04
+2015-06-06
 Flashback_Games_14
 http://challonge.com/FBGT14P1
 http://challonge.com/FBGT14P2
@@ -633,29 +657,29 @@ http://challonge.com/NCArcadianFinalBracket
 Scenic_City_Smash_4
 http://challonge.com/SCS4MeleeBracket
 
-2015-06-03
+2015-06-06
+SF_Game_Night_47
+http://showdowngg.challonge.com/SFGameNight47
+
+2015-06-06
 UM_Biweekly_10
 http://michigansmash.challonge.com/umb10
 
-%2015-06-13
-%Avalon_IX
-%(TIO Bracket, unable to scrape)
-
-%2015-06-13
-%BAM_13
-%(Smash.gg bracket, unable to scrape)
-
-2015-06-14
+2015-06-13
 Melee_at_JJs_19
 http://challonge.com/meleeatjjs19
 
-2015-06-09
+2015-06-13
 New_Game_Plus_7
 http://bigbluees.challonge.com/NGP7
 
 2015-06-13
 Northwest_Battleground_1
 http://gameclucks.challonge.com/nwbg1melee
+
+2015-06-13
+SF_Game_Night_48
+http://showdowngg.challonge.com/SFGameNight48
 
 2015-06-13
 Smash_'N'_Splash
@@ -669,13 +693,17 @@ http://michigansmash.challonge.com/stockofchampionsa2
 http://michigansmash.challonge.com/stockofchampionsb1
 http://michigansmash.challonge.com/stockofchampionsb2
 
-2015-06-10
+2015-06-13
 UM_Biweekly_11
 http://michigansmash.challonge.com/umb11
 
 2015-06-20
 New_Game_Plus_8
 http://bigbluees.challonge.com/NGP8
+
+2015-06-20
+SF_Game_Night_49
+http://showdowngg.challonge.com/SFGameNight49
 
 2015-06-20
 The_Oregon_SHFFL
@@ -689,7 +717,7 @@ http://shffl.challonge.com/Pool7
 http://shffl.challonge.com/Pool8
 http://shffl.challonge.com/Top16
 
-2015-06-17
+2015-06-20
 UM_Biweekly_12
 http://michigansmash.challonge.com/umb12
 
@@ -721,19 +749,27 @@ http://challonge.com/desucon10melee
 Mass_Madness_Monthly_2
 http://bigbluees.challonge.com/MMM2P
 
-2015-06-23
+2015-06-27
 New_Game_Plus_9
 http://bigbluees.challonge.com/NGP9
 
-2015-07-03
+2015-06-27
+SF_Game_Night_50
+http://showdowngg.challonge.com/SFGameNight50
+
+2015-07-04
 FC_Smash_15XR:_Return
 http://wiki.teamliquid.net/smash/FC_Smash_15XR:_Return&section=6
 
-2015-06-30
+2015-07-04
 New_Game_Plus_10
 http://bigbluees.challonge.com/NGP10
 
-2015-07-10
+2015-07-04
+SF_Game_Night_51
+http://showdowngg.challonge.com/SFGameNight51
+
+2015-07-11
 Flashback_Games_15
 http://challonge.com/FBGT15P1
 http://challonge.com/FBGT15P2
@@ -748,7 +784,7 @@ http://challonge.com/FBGT15P10
 http://challonge.com/FBGT15DP
 http://challonge.com/FBGT15
 
-2015-07-10
+2015-07-11
 Mayhem_7-11-15
 http://challonge.com/mayhemJuly11Pool1
 http://challonge.com/mayhemJuly11Pool2
@@ -760,15 +796,15 @@ http://challonge.com/mayhemJuly11Pool7
 http://challonge.com/mayhemJuly11Pool8
 http://challonge.com/mayhemJuly11top32
 
-2015-07-08
+2015-07-11
 Melee_at_JJs_23
 http://challonge.com/meleeatjjs23
 
-2015-07-07
+2015-07-11
 New_Game_Plus_11
 http://bigbluees.challonge.com/NGP11
 
-2015-07-10
+2015-07-11
 PrEVO_2015
 http://dcesportslans.challonge.com/prevo_singles1
 http://dcesportslans.challonge.com/prevo_singles2
@@ -780,7 +816,11 @@ http://dcesportslans.challonge.com/prevo_singles7
 http://dcesportslans.challonge.com/prevo_singles8
 http://dcesportslans.challonge.com/prevo_singlesfinal
 
-2015-07-10
+2015-07-11
+SF_Game_Night_52
+http://showdowngg.challonge.com/SFGameNight52
+
+2015-07-11
 UMN_Smash_Summer_Seasonal
 http://umnsmash.challonge.com/SSMeleePoolA
 http://umnsmash.challonge.com/SSMeleePoolB
@@ -792,13 +832,13 @@ http://umnsmash.challonge.com/SSMeleePoolG
 http://umnsmash.challonge.com/SSMeleePoolH
 http://umnsmash.challonge.com/SSMelee
 
-2015-07-10
+2015-07-11
 WTFox
 http://wiki.teamliquid.net/smash/WTFox&section=T-1
 http://wiki.teamliquid.net/smash/WTFox/Singles_Bracket
 http://wiki.teamliquid.net/smash/WTFox/Singles_Pools
 
-2015-07-17
+2015-07-18
 EVO_2015
 http://wiki.teamliquid.net/smash/EVO_2015/Singles_Bracket
 http://wiki.teamliquid.net/smash/EVO_2015/Singles_Pools_Brackets/A101
@@ -930,13 +970,17 @@ http://wiki.teamliquid.net/smash/EVO_2015/Singles_Pools_Brackets/G111
 http://wiki.teamliquid.net/smash/EVO_2015/Singles_Pools_Brackets/G113
 http://wiki.teamliquid.net/smash/EVO_2015/Singles_Pools_Brackets/G115
 
-2015-07-14
+2015-07-18
 New_Game_Plus_12
 http://bigbluees.challonge.com/NGP12
 
-2015-07-15
+2015-07-18
 PSG_Classic_2
 http://vegassmash.challonge.com/psgclassic2melee
+
+2015-07-18
+SF_Game_Night_53
+http://showdowngg.challonge.com/SFGameNight53
 
 2015-07-25
 High_School_Smash_5
@@ -954,11 +998,11 @@ http://highschoolsmash.challonge.com/HSS725MeleeTop32
 LAST_V
 http://wiki.teamliquid.net/smash/LAST_V/Singles_Bracket
 
-2015-07-26
+2015-07-25
 Smash_Factor_4
 http://challonge.com/SF4Finals
 
-2015-07-22
+2015-07-25
 Wavedash_Wednesdays
 http://challonge.com/EXP_Melee_96
 
@@ -974,7 +1018,7 @@ http://challonge.com/bhampoolb3
 http://challonge.com/bhampoolb4
 http://challonge.com/bhammeleetop32
 
-2015-07-31
+2015-08-01
 Flashback_Games_16
 http://challonge.com/FBGT16P1
 http://challonge.com/FBGT16P2
@@ -997,9 +1041,13 @@ http://ltc3.challonge.com/meleetop48
 Mass_Madness_Monthly_3
 http://bigbluees.challonge.com/MMM3Pro
 
-2015-7-28
+2015-08-01
 New_Game_Plus_14
 http://bigbluees.challonge.com/NGP14
+
+2015-08-01
+SF_Game_Night_54
+http://showdowngg.challonge.com/SFGameNight54
 
 2015-08-01
 South_Coast_Regionals_6
@@ -1009,13 +1057,17 @@ http://wiki.teamliquid.net/smash/South_Coast_Regionals_6/Singles_Bracket
 Super_Smash_Sundays_31
 http://wiki.teamliquid.net/smash/Super_Smash_Sundays_31/Singles
 
-2015-08-09
+2015-08-08
 Kickstart
 http://wiki.teamliquid.net/smash/Kickstart/Singles_Bracket
 
 2015-08-08
 New_Game_Plus_15
 http://bigbluees.challonge.com/NGP15
+
+2015-08-08
+SF_Game_Night_55
+http://showdowngg.challonge.com/SFGameNight55
 
 2015-08-08
 Smash_At_Xanadu_2015-08-05
@@ -1054,6 +1106,10 @@ http://challonge.com/rc1Pool8
 http://challonge.com/rc1top32
 
 2015-08-15
+SF_Game_Night_56
+http://showdowngg.challonge.com/SFGameNight56
+
+2015-08-15
 Summit
 http://challonge.com/SummitMelee
 
@@ -1061,10 +1117,14 @@ http://challonge.com/SummitMelee
 Sweet_Spot_Grand_Finals
 http://challonge.com/sweetspotmeleegf
 
-2015-08-12
+2015-08-15
 UM_Biweekly_19
 http://michigansmash.challonge.com/umb19
 
-2015-8-18
+2015-08-22
 New_Game_Plus_17
 http://bigbluees.challonge.com/NGP17
+
+2015-08-22
+SF_Game_Night_57
+http://showdowngg.challonge.com/SFGameNight57
