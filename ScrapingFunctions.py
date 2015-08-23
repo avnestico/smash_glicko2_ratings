@@ -131,7 +131,7 @@ def remove_pools(string):
     # (S2 P2), etc.
     string = re.sub("\(S\d+ P\d+\)", "", string).strip()
     # (Setup), (Unpaid), etc.
-    string = re.sub("\((?:Setup|Unpaid|Forfeit|Dq)\)", "", string).strip()
+    string = re.sub("\((?:Setup|Unpaid|Forfeit|Dq|Dnp)\)", "", string).strip()
     return string
 
 
