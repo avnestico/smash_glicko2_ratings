@@ -1,6 +1,7 @@
 import collections
 import contextlib
 import datetime
+import json
 import os
 import re
 from bs4 import BeautifulSoup
@@ -91,29 +92,23 @@ def strip_match(line):
         return stripped_line
 
 
-def normalize_names(line):
+def normalize_name(line):
     """Convert the names in a match to a standarized format: Title case with no sponsors."""
 
     # Convert all names to titlecase
-    line[0] = line[0].title()
-    line[2] = line[2].title()
+    line = line.title()
 
     # Remove pools
-    line[0] = remove_pools(line[0])
-    line[2] = remove_pools(line[2])
+    line = remove_pools(line)
 
     # Remove usual sponsors
-    line[0] = line[0].split("|")[-1].strip()
-    line[0] = line[0].split(" I ")[-1].strip()
-    line[2] = line[2].split("|")[-1].strip()
-    line[2] = line[2].split(" I ")[-1].strip()
+    line = line.split("|")[-1].strip()
+    line = line.split(" I ")[-1].strip()
 
     # check if name contains an oddly formatted sponsor or otherwise needs to be changed
     for Replacement in ReplacementList:
-        if line[0] == Replacement[0].title():
-            line[0] = Replacement[1].title()
-        if line[2] == Replacement[0].title():
-            line[2] = Replacement[1].title()
+        if line == Replacement[0].title():
+            line = Replacement[1].title()
 
     return line
 
@@ -196,7 +191,8 @@ def parse_match(line):
     if line[1] == "0" and line[3] == "0":
         return ""
 
-    line = normalize_names(line)
+    line[0] = normalize_name(line[0])
+    line[2] = normalize_name(line[2])
 
     return ",".join(line)
 
@@ -267,6 +263,63 @@ def write_txt_from_liquipedia(url, filename):
         file.write(parsed_matches)
 
 
+def format_smashgg_url(url):
+    """Converts bracket url to api url, if necessary."""
+    if not "api.smash.gg" in url:
+        url = "http://api.smash.gg/phase_group/" + url.split("/")[-1] + "?expand[0]=sets&expand[1]=entrants"
+    return url
+
+
+def parse_smashgg_set(set, entrant_dict):
+    """Returns the winner and loser of a smash.gg set."""
+    winnerId = set["winnerId"]
+    entrant1Id = set["entrant1Id"]
+    entrant1Score = set["entrant1Score"]
+    entrant2Id = set["entrant2Id"]
+    entrant2Score = set["entrant2Score"]
+
+    if set["completedAt"]:
+        entrant1Name = normalize_name(entrant_dict[entrant1Id])
+        entrant2Name = normalize_name(entrant_dict[entrant2Id])
+
+        if type(entrant1Score) is int and type(entrant2Score) is int:
+            if entrant1Score > -1 and entrant2Score > -1:
+                if entrant1Id == winnerId:
+                    return(entrant1Name + "," + entrant2Name)
+                else:
+                    return(entrant2Name + "," + entrant1Name)
+        else:
+            if entrant1Id == winnerId:
+                return(entrant1Name + "," + entrant2Name)
+            else:
+                return(entrant2Name + "," + entrant1Name)
+
+
+def write_txt_from_smashgg(url, filename):
+    """Writes smash.gg bracket data to a file."""
+    url = format_smashgg_url(url)
+    data = requests.get(url).json()
+
+    entrants = data["entities"]["entrants"]
+    entrant_dict = {}
+    for entrant in entrants:
+        entrant_dict[entrant["id"]] = entrant["name"]
+
+    sets = data["entities"]["sets"]
+    set_data = []
+    grand_finals = []
+    for set in sets:
+        parsed_set = parse_smashgg_set(set, entrant_dict)
+        if parsed_set:
+            if set["isGF"]:
+                grand_finals.append(parsed_set)
+            else:
+                set_data.append(parsed_set)
+    set_data = set_data + grand_finals
+    for line in set_data:
+        print(line)
+
+
 def safe_delete(filename):
     """Delete a file if it exists, and do nothing if it does not."""
     filename = add_txt(filename)
@@ -335,6 +388,8 @@ def scrape_tournament(filename, url_list):
             RankingFunctions.WriteTxtFromChallonge(url, filename)
         elif "teamliquid" in url:
             write_txt_from_liquipedia(url, filename)
+        elif "smash.gg" in url:
+            write_txt_from_smashgg(url, filename)
 
 
 def scrape_tournament_by_filename(tournament):
